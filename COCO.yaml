@@ -30,7 +30,7 @@ ClassicalText: &ClassicalText {type: http, interval: 86400, behavior: classical,
 
 # 机场订阅
 proxy-providers:
-  忍者云: {<<: *PProviders, url: 'https://renzhesub.com/link/FB4lvKEmvrKKfUCN?sub=2', override: {additional-prefix: ''}}
+  忍者云: {<<: *PProviders, url: '', override: {additional-prefix: ''}}
 
 # 全局配置
 port: 7890 # 代理端口
