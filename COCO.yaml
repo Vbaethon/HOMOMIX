@@ -299,7 +299,7 @@ proxy-groups:
   - {name: Github, <<: *SelectHK, icon: https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/GitHub.png}
   - {name: Microsoft, <<: *SelectHK, icon: https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Microsoft.png}
   - {name: Google, <<: *SelectProxy, icon: https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Google.png}
-  - {name: Apple, <<: *SelectProxy, icon: https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Apple_TV.png}
+  - {name: Apple, <<: *SelectProxy, default: 香港策略, icon: https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Apple_TV.png}
   - {name: Meta, <<: *SelectProxy, icon: https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Meta_1.png}
   # 地区策略
   - {name: 国内网站, type: select, proxies: [直连, 香港策略, 台湾策略, 日本策略, 新加坡策略, 美国策略, 冷门自选, 全球手动], icon: https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/China.png}
