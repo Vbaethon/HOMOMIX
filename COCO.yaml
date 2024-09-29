@@ -15,7 +15,7 @@ FallBack: &FallBack {type: fallback, interval: 60, lazy: true, url: 'https://www
 LoadBalanceCH: &LoadBalanceCH {type: load-balance, interval: 60, lazy: true, url: 'https://www.gstatic.com/generate_204', disable-udp: false, strategy: consistent-hashing, timeout: 2000, max-failed-times: 3, hidden: true, include-all: true}
 LoadBalanceCR: &LoadBalanceCR {type: load-balance, interval: 60, lazy: true, url: 'https://www.gstatic.com/generate_204', disable-udp: false, strategy: round-robin, timeout: 2000, max-failed-times: 3, hidden: true, include-all: true}
 # 锚点 - 选择组 
-SelectHK: &SelectHK {type: select, proxies: [香港策略, 台湾策略, 新加坡策略, 日本策略, 美国策略, 全球手动, 冷门自选, 直连]}
+SelectHK: &SelectHK {type: select, proxies: [香港策略, 台湾策略, 新加坡策略, 日本策略, 美国策略, 全球手动, 冷门自选, 直连,]}
 SelectSG: &SelectSG {type: select, proxies: [新加坡策略, 香港策略, 台湾策略, 日本策略, 美国策略, 全球手动, 冷门自选, 直连]}
 SelectUS: &SelectUS {type: select, proxies: [美国策略, 香港策略, 台湾策略, 新加坡策略, 日本策略, 全球手动, 冷门自选, 直连]}
 SelectProxy: &SelectProxy {type: select, proxies: [默认代理, 香港策略, 台湾策略, 新加坡策略, 日本策略, 美国策略, 全球手动, 冷门自选, 直连]}
