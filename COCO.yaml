@@ -281,7 +281,7 @@ proxies:
 
 # 策略组 
 proxy-groups:
-  - {name: 默认代理, <<: *SelectHK, icon:https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Home.png}
+  - {name: 默认代理, <<: *SelectHK, icon: https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Home.png}
   - {name: ChatGPT, <<: *SelectSG, icon: https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/ChatGPT.png}
   - {name: AI 平台, <<: *SelectSG, icon: https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/AI.png}
   - {name: YouTube, <<: *SelectProxy, icon: https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/YouTube.png}
