@@ -4,3 +4,4 @@
 
 适用于mihomo - MetacubeX面板的Icon
 
+一些规则
