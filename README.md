@@ -8,4 +8,4 @@
 
 效果，手机效果更佳
 
-![效果1](./Icon/Setop_1.png)
+![效果1](./Icon/Setup_1.png)
