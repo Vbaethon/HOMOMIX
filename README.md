@@ -10,4 +10,4 @@
 
 ![效果1](./Icon/Setop_1.png)
 
-![效果2](./Icon/Setop_2.png)
+![效果2](./Icon/Setup_2.png)
