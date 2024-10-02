@@ -1,0 +1,39 @@
+name: Generate HOMOMIX.json
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run script
+        run: |
+          #!/bin/bash
+          output_file="HOMOMIX.json"
+          > $output_file
+          echo '{"name":"HOMOMIX","icons":[' > $output_file
+          find Icon/Color -type f | while read -r file; do
+              filename=$(basename "$file")
+              url="https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/$file"
+              echo "{\"name\":\"$filename\",\"url\":\"$url\"}," >> $output_file
+          done
+          echo '],' >> $output_file
+          echo '"description": "适用于mihomo - MetacubeX面板的Icon"' >> $output_file
+          echo '}' >> $output_file
+
+      - name: Push to release branch
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add HOMOMIX.json
+          git commit -m "Add HOMOMIX.json"
+          git push origin HEAD:main
