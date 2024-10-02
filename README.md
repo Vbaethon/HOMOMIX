@@ -26,7 +26,7 @@ Icon持续更新中... 如有需要请提...
 
         例如：https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/China.png
 
-4、部分网络环境需要借助镜像加速，否则很难显示不出来。
+4、部分网络环境需要借助镜像加速，否则很难显示出来。
 
         解决办法：需要在原始地址前加入：https://mirror.ghproxy.com/原始地址
         
