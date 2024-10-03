@@ -33,7 +33,7 @@
         
         例如：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/China.png
 
-#### 5、效果如下
+## 效果
 
 #### 电脑端：
 ![电脑端](./Icon/Setup_1.png)
