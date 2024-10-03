@@ -2,7 +2,7 @@
 
 使用前注意：
 
-!使用本仓库内容需要了解一些简单的yaml规则的编写。
+!使用本仓库内容需要了解一些简单的yaml文件编写。
 
 !如果你不知道什么是mihomo - MetacubeX面板，那就可以跳过此仓库了
 
@@ -12,6 +12,7 @@ Icon目前包含了：
 
         - 等高版本 
         - 大尺寸版本（Color/Large）
+        
         Icon持续更新中... 如有需要请提...
 
 部分图标展示
@@ -27,18 +28,16 @@ Icon目前包含了：
 
         例如：https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/China.png
 
-4、部分网络环境需要借助镜像加速，否则很难显示出来。
+4、部分网络环境需要借助镜像加速。
 
-        解决办法：需要在原始地址前加入：https://mirror.ghproxy.com/原始地址
+        解决办法：在原始地址前加入：https://mirror.ghproxy.com/原始地址
         
         例如：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/China.png
 
 5、效果如下
 
         电脑端：
-![效果1](./Icon/Setup_1.png)
+![电脑端](./Icon/Setup_1.png)
 
-        登高版本与大尺寸版本效果对比
+        等高版本与大尺寸版本效果对比
 ![大小对比](./Icon/Setup_3.png)
-
-6、
