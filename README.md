@@ -33,6 +33,8 @@
         
         例如：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/China.png
 
+5、可以通过面板设置调整大小和间距
+
 ## 效果
 
 | 电脑端面板 |
