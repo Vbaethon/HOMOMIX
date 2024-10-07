@@ -10,9 +10,8 @@
 
 # Icon目前包含了：
 
-        等高版本 
-        大尺寸版本（Color/Large）
-        Icon持续更新中... 如有需要请提...
+        等高版本（默认设置）
+        大尺寸版本（Color/Large） 
 
 ### 部分图标展示
 ![预览](./Icon/Preview.png)
@@ -32,6 +31,8 @@
         解决办法：在原始地址前加入：https://mirror.ghproxy.com/原始地址
         
         例如：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/China.png
+
+5、可以通过面板设置调整大小和间距
 
 ## 效果
 
