@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+    paths:
+      - "Icon/Color/**"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -13,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 2
 
       - name: Run script
         run: |
@@ -30,10 +33,10 @@ jobs:
           echo '"description": "适用于mihomo - MetacubeX面板的Icon"' >> $output_file
           echo '}' >> $output_file
 
-      - name: Push to release branch
+      - name: Push to main branch
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add HOMOMIX.json
-          git commit -m "Add HOMOMIX.json"
-          git push origin HEAD:main
+          git commit --amend --no-edit
+          git push origin main --force-with-lease
