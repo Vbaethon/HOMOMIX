@@ -39,7 +39,7 @@ for icon_file in icon_files_sorted:
     # 创建单元格，图标和名称
     html_content += f'''
     <td align="center" style="padding: 10px;">
-        <img src="{icon_path}" alt="{icon_file}" width="100" height="100"><br>
+        <img src="{icon_path}" alt="{icon_file}" width="60" height="60"><br>
         <span style="font-size: 10px;">{name_display}</span>
     </td>'''
     col_count += 1
