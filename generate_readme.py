@@ -18,8 +18,8 @@ for icon_file in os.listdir(icon_dir):
         
         html_content += f'''
         <td align="center" style="padding: 10px;">
-            <img src="{icon_path}" alt="{icon_file}" width="100" height="100"><br>
-            <span style="font-size: 8px;">{icon_file}</span>
+            <img src="{icon_path}" alt="{icon_file}" width="60" height="60"><br>
+            <span style="font-size: 6px;">{icon_file}</span>
         </td>'''
         col_count += 1
 
