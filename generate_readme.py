@@ -9,9 +9,9 @@ readme_file = 'README.md'
 start_marker = '<!--start-icons-->'
 end_marker = '<!--end-icons-->'
 
-
-html_header = f'\n\n{start_marker}\n\n## 图标展示\n\n'
-html_content = '<table style="width: 100%; text-align: center;"><tr>'
+# 生成 HTML 格式的图标表格
+html_header = f'\n\n{start_marker}\n\n## 图标展示\n\n'  
+html_content = '<table style="width: 100%; text-align: center;"><tr>'  
 
 # 列数（每行显示几列）
 columns = 6
@@ -48,9 +48,9 @@ for icon_file in icon_files_sorted:
     if col_count % columns == 0:
         html_content += '</tr><tr>'
 
-
+# 关闭表格标签
 html_content += '</tr></table>'
-html_footer = f'\n\n{end_marker}\n'
+html_footer = f'\n\n{end_marker}\n\n'
 
 
 with open(readme_file, 'r') as f:
