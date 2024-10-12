@@ -37,8 +37,7 @@
         等高版本（默认设置）
         大尺寸版本（Color/Large）
 
-<!--start-->
-<table style="width: 100%; text-align: center;"><tr>
+<!--start--><table style="width: 100%; text-align: center;"><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Adblock.png" alt="Adblock.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Adblock</span>
@@ -506,5 +505,4 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Zune.png" alt="Zune.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Zune</span>
-    </td></tr></table>
-    <!--end-->
+    </td></tr></table><!--end-->
