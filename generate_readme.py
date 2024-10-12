@@ -6,12 +6,12 @@ icon_dir = 'Icon/Color/'
 readme_file = 'README.md'
 
 # 定义标记，用于标识表格的起始和结束位置
-start_marker = '<!--start-icons-->'
-end_marker = '<!--end-icons-->'
+start_marker = '<!--start-->'
+end_marker = '<!--end-->'
 
 
 html_header = f'\n\n{start_marker}\n\n## 图标展示\n\n'
-html_content = '<table style="width: 100%; margin: auto;"><tr>'  
+html_content = '<table style="width: 100%; text-align: center;"><tr>'
 
 # 列数（每行显示几列）
 columns = 6
@@ -40,7 +40,7 @@ for icon_file in icon_files_sorted:
     html_content += f'''
     <td align="center" style="padding: 10px;">
         <img src="{icon_path}" alt="{icon_file}" width="60" height="60"><br>
-        <span style="font-size: 10px;">{name_display}</span>
+        <span style="font-size: 8px;">{name_display}</span>
     </td>'''
     col_count += 1
 
@@ -56,19 +56,19 @@ html_footer = f'\n\n{end_marker}\n'
 with open(readme_file, 'r') as f:
     readme_content = f.read()
 
-
+# 查找标记的起始和结束位置
 start_idx = readme_content.find(start_marker)
 end_idx = readme_content.find(end_marker)
 
+# 如果找到标记，则替换标记之间的内容
 if start_idx != -1 and end_idx != -1:
-    
     new_readme_content = (
-        readme_content[:start_idx + len(start_marker)] +  
-        html_header + html_content + html_footer +        
-        readme_content[end_idx:]                         
+        readme_content[:start_idx + len(start_marker)] +  # 保留start-marker前面的内容
+        html_content +                                    # 替换为新的表格内容
+        readme_content[end_idx:]                         # 保留end-marker后的内容
     )
 else:
-    # 如果找不到标记，插入新内容到文档末尾
+    # 如果没有找到标记，默认将新表格插入到文档末尾
     new_readme_content = readme_content + html_header + html_content + html_footer
 
 with open(readme_file, 'w') as f:
