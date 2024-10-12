@@ -15,6 +15,9 @@ html_content = '<table style="width: 100%; max-width: 800px; margin: auto;"><tr>
 columns = 6
 col_count = 0
 
+icon_files = [f for f in os.listdir(icon_dir) if f.endswith(('.png', '.jpg', '.jpeg', '.svg'))]
+icon_files_sorted = sorted(icon_files, key=lambda x: os.path.splitext(x)[0].lower())  # 根据名称排序，忽略大小写
+
 # 生成图标 HTML
 for icon_file in os.listdir(icon_dir):
     if icon_file.endswith(('.png', '.jpg', '.jpeg', '.svg')):
