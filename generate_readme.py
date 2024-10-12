@@ -1,7 +1,7 @@
 import os
 
 # 图标文件夹路径
-icon_dir = 'assets/icons/'
+icon_dir = 'Icon/Color/'
 # README 文件路径
 readme_file = 'README.md'
 
