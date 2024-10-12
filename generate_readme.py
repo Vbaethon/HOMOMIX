@@ -14,7 +14,7 @@ html_header = f'\n\n{start_marker}\n\n## Preview\n\n'
 html_content = '<table><tr>'
 
 # 列数（每行显示几列）
-columns = 4
+columns = 6
 col_count = 0
 
 # 生成图标 HTML
