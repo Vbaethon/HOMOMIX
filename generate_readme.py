@@ -14,7 +14,7 @@ html_header = f'\n\n{start_marker}\n\n## 图标展示\n\n'
 html_content = '<table style="width: 100%; text-align: center;"><tr>'  
 
 # 列数（每行显示几列）
-columns = 6
+columns = 8
 col_count = 0
 
 # 获取并排序图标文件
