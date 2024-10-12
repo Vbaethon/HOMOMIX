@@ -6,8 +6,8 @@ icon_dir = 'Icon/Color/'
 readme_file = 'README.md'
 
 # 定义标记，用于标识表格的起始和结束位置
-start_marker = '<!--start-->'
-end_marker = '<!--end-->'
+start_marker = '<!--start-icons-->'
+end_marker = '<!--end-icons-->'
 
 
 html_header = f'\n\n{start_marker}\n\n## 图标展示\n\n'
