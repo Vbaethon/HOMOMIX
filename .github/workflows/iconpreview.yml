@@ -1,0 +1,46 @@
+name: Update README with icons
+
+# 触发条件：当代码推送（push）到 main 分支时触发
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+# 定义工作流程中的作业
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 检出当前仓库代码
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 设置 Python 环境
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'  # 你需要的 Python 版本
+
+      # 安装依赖（如果需要的话，可以在 requirements.txt 中列出依赖）
+      - name: Install dependencies
+        run: pip install -r requirements.txt || true
+
+      # 运行 Python 脚本来更新 README.md
+      - name: Run Python script to update README
+        run: python generate_readme.py
+
+      # 提交更新后的 README.md 到仓库
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add README.md
+          git commit -m "Auto-update README with icons"
+          git push origin main
+        env:
+          # GitHub 提供的 token，用于提交代码
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
