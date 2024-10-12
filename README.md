@@ -45,7 +45,7 @@
 
 ## Preview
 
-<table><tr>
+<table style="width: 100%; max-width: 800px; margin: auto;"><tr>
         <td align="center" style="padding: 10px;">
             <img src="Icon/Color/Server.png" alt="Server.png" width="60" height="60"><br>
             <span style="font-size: 8px;">Server</span>
@@ -515,5 +515,6 @@
             <span style="font-size: 8px;">Omission</span>
         </td></tr></table>
 
+<!--end-icons-->
 <!--end-icons-->
 <!--end-icons-->
