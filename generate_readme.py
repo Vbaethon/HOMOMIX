@@ -1,23 +1,18 @@
 import os
 
-# 图标文件夹路径
 icon_dir = 'Icon/Color/'
-# README 文件路径
 readme_file = 'README.md'
 
-# 定义标记，用于标识表格的起始和结束位置
 start_marker = '<!--start-icons-->'
 end_marker = '<!--end-icons-->'
 
-# 生成 HTML 格式的图标表格
 html_header = f'\n\n{start_marker}\n\n## 图标展示\n\n'  
 html_content = '<table style="width: 100%; text-align: center;"><tr>'  
 
-# 列数（每行显示几列）
 columns = 8
 col_count = 0
 
-# 获取并排序图标文件
+
 icon_files = [f for f in os.listdir(icon_dir) if f.endswith(('.png', '.jpg', '.jpeg', '.svg'))]
 icon_files_sorted = sorted(icon_files, key=lambda x: os.path.splitext(x)[0].lower())  
 
@@ -36,7 +31,7 @@ for icon_file in icon_files_sorted:
     
     print(f"Processing icon: {icon_file} -> Display name: {name_display}")  # 调试输出
     
-    # 创建单元格，图标和名称
+    
     html_content += f'''
     <td align="center" style="padding: 10px;">
         <img src="{icon_path}" alt="{icon_file}" width="60" height="60"><br>
@@ -48,7 +43,7 @@ for icon_file in icon_files_sorted:
     if col_count % columns == 0:
         html_content += '</tr><tr>'
 
-# 关闭表格标签
+
 html_content += '</tr></table>'
 html_footer = f'\n\n{end_marker}\n\n'
 
@@ -56,7 +51,7 @@ html_footer = f'\n\n{end_marker}\n\n'
 with open(readme_file, 'r') as f:
     readme_content = f.read()
 
-# 查找标记的起始和结束位置
+
 start_idx = readme_content.find(start_marker)
 end_idx = readme_content.find(end_marker)
 
