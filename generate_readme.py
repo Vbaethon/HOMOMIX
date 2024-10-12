@@ -60,16 +60,16 @@ with open(readme_file, 'r') as f:
 start_idx = readme_content.find(start_marker)
 end_idx = readme_content.find(end_marker)
 
-# 如果找到标记，则替换标记之间的内容
+
 if start_idx != -1 and end_idx != -1:
     new_readme_content = (
-        readme_content[:start_idx + len(start_marker)] +  # 保留start-marker前面的内容
-        html_content +                                    # 替换为新的表格内容
-        readme_content[end_idx:]                         # 保留end-marker后的内容
+        readme_content[:start_idx + len(start_marker)] +  
+        '\n\n' + html_content + '\n\n' +                  
+        readme_content[end_idx:]                          
     )
 else:
     # 如果没有找到标记，默认将新表格插入到文档末尾
-    new_readme_content = readme_content + html_header + html_content + html_footer
+    new_readme_content = readme_content + '\n\n' + start_marker + '\n\n' + html_content + '\n\n' + end_marker + '\n\n'
 
 with open(readme_file, 'w') as f:
     f.write(new_readme_content)
