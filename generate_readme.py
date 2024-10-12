@@ -26,7 +26,7 @@ for icon_file in os.listdir(icon_dir):
         html_content += f'''
         <td align="center" style="padding: 10px;">
             <img src="{icon_path}" alt="{icon_file}" width="60" height="60"><br>
-            <b>{icon_file}</b>
+            <span style="font-size: 12px;"><b>{icon_file}</b>
         </td>'''
         col_count += 1
 
