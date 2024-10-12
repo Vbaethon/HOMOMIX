@@ -10,7 +10,8 @@ end_marker = '<!--end-icons-->'
 
 
 html_header = f'\n\n{start_marker}\n\n## 图标展示\n\n'
-html_content = '<table style="width: 100%; max-width: 800px; margin: auto;"><tr>'  # 设置表格宽度
+html_content = '''
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;"
 
 
 columns = 6
