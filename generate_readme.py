@@ -1,19 +1,17 @@
 import os
 
-# 图标文件夹路径
 icon_dir = 'Icon/Color/'
-# README 文件路径
 readme_file = 'README.md'
 
-# 定义标记，用于标识表格的起始和结束位置
+
 start_marker = '<!--start-icons-->'
 end_marker = '<!--end-icons-->'
 
-# 生成 HTML 格式
-html_header = f'\n\n{start_marker}\n\n## Preview\n\n'
-html_content = '<table><tr>'
 
-# 列数（每行显示几列）
+html_header = f'\n\n{start_marker}\n\n## Preview\n\n'
+html_content = '<table style="width: 100%; max-width: 800px; margin: auto;"><tr>'
+
+
 columns = 6
 col_count = 0
 
@@ -22,10 +20,10 @@ for icon_file in os.listdir(icon_dir):
     if icon_file.endswith(('.png', '.jpg', '.jpeg', '.svg')):
         icon_path = os.path.join(icon_dir, icon_file)
         
-        # 去除文件后缀名
+        
         name_without_extension = os.path.splitext(icon_file)[0]
 
-        # 处理名称，如果长度超过 10 个字符，则使用省略号
+        
         if len(name_without_extension) > 10:
             name_display = name_without_extension[:10] + '...'
         else:
@@ -48,7 +46,7 @@ for icon_file in os.listdir(icon_dir):
 html_content += '</tr></table>'
 html_footer = f'\n\n{end_marker}\n'
 
-# 读取现有的 README 文件内容
+
 with open(readme_file, 'r') as f:
     readme_content = f.read()
 
