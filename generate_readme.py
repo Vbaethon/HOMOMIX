@@ -15,6 +15,14 @@ col_count = 0
 for icon_file in os.listdir(icon_dir):
     if icon_file.endswith(('.png', '.jpg', '.jpeg', '.svg')):
         icon_path = os.path.join(icon_dir, icon_file)
+
+       
+        name_without_extension = os.path.splitext(icon_file)[0]
+        
+        if len(name_without_extension) > 10:
+            name_display = name_without_extension[:10] + '...'
+        else:
+            name_display = name_without_extension
         
         html_content += f'''
         <td align="center" style="padding: 10px;">
