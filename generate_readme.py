@@ -9,7 +9,7 @@ end_marker = '<!--end-icons-->'
 html_header = f'\n\n{start_marker}\n\n## 图标展示\n\n'  
 html_content = '<table style="width: 100%; text-align: center;"><tr>'  
 
-columns = 8
+columns = 7
 col_count = 0
 
 
