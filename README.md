@@ -45,6 +45,8 @@
 
 <!--start-icons-->
 
+<!--start-icons-->
+
 ## Preview
 
 <table><tr>
@@ -517,4 +519,5 @@
             <b>Omission.png</b>
         </td></tr></table>
 
+<!--end-icons-->
 <!--end-icons-->
