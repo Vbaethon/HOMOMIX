@@ -1,29 +1,34 @@
 import os
 
-
+# 图标文件夹路径
 icon_dir = 'Icon/Color/'
+# README 文件路径
 readme_file = 'README.md'
 
+# 定义标记，用于标识表格的起始和结束位置
 start_marker = '<!--start-icons-->'
 end_marker = '<!--end-icons-->'
 
+
 html_header = f'\n\n{start_marker}\n\n## 图标展示\n\n'
-html_content = '''
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-'''  # 使用 flex 布局，自动适应宽度
+html_content = '<table style="width: 100%; margin: auto;"><tr>'  
+
+# 列数（每行显示几列）
+columns = 6
+col_count = 0
 
 # 获取并排序图标文件
 icon_files = [f for f in os.listdir(icon_dir) if f.endswith(('.png', '.jpg', '.jpeg', '.svg'))]
-icon_files_sorted = sorted(icon_files, key=lambda x: os.path.splitext(x)[0].lower())  # 根据名称排序，忽略大小写
+icon_files_sorted = sorted(icon_files, key=lambda x: os.path.splitext(x)[0].lower())  
 
-# 生成图标 HTML
+
 for icon_file in icon_files_sorted:
     icon_path = os.path.join(icon_dir, icon_file)
     
-    # 去除文件后缀名
+    
     name_without_extension = os.path.splitext(icon_file)[0]
 
-    # 处理名称，如果长度超过 10 个字符，则使用省略号
+    
     if len(name_without_extension) > 10:
         name_display = name_without_extension[:10] + '...'
     else:
@@ -31,18 +36,23 @@ for icon_file in icon_files_sorted:
     
     print(f"Processing icon: {icon_file} -> Display name: {name_display}")  # 调试输出
     
-    
+    # 创建单元格，图标和名称
     html_content += f'''
-    <div style="flex: 0 0 30%; text-align: center; margin: 10px;">
+    <td align="center" style="padding: 10px;">
         <img src="{icon_path}" alt="{icon_file}" width="100" height="100"><br>
-        <span style="font-size: 8px;">{name_display}</span>
-    </div>'''
+        <span style="font-size: 10px;">{name_display}</span>
+    </td>'''
+    col_count += 1
 
-# 关闭 Flexbox div
-html_content += '</div>'
+    
+    if col_count % columns == 0:
+        html_content += '</tr><tr>'
+
+
+html_content += '</tr></table>'
 html_footer = f'\n\n{end_marker}\n'
 
-# 读取现有的 README 文件内容
+
 with open(readme_file, 'r') as f:
     readme_content = f.read()
 
@@ -65,4 +75,4 @@ else:
 with open(readme_file, 'w') as f:
     f.write(new_readme_content)
 
-print("图标展示已成功更新到 README.md 文件。")
+print("图标表格已成功更新到 README.md 文件。")
