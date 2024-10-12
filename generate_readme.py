@@ -63,14 +63,13 @@ end_idx = readme_content.find(end_marker)
 if start_idx != -1 and end_idx != -1:
     
     new_readme_content = (
-        readme_content[:start_idx + len(start_marker)] +
-        html_header + html_content + html_footer +
-        readme_content[end_idx:]
+        readme_content[:start_idx + len(start_marker)] +  
+        html_header + html_content + html_footer +        
+        readme_content[end_idx:]                         
     )
 else:
-    
+    # 如果找不到标记，插入新内容到文档末尾
     new_readme_content = readme_content + html_header + html_content + html_footer
-
 
 with open(readme_file, 'w') as f:
     f.write(new_readme_content)
