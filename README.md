@@ -42,8 +42,6 @@
 
 <!--start-icons-->
 
-## 图标展示
-
 <table style="width: 100%; text-align: center;"><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Adblock.png" alt="Adblock.png" width="60" height="60"><br>
