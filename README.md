@@ -31,8 +31,9 @@
         等高版本（默认设置）
         大尺寸版本（Color/Large）
 
+<!--start-icons-->
 
-<!--start-icons--><table style="width: 100%; text-align: center;"><tr>
+<table style="width: 100%; text-align: center;"><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Adblock.png" alt="Adblock.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Adblock</span>
@@ -56,11 +57,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Apple.png" alt="Apple.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Apple</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Apple_black.png" alt="Apple_black.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Apple_blac...</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Apple_rainbow.png" alt="Apple_rainbow.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Apple_rain...</span>
@@ -80,7 +81,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Bilibili_blue.png" alt="Bilibili_blue.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Bilibili_b...</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Bilibili_Global.png" alt="Bilibili_Global.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Bilibili_G...</span>
@@ -88,7 +89,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/BT_Bittorrent.png" alt="BT_Bittorrent.png" width="60" height="60"><br>
         <span style="font-size: 8px;">BT_Bittorr...</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Bytedance.png" alt="Bytedance.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Bytedance</span>
@@ -104,7 +105,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Chained_2.png" alt="Chained_2.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Chained_2</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/ChatGPT.png" alt="ChatGPT.png" width="60" height="60"><br>
         <span style="font-size: 8px;">ChatGPT</span>
@@ -116,7 +117,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/China_Taipei.png" alt="China_Taipei.png" width="60" height="60"><br>
         <span style="font-size: 8px;">China_Taip...</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Cloud.png" alt="Cloud.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Cloud</span>
@@ -128,7 +129,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Disney.png" alt="Disney.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Disney</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Disney_Castle.png" alt="Disney_Castle.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Disney_Cas...</span>
@@ -144,7 +145,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Disney_plus.png" alt="Disney_plus.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Disney_plu...</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Dolphin.png" alt="Dolphin.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Dolphin</span>
@@ -152,7 +153,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Douyin.png" alt="Douyin.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Douyin</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Download.png" alt="Download.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Download</span>
@@ -172,11 +173,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Facebook.png" alt="Facebook.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Facebook</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Failover.png" alt="Failover.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Failover</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Fast.png" alt="Fast.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Fast</span>
@@ -224,11 +225,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Hulu.png" alt="Hulu.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Hulu</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Infuse.png" alt="Infuse.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Infuse</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Japan.png" alt="Japan.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Japan</span>
@@ -248,7 +249,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Linkedin_ray.png" alt="Linkedin_ray.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Linkedin_r...</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Load_balancing.png" alt="Load_balancing.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Load_balan...</span>
@@ -256,7 +257,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Load_balancing_2.png" alt="Load_balancing_2.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Load_balan...</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Load_balancing_3.png" alt="Load_balancing_3.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Load_balan...</span>
@@ -272,7 +273,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Messenger.png" alt="Messenger.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Messenger</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Meta_1.png" alt="Meta_1.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Meta_1</span>
@@ -284,7 +285,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Microsoft_365.png" alt="Microsoft_365.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Microsoft_...</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Microsoft_Copilot.png" alt="Microsoft_Copilot.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Microsoft_...</span>
@@ -296,7 +297,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Netflix_b.png" alt="Netflix_b.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Netflix_b</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Network.png" alt="Network.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Network</span>
@@ -312,7 +313,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Olympics.png" alt="Olympics.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Olympics</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Omission.png" alt="Omission.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Omission</span>
@@ -320,7 +321,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/OneDrive.png" alt="OneDrive.png" width="60" height="60"><br>
         <span style="font-size: 8px;">OneDrive</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Onlyfans.png" alt="Onlyfans.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Onlyfans</span>
@@ -340,11 +341,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Panda_ai.png" alt="Panda_ai.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Panda_ai</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Panda_WWF.png" alt="Panda_WWF.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Panda_WWF</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/PayPal.png" alt="PayPal.png" width="60" height="60"><br>
         <span style="font-size: 8px;">PayPal</span>
@@ -392,11 +393,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Server.png" alt="Server.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Server</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Settings.png" alt="Settings.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Settings</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Signal_Light.png" alt="Signal_Light.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Signal_Lig...</span>
@@ -416,7 +417,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/SpeedTest.png" alt="SpeedTest.png" width="60" height="60"><br>
         <span style="font-size: 8px;">SpeedTest</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Spotify.png" alt="Spotify.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Spotify</span>
@@ -424,7 +425,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Steam.png" alt="Steam.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Steam</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Taiwan_Province.png" alt="Taiwan_Province.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Taiwan_Pro...</span>
@@ -440,7 +441,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Tick_2.png" alt="Tick_2.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Tick_2</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/TikTok.png" alt="TikTok.png" width="60" height="60"><br>
         <span style="font-size: 8px;">TikTok</span>
@@ -452,7 +453,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Twitch.png" alt="Twitch.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Twitch</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Twitter.png" alt="Twitter.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Twitter</span>
@@ -464,7 +465,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/USA.png" alt="USA.png" width="60" height="60"><br>
         <span style="font-size: 8px;">USA</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Weibo.png" alt="Weibo.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Weibo</span>
@@ -480,7 +481,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/xHamster.png" alt="xHamster.png" width="60" height="60"><br>
         <span style="font-size: 8px;">xHamster</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Yin_Yang.png" alt="Yin_Yang.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Yin_Yang</span>
@@ -488,7 +489,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/YouTube.png" alt="YouTube.png" width="60" height="60"><br>
         <span style="font-size: 8px;">YouTube</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Zoho_new.png" alt="Zoho_new.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Zoho_new</span>
@@ -500,15 +501,12 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Zune.png" alt="Zune.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Zune</span>
-    </td></tr></table><!--end-icons-->
+    </td></tr></table>
 
+<!--end-icons-->
 
 ## 效果
 
 | 大小对比（手机截图） |
 |---|
 | ![电脑端](./Icon/Setup_3.png) |
-
-
-
-
