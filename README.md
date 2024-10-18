@@ -442,21 +442,17 @@
         <span style="font-size: 8px;">Piggies</span>
     </td>
     <td align="center" style="padding: 10px;">
-        <img src="Icon/Color/Piggies_b.png" alt="Piggies_b.png" width="60" height="60"><br>
-        <span style="font-size: 8px;">Piggies_b</span>
-    </td>
-    <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Pixiv.png" alt="Pixiv.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Pixiv</span>
     </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Playstation.png" alt="Playstation.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Playstatio...</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Playstation_2.png" alt="Playstation_2.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Playstatio...</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Playstation_remote.png" alt="Playstation_remote.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Playstatio...</span>
@@ -480,11 +476,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Reddit.png" alt="Reddit.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Reddit</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Remote.png" alt="Remote.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Remote</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Round_Robin.png" alt="Round_Robin.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Round_Robi...</span>
@@ -508,11 +504,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Signal_Light.png" alt="Signal_Light.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Signal_Lig...</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Singapore.png" alt="Singapore.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Singapore</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Sony_Live.png" alt="Sony_Live.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Sony_Live</span>
@@ -536,11 +532,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Taiwan_Province.png" alt="Taiwan_Province.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Taiwan_Pro...</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Telegram.png" alt="Telegram.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Telegram</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Threads.png" alt="Threads.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Threads</span>
@@ -564,11 +560,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Twitch.png" alt="Twitch.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Twitch</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Twitter.png" alt="Twitter.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Twitter</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/UK.png" alt="UK.png" width="60" height="60"><br>
         <span style="font-size: 8px;">UK</span>
@@ -592,11 +588,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/xHamster.png" alt="xHamster.png" width="60" height="60"><br>
         <span style="font-size: 8px;">xHamster</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Yin_Yang.png" alt="Yin_Yang.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Yin_Yang</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/YouTube.png" alt="YouTube.png" width="60" height="60"><br>
         <span style="font-size: 8px;">YouTube</span>
