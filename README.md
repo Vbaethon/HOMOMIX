@@ -9,26 +9,26 @@
 
 # 使用指南：
 
-#### 1、icons的命名本质上不和你的策略组相关联。
+#### 1、Icons的命名本质上不和你的策略组相关联。
 
 2、建议同步到本地，便于阅读
 
-3、Icon地址请使用raw地址
+3、Icons地址请使用raw地址
 
         例如：https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/China.png
 
 4、部分网络环境需要借助镜像加速
 
-        请在原始地址前加入：https://mirror.ghproxy.com/
+        添加前缀：https://ghp.ci.com/
         
-        例如：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/China.png
+        例如：https://ghp.ci/https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/China.png
 
-5、官方面板可以调节尺寸与距离
+5、面板可以调节尺寸与距离
 
-# Icon目前包含了：
+# Icon版本：
 
-        等高版本（默认设置）
-        大尺寸版本（Color/Large）
+        等高版本（默认设置下）
+        满高版本（Color/Large）
 
 <!--start-icons-->
 
