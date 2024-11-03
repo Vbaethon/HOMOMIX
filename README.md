@@ -626,6 +626,14 @@
         <span style="font-size: 8px;">USA</span>
     </td>
     <td align="center" style="padding: 10px;">
+        <img src="Icon/Color/Video_Vimeo.png" alt="Video_Vimeo.png" width="60" height="60"><br>
+        <span style="font-size: 8px;">Video_Vime...</span>
+    </td>
+    <td align="center" style="padding: 10px;">
+        <img src="Icon/Color/Vimeo.png" alt="Vimeo.png" width="60" height="60"><br>
+        <span style="font-size: 8px;">Vimeo</span>
+    </td>
+    <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Weibo.png" alt="Weibo.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Weibo</span>
     </td>
@@ -640,7 +648,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Xbox.png" alt="Xbox.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Xbox</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/xHamster.png" alt="xHamster.png" width="60" height="60"><br>
         <span style="font-size: 8px;">xHamster</span>
@@ -648,7 +656,7 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Yin_Yang.png" alt="Yin_Yang.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Yin_Yang</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/YouTube.png" alt="YouTube.png" width="60" height="60"><br>
         <span style="font-size: 8px;">YouTube</span>
