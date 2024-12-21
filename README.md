@@ -17,18 +17,12 @@
 
         例如：https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/China.png
 
-4、部分网络环境需要借助镜像加速
-
-        添加前缀：https://ghp.ci.com/
-        
-        例如：https://ghp.ci/https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/China.png
-
-5、面板可以调节尺寸与距离
+#### 4、面板可以调节尺寸与距离
 
 # Icon版本：
 
-        等高版本（默认设置下）
-        满高版本（Color/Large）
+        等高版本（默认设置, “Color/”）
+        满高版本（“Color/Large”）
 
 <!--start-icons-->
 
