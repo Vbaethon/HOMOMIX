@@ -520,17 +520,21 @@
         <span style="font-size: 8px;">Playstatio...</span>
     </td>
     <td align="center" style="padding: 10px;">
+        <img src="Icon/Color/Playstation_30th.png" alt="Playstation_30th.png" width="60" height="60"><br>
+        <span style="font-size: 8px;">Playstatio...</span>
+    </td>
+    <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Playstation_remote.png" alt="Playstation_remote.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Playstatio...</span>
     </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Plex.png" alt="Plex.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Plex</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Pornhub.png" alt="Pornhub.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Pornhub</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Prime.png" alt="Prime.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Prime</span>
@@ -554,11 +558,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Scholar.png" alt="Scholar.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Scholar</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Seancody.png" alt="Seancody.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Seancody</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Server.png" alt="Server.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Server</span>
@@ -582,11 +586,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Sony_Live.png" alt="Sony_Live.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Sony_Live</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/South_Korea.png" alt="South_Korea.png" width="60" height="60"><br>
         <span style="font-size: 8px;">South_Kore...</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/SpeedTest.png" alt="SpeedTest.png" width="60" height="60"><br>
         <span style="font-size: 8px;">SpeedTest</span>
@@ -610,11 +614,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Telegram.png" alt="Telegram.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Telegram</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Threads.png" alt="Threads.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Threads</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Tick.png" alt="Tick.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Tick</span>
@@ -638,11 +642,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Twitter.png" alt="Twitter.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Twitter</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/UBISOFT.png" alt="UBISOFT.png" width="60" height="60"><br>
         <span style="font-size: 8px;">UBISOFT</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/UK.png" alt="UK.png" width="60" height="60"><br>
         <span style="font-size: 8px;">UK</span>
@@ -666,11 +670,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/WhatsApp.png" alt="WhatsApp.png" width="60" height="60"><br>
         <span style="font-size: 8px;">WhatsApp</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/X.png" alt="X.png" width="60" height="60"><br>
         <span style="font-size: 8px;">X</span>
-    </td></tr><tr>
+    </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Xbox.png" alt="Xbox.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Xbox</span>
@@ -694,11 +698,11 @@
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Zoho_old.png" alt="Zoho_old.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Zoho_old</span>
-    </td>
+    </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Zune.png" alt="Zune.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Zune</span>
-    </td></tr><tr></tr></table>
+    </td></tr></table>
 
 <!--end-icons-->
 
