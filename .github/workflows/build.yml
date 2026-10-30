@@ -6,6 +6,9 @@ on:
       - main
     paths:
       - "Icon/Color/**"
+      - "generate_catalog.py"
+      - "tests/test_catalog.py"
+      - ".github/workflows/build.yml"
   workflow_dispatch:
 
 jobs:
@@ -19,28 +22,19 @@ jobs:
           fetch-depth: 2
 
       - name: Run script
-        run: |
-          #!/bin/bash
-          output_file="HOMOMIX.json"
-          > $output_file
-          echo '{"name":"HOMOMIX","icons":[' > $output_file
-          find Icon/Color -type f | while read -r file; do
-              filename=$(basename "$file")
-              # 保留旧链接，但目录只展示拼写正确的规范名称。
-              if [[ "$filename" == "Claud.png" && -f "$(dirname "$file")/Claude.png" ]]; then
-                  continue
-              fi
-              url="https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/$file"
-              echo "{\"name\":\"$filename\",\"url\":\"$url\"}," >> $output_file
-          done
-          echo '],' >> $output_file
-          echo '"description": "适用于mihomo - MetacubeX面板的Icon"' >> $output_file
-          echo '}' >> $output_file
+        run: python3 generate_catalog.py
+
+      - name: Validate catalog
+        run: python3 -m unittest discover -s tests -p 'test_catalog.py' -v
 
       - name: Push to main branch
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add HOMOMIX.json
-          git commit --amend --no-edit
-          git push origin main --force-with-lease
+          if git diff --cached --quiet; then
+            echo "HOMOMIX.json is already up to date; nothing to commit."
+            exit 0
+          fi
+          git commit -m "Update icon catalog"
+          git push origin HEAD:main
