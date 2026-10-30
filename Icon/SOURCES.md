@@ -43,3 +43,36 @@
 - 不将 Simple Icons 的 CC0 许可归给该既有双色 PNG。
 
 品牌名称与商标权归相应权利人所有；本项目适配不代表品牌官方出品、授权或背书。
+
+## 第二批小尺寸主体优化
+
+以下五个名称均同时适用于 `Color/` 和 `Color/Large/`；保留各自原有背景形状、配色风格与透明轮廓，不统一替换外壳。
+本批继续区分「官方原生矢量」「官方位图的项目矢量衍生」和「非品牌功能图形自绘」，不把后两者冒称官方 SVG。
+
+### Disney
+
+- [Disney 官网](https://www.disney.com/)实际链接的 [D 字 favicon](https://static-mh.content.disney.io/matterhorn/assets/favicon-94e3862e7fb9.ico)，最大原图为 64×64。
+- 取该 Disney.com 图形的实际轮廓并作平滑矢量衍生，原尺寸轮廓重叠 IoU 为 0.97576；**不是下载到的官方 SVG**，也没有拿 Disney+ 的几何替代通用 Disney。
+- 保留项目白色主体及原底板；默认版原有圆角方形、Large 原有圆形分别保留。
+- 源文件 SHA-256：`a600974287c84ec71850184d929a9d718fa5c189f951a677ae027bb1810e61fa`。
+
+### Disney_plus
+
+- [Disney+ 官网](https://www.disneyplus.com/)实际链接的[官方浏览器 mask-icon SVG](https://static-assets.bamgrid.com/product/disneyplus/favicons/mask-icon-aurora.86b2f302cf50180b25ddd8835041b1c3.svg)。
+- 保留原生 D 矢量路径、等比缩放并适配项目原有白色主体；没有另造加号或拼接新的标志组合。
+- 源文件 SHA-256：`0bc31ff0134ca63f2b31a6d2633dd965a2279ef451337b7646918914e2e086ba`。
+
+### Zoho_new
+
+- 使用 Zoho 官方静态资源域上的[四色 favicon](https://www.zohowebstatic.com/sites/zweb/images/favicon.ico)，最大原图为 48×48；与[官方视觉指南](https://www.zoho.com/branding/visual-guidelines.html)中的完整字标区别记录。
+- 按实际四个色区忠实矢量化，保留四色与项目原有灰白背景；没有自造 Z 或从完整公司字标任意裁切。此为**项目衍生矢量，不是官方 SVG 下载**。
+- 已核实素材由官方域托管；本轮官网页面读取受限，未重新核实当前首页的 `rel=icon` 引用，也未取得相同四色环的官方高分辨率矢量。
+- 源文件 SHA-256：`578688454641bfca876d506e911b1ad9e6a0521a773e9dabe18a1adaa1a0a013`。
+
+### AI_voice 与 AI_Tree
+
+- **AI_voice：项目自定功能图形。** 保留原紫色渐变与透明轮廓，去掉被截断的小字，将 13 条细波形简化为 7 条较粗波形，改善 32 px 显示。
+- **AI_Tree：项目自定功能图形。** 保留黑白配色、中央环与放射神经节点概念，简化为 8 个主要连接节点，去掉小尺寸下混成一团的细枝。
+- 两者不是品牌官方素材，不宣称第三方官方来源。
+
+以上品牌素材未核实开放源代码许可，不套用 CC0；品牌与商标权仍归相应权利人。所有最终 PNG 都包含项目布局/配色适配，不是官方未经修改的成品下载。
