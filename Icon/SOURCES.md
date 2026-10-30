@@ -76,3 +76,62 @@
 - 两者不是品牌官方素材，不宣称第三方官方来源。
 
 以上品牌素材未核实开放源代码许可，不套用 CC0；品牌与商标权仍归相应权利人。所有最终 PNG 都包含项目布局/配色适配，不是官方未经修改的成品下载。
+
+## 2026-10-30 — Current marks, retained project themes and circular containers (revision 2)
+
+Baseline `638ecb4df92a43ba8938023c538d36764e38a07b`. **59 PNG paths / 34 ordinary icon names**. All sources below were checked on **2026-10-30**. Official geometry and project adaptations are distinguished; these PNGs are not presented as unmodified official deliverables. Trademark and copyright rights remain with their respective owners.
+
+### Official technology sources
+
+- **Google.png** — [source page](https://blog.google/image-library/); [asset/package](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleG_FullColor_White_RGB.original.jpg). Source SHA-256 `4d19bb8c9e422f5ab65e206a11b73b24d8f793541fbeefe8304334a121372459`. Official high-resolution gradient G raster; only white margins cropped. Native colors retained.
+- **Gmail.png** — [source page](https://workspace.google.com/products/gmail/); [asset/package](https://www.gstatic.com/images/branding/productlogos/gmail_2026/v2/web/192px.svg). Source SHA-256 `0a242131424b796a26247a8edd41d66fa294da6d177897526a19b7e81aedfdb8`. Native geometry and colors uniformly scaled on a project circular base.
+- **Outlook.png** — [source page](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage); [asset/package](https://www.microsoft.com/content/dam/microsoft/bade/images/icons/en-us/m365-app-icons-fy26/Outlook-Icon-FY26.svg). Source SHA-256 `d67b8bb4bb8d7afe8e71e066112452d5d681ea7991fa1ec7c37df962246b2c31`. Native geometry and colors uniformly scaled on a project circular base.
+- **OneDrive.png** — [source page](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage); [asset/package](https://www.microsoft.com/content/dam/microsoft/bade/images/icons/en-us/m365-app-icons-fy26/OneDrive-Icon-FY26.svg). Source SHA-256 `9f72ac359c7e03ca4723ce1a3b60f932a0bc5d2ce72dbdce365e83223142f6bc`. Native geometry and colors uniformly scaled on a project circular base.
+- **Microsoft_Copilot.png** — [source page](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage); [asset/package](https://www.microsoft.com/content/dam/microsoft/bade/images/icons/en-us/m365-app-icons-fy26/Copilot-Icon-FY26.svg). Source SHA-256 `f16fdf8123d9dc4597561bfc62cebf5bc43262a1301d9acd470c4914e6dd1e1f`. Native geometry and colors uniformly scaled on a project circular base.
+- **Messenger.png** — [source page](https://www.meta.com/brand/resources/facebook/messenger-icon/); Messenger Icon Pack downloaded from the source page. Source SHA-256 `0278c863f568da118d80547ceee6ad0b75381111e72d7c69cdd8859467c7889b`. Native geometry and colors uniformly scaled on a project circular base.
+- **Reddit.png** — [source page](https://redditinc.com/brand); [asset/package](https://redditinc.com/hubfs/Reddit%20Inc/Content/Brand%20Page/Reddit_Logo.png). Source SHA-256 `b0944f3d873c71965cd657a009d3c9b336c66858eb49d255739ade244501b15f`. Native geometry and colors uniformly scaled on a project circular base.
+- **GitHub.png** — [source page](https://brand.github.com/foundations/logo); [asset/package](https://brand.github.com/GitHub_Logos.zip). Source SHA-256 `ccd84c89b1056345608fc3489357f8acc7397e49a3cdc2d418b6c8016911d47b`. Current official white inverse mark, including native negative-space structure, on clean black project circle.
+- **Adguard.png** — [source page](https://adguard.com/en/media-materials.html); [asset/package](https://cdn.adguardcdn.com/website/adguard.com/media-kits/logos/AdGuard_Ad_Blocker_logos_and_icons.zip). Source SHA-256 `cf5b41f5aa80899ecce63962395a7ab50e3efeeea65b45de117847eb88455e18`. Native geometry and colors uniformly scaled on a project circular base.
+- **PayPal_business.png** — [source page](https://www.paypal.com/us/home); [asset/package](https://www.paypalobjects.com/marketing/web/logos/paypal-mark-color_new.svg). Source SHA-256 `8766a4211434d2c318fbfa412ea9633b385ecf1cab6119f8894019d91ed7e027`. Current official full-color P retained on light project base; distinct from the PayPal inverse theme.
+- **ChatGPT.png** — [source page](https://openai.com/brand/); [asset/package](https://cdn.openai.com/brand/OpenAI-Logos-2025.zip). Source SHA-256 `7be72f1fea831d3ba81a545cee79b7e0ae69449d5d7837c9571ccbfb4aa1e00b`. Downloaded asset is officially named OpenAI monoblossom, used as the project ChatGPT identifier; current geometry retained.
+- **Apple_TV.png** — [source page](https://www.apple.com/tv-pr/about/); [asset/package](https://www.apple.com/tv-pr/about-assets/images/logo/Apple_TV_Logo.zip). Source SHA-256 `a088da3efd0b723c9b75df64ec2dc87fef0c6251d2e0ad001efb078fe8bc6985`. Apple TV streaming-service press hero; only blank margins cropped before uniform scaling, no recoloring.
+- **PayPal.png** — [source page](https://www.paypal.com/us/home); [asset/package](https://www.paypalobjects.com/marketing/web/logos/paypal-mark-color_new.svg). Source SHA-256 `8766a4211434d2c318fbfa412ea9633b385ecf1cab6119f8894019d91ed7e027`. Current native three-path P geometry; original project deep-blue/pale-white inverse theme retained. This adapted colorway is not claimed to be an official supplied inverse asset.
+
+### Official media sources
+
+- **HBO_MAX.png** — [source page](https://brand.hbomax.com/quick-downloads). Source SHA-256 `0816ebf9c87c9f4556996067f341542b9283a00e2fabc082a6d955a0366d3c0a`. Current downloadable stacked HBO/max logo, corroborated by current app artwork; conflicting older small-size website illustrations were not reconstructed.
+- **Peacook.png** — [source page](https://apps.apple.com/us/app/peacock-tv-stream-tv-movies/id1508186374); [asset/package](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/50/8f/02508fc6-59f4-fa16-893a-98d93f74af0a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg). Source SHA-256 `3003783eea993e2dade26254fc26978150eaf1e2c5d5ce216416ed421c066194`. Official current app P plus five gradient dots; spelling of the existing project URL retained. Old website favicon was not used.
+- **Vimeo.png** — [source page](https://vimeo.com/press/media-kit); [asset/package](https://drive.google.com/uc?export=download&id=1gN9dRDamlsqXLfO3c0a3Ank2IgbA6VKY). Source SHA-256 `d7e143eb0e2d9e3cd33973e0eb35f60758574fedff9b1fd481daee25b50a6495`. Current official black V and official blue background family retained.
+- **Video_Vimeo.png** — [source page](https://vimeo.com/press/media-kit); [asset/package](https://drive.google.com/uc?export=download&id=1eGJGw65ArkdbJPA2uR0Uzsal48zKFyNI). Source SHA-256 `5e7b8fdce2466c1883a73c461ebc0bf6adeaa0cad60f2874a24d52092c59f568`. Current official white V geometry on the original project orange/yellow/pink gradient; this theme remains distinct from main Vimeo blue.
+- **YouTube.png** — [source page](https://brand.youtube/color/); [asset/package](https://www.gstatic.com/marketing-cms/78/29/3e68a1414bb28d0b7e47b44c3c91/youtube-icon.zip). Source SHA-256 `1027b1b0517727adb9697155a270744381c3ce9b047b1c8bd8a9389dc7d07a83`. Current digital red #FF0033 mark. This entry applies only to ordinary default/Large assets, not FDS.
+- **Pixiv.png** — [source page](https://www.pixiv.co.jp/news/press-kit/); [asset/package](https://pixiv1.app.box.com/index.php?rm=box_download_shared_file&shared_name=yj9ymvhbnpcbj22vfkkzctugzv46cnos&file_id=f_1775154925561). Source SHA-256 `e8d77cf0712750580c5ad836aa6ea729fa57f7a400ed62aed209fe3f4ec23002`. Current service p icon, not the separate corporate wordmark. Native p path and blue retained; square source container adapted to circle.
+- **Xbox.png** — [source page](https://www.xbox.com/); [asset/package](https://cms-assets.xboxservices.com/assets/bf/a7/bfa78b03-47f1-4113-94a0-0094e615a81a.svg?n=Favicon.svg). Source SHA-256 `eaa4f917a26b1287845f40d2ed34517cf753db2ad1a1c3f56563bb4a9a956d92`. Exact official 2000 px PNG extracted losslessly from the SVG container. Its dimensional appearance is current brand art, not a project glass redesign.
+
+### Identity mapping and accepted lockup
+
+- **X.png / Twitter.png:** [official X guidelines](https://about.x.com/content/dam/about-twitter/x/brand-toolkit/x-brand-guidelines.pdf), page 3 embedded 2004×2048 raster plus native alpha (not falsely called a vector extraction). Clean black/white project circle; obsolete Twitter URL maps to current X identity.
+- **Bitcoin.png:** [Bitcoin.org](https://bitcoin.org/en/), [current header SVG](https://bitcoin.org/img/icons/logotop.svg?1792398050). Exact orange-disc/tilted-B paths separated from the lockup. This corrects the repository’s explicitly named Bitcoin identity; it is not a dated rebrand or a central trademark-authority claim.
+- **Zoho_old.png → Zoho_new.png:** current accepted project compact mark, previously faithfully traced from the [official Zoho favicon](https://www.zohowebstatic.com/sites/zweb/images/favicon.ico). URL retained; not described as an official SVG download.
+- **Prime.png:** [official whole prime + smile asset](https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png), source SHA-256 `8c4b0313ad4e42c709b4a542589d6a70af43dd6893491c4a752a874eecd4768a`. This is the Prime membership/benefit mark used by Prime Video, not the complete Prime Video wordmark. User accepted that scope; whole geometry, original blue base and optical placement retained. Rejected play triangle excluded.
+
+### Original-theme protection and exclusions
+
+- **Apple_rainbow.png:** both baseline files are byte-identical and excluded from this patch. Its original angular rainbow layout is user-created artwork, not an outdated-brand alias. The existing Apple silhouette matches current [Apple navigation](https://www.apple.com/) geometry (normalized mask overlap 0.99029); no needless re-render or background reconstruction.
+- **Video_Vimeo / PayPal:** their original gradient and inverse-color themes are preserved as explicit project adaptations of current official geometry. Named themes are not collapsed into the canonical colorway.
+- **FDS:** the entire 125×90 series is outside this round and remains byte-identical. No centering, circle conversion, recoloring, resizing or brand-update claim applies to it. Earlier FDS candidates are superseded, not deliverables.
+- **Playstation_30th:** expressly named commemorative artwork remains distinct from the ordinary current corporate mark. Other named colorways, characters, service identities and functional variants remain distinct.
+
+### Container-only and optical checks
+
+- Nine noncircular ordinary defaults reuse their existing circular Large counterparts at 180px within 300px with 60px padding: Disney, Disney_Mickey, European_Union, Round_Robin, Yin_Yang, Flight, Auto_Link, Netflix_b and Failover. Twitter/Copilot intersections resolve to the current-brand outputs above.
+- All 35 candidate or verified-original entries were inspected at actual 16/24/32/48 default-canvas sizes on light and dark plus native context. Geometry is uniformly scaled, never stretched to a common square. Long lockups retain complete identity and safe margins.
+- PayPal inverse-color placement is adjusted separately from the business full-color version: 5px left and 7px up at Large relative to the prior candidate, accounting for the different contrast weight.
+- At 16px default canvas the body is only 9.6px. Dense wordmark letters and fine details cannot be guaranteed readable; no generic unrelated symbol replaces the brand merely to claim clarity.
+
+### Limits of source verification
+
+- All 174 canonical pairs were visually audited. Unchanged preexisting artwork outside verified source coverage is not retrospectively labeled official or latest.
+- Amazon 2025 refresh is confirmed but an appropriate verified compact asset was not finalized; the existing file is retained and not certified current. Microsoft_365 suite/app scope and Disney_Channel regional compact identity remain unresolved. No invented “official” substitutes.
+- This is raster/source QA, not an interactive client-runtime test or a trademark-license grant.
+
+Third-party brand assets are not relicensed as CC0. No open redistribution license covering all listed brands was verified; repository licensing does not confer third-party trademark rights.
