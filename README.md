@@ -164,8 +164,8 @@
         <span style="font-size: 8px;">China_Taip...</span>
     </td>
     <td align="center" style="padding: 10px;">
-        <img src="Icon/Color/Claud.png" alt="Claud.png" width="60" height="60"><br>
-        <span style="font-size: 8px;">Claud</span>
+        <img src="Icon/Color/Claude.png" alt="Claude.png" width="60" height="60"><br>
+        <span style="font-size: 8px;">Claude</span>
     </td></tr><tr>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Cloud.png" alt="Cloud.png" width="60" height="60"><br>

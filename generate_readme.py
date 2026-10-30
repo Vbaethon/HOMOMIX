@@ -14,6 +14,12 @@ col_count = 0
 
 
 icon_files = [f for f in os.listdir(icon_dir) if f.endswith(('.png', '.jpg', '.jpeg', '.svg'))]
+# 保留旧文件链接；有规范名称时，不在展示区重复列出兼容别名。
+icon_aliases = {'Claud.png': 'Claude.png'}
+icon_files = [
+    f for f in icon_files
+    if f not in icon_aliases or icon_aliases[f] not in icon_files
+]
 icon_files_sorted = sorted(icon_files, key=lambda x: os.path.splitext(x)[0].lower())  
 
 

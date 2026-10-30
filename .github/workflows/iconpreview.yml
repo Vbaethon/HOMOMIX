@@ -39,6 +39,10 @@ jobs:
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
           git add README.md
+          if git diff --cached --quiet; then
+            echo "README.md is already up to date; nothing to commit."
+            exit 0
+          fi
           git commit -m "Auto-update README with icons"
           git push origin main
         env:
