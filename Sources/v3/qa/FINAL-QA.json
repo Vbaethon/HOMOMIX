@@ -1,6 +1,6 @@
 {
   "status": "pass",
-  "revision": "final-inverse-functional-series",
+  "revision": "inner-only-centered-v5",
   "counts": {
     "canonical": 174,
     "inverse_generic": 49,
@@ -13,12 +13,22 @@
     "retained_png": 246,
     "all_png": 352
   },
-  "unit_tests": 15,
+  "unit_tests": 19,
   "native_regeneration": "53 SVG SHA exact",
   "cold_export": "106 PNG SHA exact",
   "baseline_workflows": "byte-identical",
   "brand_and_protected": "all out-of-scope baseline PNG byte-identical",
-  "visual_review": "Parent and independent reviewer passed49 overview, optical size/center,compactness,actual36/60lightdark",
-  "inner_proof": "Three icons inner-only on/off; obvious large, subtle discernible60,not reliably distinguishable36",
-  "baseline_commit": "efe70aec5ee7da492609be67a53c6a9dde78c3a2"
+  "visual_review": "Parent selected actual4proof: centered faintblurredinner,outerunchanged",
+  "inner_proof": "Centered faint edge, no directional displacement; outer-only rendering retained; smallest-size treatment intentionally subtle",
+  "baseline_commit": "efe70aec5ee7da492609be67a53c6a9dde78c3a2",
+  "publication": "not synced",
+  "changed_vs_published": {
+    "names": 49,
+    "png": 98,
+    "retained_png": 254
+  },
+  "edge_alpha": "generic outermost borders<=1/255; faintGaussian tail retained",
+  "independent_whole_set_review": "All49pass: lighteruniforminner withoutone-sidedbevel;crisp36/60,outerunchanged,noclippingormuddyrims",
+  "alpha_preservation": "All352 PNG decoded alpha channels byte-identical toV4",
+  "inner_symmetry": "Noinneroffset;circlefixturecentroid<.006native;normalizedreflectionerror<.15%"
 }

@@ -1,17 +1,17 @@
 [
   {
     "name": "Link",
-    "inner_only_pixels_changed": 101108,
+    "inner_only_pixels_changed": 103819,
     "outer_shadow_unchanged": true
   },
   {
     "name": "Settings",
-    "inner_only_pixels_changed": 89597,
+    "inner_only_pixels_changed": 61373,
     "outer_shadow_unchanged": true
   },
   {
     "name": "Pig",
-    "inner_only_pixels_changed": 124448,
+    "inner_only_pixels_changed": 132449,
     "outer_shadow_unchanged": true
   }
 ]

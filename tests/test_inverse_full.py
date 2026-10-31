@@ -26,7 +26,27 @@ class InverseFull(unittest.TestCase):
   for row in read('qa/shadow-inner-proof.json'):self.assertGreater(row['inner_only_pixels_changed'],1000);self.assertTrue(row['outer_shadow_unchanged'])
   for n in (S/'generic-names.txt').read_text().split():
    with Image.open(R/'Icon/Color/Large'/f'{n}.png') as im:a=im.getchannel('A')
-   for box in [(0,0,360,1),(0,359,360,360),(0,0,1,360),(359,0,360,360)]:self.assertIsNone(a.crop(box).getbbox(),n)
+   for box in [(0,0,360,1),(0,359,360,360),(0,0,1,360),(359,0,360,360)]:self.assertLessEqual(a.crop(box).getextrema()[1],1,n+' faint Gaussian tail must not create visible clipped edge')
+ def test_broad_gaussian_outer_not_tight_contact_layer(self):
+  for n in (S/'generic-names.txt').read_text().split():
+   t=E.fromstring((S/'svg'/f'{n}.svg').read_bytes());f=t.find('s:defs/s:filter[@id="inkFinish"]',NS)
+   self.assertEqual(f.find('s:feGaussianBlur[@result="castBlur"]',NS).attrib['stdDeviation'],'13')
+   self.assertEqual(f.find('s:feOffset[@result="castOffset"]',NS).attrib['dy'],'11')
+   self.assertEqual(t.find('s:defs/s:filter[@id="diskShadow"]/s:feDropShadow',NS).attrib['stdDeviation'],'2.5')
+ def test_preview_uses_exact_actual_exports(self):
+  for row in read('references/ACTUAL-PREVIEW-EXPORTS.json'):self.assertEqual(sha(R/row['path']),row['new_sha256'])
+ def test_only_inner_layer_changed_v5(self):
+  import re
+  for row in read('references/NON-INNER-LOCK.json'):
+   raw=(S/'svg'/(row['name']+'.svg')).read_text();raw=re.sub(r'(<feComposite in2="castOffset" operator="in" result="cast"/>).*?(<feMerge>)',r'\1\2',raw,flags=re.S)
+   self.assertEqual(hashlib.sha256(raw.encode()).hexdigest(),row['non_inner_sha256'])
+ def test_centered_symmetric_inner_effect(self):
+  for n in (S/'generic-names.txt').read_text().split():
+   f=E.fromstring((S/'svg'/f'{n}.svg').read_bytes()).find('s:defs/s:filter[@id="inkFinish"]',NS)
+   self.assertEqual([x.attrib['result'] for x in f.findall('s:feOffset',NS)],['castOffset'])
+   self.assertEqual(f.find('s:feGaussianBlur[@result="depthBlur"]',NS).attrib['in'],'SourceAlpha')
+   self.assertEqual(f.find('s:feGaussianBlur[@result="depthBlur"]',NS).attrib['stdDeviation'],'2.6')
+  q=read('qa/inner-symmetry.json');self.assertFalse(q['inner_has_spatial_offset']);self.assertLess(max(map(abs,q['centroid_offset_native'])),.05);self.assertLess(max(q['reflection_alpha_relative_L1']),.005);self.assertEqual(q['outside_subject_alpha_max'],0)
  def test_baseline_workflows(self):
   for row in read('WORKFLOW-BASELINE.json'):self.assertEqual(sha(R/row['path']),row['sha256'])
 if __name__=='__main__':unittest.main()

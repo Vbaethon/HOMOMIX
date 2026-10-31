@@ -1,5 +1,5 @@
 {
-  "status": "final inverse white-base functional-series release",
+  "status": "centered lighter inner-only correction v5; not synced",
   "baseline_commit": "efe70aec5ee7da492609be67a53c6a9dde78c3a2",
   "counts": {
     "canonical_reviewed": 174,
@@ -19,9 +19,9 @@
     {
       "name": "AI",
       "path": "Icon/Color/AI.png",
-      "new_sha256": "3622eadec3683e16859a2c2ae62c06c27847335cbbc5b97b9ffdac3b0fa0f0a0",
+      "new_sha256": "2fe3736bd1cf1ac0cf5d4d4c2457565832540414a6c2d353309b82dd6b998577",
       "native_source": "Sources/v3/svg/AI.svg",
-      "native_source_sha256": "b665952d97a4bb7a6ae719169db74b7389427b40fb15ac2b4c2bd0dd79544f36",
+      "native_source_sha256": "88fcc0741931394b0237639590e9b3c286ceb7a71ee8d4fdbdf3bf7952c9ae11",
       "master": [
         1440,
         1440
@@ -44,15 +44,15 @@
         240,
         240
       ],
-      "bytes": 17496,
+      "bytes": 19349,
       "baseline_sha256": "8814739171eedb187ddba7dd5100951001c355fe01d18e6ef014c4ce19007940"
     },
     {
       "name": "AI_Tree",
       "path": "Icon/Color/AI_Tree.png",
-      "new_sha256": "67e8151adc84397b747f4aa3f4bdaedbb6f3396a34a466fcc155de0d6137af92",
+      "new_sha256": "abb758bd158e7553b574b9533b3cde46dd119666da59257a48d533d503b629c1",
       "native_source": "Sources/v3/svg/AI_Tree.svg",
-      "native_source_sha256": "751123935aa86a34f2c823dfbee905b1026131c3c5264e9e209a1e992b819b87",
+      "native_source_sha256": "23fe4c0ca57791b7e7ee936391a01d9f7146152534c04c0e94d6c48a8cd51b86",
       "master": [
         1440,
         1440
@@ -75,15 +75,15 @@
         240,
         240
       ],
-      "bytes": 19278,
+      "bytes": 21527,
       "baseline_sha256": "2813944c16eec4625b4c03a615a40842c935e43fda8e3233f0a89f9ede2f1437"
     },
     {
       "name": "AI_bot",
       "path": "Icon/Color/AI_bot.png",
-      "new_sha256": "85f84df5f3ba7ef75ffbaaed7c8f04c7651ebea5ff4a97e904058d4ea5f8f7cd",
+      "new_sha256": "021aca3fdcd2d4887d735413f74ca9ce6c79e3111e8049afaa6d039aac73925f",
       "native_source": "Sources/v3/svg/AI_bot.svg",
-      "native_source_sha256": "afe8b818a6885f2ce6c70b67d58585cabd8b5911f8267728979e0753d9d4e462",
+      "native_source_sha256": "1315da0e394052985858ff19c601e688113cd78e7a7212bad599883553dcc087",
       "master": [
         1440,
         1440
@@ -106,15 +106,15 @@
         240,
         240
       ],
-      "bytes": 15295,
+      "bytes": 16542,
       "baseline_sha256": "0e1a86cf83b79b228646c971b344027100fc4173871e7844a6b6145cc7b8f76b"
     },
     {
       "name": "AI_voice",
       "path": "Icon/Color/AI_voice.png",
-      "new_sha256": "b50238856091faad5f39c2339d6b829848d450d64e5eda082650300ee74bb2d2",
+      "new_sha256": "470663fbb463595add1125a53add8db7eeb24d38eaddb284742678d23b37912f",
       "native_source": "Sources/v3/svg/AI_voice.svg",
-      "native_source_sha256": "b2cb52e813c0158474f210b7ecea11d2e1d5645dc67baa3de06d70cf2f21d139",
+      "native_source_sha256": "7ed81ff195c13ca77a8bb4b78df750cc7fe6c08b338203ab87312bcc321958e2",
       "master": [
         1440,
         1440
@@ -137,15 +137,15 @@
         240,
         240
       ],
-      "bytes": 13388,
+      "bytes": 15655,
       "baseline_sha256": "b595ee53b3110dd71f95a6221c9fb5e33a064657d169e3c2d28f23a8d8525d20"
     },
     {
       "name": "ASIA",
       "path": "Icon/Color/ASIA.png",
-      "new_sha256": "39a425774ad701f65fcaac05be2a9cf6b7eee765dd679213e38cc514c29bd490",
+      "new_sha256": "77e7955d2fc31a7e9d159e09c1b0d2e75f2165f065f8047cb622717daa61eefb",
       "native_source": "Sources/v3/svg/ASIA.svg",
-      "native_source_sha256": "b6ad0c192c350d2c93f8aa0ef0d5a522c3f4447de104461776cfa8d78585f8b6",
+      "native_source_sha256": "55e2303f0bb208780555fff970ea7d437793ce5acfb2c5ff9f7ffcd2bd09dc32",
       "master": [
         1440,
         1440
@@ -168,15 +168,15 @@
         240,
         240
       ],
-      "bytes": 23381,
+      "bytes": 26105,
       "baseline_sha256": "6963dbaf98109182f969e8e7ae1de3aab2d646e7dd92833b43475cd2a2404981"
     },
     {
       "name": "Adblock",
       "path": "Icon/Color/Adblock.png",
-      "new_sha256": "a0d3542ee7a7f0ba55f4e1effdf243103aa30559325cebd5d15eac85f4e794f1",
+      "new_sha256": "09d6cee0653a4ff1e9d999a85d3faff1a0ccf82a5e87f1cb0b2a73e07de11875",
       "native_source": "Sources/v3/svg/Adblock.svg",
-      "native_source_sha256": "953266b69d1b69f5d3f55072f91f8841bb83e3d69dca26fd1622d73765ea24e3",
+      "native_source_sha256": "4b05a3fbfd515cc2b3824f1b87cce770e31ec6525e0f5c043f47539100b85a68",
       "master": [
         1440,
         1440
@@ -199,15 +199,15 @@
         240,
         240
       ],
-      "bytes": 14853,
+      "bytes": 16762,
       "baseline_sha256": "8c928f93f7a0a244e7364bc5e71f5c8c99da335bdbb005f1f4af20e45ce8ef6f"
     },
     {
       "name": "Auto_Link",
       "path": "Icon/Color/Auto_Link.png",
-      "new_sha256": "72c55f64098c77162e8fc801c48577ae55adafa4edbd230f0a0ed76d4893645d",
+      "new_sha256": "96e99f74d81b42413a486388b21588c2fd2b02b61872d179427e15bf22efdd90",
       "native_source": "Sources/v3/svg/Auto_Link.svg",
-      "native_source_sha256": "8ed828aea5132e682715f23caa22127842c8f00495e0c79f98290d57b640c55b",
+      "native_source_sha256": "49e0c98fd60363b51d1c90493754f0b9af6b5301f7ce603e076f1b673482c54a",
       "master": [
         1440,
         1440
@@ -230,7 +230,7 @@
         240,
         240
       ],
-      "bytes": 17703,
+      "bytes": 19779,
       "baseline_sha256": "9edd2d3ede1541a5dbe84bf09d581818f875a3f29208f6b1e68a1e674ca18e72"
     },
     {
@@ -329,9 +329,9 @@
     {
       "name": "Chained",
       "path": "Icon/Color/Chained.png",
-      "new_sha256": "10c1c50c4bb4297e613edfbf60bf91e730408709db118922ca96dbbe097c8cec",
+      "new_sha256": "442f3a0fe062e7631835c135e86a2f8aebf999200e27156b913496abce770371",
       "native_source": "Sources/v3/svg/Chained.svg",
-      "native_source_sha256": "3a329822b07ce0c419d158ebd7e6f82c44af6842cf530ee688d0b9028e1e0086",
+      "native_source_sha256": "2c2c640eb83149f66458b22ca744f1b0d2b6d922e8068e0529aa33d6f6eff5a4",
       "master": [
         1440,
         1440
@@ -354,15 +354,15 @@
         240,
         240
       ],
-      "bytes": 17870,
+      "bytes": 19906,
       "baseline_sha256": "17afa694db0fb981a9abbac83d31fa5c04ca9061c79596325dfce10fff8fb244"
     },
     {
       "name": "Chained_2",
       "path": "Icon/Color/Chained_2.png",
-      "new_sha256": "a58c19896b978fb1dde109402938459dd048ef8f33add85e4c15a948604fcb2a",
+      "new_sha256": "70ab06a3e1b5f6d3efa6f9e617fc5e5f2cc86857d0af7306937c93d8e4837f12",
       "native_source": "Sources/v3/svg/Chained_2.svg",
-      "native_source_sha256": "eb855bf85dd23abb8e5c8a39eb641099ed4a8b270190e513bdc203f7446bbbb7",
+      "native_source_sha256": "d41a0942aed34c025e3192451be681205fadb007bd05304c6273f8841737b2b5",
       "master": [
         1440,
         1440
@@ -385,15 +385,15 @@
         240,
         240
       ],
-      "bytes": 17379,
+      "bytes": 19704,
       "baseline_sha256": "a2b724afa7d52a197bdd3fce6c1e76cae36cfe6353f86743cf37f90c090bff4e"
     },
     {
       "name": "Consistent_Hashing",
       "path": "Icon/Color/Consistent_Hashing.png",
-      "new_sha256": "c97b56d68e21b56104e2bd46a0d97c61fff7ae6c5a2ef436d8884015fdef8302",
+      "new_sha256": "7f17d6b933cc2fa7689362dda25f6dbf112f37570710a79de22a0acf39a4ae11",
       "native_source": "Sources/v3/svg/Consistent_Hashing.svg",
-      "native_source_sha256": "4ec8caddf5890c610e3bcbc3ad8f26cbe7dbe984c073b6abaa5e74dfaf2096b8",
+      "native_source_sha256": "50cfb0476d67010314272e945bdb78a24fce9de6bfcb4b9b18cca8abe6d9b77e",
       "master": [
         1440,
         1440
@@ -416,15 +416,15 @@
         240,
         240
       ],
-      "bytes": 18941,
+      "bytes": 21258,
       "baseline_sha256": "3da6a7db82d401ee91111055635c430511b81e088f698c03f6ff2d172e06a654"
     },
     {
       "name": "DIRECT",
       "path": "Icon/Color/DIRECT.png",
-      "new_sha256": "a40fc0bb88773971829f4d7a112a83381842eb83bf99c98ec3ea19c92f0685b6",
+      "new_sha256": "26a5a37e2f6b5f4bb27cc8a388586fe1d3349cd9d4c677e8ada0debdf8c0ff37",
       "native_source": "Sources/v3/svg/DIRECT.svg",
-      "native_source_sha256": "537e1848d45bc43064c7268667b60654d9a57a12b223222451b349a9e88a94ef",
+      "native_source_sha256": "d1fde4cc5cefadd98750290d8c11f2e42da077216d90742cf4de7032aff8ae92",
       "master": [
         1440,
         1440
@@ -447,7 +447,7 @@
         240,
         240
       ],
-      "bytes": 11569,
+      "bytes": 12986,
       "baseline_sha256": "9a3864de199d15df0c542a18935d96cc2962accdfdd441b0d5ac392321cf9921"
     },
     {
@@ -484,9 +484,9 @@
     {
       "name": "Dolphin",
       "path": "Icon/Color/Dolphin.png",
-      "new_sha256": "78cc5919f5c0b63e618dd66f2f0ea006b80d345bf14f4357fbc627934c386940",
+      "new_sha256": "6386a8bf7c7a69cf754bc44eb98ad564973e3021349c495ea72a54db42ed97b7",
       "native_source": "Sources/v3/svg/Dolphin.svg",
-      "native_source_sha256": "0f4d67f1efb95d8134e550cffa1e707916c85e84fa85ea6a6cde6b9ebf95686c",
+      "native_source_sha256": "90e753929536f19e24fba3f1900832789cdc26da193ef359437cf3b5911d44ab",
       "master": [
         1440,
         1440
@@ -509,15 +509,15 @@
         240,
         240
       ],
-      "bytes": 18414,
+      "bytes": 20239,
       "baseline_sha256": "0b1038a5fbef14800daa7c90f65c72ff1e177b1df1ff70a585b870aeaf5d5794"
     },
     {
       "name": "Download",
       "path": "Icon/Color/Download.png",
-      "new_sha256": "4e67f39d818f1247b5c1fa319861818b9eed3c33916ee9e80fe92283bf1d9430",
+      "new_sha256": "6565796b04180de1a08d79995a65ca3588314f68c4388a142ac276aa6b973c55",
       "native_source": "Sources/v3/svg/Download.svg",
-      "native_source_sha256": "816c8d8afff45dacdbcf7404ff5d453e82d970e7eb8de31237b627e5637f9882",
+      "native_source_sha256": "6bd741fe8ee319642b2c26d08842c65c96f424d7a96bc50f290ee4c071dbcedf",
       "master": [
         1440,
         1440
@@ -540,15 +540,15 @@
         240,
         240
       ],
-      "bytes": 13896,
+      "bytes": 16101,
       "baseline_sha256": "6eaf507bb1ded291aa57ca2f1f37de5e9fdcffcc904b6c22571925c508c1ad2d"
     },
     {
       "name": "Download_2",
       "path": "Icon/Color/Download_2.png",
-      "new_sha256": "4e67f39d818f1247b5c1fa319861818b9eed3c33916ee9e80fe92283bf1d9430",
+      "new_sha256": "6565796b04180de1a08d79995a65ca3588314f68c4388a142ac276aa6b973c55",
       "native_source": "Sources/v3/svg/Download_2.svg",
-      "native_source_sha256": "816c8d8afff45dacdbcf7404ff5d453e82d970e7eb8de31237b627e5637f9882",
+      "native_source_sha256": "6bd741fe8ee319642b2c26d08842c65c96f424d7a96bc50f290ee4c071dbcedf",
       "master": [
         1440,
         1440
@@ -571,15 +571,15 @@
         240,
         240
       ],
-      "bytes": 13896,
+      "bytes": 16101,
       "baseline_sha256": "5a056d54a42432c5c3315faff29bba7df41811a0684c996d4453fa94af63f9d6"
     },
     {
       "name": "Failover",
       "path": "Icon/Color/Failover.png",
-      "new_sha256": "c4c802c1af3765acb5fa8bd9b431e90be71308a108bde0eeaec8d17f97365177",
+      "new_sha256": "4fb6f8a8f8bcacc155f509c222794c1ba7c5a0da7562e506dd2743b77cddcadc",
       "native_source": "Sources/v3/svg/Failover.svg",
-      "native_source_sha256": "f48de1a4fa593e5b033f3a0937f0967a737c9c7d2fd78ef13ebbea65d6cacd40",
+      "native_source_sha256": "cbc80e1aba34f120078ebed42dbe4379aaba0ab74eb70769d62886d5ccfda854",
       "master": [
         1440,
         1440
@@ -602,15 +602,15 @@
         240,
         240
       ],
-      "bytes": 15157,
+      "bytes": 17318,
       "baseline_sha256": "16c774212238ef68766101a02d95a0873fcf6515ff6109d8f8e071436c08f110"
     },
     {
       "name": "Fish",
       "path": "Icon/Color/Fish.png",
-      "new_sha256": "c9f6811ae4c730c30f8c6e7fc92cd6ae7d4f193dde72da52dc1897eb8df6239b",
+      "new_sha256": "ed40358e29c00cf4f1508a4abec7207904219121b468d06dd21a9aff4adc63e3",
       "native_source": "Sources/v3/svg/Fish.svg",
-      "native_source_sha256": "f9d6d12d8c5f5bf7d46ba4adccd0d01dd760600c2a88ef991a14c4225e9cae84",
+      "native_source_sha256": "f1cb80c40f891195be7761842977ecf05f2b418a3a658eb4af0c7177074105aa",
       "master": [
         1440,
         1440
@@ -633,15 +633,15 @@
         240,
         240
       ],
-      "bytes": 18100,
+      "bytes": 19541,
       "baseline_sha256": "cc3cdd7275941fc4bbc785240359d69b40c44ecb9279970ffc2610ed8bd87b0b"
     },
     {
       "name": "Fish_b",
       "path": "Icon/Color/Fish_b.png",
-      "new_sha256": "a3bc7227dcc8fe94b281fcf2227f236d46ffcc4ee1bcbfffe08d62ed8284e170",
+      "new_sha256": "499b90b196d930ddc0a14cad19c45e35a69f217f6a9e9f1f1c76c7381f290eee",
       "native_source": "Sources/v3/svg/Fish_b.svg",
-      "native_source_sha256": "f93b2bfca64ef277f36c0b928ed287bb0ca712bea6ae93681de117b208c5b00b",
+      "native_source_sha256": "c2ddb7279c52fff6a2d3cc6ede4ff632a7d48b7e2a1210ea3d5891a834b72c54",
       "master": [
         1440,
         1440
@@ -664,15 +664,15 @@
         240,
         240
       ],
-      "bytes": 18470,
+      "bytes": 20093,
       "baseline_sha256": "53d852266ea8ae77a1be83241897a7f01233a9a5e695b1262574972f58cb1d9b"
     },
     {
       "name": "Flight",
       "path": "Icon/Color/Flight.png",
-      "new_sha256": "927fc3061a5d04b9cf0e94ad2b03b92225617fdeffac2e874bb0bb4f97d1a514",
+      "new_sha256": "5fed96ee26fcb4d7dc455d2f2d5113bbfd22aa9686200138313b73c00c857b04",
       "native_source": "Sources/v3/svg/Flight.svg",
-      "native_source_sha256": "2975ad42e4a794c0fb3aa768175afd6b24a3ec568a8f37a95281c24b0bac295b",
+      "native_source_sha256": "e7ff4851abb6c8dfedcd179a33d0e63cdb4f63fa0a135cdd91f229678da07d5a",
       "master": [
         1440,
         1440
@@ -695,15 +695,15 @@
         240,
         240
       ],
-      "bytes": 16335,
+      "bytes": 17573,
       "baseline_sha256": "4019ee19aafbe27888c4c1505c4fcb07c094963b522bb31289039fb101ec4880"
     },
     {
       "name": "Forbidden",
       "path": "Icon/Color/Forbidden.png",
-      "new_sha256": "ee3171cd5224d55963f74a25c0bf053716d2a0f92c693a8af4c0f0d4f4526e4a",
+      "new_sha256": "2b254aaa121321a1467c5a2b4c6eba3c8643478979d0526c0794a4212d134cb5",
       "native_source": "Sources/v3/svg/Forbidden.svg",
-      "native_source_sha256": "8ba0c9dbf9a69f6ea73d3e3d4438d0b59a0df752183721d0ab6ecd41f7f6e003",
+      "native_source_sha256": "32aee0b25585cc1311894290ba77f5bbe074ec7a026d58220bb7e82bc41f6288",
       "master": [
         1440,
         1440
@@ -726,15 +726,15 @@
         240,
         240
       ],
-      "bytes": 20161,
+      "bytes": 23581,
       "baseline_sha256": "4356beb67cabd2a9ab5d645f9441793cfb63e13f39572e5442722ec31f0e07e9"
     },
     {
       "name": "GFW",
       "path": "Icon/Color/GFW.png",
-      "new_sha256": "b3f073726368f6aebb03d9fabc122d25dafb68a67877d4497a5cff937e0a98cc",
+      "new_sha256": "6ef735abb7f369ece108c36cffc121b3c3c1ed34df57d1174d805ae93bc75f35",
       "native_source": "Sources/v3/svg/GFW.svg",
-      "native_source_sha256": "27d6bc25356f9dadc3d0849d714ffde11bc5033e0b59fc84d48ab17677968202",
+      "native_source_sha256": "9ec949f8031f03a112027e463d5abb97da2752cf643485e164c57d9135d47ddd",
       "master": [
         1440,
         1440
@@ -757,15 +757,15 @@
         240,
         240
       ],
-      "bytes": 14764,
+      "bytes": 18091,
       "baseline_sha256": "462a85a872785282eefe5f27bd5aa590e16872fad4f55f4f65c515edd5c45b28"
     },
     {
       "name": "Game",
       "path": "Icon/Color/Game.png",
-      "new_sha256": "86c5b68919a2bf001c9a2ebce84f302128edba69c7bbc0e9221e7d4419f2f89a",
+      "new_sha256": "3dd91021f0bcc25b65d7767e7fca1c53c65791a0df9fd9f874cbd8971f7e8016",
       "native_source": "Sources/v3/svg/Game.svg",
-      "native_source_sha256": "ea0d41a2d5e4d94f09d8e9107cf5f87d84148633a9819b1f09b08d14de4e0244",
+      "native_source_sha256": "b120beb5a484cb0327085fff54aa2930115b88b56b83dc3eec0a4cfdde6bda2b",
       "master": [
         1440,
         1440
@@ -788,15 +788,15 @@
         240,
         240
       ],
-      "bytes": 18291,
+      "bytes": 19656,
       "baseline_sha256": "3052c738ac9e95c1d0a498638c62baf4478324770a6aaa8bbe7f0411ae327ee0"
     },
     {
       "name": "Global",
       "path": "Icon/Color/Global.png",
-      "new_sha256": "6611390465f146f986553f83a617c2da3d4c48c4987599ce62d1701f5093c7f8",
+      "new_sha256": "c9c9b28b8029a3e0cad267b58de1d258f33dd06b163aecc4b5e8e3b71c66f5b6",
       "native_source": "Sources/v3/svg/Global.svg",
-      "native_source_sha256": "ab107d3cef7aaa044fb94e99c68c38c03aab2bfcb651fd0218d22b62f75d7189",
+      "native_source_sha256": "5094e5787b84d3f6d05e1377b0a0f9f43deb68ea48c6a40974bbddb899d9fccc",
       "master": [
         1440,
         1440
@@ -819,15 +819,15 @@
         240,
         240
       ],
-      "bytes": 21999,
+      "bytes": 25015,
       "baseline_sha256": "178ee35c52399fe3794e598070b0137367974c80d034f3dc03acb723568d2440"
     },
     {
       "name": "Globefish",
       "path": "Icon/Color/Globefish.png",
-      "new_sha256": "bcc9743d1090fe0300dc4764996ecbbf13e050a94343d241b595c55b2de94572",
+      "new_sha256": "8fbcd4fe53349a6420bdc1e94af1138265cd2dc08a61855ee976d7b3e39101e5",
       "native_source": "Sources/v3/svg/Globefish.svg",
-      "native_source_sha256": "339633418a44cf92bdfb4c3bdc2180ac50c226e1e46ae2491aeae1944b215066",
+      "native_source_sha256": "cc55c7f576938b5d6de245787098f5c24ee4f2e9876a93f14ee12bbb0b19be53",
       "master": [
         1440,
         1440
@@ -850,15 +850,15 @@
         240,
         240
       ],
-      "bytes": 21286,
+      "bytes": 23097,
       "baseline_sha256": "9ca557b53ff0a93bf0570a36eeadd93c9ed697b4dd72ac5819e44c482c2a7b29"
     },
     {
       "name": "Home",
       "path": "Icon/Color/Home.png",
-      "new_sha256": "a5aaab5ebc6344bf11aa37595f934b4c292bc1a1f4853bf0cac70e95338d6403",
+      "new_sha256": "b840035d7c1ecbad4b948a104fa252ac23295bdbae4534b957556cddf9b88211",
       "native_source": "Sources/v3/svg/Home.svg",
-      "native_source_sha256": "a809234877ac80a019bbadb3b66a7f5b8750eb7babdb08e64029ce4a8a40272a",
+      "native_source_sha256": "41978b03a0e6b3210c22a6080a3e1de2d1ea9f013983475c50f7a51886dbb336",
       "master": [
         1440,
         1440
@@ -881,15 +881,15 @@
         240,
         240
       ],
-      "bytes": 14156,
+      "bytes": 16274,
       "baseline_sha256": "77f5f0db3ab684c9d67e6a1da23b34589307e1b3dc492bca4c1d301546cb7a51"
     },
     {
       "name": "AI",
       "path": "Icon/Color/Large/AI.png",
-      "new_sha256": "9d748d9070e1a3589589e70b0cca185cac3e5a79b27254d602a5ab42f7a2a24a",
+      "new_sha256": "55b605a222a655256ac64d6d4bb61ea318064fba62dc926da2435998a1d63d47",
       "native_source": "Sources/v3/svg/AI.svg",
-      "native_source_sha256": "b665952d97a4bb7a6ae719169db74b7389427b40fb15ac2b4c2bd0dd79544f36",
+      "native_source_sha256": "88fcc0741931394b0237639590e9b3c286ceb7a71ee8d4fdbdf3bf7952c9ae11",
       "master": [
         1440,
         1440
@@ -907,20 +907,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 46258,
+      "bytes": 48594,
       "baseline_sha256": "46c4bc758673058bc5036dbafa6d0fd14b9b90819b2861486b1eb6ef65de88da"
     },
     {
       "name": "AI_Tree",
       "path": "Icon/Color/Large/AI_Tree.png",
-      "new_sha256": "4715929c256c333d9b0ac08d8cc5e91a2e7e748c17662f03db252d8e4f23b594",
+      "new_sha256": "2c9cef47f6eb104c436a1c486316399b2c123f8a74cb8d3ce61c9d51cfec8838",
       "native_source": "Sources/v3/svg/AI_Tree.svg",
-      "native_source_sha256": "751123935aa86a34f2c823dfbee905b1026131c3c5264e9e209a1e992b819b87",
+      "native_source_sha256": "23fe4c0ca57791b7e7ee936391a01d9f7146152534c04c0e94d6c48a8cd51b86",
       "master": [
         1440,
         1440
@@ -938,20 +938,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 50538,
+      "bytes": 53354,
       "baseline_sha256": "e5268568d2f424ba73f5bc695b696c9858920df455347cb98b013e0bd24cf601"
     },
     {
       "name": "AI_bot",
       "path": "Icon/Color/Large/AI_bot.png",
-      "new_sha256": "8117aa6d2896f2d9f817bcbc1e125877cbcab374ce3792379a14d3aa1ece285f",
+      "new_sha256": "a38b8dd505ff9c47b8f2bd5e8266acee60c196fefa1bb3d40a59799e959b9ac9",
       "native_source": "Sources/v3/svg/AI_bot.svg",
-      "native_source_sha256": "afe8b818a6885f2ce6c70b67d58585cabd8b5911f8267728979e0753d9d4e462",
+      "native_source_sha256": "1315da0e394052985858ff19c601e688113cd78e7a7212bad599883553dcc087",
       "master": [
         1440,
         1440
@@ -969,20 +969,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 40504,
+      "bytes": 41643,
       "baseline_sha256": "a916684d9a9a9ad8508199af25971fc201371b7187b0e5651512626c360969bb"
     },
     {
       "name": "AI_voice",
       "path": "Icon/Color/Large/AI_voice.png",
-      "new_sha256": "aa8a3c2dee2d3aff5093bc58d49610badf198c4780c7ee053c19587f576231d1",
+      "new_sha256": "7b51546f9a32c54372ff59e5875d5878cb0edef8d07cae28aaf66fe7b413f2a9",
       "native_source": "Sources/v3/svg/AI_voice.svg",
-      "native_source_sha256": "b2cb52e813c0158474f210b7ecea11d2e1d5645dc67baa3de06d70cf2f21d139",
+      "native_source_sha256": "7ed81ff195c13ca77a8bb4b78df750cc7fe6c08b338203ab87312bcc321958e2",
       "master": [
         1440,
         1440
@@ -1000,20 +1000,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 34281,
+      "bytes": 38363,
       "baseline_sha256": "fc1f13ab09cb2a1010e62b8fe270189617e574a40a147b419728ae91741d5e9a"
     },
     {
       "name": "ASIA",
       "path": "Icon/Color/Large/ASIA.png",
-      "new_sha256": "d2e395f44aa0767cc6a3158535bc494114668490716185b53680eabec82385c0",
+      "new_sha256": "830d3ac149352df027de1cbbe701b069039520cd81a583e5b6b5d769599208b7",
       "native_source": "Sources/v3/svg/ASIA.svg",
-      "native_source_sha256": "b6ad0c192c350d2c93f8aa0ef0d5a522c3f4447de104461776cfa8d78585f8b6",
+      "native_source_sha256": "55e2303f0bb208780555fff970ea7d437793ce5acfb2c5ff9f7ffcd2bd09dc32",
       "master": [
         1440,
         1440
@@ -1031,20 +1031,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 60245,
+      "bytes": 63313,
       "baseline_sha256": "495d6d34b33b7446609af9acdfa23b2db7c57fdd0a8a52aff6b1eb7535bb789e"
     },
     {
       "name": "Adblock",
       "path": "Icon/Color/Large/Adblock.png",
-      "new_sha256": "5929ae35d6e20606826f74ddbe8dd5c67de77d3b87275934740515a8856fca5a",
+      "new_sha256": "ff4f38f20b1fa718d9f87113dc28ddc04b2e6dde78dfc5279e9afa04a57288b1",
       "native_source": "Sources/v3/svg/Adblock.svg",
-      "native_source_sha256": "953266b69d1b69f5d3f55072f91f8841bb83e3d69dca26fd1622d73765ea24e3",
+      "native_source_sha256": "4b05a3fbfd515cc2b3824f1b87cce770e31ec6525e0f5c043f47539100b85a68",
       "master": [
         1440,
         1440
@@ -1062,20 +1062,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 36419,
+      "bytes": 37609,
       "baseline_sha256": "108b0069c43ccd61501671047ef5dcd77a2ac11c5c4257a2365fd7c12edf35fd"
     },
     {
       "name": "Auto_Link",
       "path": "Icon/Color/Large/Auto_Link.png",
-      "new_sha256": "24625f237562d6b86841a0892cb29ac1b342b4d71fd7184644bee2ccf2c874c1",
+      "new_sha256": "4ad6b05b149a763c17a899911a21e164d9f904c39d284017d794f6a836da5c6e",
       "native_source": "Sources/v3/svg/Auto_Link.svg",
-      "native_source_sha256": "8ed828aea5132e682715f23caa22127842c8f00495e0c79f98290d57b640c55b",
+      "native_source_sha256": "49e0c98fd60363b51d1c90493754f0b9af6b5301f7ce603e076f1b673482c54a",
       "master": [
         1440,
         1440
@@ -1093,12 +1093,12 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 44884,
+      "bytes": 47167,
       "baseline_sha256": "24b6ef5898e8cade4579c8d7a6d5d2e017c68458a0e13a7bdacefa97b16401d9"
     },
     {
@@ -1197,9 +1197,9 @@
     {
       "name": "Chained",
       "path": "Icon/Color/Large/Chained.png",
-      "new_sha256": "32a427d1f2db846bd2a01bb726a71f91801e577842e9d41d30b44a32307785f5",
+      "new_sha256": "01f814478bc5695e89a9cba08c81ef9f7764640234f48437ac3196af7a73b3ce",
       "native_source": "Sources/v3/svg/Chained.svg",
-      "native_source_sha256": "3a329822b07ce0c419d158ebd7e6f82c44af6842cf530ee688d0b9028e1e0086",
+      "native_source_sha256": "2c2c640eb83149f66458b22ca744f1b0d2b6d922e8068e0529aa33d6f6eff5a4",
       "master": [
         1440,
         1440
@@ -1217,20 +1217,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 45305,
+      "bytes": 47137,
       "baseline_sha256": "984b62ad21d5162226ff403c411aab19fac5f6781b69fa393686ea9cc3202c4a"
     },
     {
       "name": "Chained_2",
       "path": "Icon/Color/Large/Chained_2.png",
-      "new_sha256": "c726a9ae7d3f66962f58592bf4231e3e27343ab7fe7b656c5e4b81411faf9f2c",
+      "new_sha256": "2dd184ccbde35aba4df1f8ae1e509f881148b8e95c0bd29f97cd95cffc5c9967",
       "native_source": "Sources/v3/svg/Chained_2.svg",
-      "native_source_sha256": "eb855bf85dd23abb8e5c8a39eb641099ed4a8b270190e513bdc203f7446bbbb7",
+      "native_source_sha256": "d41a0942aed34c025e3192451be681205fadb007bd05304c6273f8841737b2b5",
       "master": [
         1440,
         1440
@@ -1248,20 +1248,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 43794,
+      "bytes": 46769,
       "baseline_sha256": "78e5ba306364eccdb7d71acf889588bcdf968435c2a59c3f0b69298938eed6ea"
     },
     {
       "name": "Consistent_Hashing",
       "path": "Icon/Color/Large/Consistent_Hashing.png",
-      "new_sha256": "3ac40cd5fd8547b2208d7045a2c94b6603e31c214cee7411d7be52f645e6ab12",
+      "new_sha256": "f189fded1d515f36c8c2e06ecdacda8c3d38f532de06fb86505c8528d4437681",
       "native_source": "Sources/v3/svg/Consistent_Hashing.svg",
-      "native_source_sha256": "4ec8caddf5890c610e3bcbc3ad8f26cbe7dbe984c073b6abaa5e74dfaf2096b8",
+      "native_source_sha256": "50cfb0476d67010314272e945bdb78a24fce9de6bfcb4b9b18cca8abe6d9b77e",
       "master": [
         1440,
         1440
@@ -1279,20 +1279,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 48921,
+      "bytes": 51921,
       "baseline_sha256": "ed8ee1999d8ace9b9f1db7a7e4de01083761e16c345a5881601a68839c95a061"
     },
     {
       "name": "DIRECT",
       "path": "Icon/Color/Large/DIRECT.png",
-      "new_sha256": "29bf6e7988586106b6f6968b768a4bffbfb2de2ce90bceb47c25fbdd4bf829c5",
+      "new_sha256": "90db50cb5fdcc9c1e6be5986eec36fbbf488bc8b1de6bd6cac75b7c2da19e955",
       "native_source": "Sources/v3/svg/DIRECT.svg",
-      "native_source_sha256": "537e1848d45bc43064c7268667b60654d9a57a12b223222451b349a9e88a94ef",
+      "native_source_sha256": "d1fde4cc5cefadd98750290d8c11f2e42da077216d90742cf4de7032aff8ae92",
       "master": [
         1440,
         1440
@@ -1310,12 +1310,12 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 28189,
+      "bytes": 30464,
       "baseline_sha256": "487c5d7f8f3a24db346a14f568c7cdf8b43eb7b15e3bc37acfcbaeeac41e85fd"
     },
     {
@@ -1352,9 +1352,9 @@
     {
       "name": "Dolphin",
       "path": "Icon/Color/Large/Dolphin.png",
-      "new_sha256": "b5cd3d5407f72d6e0c29fc7215fdc681e49ddf2cef7f252650215fbfc628a6d3",
+      "new_sha256": "ddc5f480e9af9232527ad798207dcb5ba535490af6ad1daa98db6490a663b33e",
       "native_source": "Sources/v3/svg/Dolphin.svg",
-      "native_source_sha256": "0f4d67f1efb95d8134e550cffa1e707916c85e84fa85ea6a6cde6b9ebf95686c",
+      "native_source_sha256": "90e753929536f19e24fba3f1900832789cdc26da193ef359437cf3b5911d44ab",
       "master": [
         1440,
         1440
@@ -1372,20 +1372,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 48574,
+      "bytes": 50554,
       "baseline_sha256": "2fa87f50ed96fc7cd7717fc01c906385622514befc8265c8cdebb0d71df9b93f"
     },
     {
       "name": "Download",
       "path": "Icon/Color/Large/Download.png",
-      "new_sha256": "8161cd13fc8f984778b7a43d83872067b919dbfa92541f31cdf0b060dbec91ae",
+      "new_sha256": "ebcd70f5ce09ecd752cfe8317dcfa49523a4118c4ebb159c421252778f1df03e",
       "native_source": "Sources/v3/svg/Download.svg",
-      "native_source_sha256": "816c8d8afff45dacdbcf7404ff5d453e82d970e7eb8de31237b627e5637f9882",
+      "native_source_sha256": "6bd741fe8ee319642b2c26d08842c65c96f424d7a96bc50f290ee4c071dbcedf",
       "master": [
         1440,
         1440
@@ -1403,20 +1403,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 35265,
+      "bytes": 38084,
       "baseline_sha256": "04492bbaadfb72ff0e7cff9d6db670e8f09cc110482b6ebb51133cf01e40ef82"
     },
     {
       "name": "Download_2",
       "path": "Icon/Color/Large/Download_2.png",
-      "new_sha256": "8161cd13fc8f984778b7a43d83872067b919dbfa92541f31cdf0b060dbec91ae",
+      "new_sha256": "ebcd70f5ce09ecd752cfe8317dcfa49523a4118c4ebb159c421252778f1df03e",
       "native_source": "Sources/v3/svg/Download_2.svg",
-      "native_source_sha256": "816c8d8afff45dacdbcf7404ff5d453e82d970e7eb8de31237b627e5637f9882",
+      "native_source_sha256": "6bd741fe8ee319642b2c26d08842c65c96f424d7a96bc50f290ee4c071dbcedf",
       "master": [
         1440,
         1440
@@ -1434,20 +1434,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 35265,
+      "bytes": 38084,
       "baseline_sha256": "8ac9f5aad251e48388625bdbc8de458039a176a59ff6a51c367d4d84328293c9"
     },
     {
       "name": "Failover",
       "path": "Icon/Color/Large/Failover.png",
-      "new_sha256": "1a39cd48b2919c3913347ae67a5346529a6c60f7d22f3749237ef88cdc8275a5",
+      "new_sha256": "ecbab7052d21ef621543969bd9c2580e650f1bb1d18bbd6706ec17bf78778df4",
       "native_source": "Sources/v3/svg/Failover.svg",
-      "native_source_sha256": "f48de1a4fa593e5b033f3a0937f0967a737c9c7d2fd78ef13ebbea65d6cacd40",
+      "native_source_sha256": "cbc80e1aba34f120078ebed42dbe4379aaba0ab74eb70769d62886d5ccfda854",
       "master": [
         1440,
         1440
@@ -1465,20 +1465,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 38199,
+      "bytes": 41106,
       "baseline_sha256": "d2076c4fcb27209706defc66475de0c9525a05ca7549b7ddbff7c2633d6be074"
     },
     {
       "name": "Fish",
       "path": "Icon/Color/Large/Fish.png",
-      "new_sha256": "dc1e561ab30252a051d41d6d23bb0691af6a0833a3ee3f3c96423110285e9d5e",
+      "new_sha256": "9f77f975958e02f312467c735edb462e32d1b3ef84d52f9309c95d1268b24f22",
       "native_source": "Sources/v3/svg/Fish.svg",
-      "native_source_sha256": "f9d6d12d8c5f5bf7d46ba4adccd0d01dd760600c2a88ef991a14c4225e9cae84",
+      "native_source_sha256": "f1cb80c40f891195be7761842977ecf05f2b418a3a658eb4af0c7177074105aa",
       "master": [
         1440,
         1440
@@ -1496,20 +1496,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 48487,
+      "bytes": 49964,
       "baseline_sha256": "ddb966e27b8d08cd3d05bd9c69ca5b8df11833a1ba206d8e2bda870b13ea281b"
     },
     {
       "name": "Fish_b",
       "path": "Icon/Color/Large/Fish_b.png",
-      "new_sha256": "71ee9fbe41245489ff97b52ee6083f532183e860492fe7a339078034f81e33b6",
+      "new_sha256": "ebec480a073e655cacf2ab25c5555154fbc03bd07505481cfef2fc0f7eeec88c",
       "native_source": "Sources/v3/svg/Fish_b.svg",
-      "native_source_sha256": "f93b2bfca64ef277f36c0b928ed287bb0ca712bea6ae93681de117b208c5b00b",
+      "native_source_sha256": "c2ddb7279c52fff6a2d3cc6ede4ff632a7d48b7e2a1210ea3d5891a834b72c54",
       "master": [
         1440,
         1440
@@ -1527,20 +1527,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 49215,
+      "bytes": 51282,
       "baseline_sha256": "8f49388c7f524f4fc3d0226fcb8877367512566c7ecfc59e5e209b3f7f6da359"
     },
     {
       "name": "Flight",
       "path": "Icon/Color/Large/Flight.png",
-      "new_sha256": "2495d688e0069888702dabefc569917d9793439c0be20daea71ed6370d9d953e",
+      "new_sha256": "e21eee850e8c3c7cb2f6a5516113f8b21ab1b165da40e0b862c6c0c8f0afdf75",
       "native_source": "Sources/v3/svg/Flight.svg",
-      "native_source_sha256": "2975ad42e4a794c0fb3aa768175afd6b24a3ec568a8f37a95281c24b0bac295b",
+      "native_source_sha256": "e7ff4851abb6c8dfedcd179a33d0e63cdb4f63fa0a135cdd91f229678da07d5a",
       "master": [
         1440,
         1440
@@ -1558,20 +1558,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 41927,
+      "bytes": 42620,
       "baseline_sha256": "ea60f8530cff7bcd8e79bfd59beb472a074de41c8f67205a91bb6cf54abe2714"
     },
     {
       "name": "Forbidden",
       "path": "Icon/Color/Large/Forbidden.png",
-      "new_sha256": "17c0f6b7cde3b6ce17c3d782814331690eb84e5c9ac666913d7ffe3523a14f3f",
+      "new_sha256": "ea6361b5276c17fd002f627d4a148ebc34f39fb2c498fd4971c952b917d4afc0",
       "native_source": "Sources/v3/svg/Forbidden.svg",
-      "native_source_sha256": "8ba0c9dbf9a69f6ea73d3e3d4438d0b59a0df752183721d0ab6ecd41f7f6e003",
+      "native_source_sha256": "32aee0b25585cc1311894290ba77f5bbe074ec7a026d58220bb7e82bc41f6288",
       "master": [
         1440,
         1440
@@ -1589,20 +1589,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 48629,
+      "bytes": 52736,
       "baseline_sha256": "3a1d5dde5d92bcc0c6f4daa92b280b885b3cfb707592b87c05a0068fe6920bf3"
     },
     {
       "name": "GFW",
       "path": "Icon/Color/Large/GFW.png",
-      "new_sha256": "125b699e1304c2c9707befa501266e1f132820ab893f8f765985bffa2a33280b",
+      "new_sha256": "46dda7cf70ba69be44df5f0b006390dc65b2f7ec86f609b5495fcc987957a008",
       "native_source": "Sources/v3/svg/GFW.svg",
-      "native_source_sha256": "27d6bc25356f9dadc3d0849d714ffde11bc5033e0b59fc84d48ab17677968202",
+      "native_source_sha256": "9ec949f8031f03a112027e463d5abb97da2752cf643485e164c57d9135d47ddd",
       "master": [
         1440,
         1440
@@ -1620,20 +1620,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 35571,
+      "bytes": 41203,
       "baseline_sha256": "1f4ff95430cb23ca9bff6931ec099c237ed797d1000a0432d106405aff3a1752"
     },
     {
       "name": "Game",
       "path": "Icon/Color/Large/Game.png",
-      "new_sha256": "013a2927549e9581beea45b59eecba042f83ae6693ffeb18adb0bc8fae97e6e4",
+      "new_sha256": "2f870e34b7d0934e58f85801523e786098fac14193a33c3f59132ecc76d07ca3",
       "native_source": "Sources/v3/svg/Game.svg",
-      "native_source_sha256": "ea0d41a2d5e4d94f09d8e9107cf5f87d84148633a9819b1f09b08d14de4e0244",
+      "native_source_sha256": "b120beb5a484cb0327085fff54aa2930115b88b56b83dc3eec0a4cfdde6bda2b",
       "master": [
         1440,
         1440
@@ -1651,20 +1651,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 47599,
+      "bytes": 48929,
       "baseline_sha256": "021278bb221fced074e5685b23d4207d852998e5af29d3eceb9b750cbc6180fe"
     },
     {
       "name": "Global",
       "path": "Icon/Color/Large/Global.png",
-      "new_sha256": "58f90eaef22402c4e115238121cb69590806031867f0c186d205023056a68d81",
+      "new_sha256": "d7ca2df330ce86739a078c7606f6bd8ba13dfe34446aff0f34c4be394af98668",
       "native_source": "Sources/v3/svg/Global.svg",
-      "native_source_sha256": "ab107d3cef7aaa044fb94e99c68c38c03aab2bfcb651fd0218d22b62f75d7189",
+      "native_source_sha256": "5094e5787b84d3f6d05e1377b0a0f9f43deb68ea48c6a40974bbddb899d9fccc",
       "master": [
         1440,
         1440
@@ -1682,20 +1682,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 56073,
+      "bytes": 59738,
       "baseline_sha256": "cbbbc52ff89c4b59471ffd9e1f47f10c69530d9d7fa8aa6f515aef2bf625f200"
     },
     {
       "name": "Globefish",
       "path": "Icon/Color/Large/Globefish.png",
-      "new_sha256": "3260bc92de053c7fbc78b8e7eaa40a2357a275220f879e47683630e47845b2eb",
+      "new_sha256": "706cc99c806be2f2d42174158cecccacadf697ae3d8f195f853b30666f1d32d1",
       "native_source": "Sources/v3/svg/Globefish.svg",
-      "native_source_sha256": "339633418a44cf92bdfb4c3bdc2180ac50c226e1e46ae2491aeae1944b215066",
+      "native_source_sha256": "cc55c7f576938b5d6de245787098f5c24ee4f2e9876a93f14ee12bbb0b19be53",
       "master": [
         1440,
         1440
@@ -1713,20 +1713,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 57456,
+      "bytes": 58569,
       "baseline_sha256": "94a5d6db22ef7baa302d960beb270ee0bede037cf1b5f14e68b65bb0e26f0c17"
     },
     {
       "name": "Home",
       "path": "Icon/Color/Large/Home.png",
-      "new_sha256": "4094ecc2282dde9350294f89d8a2ea646128f2a208b6995b863e34447a62ed6e",
+      "new_sha256": "47a78036268e3ab7ab68123042f1d97642f417c469e33e625cc50ccdbb23d8fc",
       "native_source": "Sources/v3/svg/Home.svg",
-      "native_source_sha256": "a809234877ac80a019bbadb3b66a7f5b8750eb7babdb08e64029ce4a8a40272a",
+      "native_source_sha256": "41978b03a0e6b3210c22a6080a3e1de2d1ea9f013983475c50f7a51886dbb336",
       "master": [
         1440,
         1440
@@ -1744,20 +1744,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 33996,
+      "bytes": 36370,
       "baseline_sha256": "545a691c71638d27c0eabf75b0b1f231e89de350bcb81f83c3521100abdec006"
     },
     {
       "name": "Link",
       "path": "Icon/Color/Large/Link.png",
-      "new_sha256": "e24ef8e49961357fa0e85b542f0adf89c983ea1161147945637c64c8f1e7c4c2",
+      "new_sha256": "109ed8ad3b24c310c68024bb764d40209578e173b410f831dcc737dbf0213a1e",
       "native_source": "Sources/v3/svg/Link.svg",
-      "native_source_sha256": "44a91356b4e6420069b5c6a31faf7f733396e36d7ae9add522e98568dc622f3d",
+      "native_source_sha256": "956a3a6154d4bb754a099eacaf8584cd81a0e5e8fc555ee90b33c37872874a9b",
       "master": [
         1440,
         1440
@@ -1775,20 +1775,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 46435,
+      "bytes": 49193,
       "baseline_sha256": "280507727b3ccb60e3f8e6887cfdf46b9f6bd7d4396668ebb6e67840a062c0e2"
     },
     {
       "name": "Load_balancing",
       "path": "Icon/Color/Large/Load_balancing.png",
-      "new_sha256": "4fbdf3618e8c92522691180bd12754d858c71b243e9a024faedd64f028d5e77c",
+      "new_sha256": "e839e2e93aa7d40cce2097e07bb9f98f1a4086f2ae5cc689e7b50f00bedd1cff",
       "native_source": "Sources/v3/svg/Load_balancing.svg",
-      "native_source_sha256": "b94c6e0429eeab4daf9577056f32cce06778bc3e5434bad4dda5bd88f9c12e95",
+      "native_source_sha256": "f2b6f1c00a219bcba50f5b2d5bdd36d4c4c5315f2a53a500ae20a5a76ca28f4f",
       "master": [
         1440,
         1440
@@ -1806,20 +1806,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 40138,
+      "bytes": 44120,
       "baseline_sha256": "d9e1075a52ed301a8a894b70f69c644a667921c7bdc69909a98567a876f2ea89"
     },
     {
       "name": "Load_balancing_2",
       "path": "Icon/Color/Large/Load_balancing_2.png",
-      "new_sha256": "4fbdf3618e8c92522691180bd12754d858c71b243e9a024faedd64f028d5e77c",
+      "new_sha256": "e839e2e93aa7d40cce2097e07bb9f98f1a4086f2ae5cc689e7b50f00bedd1cff",
       "native_source": "Sources/v3/svg/Load_balancing_2.svg",
-      "native_source_sha256": "b94c6e0429eeab4daf9577056f32cce06778bc3e5434bad4dda5bd88f9c12e95",
+      "native_source_sha256": "f2b6f1c00a219bcba50f5b2d5bdd36d4c4c5315f2a53a500ae20a5a76ca28f4f",
       "master": [
         1440,
         1440
@@ -1837,20 +1837,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 40138,
+      "bytes": 44120,
       "baseline_sha256": "50cad032424a5e85082ebfaca3381e66173b1ff1457f49d26703d84080cc149f"
     },
     {
       "name": "Load_balancing_3",
       "path": "Icon/Color/Large/Load_balancing_3.png",
-      "new_sha256": "4fbdf3618e8c92522691180bd12754d858c71b243e9a024faedd64f028d5e77c",
+      "new_sha256": "e839e2e93aa7d40cce2097e07bb9f98f1a4086f2ae5cc689e7b50f00bedd1cff",
       "native_source": "Sources/v3/svg/Load_balancing_3.svg",
-      "native_source_sha256": "b94c6e0429eeab4daf9577056f32cce06778bc3e5434bad4dda5bd88f9c12e95",
+      "native_source_sha256": "f2b6f1c00a219bcba50f5b2d5bdd36d4c4c5315f2a53a500ae20a5a76ca28f4f",
       "master": [
         1440,
         1440
@@ -1868,20 +1868,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 40138,
+      "bytes": 44120,
       "baseline_sha256": "6d041fe4c6e9db0266b35356d5ded3cff2783c9064397b6f7ba1d04c42234ef0"
     },
     {
       "name": "Location",
       "path": "Icon/Color/Large/Location.png",
-      "new_sha256": "80d2e9b66fb9c4fd1ddfbb2859e086b943cd7105d11c8c26f90dc166c4810935",
+      "new_sha256": "6026f7a1ebe039dfe151157915c037e850daf743f41c52199e6f68f858cfc647",
       "native_source": "Sources/v3/svg/Location.svg",
-      "native_source_sha256": "7bc80782a71baba1c3267b679765651c9459c6f35a9362e079090148008fb2c6",
+      "native_source_sha256": "3960268000426486cbbb5bf950addaf3fe04ea149d4b0fc75a3bd6f40395fe84",
       "master": [
         1440,
         1440
@@ -1899,20 +1899,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 46350,
+      "bytes": 47577,
       "baseline_sha256": "d918921d7286e0795e01b14b584be9e798024dac36fc3663b40dd8c802971bbb"
     },
     {
       "name": "Magic_Timer",
       "path": "Icon/Color/Large/Magic_Timer.png",
-      "new_sha256": "7cfbcb4a62201c1eabcccf6dbac0ca6dff15f5356ddf7a9c7097b601c1066527",
+      "new_sha256": "bdad5e560d8c00b9036acc726ba300f6e1092ca24baadf70f8ca779a851527dc",
       "native_source": "Sources/v3/svg/Magic_Timer.svg",
-      "native_source_sha256": "50d80014395e196327235b6c3afe67c7f1f3551ff9b34a42334cf5a0dfc568e2",
+      "native_source_sha256": "4debf35cbd6f0d0685e3526f1ca1c588deac6f18dbf3ec9b0bd731a5bc8c1a49",
       "master": [
         1440,
         1440
@@ -1930,20 +1930,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 50795,
+      "bytes": 52878,
       "baseline_sha256": "ac59b271bbcea4764beddcf8cabf1105e255e044f5244b1ae9e9cd5f7e1ca628"
     },
     {
       "name": "Mail",
       "path": "Icon/Color/Large/Mail.png",
-      "new_sha256": "62b25394c98c6df7783c503027a0cb23e791b7d132d77846800c3d47191d5066",
+      "new_sha256": "1a23a59f5c571d5d4e25256681a59a840fe33fb29ac4829a1d873d27a970c865",
       "native_source": "Sources/v3/svg/Mail.svg",
-      "native_source_sha256": "fb4091a60851f6269da692a94c7002744deef53d2bdf539dc7f323c0df91ea70",
+      "native_source_sha256": "7510560976694e77f4b3e008d17c6146afcf42c66d14b3f59fad36a9e94a1138",
       "master": [
         1440,
         1440
@@ -1961,20 +1961,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 45218,
+      "bytes": 45706,
       "baseline_sha256": "e38449b16c80acc967961bc8ec5b5ae8e4f73fbcf54bba02d8c27e61ae1e2421"
     },
     {
       "name": "Network",
       "path": "Icon/Color/Large/Network.png",
-      "new_sha256": "672df232d21e4ebc6f0e1f053a83119ca0f0728a6a7d710b8e2d090de76cd12e",
+      "new_sha256": "5b04e2238d2be595378b7867e550f88240d3dd3277f45719044bf221576513ac",
       "native_source": "Sources/v3/svg/Network.svg",
-      "native_source_sha256": "32646fc2d5b7c83e41d4813855ca01e91b661a3d380217ce39241b93e184b77b",
+      "native_source_sha256": "6a7cea9864995ce5c2d5ff75224caa6fe7953dcc69a148484fdbcb2da2fc95b8",
       "master": [
         1440,
         1440
@@ -1992,20 +1992,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 66389,
+      "bytes": 68965,
       "baseline_sha256": "d278786b813bb4f77ea498740064199aa84bd79cb65198ec23750cea6f8acd61"
     },
     {
       "name": "Network_2",
       "path": "Icon/Color/Large/Network_2.png",
-      "new_sha256": "5eaa4782229d22aef1e1076af8f41cef817d89c9690a9f06417503d3fdd43c35",
+      "new_sha256": "f27e0d6183d586a9818691d9cbd61d1751ee25748c1537479dee78c9df4ce71b",
       "native_source": "Sources/v3/svg/Network_2.svg",
-      "native_source_sha256": "5220c9a3404d597c0140d0499056de612d5ecf075ce3b98ceeae326415931c15",
+      "native_source_sha256": "1f080aadc62298a236018b1f1cf2644fa4e76915ecd284d9308932fef9b19571",
       "master": [
         1440,
         1440
@@ -2023,20 +2023,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 59966,
+      "bytes": 63641,
       "baseline_sha256": "33e5ddb35590f0d6dda23b2f2de7a6795dac5ae9fce3460e4da070228596ad79"
     },
     {
       "name": "Niche_Link",
       "path": "Icon/Color/Large/Niche_Link.png",
-      "new_sha256": "c726a9ae7d3f66962f58592bf4231e3e27343ab7fe7b656c5e4b81411faf9f2c",
+      "new_sha256": "2dd184ccbde35aba4df1f8ae1e509f881148b8e95c0bd29f97cd95cffc5c9967",
       "native_source": "Sources/v3/svg/Niche_Link.svg",
-      "native_source_sha256": "eb855bf85dd23abb8e5c8a39eb641099ed4a8b270190e513bdc203f7446bbbb7",
+      "native_source_sha256": "d41a0942aed34c025e3192451be681205fadb007bd05304c6273f8841737b2b5",
       "master": [
         1440,
         1440
@@ -2054,20 +2054,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 43794,
+      "bytes": 46769,
       "baseline_sha256": "75c4575e4f002c65daa9c9b02bac94532f58e98b154eead677c1578a718b79d8"
     },
     {
       "name": "Other",
       "path": "Icon/Color/Large/Other.png",
-      "new_sha256": "5789b8db1cbb4b01822f2b7a6bcdf0278e6f88116ca3191a66540f3db78e767b",
+      "new_sha256": "93431a150a0eecc0f28bde37ea83f49e1c80f797f176203118960323cf95e864",
       "native_source": "Sources/v3/svg/Other.svg",
-      "native_source_sha256": "aea89aec6a956ac086487f3b72fb16b32efcf615b375f2266c1dbc92a650bf3c",
+      "native_source_sha256": "031c5da11e0e7cca0d0b062f7e4da9a9fa4f5bbbb89513ed860be224125130d0",
       "master": [
         1440,
         1440
@@ -2085,20 +2085,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 27073,
+      "bytes": 28096,
       "baseline_sha256": "3a6ad0d404688eb84f9a9f62ba18e16fbe31c7d6df52609706acae7a6226213e"
     },
     {
       "name": "Panda",
       "path": "Icon/Color/Large/Panda.png",
-      "new_sha256": "6e05efdb7574f1bc6ae1854e35106dd541f5cba32461f5820770b1956e9ab72a",
+      "new_sha256": "4add21c6a6bf78fade2fdb6c4af14e7bf8a84f1b198cba59c2901f89e63ef35e",
       "native_source": "Sources/v3/svg/Panda.svg",
-      "native_source_sha256": "fb4d35a78f243003287b56775b32e9f795a3009d636496c0fa5f528cb8083380",
+      "native_source_sha256": "310f3bdbd2ac1e59af4b51aefc8299f92c219852918f98d50b0e0d3e7cf1442d",
       "master": [
         1440,
         1440
@@ -2116,20 +2116,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 60892,
+      "bytes": 61097,
       "baseline_sha256": "3079f776fe57d90a59cc2507f10aca94f4e0c53d2b95c487f66b5e9e10cb4f13"
     },
     {
       "name": "Panda_ai",
       "path": "Icon/Color/Large/Panda_ai.png",
-      "new_sha256": "e15e081e022e257e611c57531c4d4049471dbbee16596f58e6fe73d277faa1a9",
+      "new_sha256": "9ab2c9e22a165981a44fe4915ffc3d313d64db9739811c02250fc5bd63dd24fb",
       "native_source": "Sources/v3/svg/Panda_ai.svg",
-      "native_source_sha256": "76b3e6567192e9e86e8f6304ba26a0cc2882961e36a551c390cf604f1278ab8c",
+      "native_source_sha256": "308f917c3c9057fc1b0cb402bd25024b97f8e28161371a3341c56b3bc8c894a5",
       "master": [
         1440,
         1440
@@ -2147,20 +2147,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 63315,
+      "bytes": 63325,
       "baseline_sha256": "cc879ce514b5724b20d45072ea0a96ed59604ee82ea247f3bff14ef4a05d0408"
     },
     {
       "name": "Pig",
       "path": "Icon/Color/Large/Pig.png",
-      "new_sha256": "c5b2d6254574f27bcfd02808b25122f212582bd5d71146139f889283f888cc35",
+      "new_sha256": "c1e536407dfe091e0bb8002981717b7f04b8ac085d660c7f30562ff3101eb693",
       "native_source": "Sources/v3/svg/Pig.svg",
-      "native_source_sha256": "63689507bcf4151c294e44d9750bf8249e3286969d7c1a742d6a04d6a8e4840b",
+      "native_source_sha256": "ba4e974c8113b3753ec399e11c16741bd0f9c5f66be8ec8086c1ad221db76880",
       "master": [
         1440,
         1440
@@ -2178,20 +2178,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 60040,
+      "bytes": 61699,
       "baseline_sha256": "d9ac863a8e001492499df1f058c45c850ebfbedb06fe611b2e57a2f43f98c51a"
     },
     {
       "name": "Remote",
       "path": "Icon/Color/Large/Remote.png",
-      "new_sha256": "a422fd6e5dfa44a05fc0465635124721d55ca04e627540a276ff638f4d558296",
+      "new_sha256": "bddf66d90990e5ab896e309ae576008265274008b2141e25f03c2deaea14e29f",
       "native_source": "Sources/v3/svg/Remote.svg",
-      "native_source_sha256": "75e85a3dca1ea12adef50022a81ed7a91e97376feca893a4ad5d9b0c5b612d30",
+      "native_source_sha256": "d670d7c45fab35bee1af60eed4d3707b26eb85f56cc20608201e68595b8b38f6",
       "master": [
         1440,
         1440
@@ -2209,20 +2209,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 30894,
+      "bytes": 36421,
       "baseline_sha256": "483783b6acaf69af59964432c2db8d430595026eb95b9fc2f15cedce5d02f371"
     },
     {
       "name": "Round_Robin",
       "path": "Icon/Color/Large/Round_Robin.png",
-      "new_sha256": "427260b3f6a1a6e25feb0457725959b4279b518143cd31f9d1aef678fa263d60",
+      "new_sha256": "dd19fb70599d209ccab67b1222f3d7028476aef9a192f2870cb70952ad530c2c",
       "native_source": "Sources/v3/svg/Round_Robin.svg",
-      "native_source_sha256": "bad44ded4ac2fe929af7b3cfa7ad63b4fd823978a2849072c28f43024dcb7488",
+      "native_source_sha256": "b503e7be446d0f20397bdfc133d109a47a036df1d864a11576ddee7546987cc8",
       "master": [
         1440,
         1440
@@ -2240,20 +2240,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 43653,
+      "bytes": 47332,
       "baseline_sha256": "0e95e213128ff93dda8551b3de8f41414a8bf26f4a94971e6ba5160aaac4ed15"
     },
     {
       "name": "SNS",
       "path": "Icon/Color/Large/SNS.png",
-      "new_sha256": "7f5092606da3986c402be0ae38688267d4e838433801a14dacc2fa731c27a012",
+      "new_sha256": "7cc08c70616692402fe844fb9b1619f15d7d287647db16f1efec5d98ab645b30",
       "native_source": "Sources/v3/svg/SNS.svg",
-      "native_source_sha256": "ae9b3e0d43ebe008b1daa03cf1ae4685a1604ec64aca5801cf6f7621a9c544a5",
+      "native_source_sha256": "f0a00201812fdbfbdccec4f5e967cd871c6046801388cb212253379d368e3ea1",
       "master": [
         1440,
         1440
@@ -2271,20 +2271,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 46534,
+      "bytes": 51186,
       "baseline_sha256": "1850caa0565191c4bf070f4870ceec50b1793f72003f9fdefa85dc6a3c6fecdd"
     },
     {
       "name": "Server",
       "path": "Icon/Color/Large/Server.png",
-      "new_sha256": "0f7ec1404b426252d76f94ec1be2ff49a5429c77222d03b59a9a73bc2304c176",
+      "new_sha256": "6690a6b3fde0460dbf3e2401125dee97aa16f8f15f34f19fb97a3e39df054f9f",
       "native_source": "Sources/v3/svg/Server.svg",
-      "native_source_sha256": "c22bd46efa071aae544d53351a09ad85ac70d61d26b0f386d9a6d06ca608f382",
+      "native_source_sha256": "a5c8595d4660fd8162075a3de5c2de1294a1ca867fec320d160a9ebbe95f52b7",
       "master": [
         1440,
         1440
@@ -2302,20 +2302,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 44264,
+      "bytes": 48169,
       "baseline_sha256": "3b453ba98662f7670d38a12885e8aaa422e041cc7617fddd64736c20b7cb5473"
     },
     {
       "name": "Settings",
       "path": "Icon/Color/Large/Settings.png",
-      "new_sha256": "6cbde321df29e38b706027f2871ed898784c1f2bf739797111a46ba03e4b4c45",
+      "new_sha256": "63bc5311523502578a2fdf3f5efe26df254179268cbdaffa2285483880ea1a0a",
       "native_source": "Sources/v3/svg/Settings.svg",
-      "native_source_sha256": "cc13ee273ebaf2424506eaba752e64ffd4f25fbfebff74b707e7ad00a2eaed84",
+      "native_source_sha256": "f1328e4d22bda61520379b4ac77be6a9cff0761f3ffe1eac6b0c6db171f2b994",
       "master": [
         1440,
         1440
@@ -2333,20 +2333,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 46292,
+      "bytes": 48800,
       "baseline_sha256": "2ae977d6641b21989277e00b273ee7813e9cfc3d994d0dc96a6ddbc15111c3ab"
     },
     {
       "name": "Signal_Light",
       "path": "Icon/Color/Large/Signal_Light.png",
-      "new_sha256": "d1a551ab3f8774799955afdfbaaa57a159fa3b882a29a5f7d9694159c4f6b35d",
+      "new_sha256": "ea415abcb9708ff30fe5f1c3c394964f485866db9b8cda804be9db4efb3eca0f",
       "native_source": "Sources/v3/svg/Signal_Light.svg",
-      "native_source_sha256": "79aad7a9155251999d7f448e6342bf5dfb322cfc944184a21b3a83e76194d4fe",
+      "native_source_sha256": "e269bc186d60727224388b4c4b8fc58431e4822c427f1423d0c4e879afc74c7b",
       "master": [
         1440,
         1440
@@ -2364,20 +2364,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 36631,
+      "bytes": 37858,
       "baseline_sha256": "8834a5dcf69e5ad09eb77e796c86246d2f3372ba4a766ce0461d4dd7cdcfb602"
     },
     {
       "name": "Stream",
       "path": "Icon/Color/Large/Stream.png",
-      "new_sha256": "36a4a9b84ba057301cef475f221822091754a5dae34f9d33e3619dc98b19a201",
+      "new_sha256": "8dfe07ef7b24ecfe5018e3dd7a1970c056edf5867c65f05e5d1651da8bf578ad",
       "native_source": "Sources/v3/svg/Stream.svg",
-      "native_source_sha256": "145f23439285880e688d7e49f768ac32cc1004f4d2dc439d27298f942b79b1e5",
+      "native_source_sha256": "998724529a25d9b445951e20e04ab6f56d82f43a59dbab0a4cec72baea440052",
       "master": [
         1440,
         1440
@@ -2395,20 +2395,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 60584,
+      "bytes": 65542,
       "baseline_sha256": "5878fd3ac5ab8f4fee67bf1808980782d5fbd44db884e7ec489a57f50978d209"
     },
     {
       "name": "Tick",
       "path": "Icon/Color/Large/Tick.png",
-      "new_sha256": "45cd5b21a8599fbdd882f8530ec853acee4705b1d885ffe79da8f8a51b60f67d",
+      "new_sha256": "4f47b51612a825f38f83eb80a9377341976921e70c5fcda4a668e3ec2fbc7da1",
       "native_source": "Sources/v3/svg/Tick.svg",
-      "native_source_sha256": "6ac6aa05b46182583e3eaca9065fdedf4a132bcbea97e8c1bd5421facc609b6c",
+      "native_source_sha256": "67ae114448b96b15da6ef726d16da5c5ee8b52483ba1a214b08c1eb190ee7799",
       "master": [
         1440,
         1440
@@ -2426,20 +2426,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 32885,
+      "bytes": 33855,
       "baseline_sha256": "560a68bfd3ce20df0331e2cd1f71a979a2790fb7d37f777788d3cbcaaf840313"
     },
     {
       "name": "Tick_2",
       "path": "Icon/Color/Large/Tick_2.png",
-      "new_sha256": "6bafb402aef2e16061e10cbd59041541f8cfbf354655f1e3a0415c4fc24cac1f",
+      "new_sha256": "0b77bf09a919829da589a1c8a6b5741bfc7cd75b82b9baaf3cdce194949300d2",
       "native_source": "Sources/v3/svg/Tick_2.svg",
-      "native_source_sha256": "939aaeb6e9341ed3cf5b67d1f836960f305777335bff61a822c1ca6e197fe7a0",
+      "native_source_sha256": "e73c6c79b583535508f082e279f92500bbd19396b0092cdae082b520363cf3b1",
       "master": [
         1440,
         1440
@@ -2457,20 +2457,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 56910,
+      "bytes": 60279,
       "baseline_sha256": "694bc073772ac15efdefe71a11504643e8e6dc424c2c1aa5a51c45f6fb4aa078"
     },
     {
       "name": "Transfer",
       "path": "Icon/Color/Large/Transfer.png",
-      "new_sha256": "f1313b4996cb088289fe36277ac67fdc122af1c02ee4cd786a24c98e002f6978",
+      "new_sha256": "4b87ee54aad146caaabbcaeef7a5364cb9052c91033e130553d4663259735a93",
       "native_source": "Sources/v3/svg/Transfer.svg",
-      "native_source_sha256": "6ee65eaba7a09c4baa847fcf1acbe00630770a611b5b0d4ad5d63dc04b37bcb8",
+      "native_source_sha256": "44faea3ede12ed6471b66aee89d7701822f5f2fc1cb75a9040af61969dc4c840",
       "master": [
         1440,
         1440
@@ -2488,20 +2488,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 38807,
+      "bytes": 42643,
       "baseline_sha256": "cd5286d6f16aec397bce9c5653c255a4b1f6af352e9d950bce1f8d452ab89ee3"
     },
     {
       "name": "Yin_Yang",
       "path": "Icon/Color/Large/Yin_Yang.png",
-      "new_sha256": "839d362cfa4caabdb2970b22c8c460b3fd2c403b1f821d1cac5f1e85b8fbf733",
+      "new_sha256": "fde429383aacd09e2d5b6607399cfc879dda7c4a82b68d015390577cee0f3ae5",
       "native_source": "Sources/v3/svg/Yin_Yang.svg",
-      "native_source_sha256": "47e319c00e86a2e7c1b91ec6d36dfab98290ce70b5c573f0b28430bd3d69c9ef",
+      "native_source_sha256": "553adbe29815403db77185b8d1d9e48e27a35f6e38c60f3ec65657dd74a2301e",
       "master": [
         1440,
         1440
@@ -2519,20 +2519,20 @@
         0
       ],
       "alpha_bbox": [
+        1,
         2,
-        2,
-        358,
-        359
+        359,
+        360
       ],
-      "bytes": 52335,
+      "bytes": 54248,
       "baseline_sha256": "0a5d5f419f08d219ebb1e5ac906331ff43035ac73b23b7a47e53398ec491d34f"
     },
     {
       "name": "Link",
       "path": "Icon/Color/Link.png",
-      "new_sha256": "46be4f5056d2db72e9f2a1c0e0685d5c2cb0090b4275340320179acd41a6d3de",
+      "new_sha256": "4f1a9472a554564469271cd3e8b5848cb5af1215079a62238fe7f77d0848d54f",
       "native_source": "Sources/v3/svg/Link.svg",
-      "native_source_sha256": "44a91356b4e6420069b5c6a31faf7f733396e36d7ae9add522e98568dc622f3d",
+      "native_source_sha256": "956a3a6154d4bb754a099eacaf8584cd81a0e5e8fc555ee90b33c37872874a9b",
       "master": [
         1440,
         1440
@@ -2555,15 +2555,15 @@
         240,
         240
       ],
-      "bytes": 18218,
+      "bytes": 20439,
       "baseline_sha256": "54bd1dd7d1577aeabac3606356945a72f0bc87ddb41de21ed37821528ef88517"
     },
     {
       "name": "Load_balancing",
       "path": "Icon/Color/Load_balancing.png",
-      "new_sha256": "7edf37bfe2c61bb6b6eb6fcad000064923bc7624dae1fbf997f25b792f65b29c",
+      "new_sha256": "fd5d6dc04330a4cc52ffd2fedd61211242bec7708362fa511f96d22507750d67",
       "native_source": "Sources/v3/svg/Load_balancing.svg",
-      "native_source_sha256": "b94c6e0429eeab4daf9577056f32cce06778bc3e5434bad4dda5bd88f9c12e95",
+      "native_source_sha256": "f2b6f1c00a219bcba50f5b2d5bdd36d4c4c5315f2a53a500ae20a5a76ca28f4f",
       "master": [
         1440,
         1440
@@ -2586,15 +2586,15 @@
         240,
         240
       ],
-      "bytes": 15782,
+      "bytes": 18821,
       "baseline_sha256": "9d229744afd957a78236b6c0816b91890b10907f233548cd4d881c61ab908f4a"
     },
     {
       "name": "Load_balancing_2",
       "path": "Icon/Color/Load_balancing_2.png",
-      "new_sha256": "7edf37bfe2c61bb6b6eb6fcad000064923bc7624dae1fbf997f25b792f65b29c",
+      "new_sha256": "fd5d6dc04330a4cc52ffd2fedd61211242bec7708362fa511f96d22507750d67",
       "native_source": "Sources/v3/svg/Load_balancing_2.svg",
-      "native_source_sha256": "b94c6e0429eeab4daf9577056f32cce06778bc3e5434bad4dda5bd88f9c12e95",
+      "native_source_sha256": "f2b6f1c00a219bcba50f5b2d5bdd36d4c4c5315f2a53a500ae20a5a76ca28f4f",
       "master": [
         1440,
         1440
@@ -2617,15 +2617,15 @@
         240,
         240
       ],
-      "bytes": 15782,
+      "bytes": 18821,
       "baseline_sha256": "8cc2fdba69d3ae5da879ff3c51a03e30bf7d5275786d680b92e5fd5d430af2af"
     },
     {
       "name": "Load_balancing_3",
       "path": "Icon/Color/Load_balancing_3.png",
-      "new_sha256": "7edf37bfe2c61bb6b6eb6fcad000064923bc7624dae1fbf997f25b792f65b29c",
+      "new_sha256": "fd5d6dc04330a4cc52ffd2fedd61211242bec7708362fa511f96d22507750d67",
       "native_source": "Sources/v3/svg/Load_balancing_3.svg",
-      "native_source_sha256": "b94c6e0429eeab4daf9577056f32cce06778bc3e5434bad4dda5bd88f9c12e95",
+      "native_source_sha256": "f2b6f1c00a219bcba50f5b2d5bdd36d4c4c5315f2a53a500ae20a5a76ca28f4f",
       "master": [
         1440,
         1440
@@ -2648,15 +2648,15 @@
         240,
         240
       ],
-      "bytes": 15782,
+      "bytes": 18821,
       "baseline_sha256": "e1520d8049ecf379ce553093c1ef51d70b8f576784c7f75a86a611c8093b5f7e"
     },
     {
       "name": "Location",
       "path": "Icon/Color/Location.png",
-      "new_sha256": "81afd255ef8f4db693581deca0eb284a9aa6713639bf0e217de8e7739401de5f",
+      "new_sha256": "a07ad83b50548fc06ec27642fbfa9c04c5ade4d8c55e8ae7a6704a291626ea70",
       "native_source": "Sources/v3/svg/Location.svg",
-      "native_source_sha256": "7bc80782a71baba1c3267b679765651c9459c6f35a9362e079090148008fb2c6",
+      "native_source_sha256": "3960268000426486cbbb5bf950addaf3fe04ea149d4b0fc75a3bd6f40395fe84",
       "master": [
         1440,
         1440
@@ -2679,15 +2679,15 @@
         240,
         240
       ],
-      "bytes": 17591,
+      "bytes": 19406,
       "baseline_sha256": "dee597763d5286d744038ec2ccb0706b8c0a220bf9f7b3c71c06a5d57acd535d"
     },
     {
       "name": "Magic_Timer",
       "path": "Icon/Color/Magic_Timer.png",
-      "new_sha256": "854e60c91ac9bd9775f811078b50ac862943f4e93a584882bfe08bfebf708153",
+      "new_sha256": "26da1dd87af4fc32876ad06deb9a45a2f564ddef9dfa203d74a37fe786501a12",
       "native_source": "Sources/v3/svg/Magic_Timer.svg",
-      "native_source_sha256": "50d80014395e196327235b6c3afe67c7f1f3551ff9b34a42334cf5a0dfc568e2",
+      "native_source_sha256": "4debf35cbd6f0d0685e3526f1ca1c588deac6f18dbf3ec9b0bd731a5bc8c1a49",
       "master": [
         1440,
         1440
@@ -2710,15 +2710,15 @@
         240,
         240
       ],
-      "bytes": 20621,
+      "bytes": 23335,
       "baseline_sha256": "62b9fc18ec5fd1fd788ce0d479bbaa29edb1512c934ac513aece7dfc4ca9fd51"
     },
     {
       "name": "Mail",
       "path": "Icon/Color/Mail.png",
-      "new_sha256": "5f49136dfa6cfab2cfc3a86e1c685572680da1f4bb071ff027d54b7e0221411c",
+      "new_sha256": "a6efcf47fd294c24956785ee551bb06e1d3aa3fcc539b8be5f4257d39b850ac5",
       "native_source": "Sources/v3/svg/Mail.svg",
-      "native_source_sha256": "fb4091a60851f6269da692a94c7002744deef53d2bdf539dc7f323c0df91ea70",
+      "native_source_sha256": "7510560976694e77f4b3e008d17c6146afcf42c66d14b3f59fad36a9e94a1138",
       "master": [
         1440,
         1440
@@ -2741,15 +2741,15 @@
         240,
         240
       ],
-      "bytes": 16938,
+      "bytes": 17945,
       "baseline_sha256": "2804bbecd00d89681281fa734a194ac3f7ee6a33612d348779dbe53d150bf849"
     },
     {
       "name": "Network",
       "path": "Icon/Color/Network.png",
-      "new_sha256": "cc31620053f16cb12199e45cbef868d7346aac69c9eb02e004fb447cb1527dcf",
+      "new_sha256": "7d9f50d556d2732ad2e4360502b468b81c9377c0833e89621f97906d5250e9aa",
       "native_source": "Sources/v3/svg/Network.svg",
-      "native_source_sha256": "32646fc2d5b7c83e41d4813855ca01e91b661a3d380217ce39241b93e184b77b",
+      "native_source_sha256": "6a7cea9864995ce5c2d5ff75224caa6fe7953dcc69a148484fdbcb2da2fc95b8",
       "master": [
         1440,
         1440
@@ -2772,15 +2772,15 @@
         240,
         240
       ],
-      "bytes": 25233,
+      "bytes": 27884,
       "baseline_sha256": "400105e526e12c1839f43d9c608c1819ae848caef7ede1d18e512211ceaa602c"
     },
     {
       "name": "Network_2",
       "path": "Icon/Color/Network_2.png",
-      "new_sha256": "7efa3c9872cbbf81f666d524e53612191297ea975e5cdfbf5d78620f9f02a168",
+      "new_sha256": "024e78e9ba8548ae5c40049ccdf520e53c5311d1b043dcc09271b0799a5c022f",
       "native_source": "Sources/v3/svg/Network_2.svg",
-      "native_source_sha256": "5220c9a3404d597c0140d0499056de612d5ecf075ce3b98ceeae326415931c15",
+      "native_source_sha256": "1f080aadc62298a236018b1f1cf2644fa4e76915ecd284d9308932fef9b19571",
       "master": [
         1440,
         1440
@@ -2803,15 +2803,15 @@
         240,
         240
       ],
-      "bytes": 23442,
+      "bytes": 26480,
       "baseline_sha256": "a3cd08433bfc2c34cb48cf8f4250d405e0b603154e8aa2073b6b156af3a59ade"
     },
     {
       "name": "Niche_Link",
       "path": "Icon/Color/Niche_Link.png",
-      "new_sha256": "a58c19896b978fb1dde109402938459dd048ef8f33add85e4c15a948604fcb2a",
+      "new_sha256": "70ab06a3e1b5f6d3efa6f9e617fc5e5f2cc86857d0af7306937c93d8e4837f12",
       "native_source": "Sources/v3/svg/Niche_Link.svg",
-      "native_source_sha256": "eb855bf85dd23abb8e5c8a39eb641099ed4a8b270190e513bdc203f7446bbbb7",
+      "native_source_sha256": "d41a0942aed34c025e3192451be681205fadb007bd05304c6273f8841737b2b5",
       "master": [
         1440,
         1440
@@ -2834,15 +2834,15 @@
         240,
         240
       ],
-      "bytes": 17379,
+      "bytes": 19704,
       "baseline_sha256": "52b97c7c62352c4e18e340e75a3017255a3814511d4ad621121c6e964b8fc41a"
     },
     {
       "name": "Other",
       "path": "Icon/Color/Other.png",
-      "new_sha256": "d268c20151a2f173ec76e7d37db11ebce991390a3bf0f31fe1fed4019b52d58d",
+      "new_sha256": "b829a6eb23372677e6ec1bbb7d9f573016ea7e504f691dc0f79622cf9d023587",
       "native_source": "Sources/v3/svg/Other.svg",
-      "native_source_sha256": "aea89aec6a956ac086487f3b72fb16b32efcf615b375f2266c1dbc92a650bf3c",
+      "native_source_sha256": "031c5da11e0e7cca0d0b062f7e4da9a9fa4f5bbbb89513ed860be224125130d0",
       "master": [
         1440,
         1440
@@ -2865,15 +2865,15 @@
         240,
         240
       ],
-      "bytes": 11169,
+      "bytes": 12272,
       "baseline_sha256": "2651dbd4ce539c1297ade909acb20e0f91cf5deaa74375c799fc8b85f3f69e3a"
     },
     {
       "name": "Panda",
       "path": "Icon/Color/Panda.png",
-      "new_sha256": "687cbdd6f9555bb83047e2b4314073e6552da16b2dae1bcb9ed4a5c5d35ddc56",
+      "new_sha256": "3049137135101eba16ad9cfda5e51a9d3c378e7b54675e4082cbf6109827e47a",
       "native_source": "Sources/v3/svg/Panda.svg",
-      "native_source_sha256": "fb4d35a78f243003287b56775b32e9f795a3009d636496c0fa5f528cb8083380",
+      "native_source_sha256": "310f3bdbd2ac1e59af4b51aefc8299f92c219852918f98d50b0e0d3e7cf1442d",
       "master": [
         1440,
         1440
@@ -2896,15 +2896,15 @@
         240,
         240
       ],
-      "bytes": 22616,
+      "bytes": 24354,
       "baseline_sha256": "f4f9b6d4ba7be7d11e43e3de883c470a10bfb0971c7dcb9332150b94d85b4e6e"
     },
     {
       "name": "Panda_ai",
       "path": "Icon/Color/Panda_ai.png",
-      "new_sha256": "4ff87113e87d6382423a34a24f6c0a087ec11efbb0a5a4808c5ca2da76115dea",
+      "new_sha256": "3abc7148f74fc325f75c962148530da48769c89d8abdd6808784d8b70a749ac1",
       "native_source": "Sources/v3/svg/Panda_ai.svg",
-      "native_source_sha256": "76b3e6567192e9e86e8f6304ba26a0cc2882961e36a551c390cf604f1278ab8c",
+      "native_source_sha256": "308f917c3c9057fc1b0cb402bd25024b97f8e28161371a3341c56b3bc8c894a5",
       "master": [
         1440,
         1440
@@ -2927,15 +2927,15 @@
         240,
         240
       ],
-      "bytes": 23378,
+      "bytes": 25322,
       "baseline_sha256": "6e28b553c1927c486a05c847c9e5f172cba99d142f83e1e8099d776f5c61b106"
     },
     {
       "name": "Pig",
       "path": "Icon/Color/Pig.png",
-      "new_sha256": "514c6547f8d37f552afa9fae7824cf5cddab4cb654f3806c82695b3b164efd0c",
+      "new_sha256": "a9f50a667369730309a3175259541f234daae6406e1e51dc7b8517048d67c785",
       "native_source": "Sources/v3/svg/Pig.svg",
-      "native_source_sha256": "63689507bcf4151c294e44d9750bf8249e3286969d7c1a742d6a04d6a8e4840b",
+      "native_source_sha256": "ba4e974c8113b3753ec399e11c16741bd0f9c5f66be8ec8086c1ad221db76880",
       "master": [
         1440,
         1440
@@ -2958,15 +2958,15 @@
         240,
         240
       ],
-      "bytes": 22419,
+      "bytes": 24382,
       "baseline_sha256": "4cccc7bb88a02d7787f26093ab99c0ea59e523d29eb8bf998d2635e8574e8d84"
     },
     {
       "name": "Remote",
       "path": "Icon/Color/Remote.png",
-      "new_sha256": "5d2614971a1f83270f53a1fe49ef24410c7161da5d49d0a555de166c39b018f6",
+      "new_sha256": "ec55d083084cdc9e496c710cd6f0e9f4e629d735278a04b6c68f9f25ac334e27",
       "native_source": "Sources/v3/svg/Remote.svg",
-      "native_source_sha256": "75e85a3dca1ea12adef50022a81ed7a91e97376feca893a4ad5d9b0c5b612d30",
+      "native_source_sha256": "d670d7c45fab35bee1af60eed4d3707b26eb85f56cc20608201e68595b8b38f6",
       "master": [
         1440,
         1440
@@ -2989,15 +2989,15 @@
         240,
         240
       ],
-      "bytes": 13288,
+      "bytes": 16674,
       "baseline_sha256": "fc6c8e630e51755afa99b42af74ebdada99c5bdab17e5d1c22267be4163acefb"
     },
     {
       "name": "Round_Robin",
       "path": "Icon/Color/Round_Robin.png",
-      "new_sha256": "a346a5667a5fbc2daaabb35f14b4dbbda3ec3a58c201b15ae8968837b9234c30",
+      "new_sha256": "c7b8ac7f15f3b1724fc07cc8f63ff57c9b6078abb37caf9d792fe73167a4ad78",
       "native_source": "Sources/v3/svg/Round_Robin.svg",
-      "native_source_sha256": "bad44ded4ac2fe929af7b3cfa7ad63b4fd823978a2849072c28f43024dcb7488",
+      "native_source_sha256": "b503e7be446d0f20397bdfc133d109a47a036df1d864a11576ddee7546987cc8",
       "master": [
         1440,
         1440
@@ -3020,15 +3020,15 @@
         240,
         240
       ],
-      "bytes": 17260,
+      "bytes": 19882,
       "baseline_sha256": "8d3180adc9c7a9e4e8c8e80b7eef7e4d81174ddb2e936cb6c2c41e219937f73b"
     },
     {
       "name": "SNS",
       "path": "Icon/Color/SNS.png",
-      "new_sha256": "89b771a9a4470b3666d56d5917dcf04064a928aca586fdc2b9e500f24a9ce99f",
+      "new_sha256": "f9fe7adc80fcf7c0d0b0f57f842ed2774f8d346a091d1b4f619876e5a888a778",
       "native_source": "Sources/v3/svg/SNS.svg",
-      "native_source_sha256": "ae9b3e0d43ebe008b1daa03cf1ae4685a1604ec64aca5801cf6f7621a9c544a5",
+      "native_source_sha256": "f0a00201812fdbfbdccec4f5e967cd871c6046801388cb212253379d368e3ea1",
       "master": [
         1440,
         1440
@@ -3051,15 +3051,15 @@
         240,
         240
       ],
-      "bytes": 18029,
+      "bytes": 20553,
       "baseline_sha256": "32a1b5a153b421155d9a33f2f876eea7fdc0dda740f5cddb5203c543d43ed9f1"
     },
     {
       "name": "Server",
       "path": "Icon/Color/Server.png",
-      "new_sha256": "af834f824d38a0ddd9efb0eda482e06f495c3d21b1d31d006b1a1cfccaba03b2",
+      "new_sha256": "f868ab7b734d489dadf37751429847944a1133871449bc6962e5d1685d87d7bb",
       "native_source": "Sources/v3/svg/Server.svg",
-      "native_source_sha256": "c22bd46efa071aae544d53351a09ad85ac70d61d26b0f386d9a6d06ca608f382",
+      "native_source_sha256": "a5c8595d4660fd8162075a3de5c2de1294a1ca867fec320d160a9ebbe95f52b7",
       "master": [
         1440,
         1440
@@ -3082,15 +3082,15 @@
         240,
         240
       ],
-      "bytes": 18202,
+      "bytes": 21373,
       "baseline_sha256": "d17cf6b33e6cfea501f71c22ab825d389e4774b021df7d62c60f72121fc73ec8"
     },
     {
       "name": "Settings",
       "path": "Icon/Color/Settings.png",
-      "new_sha256": "335f424af5892ec3731fef0809a40bc4f593e7dcfb07425816d54ef77000bb78",
+      "new_sha256": "68779cbb29c791e393bff6118d70ad5484fe5c214d5b7dca7a113c48ed90ce49",
       "native_source": "Sources/v3/svg/Settings.svg",
-      "native_source_sha256": "cc13ee273ebaf2424506eaba752e64ffd4f25fbfebff74b707e7ad00a2eaed84",
+      "native_source_sha256": "f1328e4d22bda61520379b4ac77be6a9cff0761f3ffe1eac6b0c6db171f2b994",
       "master": [
         1440,
         1440
@@ -3113,15 +3113,15 @@
         240,
         240
       ],
-      "bytes": 19021,
+      "bytes": 21693,
       "baseline_sha256": "cdb0abb1c662152dc18b7e710a18bf1dcf72ebf8dcb0df2f2a437fac12807e8d"
     },
     {
       "name": "Signal_Light",
       "path": "Icon/Color/Signal_Light.png",
-      "new_sha256": "ec3e1d763ed56e7e78f3bd30f1f10d666777c486695b2087d4bdb85ed41d494b",
+      "new_sha256": "67af05506269b9b3edbbfd795d9d36c727e74424e9b7ce62b238d2646f71ce70",
       "native_source": "Sources/v3/svg/Signal_Light.svg",
-      "native_source_sha256": "79aad7a9155251999d7f448e6342bf5dfb322cfc944184a21b3a83e76194d4fe",
+      "native_source_sha256": "e269bc186d60727224388b4c4b8fc58431e4822c427f1423d0c4e879afc74c7b",
       "master": [
         1440,
         1440
@@ -3144,15 +3144,15 @@
         240,
         240
       ],
-      "bytes": 15226,
+      "bytes": 16961,
       "baseline_sha256": "4f35ad02f0ba1c8697356fc5603c0160ef8c0dc86358a2b36bf2a3e60aea9dee"
     },
     {
       "name": "Stream",
       "path": "Icon/Color/Stream.png",
-      "new_sha256": "bc466541d4f22609635ab375681905c3be6b4902115c624cfb05aa2373f1883d",
+      "new_sha256": "b4818680d4e17cf9f3c4cc21f5dff51301fe7bc63a332a819474566eaba36c0b",
       "native_source": "Sources/v3/svg/Stream.svg",
-      "native_source_sha256": "145f23439285880e688d7e49f768ac32cc1004f4d2dc439d27298f942b79b1e5",
+      "native_source_sha256": "998724529a25d9b445951e20e04ab6f56d82f43a59dbab0a4cec72baea440052",
       "master": [
         1440,
         1440
@@ -3175,15 +3175,15 @@
         240,
         240
       ],
-      "bytes": 23320,
+      "bytes": 26596,
       "baseline_sha256": "bb29e741d25a3ca8d1b1134879e0bd2bac5ee90f16c1f003cda90fee92442454"
     },
     {
       "name": "Tick",
       "path": "Icon/Color/Tick.png",
-      "new_sha256": "1a0f610195103a25cfaa56ff8bf650fe11c94660f0ed51d01da5e758bc3a758a",
+      "new_sha256": "49dfce5ee5e6ca76184a930c399edf7829a6e6e5bf3c4862bf6e1ee361830561",
       "native_source": "Sources/v3/svg/Tick.svg",
-      "native_source_sha256": "6ac6aa05b46182583e3eaca9065fdedf4a132bcbea97e8c1bd5421facc609b6c",
+      "native_source_sha256": "67ae114448b96b15da6ef726d16da5c5ee8b52483ba1a214b08c1eb190ee7799",
       "master": [
         1440,
         1440
@@ -3206,15 +3206,15 @@
         240,
         240
       ],
-      "bytes": 13455,
+      "bytes": 14885,
       "baseline_sha256": "2f8d14345ab4bf2d2bdb1bda4f4ffdbb6f5a18c3264ea72124d6a3eff5439833"
     },
     {
       "name": "Tick_2",
       "path": "Icon/Color/Tick_2.png",
-      "new_sha256": "16c8a2c5db07d1ac0c0732a196169dfc666a463663a78d0450e4c49d4bb173dd",
+      "new_sha256": "8e9e65d5574c071b8ea34c0c090676c8fa501b2eefd98363cf3a077baab1e9ab",
       "native_source": "Sources/v3/svg/Tick_2.svg",
-      "native_source_sha256": "939aaeb6e9341ed3cf5b67d1f836960f305777335bff61a822c1ca6e197fe7a0",
+      "native_source_sha256": "e73c6c79b583535508f082e279f92500bbd19396b0092cdae082b520363cf3b1",
       "master": [
         1440,
         1440
@@ -3237,15 +3237,15 @@
         240,
         240
       ],
-      "bytes": 23017,
+      "bytes": 26699,
       "baseline_sha256": "f9f8310cb33470b852d92a5c943a294d095a579d5ad029facf77b58c50c3764e"
     },
     {
       "name": "Transfer",
       "path": "Icon/Color/Transfer.png",
-      "new_sha256": "f579a03701b56bbbf3225fa62f0ee9bf919a2bc8d5a9eb22df9277caf64a17ec",
+      "new_sha256": "422eca7a4cf6ff66797d1038058ca709ebc9e933619ebb025fbcc7f7aaf65f95",
       "native_source": "Sources/v3/svg/Transfer.svg",
-      "native_source_sha256": "6ee65eaba7a09c4baa847fcf1acbe00630770a611b5b0d4ad5d63dc04b37bcb8",
+      "native_source_sha256": "44faea3ede12ed6471b66aee89d7701822f5f2fc1cb75a9040af61969dc4c840",
       "master": [
         1440,
         1440
@@ -3268,15 +3268,15 @@
         240,
         240
       ],
-      "bytes": 15163,
+      "bytes": 17401,
       "baseline_sha256": "c7b1117044c76cbe6bc78732f601f67a85f300f370911fa172925deb04bc1fa9"
     },
     {
       "name": "Yin_Yang",
       "path": "Icon/Color/Yin_Yang.png",
-      "new_sha256": "77a55fec302da72c58beeeac28a77da77b86d551fa486fe6eed8151389996aab",
+      "new_sha256": "046b93c1192efbb3aae8c49dcaf50995223080743f7356e4b3e2e730b4d986f7",
       "native_source": "Sources/v3/svg/Yin_Yang.svg",
-      "native_source_sha256": "47e319c00e86a2e7c1b91ec6d36dfab98290ce70b5c573f0b28430bd3d69c9ef",
+      "native_source_sha256": "553adbe29815403db77185b8d1d9e48e27a35f6e38c60f3ec65657dd74a2301e",
       "master": [
         1440,
         1440
@@ -3299,7 +3299,7 @@
         240,
         240
       ],
-      "bytes": 20898,
+      "bytes": 23867,
       "baseline_sha256": "0b246483117835a273b2a8b6f137d9cf2809585f04784a17a4cc4000115ebbb5"
     }
   ]

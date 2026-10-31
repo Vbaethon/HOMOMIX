@@ -10,7 +10,7 @@
       "category": "inverse_generic",
       "series": "intelligence_rose_violet",
       "native_source": "Sources/v3/svg/AI.svg",
-      "source_sha256": "b665952d97a4bb7a6ae719169db74b7389427b40fb15ac2b4c2bd0dd79544f36",
+      "source_sha256": "88fcc0741931394b0237639590e9b3c286ceb7a71ee8d4fdbdf3bf7952c9ae11",
       "third_party_new_paths": false
     },
     {
@@ -18,7 +18,7 @@
       "category": "inverse_generic",
       "series": "intelligence_rose_violet",
       "native_source": "Sources/v3/svg/AI_Tree.svg",
-      "source_sha256": "751123935aa86a34f2c823dfbee905b1026131c3c5264e9e209a1e992b819b87",
+      "source_sha256": "23fe4c0ca57791b7e7ee936391a01d9f7146152534c04c0e94d6c48a8cd51b86",
       "third_party_new_paths": false
     },
     {
@@ -26,7 +26,7 @@
       "category": "inverse_generic",
       "series": "intelligence_rose_violet",
       "native_source": "Sources/v3/svg/AI_bot.svg",
-      "source_sha256": "afe8b818a6885f2ce6c70b67d58585cabd8b5911f8267728979e0753d9d4e462",
+      "source_sha256": "1315da0e394052985858ff19c601e688113cd78e7a7212bad599883553dcc087",
       "third_party_new_paths": false
     },
     {
@@ -34,7 +34,7 @@
       "category": "inverse_generic",
       "series": "intelligence_rose_violet",
       "native_source": "Sources/v3/svg/AI_voice.svg",
-      "source_sha256": "b2cb52e813c0158474f210b7ecea11d2e1d5645dc67baa3de06d70cf2f21d139",
+      "source_sha256": "7ed81ff195c13ca77a8bb4b78df750cc7fe6c08b338203ab87312bcc321958e2",
       "third_party_new_paths": false
     },
     {
@@ -42,7 +42,7 @@
       "category": "inverse_generic",
       "series": "network_blue_cyan",
       "native_source": "Sources/v3/svg/ASIA.svg",
-      "source_sha256": "b6ad0c192c350d2c93f8aa0ef0d5a522c3f4447de104461776cfa8d78585f8b6",
+      "source_sha256": "55e2303f0bb208780555fff970ea7d437793ce5acfb2c5ff9f7ffcd2bd09dc32",
       "third_party_new_paths": false
     },
     {
@@ -50,7 +50,7 @@
       "category": "inverse_generic",
       "series": "system_graphite",
       "native_source": "Sources/v3/svg/Adblock.svg",
-      "source_sha256": "953266b69d1b69f5d3f55072f91f8841bb83e3d69dca26fd1622d73765ea24e3",
+      "source_sha256": "4b05a3fbfd515cc2b3824f1b87cce770e31ec6525e0f5c043f47539100b85a68",
       "third_party_new_paths": false
     },
     {
@@ -58,7 +58,7 @@
       "category": "inverse_generic",
       "series": "network_blue_cyan",
       "native_source": "Sources/v3/svg/Auto_Link.svg",
-      "source_sha256": "8ed828aea5132e682715f23caa22127842c8f00495e0c79f98290d57b640c55b",
+      "source_sha256": "49e0c98fd60363b51d1c90493754f0b9af6b5301f7ce603e076f1b673482c54a",
       "third_party_new_paths": false
     },
     {
@@ -90,7 +90,7 @@
       "category": "inverse_generic",
       "series": "network_blue_cyan",
       "native_source": "Sources/v3/svg/Chained.svg",
-      "source_sha256": "3a329822b07ce0c419d158ebd7e6f82c44af6842cf530ee688d0b9028e1e0086",
+      "source_sha256": "2c2c640eb83149f66458b22ca744f1b0d2b6d922e8068e0529aa33d6f6eff5a4",
       "third_party_new_paths": false
     },
     {
@@ -98,7 +98,7 @@
       "category": "inverse_generic",
       "series": "network_blue_cyan",
       "native_source": "Sources/v3/svg/Chained_2.svg",
-      "source_sha256": "eb855bf85dd23abb8e5c8a39eb641099ed4a8b270190e513bdc203f7446bbbb7",
+      "source_sha256": "d41a0942aed34c025e3192451be681205fadb007bd05304c6273f8841737b2b5",
       "third_party_new_paths": false
     },
     {
@@ -106,7 +106,7 @@
       "category": "inverse_generic",
       "series": "network_blue_cyan",
       "native_source": "Sources/v3/svg/Consistent_Hashing.svg",
-      "source_sha256": "4ec8caddf5890c610e3bcbc3ad8f26cbe7dbe984c073b6abaa5e74dfaf2096b8",
+      "source_sha256": "50cfb0476d67010314272e945bdb78a24fce9de6bfcb4b9b18cca8abe6d9b77e",
       "third_party_new_paths": false
     },
     {
@@ -114,7 +114,7 @@
       "category": "inverse_generic",
       "series": "network_blue_cyan",
       "native_source": "Sources/v3/svg/DIRECT.svg",
-      "source_sha256": "537e1848d45bc43064c7268667b60654d9a57a12b223222451b349a9e88a94ef",
+      "source_sha256": "d1fde4cc5cefadd98750290d8c11f2e42da077216d90742cf4de7032aff8ae92",
       "third_party_new_paths": false
     },
     {
@@ -130,7 +130,7 @@
       "category": "inverse_generic",
       "series": "animal_green_yellow",
       "native_source": "Sources/v3/svg/Dolphin.svg",
-      "source_sha256": "0f4d67f1efb95d8134e550cffa1e707916c85e84fa85ea6a6cde6b9ebf95686c",
+      "source_sha256": "90e753929536f19e24fba3f1900832789cdc26da193ef359437cf3b5911d44ab",
       "third_party_new_paths": false
     },
     {
@@ -138,7 +138,7 @@
       "category": "inverse_generic",
       "series": "transfer_orange_red",
       "native_source": "Sources/v3/svg/Download.svg",
-      "source_sha256": "816c8d8afff45dacdbcf7404ff5d453e82d970e7eb8de31237b627e5637f9882",
+      "source_sha256": "6bd741fe8ee319642b2c26d08842c65c96f424d7a96bc50f290ee4c071dbcedf",
       "third_party_new_paths": false
     },
     {
@@ -146,7 +146,7 @@
       "category": "inverse_generic",
       "series": "transfer_orange_red",
       "native_source": "Sources/v3/svg/Download_2.svg",
-      "source_sha256": "816c8d8afff45dacdbcf7404ff5d453e82d970e7eb8de31237b627e5637f9882",
+      "source_sha256": "6bd741fe8ee319642b2c26d08842c65c96f424d7a96bc50f290ee4c071dbcedf",
       "third_party_new_paths": false
     },
     {
@@ -154,7 +154,7 @@
       "category": "inverse_generic",
       "series": "network_blue_cyan",
       "native_source": "Sources/v3/svg/Failover.svg",
-      "source_sha256": "f48de1a4fa593e5b033f3a0937f0967a737c9c7d2fd78ef13ebbea65d6cacd40",
+      "source_sha256": "cbc80e1aba34f120078ebed42dbe4379aaba0ab74eb70769d62886d5ccfda854",
       "third_party_new_paths": false
     },
     {
@@ -162,7 +162,7 @@
       "category": "inverse_generic",
       "series": "animal_green_yellow",
       "native_source": "Sources/v3/svg/Fish.svg",
-      "source_sha256": "f9d6d12d8c5f5bf7d46ba4adccd0d01dd760600c2a88ef991a14c4225e9cae84",
+      "source_sha256": "f1cb80c40f891195be7761842977ecf05f2b418a3a658eb4af0c7177074105aa",
       "third_party_new_paths": false
     },
     {
@@ -170,7 +170,7 @@
       "category": "inverse_generic",
       "series": "animal_green_yellow",
       "native_source": "Sources/v3/svg/Fish_b.svg",
-      "source_sha256": "f93b2bfca64ef277f36c0b928ed287bb0ca712bea6ae93681de117b208c5b00b",
+      "source_sha256": "c2ddb7279c52fff6a2d3cc6ede4ff632a7d48b7e2a1210ea3d5891a834b72c54",
       "third_party_new_paths": false
     },
     {
@@ -178,7 +178,7 @@
       "category": "inverse_generic",
       "series": "location_emerald_teal",
       "native_source": "Sources/v3/svg/Flight.svg",
-      "source_sha256": "2975ad42e4a794c0fb3aa768175afd6b24a3ec568a8f37a95281c24b0bac295b",
+      "source_sha256": "e7ff4851abb6c8dfedcd179a33d0e63cdb4f63fa0a135cdd91f229678da07d5a",
       "third_party_new_paths": false
     },
     {
@@ -186,7 +186,7 @@
       "category": "inverse_generic",
       "series": "system_graphite",
       "native_source": "Sources/v3/svg/Forbidden.svg",
-      "source_sha256": "8ba0c9dbf9a69f6ea73d3e3d4438d0b59a0df752183721d0ab6ecd41f7f6e003",
+      "source_sha256": "32aee0b25585cc1311894290ba77f5bbe074ec7a026d58220bb7e82bc41f6288",
       "third_party_new_paths": false
     },
     {
@@ -194,7 +194,7 @@
       "category": "inverse_generic",
       "series": "system_graphite",
       "native_source": "Sources/v3/svg/GFW.svg",
-      "source_sha256": "27d6bc25356f9dadc3d0849d714ffde11bc5033e0b59fc84d48ab17677968202",
+      "source_sha256": "9ec949f8031f03a112027e463d5abb97da2752cf643485e164c57d9135d47ddd",
       "third_party_new_paths": false
     },
     {
@@ -202,7 +202,7 @@
       "category": "inverse_generic",
       "series": "entertainment_purple_pink",
       "native_source": "Sources/v3/svg/Game.svg",
-      "source_sha256": "ea0d41a2d5e4d94f09d8e9107cf5f87d84148633a9819b1f09b08d14de4e0244",
+      "source_sha256": "b120beb5a484cb0327085fff54aa2930115b88b56b83dc3eec0a4cfdde6bda2b",
       "third_party_new_paths": false
     },
     {
@@ -210,7 +210,7 @@
       "category": "inverse_generic",
       "series": "network_blue_cyan",
       "native_source": "Sources/v3/svg/Global.svg",
-      "source_sha256": "ab107d3cef7aaa044fb94e99c68c38c03aab2bfcb651fd0218d22b62f75d7189",
+      "source_sha256": "5094e5787b84d3f6d05e1377b0a0f9f43deb68ea48c6a40974bbddb899d9fccc",
       "third_party_new_paths": false
     },
     {
@@ -218,7 +218,7 @@
       "category": "inverse_generic",
       "series": "animal_green_yellow",
       "native_source": "Sources/v3/svg/Globefish.svg",
-      "source_sha256": "339633418a44cf92bdfb4c3bdc2180ac50c226e1e46ae2491aeae1944b215066",
+      "source_sha256": "cc55c7f576938b5d6de245787098f5c24ee4f2e9876a93f14ee12bbb0b19be53",
       "third_party_new_paths": false
     },
     {
@@ -226,7 +226,7 @@
       "category": "inverse_generic",
       "series": "system_graphite",
       "native_source": "Sources/v3/svg/Home.svg",
-      "source_sha256": "a809234877ac80a019bbadb3b66a7f5b8750eb7babdb08e64029ce4a8a40272a",
+      "source_sha256": "41978b03a0e6b3210c22a6080a3e1de2d1ea9f013983475c50f7a51886dbb336",
       "third_party_new_paths": false
     },
     {
@@ -234,7 +234,7 @@
       "category": "inverse_generic",
       "series": "network_blue_cyan",
       "native_source": "Sources/v3/svg/Link.svg",
-      "source_sha256": "44a91356b4e6420069b5c6a31faf7f733396e36d7ae9add522e98568dc622f3d",
+      "source_sha256": "956a3a6154d4bb754a099eacaf8584cd81a0e5e8fc555ee90b33c37872874a9b",
       "third_party_new_paths": false
     },
     {
@@ -242,7 +242,7 @@
       "category": "inverse_generic",
       "series": "network_blue_cyan",
       "native_source": "Sources/v3/svg/Load_balancing.svg",
-      "source_sha256": "b94c6e0429eeab4daf9577056f32cce06778bc3e5434bad4dda5bd88f9c12e95",
+      "source_sha256": "f2b6f1c00a219bcba50f5b2d5bdd36d4c4c5315f2a53a500ae20a5a76ca28f4f",
       "third_party_new_paths": false
     },
     {
@@ -250,7 +250,7 @@
       "category": "inverse_generic",
       "series": "network_blue_cyan",
       "native_source": "Sources/v3/svg/Load_balancing_2.svg",
-      "source_sha256": "b94c6e0429eeab4daf9577056f32cce06778bc3e5434bad4dda5bd88f9c12e95",
+      "source_sha256": "f2b6f1c00a219bcba50f5b2d5bdd36d4c4c5315f2a53a500ae20a5a76ca28f4f",
       "third_party_new_paths": false
     },
     {
@@ -258,7 +258,7 @@
       "category": "inverse_generic",
       "series": "network_blue_cyan",
       "native_source": "Sources/v3/svg/Load_balancing_3.svg",
-      "source_sha256": "b94c6e0429eeab4daf9577056f32cce06778bc3e5434bad4dda5bd88f9c12e95",
+      "source_sha256": "f2b6f1c00a219bcba50f5b2d5bdd36d4c4c5315f2a53a500ae20a5a76ca28f4f",
       "third_party_new_paths": false
     },
     {
@@ -266,7 +266,7 @@
       "category": "inverse_generic",
       "series": "location_emerald_teal",
       "native_source": "Sources/v3/svg/Location.svg",
-      "source_sha256": "7bc80782a71baba1c3267b679765651c9459c6f35a9362e079090148008fb2c6",
+      "source_sha256": "3960268000426486cbbb5bf950addaf3fe04ea149d4b0fc75a3bd6f40395fe84",
       "third_party_new_paths": false
     },
     {
@@ -274,7 +274,7 @@
       "category": "inverse_generic",
       "series": "system_graphite",
       "native_source": "Sources/v3/svg/Magic_Timer.svg",
-      "source_sha256": "50d80014395e196327235b6c3afe67c7f1f3551ff9b34a42334cf5a0dfc568e2",
+      "source_sha256": "4debf35cbd6f0d0685e3526f1ca1c588deac6f18dbf3ec9b0bd731a5bc8c1a49",
       "third_party_new_paths": false
     },
     {
@@ -282,7 +282,7 @@
       "category": "inverse_generic",
       "series": "intelligence_rose_violet",
       "native_source": "Sources/v3/svg/Mail.svg",
-      "source_sha256": "fb4091a60851f6269da692a94c7002744deef53d2bdf539dc7f323c0df91ea70",
+      "source_sha256": "7510560976694e77f4b3e008d17c6146afcf42c66d14b3f59fad36a9e94a1138",
       "third_party_new_paths": false
     },
     {
@@ -290,7 +290,7 @@
       "category": "inverse_generic",
       "series": "network_blue_cyan",
       "native_source": "Sources/v3/svg/Network.svg",
-      "source_sha256": "32646fc2d5b7c83e41d4813855ca01e91b661a3d380217ce39241b93e184b77b",
+      "source_sha256": "6a7cea9864995ce5c2d5ff75224caa6fe7953dcc69a148484fdbcb2da2fc95b8",
       "third_party_new_paths": false
     },
     {
@@ -298,7 +298,7 @@
       "category": "inverse_generic",
       "series": "network_blue_cyan",
       "native_source": "Sources/v3/svg/Network_2.svg",
-      "source_sha256": "5220c9a3404d597c0140d0499056de612d5ecf075ce3b98ceeae326415931c15",
+      "source_sha256": "1f080aadc62298a236018b1f1cf2644fa4e76915ecd284d9308932fef9b19571",
       "third_party_new_paths": false
     },
     {
@@ -306,7 +306,7 @@
       "category": "inverse_generic",
       "series": "network_blue_cyan",
       "native_source": "Sources/v3/svg/Niche_Link.svg",
-      "source_sha256": "eb855bf85dd23abb8e5c8a39eb641099ed4a8b270190e513bdc203f7446bbbb7",
+      "source_sha256": "d41a0942aed34c025e3192451be681205fadb007bd05304c6273f8841737b2b5",
       "third_party_new_paths": false
     },
     {
@@ -314,7 +314,7 @@
       "category": "inverse_generic",
       "series": "system_graphite",
       "native_source": "Sources/v3/svg/Other.svg",
-      "source_sha256": "aea89aec6a956ac086487f3b72fb16b32efcf615b375f2266c1dbc92a650bf3c",
+      "source_sha256": "031c5da11e0e7cca0d0b062f7e4da9a9fa4f5bbbb89513ed860be224125130d0",
       "third_party_new_paths": false
     },
     {
@@ -322,7 +322,7 @@
       "category": "inverse_generic",
       "series": "animal_green_yellow",
       "native_source": "Sources/v3/svg/Panda.svg",
-      "source_sha256": "fb4d35a78f243003287b56775b32e9f795a3009d636496c0fa5f528cb8083380",
+      "source_sha256": "310f3bdbd2ac1e59af4b51aefc8299f92c219852918f98d50b0e0d3e7cf1442d",
       "third_party_new_paths": false
     },
     {
@@ -330,7 +330,7 @@
       "category": "inverse_generic",
       "series": "animal_green_yellow",
       "native_source": "Sources/v3/svg/Panda_ai.svg",
-      "source_sha256": "76b3e6567192e9e86e8f6304ba26a0cc2882961e36a551c390cf604f1278ab8c",
+      "source_sha256": "308f917c3c9057fc1b0cb402bd25024b97f8e28161371a3341c56b3bc8c894a5",
       "third_party_new_paths": false
     },
     {
@@ -338,7 +338,7 @@
       "category": "inverse_generic",
       "series": "animal_green_yellow",
       "native_source": "Sources/v3/svg/Pig.svg",
-      "source_sha256": "63689507bcf4151c294e44d9750bf8249e3286969d7c1a742d6a04d6a8e4840b",
+      "source_sha256": "ba4e974c8113b3753ec399e11c16741bd0f9c5f66be8ec8086c1ad221db76880",
       "third_party_new_paths": false
     },
     {
@@ -346,7 +346,7 @@
       "category": "inverse_generic",
       "series": "system_graphite",
       "native_source": "Sources/v3/svg/Remote.svg",
-      "source_sha256": "75e85a3dca1ea12adef50022a81ed7a91e97376feca893a4ad5d9b0c5b612d30",
+      "source_sha256": "d670d7c45fab35bee1af60eed4d3707b26eb85f56cc20608201e68595b8b38f6",
       "third_party_new_paths": false
     },
     {
@@ -354,7 +354,7 @@
       "category": "inverse_generic",
       "series": "network_blue_cyan",
       "native_source": "Sources/v3/svg/Round_Robin.svg",
-      "source_sha256": "bad44ded4ac2fe929af7b3cfa7ad63b4fd823978a2849072c28f43024dcb7488",
+      "source_sha256": "b503e7be446d0f20397bdfc133d109a47a036df1d864a11576ddee7546987cc8",
       "third_party_new_paths": false
     },
     {
@@ -362,7 +362,7 @@
       "category": "inverse_generic",
       "series": "intelligence_rose_violet",
       "native_source": "Sources/v3/svg/SNS.svg",
-      "source_sha256": "ae9b3e0d43ebe008b1daa03cf1ae4685a1604ec64aca5801cf6f7621a9c544a5",
+      "source_sha256": "f0a00201812fdbfbdccec4f5e967cd871c6046801388cb212253379d368e3ea1",
       "third_party_new_paths": false
     },
     {
@@ -370,7 +370,7 @@
       "category": "inverse_generic",
       "series": "system_graphite",
       "native_source": "Sources/v3/svg/Server.svg",
-      "source_sha256": "c22bd46efa071aae544d53351a09ad85ac70d61d26b0f386d9a6d06ca608f382",
+      "source_sha256": "a5c8595d4660fd8162075a3de5c2de1294a1ca867fec320d160a9ebbe95f52b7",
       "third_party_new_paths": false
     },
     {
@@ -378,7 +378,7 @@
       "category": "inverse_generic",
       "series": "system_graphite",
       "native_source": "Sources/v3/svg/Settings.svg",
-      "source_sha256": "cc13ee273ebaf2424506eaba752e64ffd4f25fbfebff74b707e7ad00a2eaed84",
+      "source_sha256": "f1328e4d22bda61520379b4ac77be6a9cff0761f3ffe1eac6b0c6db171f2b994",
       "third_party_new_paths": false
     },
     {
@@ -386,7 +386,7 @@
       "category": "inverse_generic",
       "series": "system_graphite",
       "native_source": "Sources/v3/svg/Signal_Light.svg",
-      "source_sha256": "79aad7a9155251999d7f448e6342bf5dfb322cfc944184a21b3a83e76194d4fe",
+      "source_sha256": "e269bc186d60727224388b4c4b8fc58431e4822c427f1423d0c4e879afc74c7b",
       "third_party_new_paths": false
     },
     {
@@ -394,7 +394,7 @@
       "category": "inverse_generic",
       "series": "entertainment_purple_pink",
       "native_source": "Sources/v3/svg/Stream.svg",
-      "source_sha256": "145f23439285880e688d7e49f768ac32cc1004f4d2dc439d27298f942b79b1e5",
+      "source_sha256": "998724529a25d9b445951e20e04ab6f56d82f43a59dbab0a4cec72baea440052",
       "third_party_new_paths": false
     },
     {
@@ -402,7 +402,7 @@
       "category": "inverse_generic",
       "series": "system_graphite",
       "native_source": "Sources/v3/svg/Tick.svg",
-      "source_sha256": "6ac6aa05b46182583e3eaca9065fdedf4a132bcbea97e8c1bd5421facc609b6c",
+      "source_sha256": "67ae114448b96b15da6ef726d16da5c5ee8b52483ba1a214b08c1eb190ee7799",
       "third_party_new_paths": false
     },
     {
@@ -410,7 +410,7 @@
       "category": "inverse_generic",
       "series": "system_graphite",
       "native_source": "Sources/v3/svg/Tick_2.svg",
-      "source_sha256": "939aaeb6e9341ed3cf5b67d1f836960f305777335bff61a822c1ca6e197fe7a0",
+      "source_sha256": "e73c6c79b583535508f082e279f92500bbd19396b0092cdae082b520363cf3b1",
       "third_party_new_paths": false
     },
     {
@@ -418,7 +418,7 @@
       "category": "inverse_generic",
       "series": "transfer_orange_red",
       "native_source": "Sources/v3/svg/Transfer.svg",
-      "source_sha256": "6ee65eaba7a09c4baa847fcf1acbe00630770a611b5b0d4ad5d63dc04b37bcb8",
+      "source_sha256": "44faea3ede12ed6471b66aee89d7701822f5f2fc1cb75a9040af61969dc4c840",
       "third_party_new_paths": false
     },
     {
@@ -426,7 +426,7 @@
       "category": "inverse_generic",
       "series": "system_graphite",
       "native_source": "Sources/v3/svg/Yin_Yang.svg",
-      "source_sha256": "47e319c00e86a2e7c1b91ec6d36dfab98290ce70b5c573f0b28430bd3d69c9ef",
+      "source_sha256": "553adbe29815403db77185b8d1d9e48e27a35f6e38c60f3ec65657dd74a2301e",
       "third_party_new_paths": false
     }
   ]

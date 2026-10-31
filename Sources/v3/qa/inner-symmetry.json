@@ -1,0 +1,19 @@
+{
+  "status": "pass",
+  "fixture": "centered circle native360 rendered1440; onlyinnerdepth/highlight merged",
+  "horizontal_reflection_max_alpha_delta": 4,
+  "vertical_reflection_max_alpha_delta": 3,
+  "outside_subject_alpha_max": 0,
+  "inner_max_alpha": 19,
+  "centroid_offset_native": [
+    -0.005060010050215169,
+    0.0006478633557662761
+  ],
+  "reflection_alpha_relative_L1": [
+    0.001461409799213946,
+    0.0012963336092695135
+  ],
+  "raster_note": "Local edge quantization can differ by a few alpha levels; normalized reflection error and centroid establish no meaningful directional shift.",
+  "inner_has_spatial_offset": false,
+  "outer_shadow_excluded_only_for_diagnostic": true
+}
