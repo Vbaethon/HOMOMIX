@@ -1,0 +1,1778 @@
+{
+  "status": "Implemented; reviewed across categories at actual36px; structural tests and full cold reconstruction complete.",
+  "icons": [
+    {
+      "name": "AI",
+      "scale": 1.0695,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.01857,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。 相对倍率由样板原始倍率/v8计划倍率换算。"
+    },
+    {
+      "name": "AI_Tree",
+      "scale": 1.07,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.07,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "AI_bot",
+      "scale": 1.155,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.1,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "AI_voice",
+      "scale": 1.176,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.05,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "ASIA",
+      "scale": 1.0185,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 0.97,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Adblock",
+      "scale": 1.1232,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.04,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "AdblockPlus",
+      "scale": 1.0,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "AdblockPlus_2",
+      "scale": 1.1025,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.05,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Adguard",
+      "scale": 0.9215,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.97,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Adobe",
+      "scale": 1.0,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_gradient_background",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Amazon",
+      "scale": 0.92,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.92,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Apple",
+      "scale": 0.94,
+      "dx": 0,
+      "dy": 0,
+      "mode": "special",
+      "relative_to_v8_proposal": 0.94,
+      "fixed_background": true,
+      "review_note": "灰色背景保持原样，苹果前景独立调整。"
+    },
+    {
+      "name": "Apple_TV",
+      "scale": 0.946,
+      "dx": 0,
+      "dy": 0,
+      "mode": "colored_mark_dark_background",
+      "relative_to_v8_proposal": 0.86,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Apple_black",
+      "scale": 0.98,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_gradient_background",
+      "relative_to_v8_proposal": 0.98,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Apple_rainbow",
+      "scale": 0.98,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_gradient_background",
+      "relative_to_v8_proposal": 0.98,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Auto_Link",
+      "scale": 1.1648,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.04,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "BT_Bittorrent",
+      "scale": 0.96,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.96,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Bahamut",
+      "scale": 0.9373,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 0.91,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Bahamut_b",
+      "scale": 0.9373,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 0.91,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Bahamut_i",
+      "scale": 0.9373,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 0.91,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Bilibili_Global",
+      "scale": 1.0476,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.97,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Bilibili_blue",
+      "scale": 0.97,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_flat_color_background",
+      "relative_to_v8_proposal": 0.97,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Binance",
+      "scale": 1.0,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Bing",
+      "scale": 1.029,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.98,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Bitcoin",
+      "scale": 1.4,
+      "dx": -2,
+      "dy": 0,
+      "mode": "bitcoin_adapted_background",
+      "relative_to_v8_proposal": 0.98,
+      "fixed_background": true,
+      "review_note": "用户套系布局适配：橙色铺满圆盘，白B主体独立统一尺寸；不声称是官方新logo。"
+    },
+    {
+      "name": "Bluesky",
+      "scale": 1.0044,
+      "dx": 0,
+      "dy": -3,
+      "mode": "white_mark_flat_color_background",
+      "relative_to_v8_proposal": 1.0044,
+      "fixed_background": true,
+      "review_note": "白蝴蝶独立于蓝底；沿用样板向上3native光学偏移。 相对倍率由样板原始倍率/v8计划倍率换算。"
+    },
+    {
+      "name": "Bytedance",
+      "scale": 1.0,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Calcifer",
+      "scale": 1.0815,
+      "dx": 0,
+      "dy": 0,
+      "mode": "illustration_pale",
+      "relative_to_v8_proposal": 1.03,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Chained",
+      "scale": 1.155,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.1,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Chained_2",
+      "scale": 1.1025,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.05,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "ChatGPT",
+      "scale": 1.0,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "China",
+      "scale": 1.0,
+      "dx": 0,
+      "dy": 0,
+      "mode": "full_composition_preserved",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "旗帜是完整场域构图而非App圆底加logo；保持原旗帜几何，不造白圈、不拆星条。此项是明确的构图例外，需在全套预览单列，不能宣称内部星/月也达25px。"
+    },
+    {
+      "name": "China_Taipei",
+      "scale": 0.92,
+      "dx": 0,
+      "dy": 0,
+      "mode": "special",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Claude",
+      "scale": 0.95,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Cloud",
+      "scale": 0.9396,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_flat_color_background",
+      "relative_to_v8_proposal": 0.87,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "CloudFlare",
+      "scale": 0.957,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_flat_color_background",
+      "relative_to_v8_proposal": 0.87,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Consistent_Hashing",
+      "scale": 1.1025,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.05,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Crypto",
+      "scale": 0.84,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_gradient_background",
+      "relative_to_v8_proposal": 0.91,
+      "fixed_background": true,
+      "review_note": "官方开发者App Store深蓝渐变原底固定满圆，完整白六角狮头独立缩放；替换旧青绿项目配色。"
+    },
+    {
+      "name": "DIRECT",
+      "scale": 1.176,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.05,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "DeepSeek",
+      "scale": 1.2096,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.08,
+      "fixed_background": true,
+      "review_note": "放大时维持已审光学中心；不要把躯干重新按全bbox居中。"
+    },
+    {
+      "name": "Discord",
+      "scale": 0.88,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_flat_color_background",
+      "relative_to_v8_proposal": 0.88,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Disney",
+      "scale": 1.1,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Disney_Castle",
+      "scale": 1.0,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Disney_Channel",
+      "scale": 1.081,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 0.94,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Disney_Mickey",
+      "scale": 0.8,
+      "dx": 0,
+      "dy": 0,
+      "mode": "character_on_flat_background",
+      "relative_to_v8_proposal": 0.84,
+      "fixed_background": true,
+      "review_note": "角色前景需从黄色底分离后整体缩小，禁止缩整图套白盘。"
+    },
+    {
+      "name": "Disney_plus",
+      "scale": 1.1,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Dolphin",
+      "scale": 1.06,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.1346,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。 相对倍率由样板原始倍率/v8计划倍率换算。"
+    },
+    {
+      "name": "Douyin",
+      "scale": 0.94,
+      "dx": 0,
+      "dy": 0,
+      "mode": "colored_mark_dark_background",
+      "relative_to_v8_proposal": 0.94,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Download",
+      "scale": 1.08,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.06778,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。 相对倍率由样板原始倍率/v8计划倍率换算。"
+    },
+    {
+      "name": "Download_2",
+      "scale": 1.15344,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.068,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "EPIC",
+      "scale": 1.04,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 1.04,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Emby",
+      "scale": 0.945,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.9,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "European_Union",
+      "scale": 1.0,
+      "dx": 0,
+      "dy": 0,
+      "mode": "full_composition_preserved",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "旗帜是完整场域构图而非App圆底加logo；保持原旗帜几何，不造白圈、不拆星条。此项是明确的构图例外，需在全套预览单列，不能宣称内部星/月也达25px。"
+    },
+    {
+      "name": "F2C",
+      "scale": 0.96,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.96,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "FCM_Firebase_Cloud_Messaging",
+      "scale": 0.96,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.96,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Facebook",
+      "scale": 0.9114,
+      "dx": 0,
+      "dy": -20,
+      "mode": "white_mark_flat_color_background",
+      "relative_to_v8_proposal": 0.9114,
+      "fixed_background": true,
+      "review_note": "必须抽出f字形，原蓝底铺满圆；同时沿用样板向上20native光学偏移，解除下端贴边。 相对倍率由样板原始倍率/v8计划倍率换算。"
+    },
+    {
+      "name": "Failover",
+      "scale": 1.09,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.09,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Fast",
+      "scale": 1.1,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Fish",
+      "scale": 1.1346,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.1346,
+      "fixed_background": true,
+      "review_note": "按新样板同时采用加高圆腹路径；1.135仅表示整体倍率，单靠旧v8椭圆放大不足以复现样板。 相对倍率由样板原始倍率/v8计划倍率换算。"
+    },
+    {
+      "name": "Fish_b",
+      "scale": 1.11,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.11,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Fish_x",
+      "scale": 1.0,
+      "dx": 0,
+      "dy": 0,
+      "mode": "illustration_pale",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Flight",
+      "scale": 1.1865,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.13,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Forbidden",
+      "scale": 1.04,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.04,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "GFW",
+      "scale": 1.0735,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.13,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "GOG",
+      "scale": 2.0,
+      "dx": 0,
+      "dy": 0,
+      "mode": "gog_official_white",
+      "relative_to_v8_proposal": 1.02,
+      "fixed_background": true,
+      "review_note": "采用官网152px Apple touch官方紫色gog.com字形，白底承托；移除未经官方色源证实的旧黑紫方卡。"
+    },
+    {
+      "name": "Game",
+      "scale": 1.04,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 0.97227,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。 相对倍率由样板原始倍率/v8计划倍率换算。"
+    },
+    {
+      "name": "Gemini",
+      "scale": 1.18,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.18,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "GitHub",
+      "scale": 0.88,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_flat_color_background",
+      "relative_to_v8_proposal": 0.88,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Global",
+      "scale": 1.0,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Globefish",
+      "scale": 1.12,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.12,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Gmail",
+      "scale": 0.9207,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 1.00076,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。 相对倍率由样板原始倍率/v8计划倍率换算。"
+    },
+    {
+      "name": "Google",
+      "scale": 0.9486,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.97794,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。 相对倍率由样板原始倍率/v8计划倍率换算。"
+    },
+    {
+      "name": "Grok",
+      "scale": 0.9114,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 0.99065,
+      "fixed_background": true,
+      "review_note": "银色主体独立缩放，黑圆底固定；不要恢复原App方框反光。 相对倍率由样板原始倍率/v8计划倍率换算。"
+    },
+    {
+      "name": "HBO_MAX",
+      "scale": 0.91,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_flat_color_background",
+      "relative_to_v8_proposal": 0.91,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Home",
+      "scale": 1.1772,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.09,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Hong_Kong",
+      "scale": 1.16,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_flat_color_background",
+      "relative_to_v8_proposal": 1.1,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Huawei",
+      "scale": 1.001,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_flat_color_background",
+      "relative_to_v8_proposal": 0.91,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Huawei_black",
+      "scale": 1.001,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_gradient_background",
+      "relative_to_v8_proposal": 0.91,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Huawei_white",
+      "scale": 1.001,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.91,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Hugging_face",
+      "scale": 1.05,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Hugging_face_g",
+      "scale": 0.987,
+      "dx": 0,
+      "dy": 0,
+      "mode": "colored_mark_bright_background",
+      "relative_to_v8_proposal": 0.94,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Hulu",
+      "scale": 1.14264,
+      "dx": 0,
+      "dy": 0,
+      "mode": "colored_mark_dark_background",
+      "relative_to_v8_proposal": 0.92,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Infuse",
+      "scale": 1.197,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 1.14,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Instagram",
+      "scale": 0.93,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_gradient_background",
+      "relative_to_v8_proposal": 0.93,
+      "fixed_background": true,
+      "review_note": "白相机字形独立缩小；保留官方渐变背景，不得以缩整图产生白边。 相对倍率由样板原始倍率/v8计划倍率换算。"
+    },
+    {
+      "name": "Japan",
+      "scale": 1.08,
+      "dx": 0,
+      "dy": 0,
+      "mode": "illustration_pale",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "旗帜是完整场域构图而非App圆底加logo；保持原旗帜几何，不造白圈、不拆星条。此项是明确的构图例外，需在全套预览单列，不能宣称内部星/月也达25px。"
+    },
+    {
+      "name": "Jellyfin",
+      "scale": 0.96,
+      "dx": 0,
+      "dy": 0,
+      "mode": "colored_mark_dark_background",
+      "relative_to_v8_proposal": 0.96,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Link",
+      "scale": 1.134,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.08,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Linkedin",
+      "scale": 0.97,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_gradient_background",
+      "relative_to_v8_proposal": 0.97,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Linkedin_ray",
+      "scale": 0.97,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_gradient_background",
+      "relative_to_v8_proposal": 0.97,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Load_balancing",
+      "scale": 1.06,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.1625,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。 相对倍率由样板原始倍率/v8计划倍率换算。"
+    },
+    {
+      "name": "Load_balancing_2",
+      "scale": 1.1,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.10222,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。 相对倍率由样板原始倍率/v8计划倍率换算。"
+    },
+    {
+      "name": "Load_balancing_3",
+      "scale": 1.177,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.07,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Location",
+      "scale": 1.1235,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.07,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "MLB",
+      "scale": 0.913,
+      "dx": 0,
+      "dy": 0,
+      "mode": "colored_mark_dark_background",
+      "relative_to_v8_proposal": 0.83,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Magic_Timer",
+      "scale": 1.134,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.08,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Mail",
+      "scale": 1.2528,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.16,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Messenger",
+      "scale": 0.95,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.95,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Meta_1",
+      "scale": 0.97,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.97,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Microsoft",
+      "scale": 1.0650600000000001,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.22,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Microsoft_365",
+      "scale": 1.05,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Microsoft_Copilot",
+      "scale": 0.96,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.96,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "NBA",
+      "scale": 0.9396,
+      "dx": 0,
+      "dy": 0,
+      "mode": "colored_mark_dark_background",
+      "relative_to_v8_proposal": 0.87,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Netflix",
+      "scale": 1.07,
+      "dx": 0,
+      "dy": 0,
+      "mode": "colored_mark_dark_background",
+      "relative_to_v8_proposal": 1.07,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Netflix_b",
+      "scale": 1.07,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 1.07,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Network",
+      "scale": 1.02,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.02,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Network_2",
+      "scale": 1.02,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.02,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Niche_Link",
+      "scale": 1.134,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.08,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Niconico",
+      "scale": 0.893,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.94,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Niconico_Live",
+      "scale": 0.9555,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.91,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Niconico_Manga",
+      "scale": 0.86,
+      "dx": 0,
+      "dy": 0,
+      "mode": "colored_mark_bright_background",
+      "relative_to_v8_proposal": 0.86,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Olympics",
+      "scale": 0.9775,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.85,
+      "fixed_background": true,
+      "review_note": "五环横向跨度当前过宽；按宽度略收，不因低面积而加粗环或追求25px高度。"
+    },
+    {
+      "name": "Omission",
+      "scale": 0.9,
+      "dx": 0,
+      "dy": 0,
+      "mode": "special",
+      "relative_to_v8_proposal": 0.9,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "OneDrive",
+      "scale": 0.94,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.94,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Onlyfans",
+      "scale": 0.987,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.94,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Other",
+      "scale": 1.265,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.1,
+      "fixed_background": true,
+      "review_note": "横向三点以跨度匹配，不追求25px高度。",
+      "compact_scale": 0.95
+    },
+    {
+      "name": "Outlook",
+      "scale": 0.95,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Palestine",
+      "scale": 1.0,
+      "dx": 0,
+      "dy": 0,
+      "mode": "full_composition_preserved",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "旗帜是完整场域构图而非App圆底加logo；保持原旗帜几何，不造白圈、不拆星条。此项是明确的构图例外，需在全套预览单列，不能宣称内部星/月也达25px。"
+    },
+    {
+      "name": "Panda",
+      "scale": 1.1249280000000002,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.12,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Panda_WWF",
+      "scale": 0.9975,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.95,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Panda_ai",
+      "scale": 1.074708,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.07,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "PayPal",
+      "scale": 0.95,
+      "dx": 0,
+      "dy": 0,
+      "mode": "colored_mark_dark_background",
+      "relative_to_v8_proposal": 0.95,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "PayPal_business",
+      "scale": 0.9975,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.95,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Peacook",
+      "scale": 0.9,
+      "dx": 0,
+      "dy": 0,
+      "mode": "colored_mark_dark_background",
+      "relative_to_v8_proposal": 0.9,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Perplexity",
+      "scale": 0.91,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_gradient_background",
+      "relative_to_v8_proposal": 0.91,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Pig",
+      "scale": 1.04,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.01611,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。 相对倍率由样板原始倍率/v8计划倍率换算。"
+    },
+    {
+      "name": "Piggies",
+      "scale": 0.72,
+      "dx": 0,
+      "dy": 0,
+      "mode": "transparent_character",
+      "relative_to_v8_proposal": 0.85,
+      "fixed_background": true,
+      "review_note": "需分离猪脸前景和绿色圆底，不能把整张圆图当主体。"
+    },
+    {
+      "name": "Piggies_b",
+      "scale": 0.95,
+      "dx": 0,
+      "dy": 0,
+      "mode": "illustration_pale",
+      "relative_to_v8_proposal": 0.95,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Pixiv",
+      "scale": 0.9951,
+      "dx": 14,
+      "dy": 0,
+      "mode": "white_mark_flat_color_background",
+      "relative_to_v8_proposal": 0.9951,
+      "fixed_background": true,
+      "review_note": "必须抽出p字形，原蓝底铺圆；沿用样板向右14native光学偏移，解除左缘逼近。 相对倍率由样板原始倍率/v8计划倍率换算。"
+    },
+    {
+      "name": "Playstation",
+      "scale": 0.968,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_gradient_background",
+      "relative_to_v8_proposal": 0.88,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Playstation_30th",
+      "scale": 0.9975,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.95,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Playstation_remote",
+      "scale": 0.93,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_gradient_background",
+      "relative_to_v8_proposal": 0.93,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Plex",
+      "scale": 1.08,
+      "dx": 0,
+      "dy": 0,
+      "mode": "colored_mark_dark_background",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Pornhub",
+      "scale": 1.0,
+      "dx": 0,
+      "dy": 0,
+      "mode": "colored_mark_dark_background",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Prime",
+      "scale": 0.8964,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_flat_color_background",
+      "relative_to_v8_proposal": 0.83,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Qoura",
+      "scale": 1.0,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_gradient_background",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Reddit",
+      "scale": 0.987,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.94,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Remote",
+      "scale": 1.08,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.08,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Round_Robin",
+      "scale": 1.089,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 0.99,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "SNS",
+      "scale": 1.07,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.07,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Scholar",
+      "scale": 1.1235,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.07,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Seancody",
+      "scale": 1.012,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.88,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Server",
+      "scale": 1.064,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.12,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。",
+      "compact_scale": 0.95
+    },
+    {
+      "name": "Settings",
+      "scale": 1.063152,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.07,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Signal_Light",
+      "scale": 1.176,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.05,
+      "fixed_background": true,
+      "review_note": "横向胶囊以跨度匹配，不追求25px高度。"
+    },
+    {
+      "name": "Singapore",
+      "scale": 1.0,
+      "dx": 0,
+      "dy": 0,
+      "mode": "full_composition_preserved",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "旗帜是完整场域构图而非App圆底加logo；保持原旗帜几何，不造白圈、不拆星条。此项是明确的构图例外，需在全套预览单列，不能宣称内部星/月也达25px。"
+    },
+    {
+      "name": "Sony_Live",
+      "scale": 0.88,
+      "dx": 0,
+      "dy": 0,
+      "mode": "sony_original",
+      "relative_to_v8_proposal": 0.85,
+      "fixed_background": true,
+      "review_note": "文字与标志作为主体，原渐变背景固定；不得用外圆alpha测量主体大小。"
+    },
+    {
+      "name": "South_Korea",
+      "scale": 0.95,
+      "dx": 0,
+      "dy": 0,
+      "mode": "special",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "旗帜是完整场域构图而非App圆底加logo；保持原旗帜几何，不造白圈、不拆星条。此项是明确的构图例外，需在全套预览单列，不能宣称内部星/月也达25px。"
+    },
+    {
+      "name": "SpeedTest",
+      "scale": 0.98,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_gradient_background",
+      "relative_to_v8_proposal": 0.98,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Spotify",
+      "scale": 0.88,
+      "dx": 0,
+      "dy": 0,
+      "mode": "colored_mark_dark_background",
+      "relative_to_v8_proposal": 0.88,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Steam",
+      "scale": 0.82,
+      "dx": 14,
+      "dy": -4,
+      "mode": "steam_existing_positive",
+      "relative_to_v8_proposal": 0.85,
+      "fixed_background": true,
+      "review_note": "原白蒸汽标延伸至边缘，需分离后缩小；原蓝渐变圆底不变。"
+    },
+    {
+      "name": "Stream",
+      "scale": 1.008,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 0.96,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Taiwan_Province",
+      "scale": 0.9,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_flat_color_background",
+      "relative_to_v8_proposal": 0.9,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Telegram",
+      "scale": 0.98,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_flat_color_background",
+      "relative_to_v8_proposal": 0.98,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Threads",
+      "scale": 0.95,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_flat_color_background",
+      "relative_to_v8_proposal": 0.95,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Tick",
+      "scale": 1.03,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.03,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Tick_2",
+      "scale": 0.95,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 0.95,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。",
+      "compact_scale": 0.95
+    },
+    {
+      "name": "TikTok",
+      "scale": 0.9486,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.90343,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。 相对倍率由样板原始倍率/v8计划倍率换算。"
+    },
+    {
+      "name": "Transfer",
+      "scale": 1.12,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.12,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Twitch",
+      "scale": 1.0,
+      "dx": 0,
+      "dy": 0,
+      "mode": "colored_mark_dark_background",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Twitter",
+      "scale": 0.95,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_flat_color_background",
+      "relative_to_v8_proposal": 0.95,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "UBISOFT",
+      "scale": 1.221,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 1.11,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "UK",
+      "scale": 1.0,
+      "dx": 0,
+      "dy": 0,
+      "mode": "full_composition_preserved",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "旗帜是完整场域构图而非App圆底加logo；保持原旗帜几何，不造白圈、不拆星条。此项是明确的构图例外，需在全套预览单列，不能宣称内部星/月也达25px。"
+    },
+    {
+      "name": "USA",
+      "scale": 1.0,
+      "dx": 0,
+      "dy": 0,
+      "mode": "full_composition_preserved",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "旗帜是完整场域构图而非App圆底加logo；保持原旗帜几何，不造白圈、不拆星条。此项是明确的构图例外，需在全套预览单列，不能宣称内部星/月也达25px。"
+    },
+    {
+      "name": "Video_Vimeo",
+      "scale": 1.06,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_gradient_background",
+      "relative_to_v8_proposal": 1.06,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Vimeo",
+      "scale": 1.06,
+      "dx": 0,
+      "dy": 0,
+      "mode": "dark_mark_bright_background",
+      "relative_to_v8_proposal": 1.06,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Weibo",
+      "scale": 1.02,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 1.02,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "WhatsApp",
+      "scale": 0.89,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_gradient_background",
+      "relative_to_v8_proposal": 0.89,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "X",
+      "scale": 0.95,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_flat_color_background",
+      "relative_to_v8_proposal": 0.95,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Xbox",
+      "scale": 0.7,
+      "dx": 0,
+      "dy": 0,
+      "mode": "special",
+      "relative_to_v8_proposal": 0.82,
+      "fixed_background": true,
+      "review_note": "官方透明整球是主体，保留完整原始球体及透明负空间；统一白色圆盘承托，主体缩放至同排视觉尺寸。"
+    },
+    {
+      "name": "Xianyu",
+      "scale": 1.15,
+      "dx": 0,
+      "dy": 0,
+      "mode": "dark_mark_bright_background",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Yin_Yang",
+      "scale": 0.973728,
+      "dx": 0,
+      "dy": 0,
+      "mode": "native",
+      "relative_to_v8_proposal": 0.98,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "YouTube",
+      "scale": 1.0,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Zoho_new",
+      "scale": 1.0395,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.99,
+      "fixed_background": true,
+      "review_note": "当前v8仍与Zoho_old同样式；来源区分是独立必修项，倍率不能解决。"
+    },
+    {
+      "name": "Zoho_old",
+      "scale": 1.0395,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.99,
+      "fixed_background": true,
+      "review_note": "当前v8仍与Zoho_new同样式；来源区分是独立必修项，倍率不能解决。"
+    },
+    {
+      "name": "Zune",
+      "scale": 0.8464,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 0.92,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "bilibili",
+      "scale": 0.97,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_mark_flat_color_background",
+      "relative_to_v8_proposal": 0.97,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "xHamster",
+      "scale": 1.05,
+      "dx": 0,
+      "dy": 0,
+      "mode": "white_or_pale_disc_raster",
+      "relative_to_v8_proposal": 1.0,
+      "fixed_background": true,
+      "review_note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    }
+  ]
+}

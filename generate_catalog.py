@@ -4,7 +4,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 RAW_BASE = 'https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/'
-ALIASES = {'Claud.png': 'Claude.png'}
+from icon_aliases import ALIASES, is_hidden_alias
 
 
 def build_catalog(repo_root=Path('.')):
@@ -17,8 +17,7 @@ def build_catalog(repo_root=Path('.')):
     for path in files:
         if not path.is_file():
             continue
-        canonical = ALIASES.get(path.name)
-        if canonical and path.with_name(canonical).is_file():
+        if is_hidden_alias(path):
             continue
         relative = path.relative_to(root).as_posix()
         icons.append({'name': path.name, 'url': RAW_BASE + quote(relative, safe='/')})

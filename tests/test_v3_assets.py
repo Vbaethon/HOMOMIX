@@ -1,4 +1,6 @@
-"""Integrity and URL compatibility of the reconstructed, reproducible icon set."""
+"""Historical v3/v4 reconstruction locks against frozen pre-optical snapshots.
+Current production and approved URL deletions are tested in test_optical_revision.
+"""
 from collections import defaultdict
 import hashlib
 import json
@@ -9,6 +11,7 @@ import xml.etree.ElementTree as ET
 
 ROOT=Path(__file__).resolve().parents[1]
 SOURCES=ROOT/'Sources/v3'
+HISTORICAL=ROOT/'Sources/v5/input-original'
 
 
 def read(name):return json.loads((SOURCES/name).read_text())
@@ -27,7 +30,7 @@ class ReconstructionTests(unittest.TestCase):
         self.assertEqual(read('collection-manifest.json')['assets'],self.assets)
         for row in self.assets:
             groups[row['name']].append(row)
-            path=ROOT/row['path'];self.assertEqual(sha(path),row['new_sha256'])
+            path=HISTORICAL/row['path'];self.assertEqual(sha(path),row['new_sha256'])
             raw=path.read_bytes();self.assertEqual(raw[:8],b'\x89PNG\r\n\x1a\n')
             self.assertEqual(list(struct.unpack('>II',raw[16:24])),row['dimensions'])
             self.assertEqual(tuple(raw[24:26]),(8,6))
@@ -51,10 +54,13 @@ class ReconstructionTests(unittest.TestCase):
 
     def test_protected_and_all_retained_png_bytes(self):
         baseline=read('baseline-files.json')['files'];changed={r['path'] for r in self.assets}
-        actual={p.relative_to(ROOT).as_posix() for p in (ROOT/'Icon/Color').rglob('*.png')}
-        self.assertEqual(actual,{r['path'] for r in baseline},'An original image URL was added or lost')
+        current=json.loads((ROOT/'Sources/v4/collection-manifest.json').read_text())
+        changed|={r['path'] for r in current['changes']}
+        actual={p.relative_to(HISTORICAL).as_posix() for p in (HISTORICAL/'Icon/Color').rglob('*.png')}
+        self.assertEqual(actual,set(current['files']),'Unexpected image URL')
+        self.assertTrue({r['path'] for r in baseline}<=actual,'An original image URL was lost')
         for row in baseline:
-            if row['path'] not in changed:self.assertEqual(sha(ROOT/row['path']),row['sha256'],row['path'])
+            if row['path'] not in changed:self.assertEqual(sha(HISTORICAL/row['path']),row['sha256'],row['path'])
         forbidden={'Google','Apple_rainbow','GOG','Twitch','Apple','Plex','Linkedin_ray','Claud','Claude'}
         self.assertFalse({r['name'] for r in self.assets}&forbidden)
         self.assertFalse(any('/FDS/' in r['path'] for r in self.assets))
@@ -68,7 +74,9 @@ class ReconstructionTests(unittest.TestCase):
         for row in rows:
             self.assertEqual(len(row['paths']),2)
             for path in row['paths']:
-                self.assertEqual(sha(ROOT/path),row['final_sha256'][path])
+                current=json.loads((ROOT/'Sources/v4/collection-manifest.json').read_text())
+                expected=current['files'].get(path,row['final_sha256'][path])
+                self.assertEqual(sha(HISTORICAL/path),expected)
 
     def test_source_inventory(self):
         indexed=read('source-files.json')['files'];paths=[r['path'] for r in indexed]

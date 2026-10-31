@@ -1,13 +1,11 @@
 {
-  "status": "centered lighter inner-only correction v5; not synced",
+  "status": "new reconstruction of the reviewed direction; not byte-identical to the lost package",
   "baseline_commit": "efe70aec5ee7da492609be67a53c6a9dde78c3a2",
   "counts": {
     "canonical_reviewed": 174,
     "updated_names": 53,
     "retained_names": 121,
-    "changed_png": 106,
-    "inverse_generic": 49,
-    "preserved_theme_exceptions": 4
+    "changed_png": 106
   },
   "expected_dependencies": {
     "python": "3.12.14",
@@ -1817,9 +1815,9 @@
     {
       "name": "Load_balancing_2",
       "path": "Icon/Color/Large/Load_balancing_2.png",
-      "new_sha256": "e839e2e93aa7d40cce2097e07bb9f98f1a4086f2ae5cc689e7b50f00bedd1cff",
+      "new_sha256": "a75d288cca3fc1bb43d43adb3b00a8d783bea429fdef3f3eff484e73b21c9fb7",
       "native_source": "Sources/v3/svg/Load_balancing_2.svg",
-      "native_source_sha256": "f2b6f1c00a219bcba50f5b2d5bdd36d4c4c5315f2a53a500ae20a5a76ca28f4f",
+      "native_source_sha256": "79ef648cf2d1365159e2ab81b825c50bec77cd6ed4a8fd3c18a2d8ae8cf25375",
       "master": [
         1440,
         1440
@@ -1842,15 +1840,15 @@
         359,
         360
       ],
-      "bytes": 44120,
+      "bytes": 38794,
       "baseline_sha256": "50cad032424a5e85082ebfaca3381e66173b1ff1457f49d26703d84080cc149f"
     },
     {
       "name": "Load_balancing_3",
       "path": "Icon/Color/Large/Load_balancing_3.png",
-      "new_sha256": "e839e2e93aa7d40cce2097e07bb9f98f1a4086f2ae5cc689e7b50f00bedd1cff",
+      "new_sha256": "f412c62b89f81d317a0f6b4e2dffe9e73fb13fcc1c4dc833414cfbed5c470f7e",
       "native_source": "Sources/v3/svg/Load_balancing_3.svg",
-      "native_source_sha256": "f2b6f1c00a219bcba50f5b2d5bdd36d4c4c5315f2a53a500ae20a5a76ca28f4f",
+      "native_source_sha256": "c82978f4f8511510f89f636a384888001db8bf9d4aec7f2f89970b29d3cd784f",
       "master": [
         1440,
         1440
@@ -1873,7 +1871,7 @@
         359,
         360
       ],
-      "bytes": 44120,
+      "bytes": 48276,
       "baseline_sha256": "6d041fe4c6e9db0266b35356d5ded3cff2783c9064397b6f7ba1d04c42234ef0"
     },
     {
@@ -2096,9 +2094,9 @@
     {
       "name": "Panda",
       "path": "Icon/Color/Large/Panda.png",
-      "new_sha256": "4add21c6a6bf78fade2fdb6c4af14e7bf8a84f1b198cba59c2901f89e63ef35e",
+      "new_sha256": "89ad535f4bc13b9424836ff70d2e132702c1434f80e2b1a4de385145d4325465",
       "native_source": "Sources/v3/svg/Panda.svg",
-      "native_source_sha256": "310f3bdbd2ac1e59af4b51aefc8299f92c219852918f98d50b0e0d3e7cf1442d",
+      "native_source_sha256": "0188ff01a74cf7b23e88fcdfbbd0e2813aba6f60f59682471090a4cb021a68fa",
       "master": [
         1440,
         1440
@@ -2121,15 +2119,15 @@
         359,
         360
       ],
-      "bytes": 61097,
+      "bytes": 57509,
       "baseline_sha256": "3079f776fe57d90a59cc2507f10aca94f4e0c53d2b95c487f66b5e9e10cb4f13"
     },
     {
       "name": "Panda_ai",
       "path": "Icon/Color/Large/Panda_ai.png",
-      "new_sha256": "9ab2c9e22a165981a44fe4915ffc3d313d64db9739811c02250fc5bd63dd24fb",
+      "new_sha256": "2f76775232b64a75fc70e95652c5109a3413b4fcc93594d75152140177327eb7",
       "native_source": "Sources/v3/svg/Panda_ai.svg",
-      "native_source_sha256": "308f917c3c9057fc1b0cb402bd25024b97f8e28161371a3341c56b3bc8c894a5",
+      "native_source_sha256": "f6bce55ad72b703302df8855d74ec0eef69e1def050761dab62d3d32ac460e80",
       "master": [
         1440,
         1440
@@ -2152,7 +2150,7 @@
         359,
         360
       ],
-      "bytes": 63325,
+      "bytes": 59440,
       "baseline_sha256": "cc879ce514b5724b20d45072ea0a96ed59604ee82ea247f3bff14ef4a05d0408"
     },
     {
@@ -2592,9 +2590,9 @@
     {
       "name": "Load_balancing_2",
       "path": "Icon/Color/Load_balancing_2.png",
-      "new_sha256": "fd5d6dc04330a4cc52ffd2fedd61211242bec7708362fa511f96d22507750d67",
+      "new_sha256": "f16ca8f3c565b62799618615720d5711f79ff5aa2a571a4855692d3e8b57cea1",
       "native_source": "Sources/v3/svg/Load_balancing_2.svg",
-      "native_source_sha256": "f2b6f1c00a219bcba50f5b2d5bdd36d4c4c5315f2a53a500ae20a5a76ca28f4f",
+      "native_source_sha256": "79ef648cf2d1365159e2ab81b825c50bec77cd6ed4a8fd3c18a2d8ae8cf25375",
       "master": [
         1440,
         1440
@@ -2617,15 +2615,15 @@
         240,
         240
       ],
-      "bytes": 18821,
+      "bytes": 16652,
       "baseline_sha256": "8cc2fdba69d3ae5da879ff3c51a03e30bf7d5275786d680b92e5fd5d430af2af"
     },
     {
       "name": "Load_balancing_3",
       "path": "Icon/Color/Load_balancing_3.png",
-      "new_sha256": "fd5d6dc04330a4cc52ffd2fedd61211242bec7708362fa511f96d22507750d67",
+      "new_sha256": "cb32091713cc15e25f20d4ca549b2341d6b453c98d702419f41da4e19ecb7217",
       "native_source": "Sources/v3/svg/Load_balancing_3.svg",
-      "native_source_sha256": "f2b6f1c00a219bcba50f5b2d5bdd36d4c4c5315f2a53a500ae20a5a76ca28f4f",
+      "native_source_sha256": "c82978f4f8511510f89f636a384888001db8bf9d4aec7f2f89970b29d3cd784f",
       "master": [
         1440,
         1440
@@ -2648,7 +2646,7 @@
         240,
         240
       ],
-      "bytes": 18821,
+      "bytes": 20093,
       "baseline_sha256": "e1520d8049ecf379ce553093c1ef51d70b8f576784c7f75a86a611c8093b5f7e"
     },
     {
@@ -2871,9 +2869,9 @@
     {
       "name": "Panda",
       "path": "Icon/Color/Panda.png",
-      "new_sha256": "3049137135101eba16ad9cfda5e51a9d3c378e7b54675e4082cbf6109827e47a",
+      "new_sha256": "9b2937ff49c36333902f3e1ce0e43bed9cf00b0638e6bfd0e52184941339c961",
       "native_source": "Sources/v3/svg/Panda.svg",
-      "native_source_sha256": "310f3bdbd2ac1e59af4b51aefc8299f92c219852918f98d50b0e0d3e7cf1442d",
+      "native_source_sha256": "0188ff01a74cf7b23e88fcdfbbd0e2813aba6f60f59682471090a4cb021a68fa",
       "master": [
         1440,
         1440
@@ -2896,15 +2894,15 @@
         240,
         240
       ],
-      "bytes": 24354,
+      "bytes": 25184,
       "baseline_sha256": "f4f9b6d4ba7be7d11e43e3de883c470a10bfb0971c7dcb9332150b94d85b4e6e"
     },
     {
       "name": "Panda_ai",
       "path": "Icon/Color/Panda_ai.png",
-      "new_sha256": "3abc7148f74fc325f75c962148530da48769c89d8abdd6808784d8b70a749ac1",
+      "new_sha256": "72939782f56522004e715c5caa4342d886ab0ae6007969f7fc5a8105d66c89e9",
       "native_source": "Sources/v3/svg/Panda_ai.svg",
-      "native_source_sha256": "308f917c3c9057fc1b0cb402bd25024b97f8e28161371a3341c56b3bc8c894a5",
+      "native_source_sha256": "f6bce55ad72b703302df8855d74ec0eef69e1def050761dab62d3d32ac460e80",
       "master": [
         1440,
         1440
@@ -2927,7 +2925,7 @@
         240,
         240
       ],
-      "bytes": 25322,
+      "bytes": 25973,
       "baseline_sha256": "6e28b553c1927c486a05c847c9e5f172cba99d142f83e1e8099d776f5c61b106"
     },
     {

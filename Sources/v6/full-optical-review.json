@@ -1,0 +1,2680 @@
+{
+  "status": "independent_visual_proposal_not_final_render_approval",
+  "count": 177,
+  "basis": "用户要求收小7%后的16样板sample-comparison.png；已逐项审当前v8的177枚90px及36px，未沿用旧尺寸结论。",
+  "scale_semantics": "所有relative_to_v8_scale只作用于现有v8前景，不能再乘到原始source上；样板sample_source_scale仅用于复现样板原始pipeline。",
+  "target": "36px圆盘内前景视觉约25–26px，留安全边距；横向/稀疏形态允许光学补偿。官方和原创同目标。",
+  "critical_constraints": [
+    "不得按圆底面积或alpha外界判断前景大小",
+    "所有有色App背景固定铺圆；缩前景必须分层，不能legacy缩整图白补边",
+    "最长方向建议约25–28px，透明安全距建议至少3px；不能只检查bbox不触边就冒称一致",
+    "本JSON是倍率提案，最终177项必须再渲染并全排复核",
+    "旗帜全幅构图明确列例外，不虚称其内部符号达统一主体尺寸",
+    "Zoho新旧当前视觉重复是独立必修，不能用倍率掩盖"
+  ],
+  "icons": [
+    {
+      "name": "AI",
+      "relative_to_v8_scale": 1.01857,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。 相对倍率由样板原始倍率/v8计划倍率换算。",
+      "sample_source_scale": 1.0695,
+      "anchor": "approved-direction reduced16 sample"
+    },
+    {
+      "name": "AI_Tree",
+      "relative_to_v8_scale": 1.07,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "AI_bot",
+      "relative_to_v8_scale": 1.1,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "AI_voice",
+      "relative_to_v8_scale": 1.05,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "ASIA",
+      "relative_to_v8_scale": 0.97,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Adblock",
+      "relative_to_v8_scale": 1.04,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "AdblockPlus",
+      "relative_to_v8_scale": 1.0,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "AdblockPlus_2",
+      "relative_to_v8_scale": 1.05,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Adguard",
+      "relative_to_v8_scale": 0.97,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Adobe",
+      "relative_to_v8_scale": 1.0,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Amazon",
+      "relative_to_v8_scale": 0.92,
+      "category": "横向/字标",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Apple",
+      "relative_to_v8_scale": 0.94,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "灰色背景保持原样，苹果前景独立调整。"
+    },
+    {
+      "name": "Apple_TV",
+      "relative_to_v8_scale": 0.86,
+      "category": "横向/字标",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Apple_black",
+      "relative_to_v8_scale": 0.98,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Apple_rainbow",
+      "relative_to_v8_scale": 0.98,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Auto_Link",
+      "relative_to_v8_scale": 1.04,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "BT_Bittorrent",
+      "relative_to_v8_scale": 0.96,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Bahamut",
+      "relative_to_v8_scale": 0.91,
+      "category": "线形/疏结构",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Bahamut_b",
+      "relative_to_v8_scale": 0.91,
+      "category": "线形/疏结构",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Bahamut_i",
+      "relative_to_v8_scale": 0.91,
+      "category": "线形/疏结构",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Bilibili_Global",
+      "relative_to_v8_scale": 0.97,
+      "category": "线形/疏结构",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Bilibili_blue",
+      "relative_to_v8_scale": 0.97,
+      "category": "线形/疏结构",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Binance",
+      "relative_to_v8_scale": 1.0,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Bing",
+      "relative_to_v8_scale": 0.98,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Bitcoin",
+      "relative_to_v8_scale": 0.98,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Bluesky",
+      "relative_to_v8_scale": 1.0044,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "白蝴蝶独立于蓝底；沿用样板向上3native光学偏移。 相对倍率由样板原始倍率/v8计划倍率换算。",
+      "sample_source_scale": 1.0044,
+      "anchor": "approved-direction reduced16 sample"
+    },
+    {
+      "name": "Bytedance",
+      "relative_to_v8_scale": 1.0,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Calcifer",
+      "relative_to_v8_scale": 1.03,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Chained",
+      "relative_to_v8_scale": 1.1,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Chained_2",
+      "relative_to_v8_scale": 1.05,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "ChatGPT",
+      "relative_to_v8_scale": 1.0,
+      "category": "线形/疏结构",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "China",
+      "relative_to_v8_scale": 1.0,
+      "category": "全幅旗帜构图",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": null,
+      "needs_separate_background": false,
+      "background_policy": "完整旗帜圆形构图保持，不视为可分离App背景",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "旗帜是完整场域构图而非App圆底加logo；保持原旗帜几何，不造白圈、不拆星条。此项是明确的构图例外，需在全套预览单列，不能宣称内部星/月也达25px。"
+    },
+    {
+      "name": "China_Taipei",
+      "relative_to_v8_scale": 1.0,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Claude",
+      "relative_to_v8_scale": 1.0,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Cloud",
+      "relative_to_v8_scale": 0.87,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "CloudFlare",
+      "relative_to_v8_scale": 0.87,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Consistent_Hashing",
+      "relative_to_v8_scale": 1.05,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Crypto",
+      "relative_to_v8_scale": 0.91,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "DIRECT",
+      "relative_to_v8_scale": 1.05,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "DeepSeek",
+      "relative_to_v8_scale": 1.08,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "放大时维持已审光学中心；不要把躯干重新按全bbox居中。"
+    },
+    {
+      "name": "Discord",
+      "relative_to_v8_scale": 0.88,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Disney",
+      "relative_to_v8_scale": 1.0,
+      "category": "线形/疏结构",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Disney_Castle",
+      "relative_to_v8_scale": 1.0,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Disney_Channel",
+      "relative_to_v8_scale": 0.94,
+      "category": "横向/字标",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Disney_Mickey",
+      "relative_to_v8_scale": 0.84,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "角色前景需从黄色底分离后整体缩小，禁止缩整图套白盘。"
+    },
+    {
+      "name": "Disney_plus",
+      "relative_to_v8_scale": 1.0,
+      "category": "线形/疏结构",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Dolphin",
+      "relative_to_v8_scale": 1.1346,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。 相对倍率由样板原始倍率/v8计划倍率换算。",
+      "sample_source_scale": 1.1346,
+      "anchor": "approved-direction reduced16 sample"
+    },
+    {
+      "name": "Douyin",
+      "relative_to_v8_scale": 0.94,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Download",
+      "relative_to_v8_scale": 1.06778,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。 相对倍率由样板原始倍率/v8计划倍率换算。",
+      "sample_source_scale": 1.1532,
+      "anchor": "approved-direction reduced16 sample"
+    },
+    {
+      "name": "Download_2",
+      "relative_to_v8_scale": 1.068,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "EPIC",
+      "relative_to_v8_scale": 1.04,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Emby",
+      "relative_to_v8_scale": 0.9,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "European_Union",
+      "relative_to_v8_scale": 1.0,
+      "category": "全幅旗帜构图",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": null,
+      "needs_separate_background": false,
+      "background_policy": "完整旗帜圆形构图保持，不视为可分离App背景",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "旗帜是完整场域构图而非App圆底加logo；保持原旗帜几何，不造白圈、不拆星条。此项是明确的构图例外，需在全套预览单列，不能宣称内部星/月也达25px。"
+    },
+    {
+      "name": "F2C",
+      "relative_to_v8_scale": 0.96,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "FCM_Firebase_Cloud_Messaging",
+      "relative_to_v8_scale": 0.96,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Facebook",
+      "relative_to_v8_scale": 0.9114,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "必须抽出f字形，原蓝底铺满圆；同时沿用样板向上20native光学偏移，解除下端贴边。 相对倍率由样板原始倍率/v8计划倍率换算。",
+      "sample_source_scale": 0.9114,
+      "anchor": "approved-direction reduced16 sample"
+    },
+    {
+      "name": "Failover",
+      "relative_to_v8_scale": 1.09,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Fast",
+      "relative_to_v8_scale": 1.0,
+      "category": "横向/字标",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Fish",
+      "relative_to_v8_scale": 1.1346,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "按新样板同时采用加高圆腹路径；1.135仅表示整体倍率，单靠旧v8椭圆放大不足以复现样板。 相对倍率由样板原始倍率/v8计划倍率换算。",
+      "sample_source_scale": 1.1346,
+      "anchor": "approved-direction reduced16 sample"
+    },
+    {
+      "name": "Fish_b",
+      "relative_to_v8_scale": 1.11,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-1.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Fish_x",
+      "relative_to_v8_scale": 1.0,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Flight",
+      "relative_to_v8_scale": 1.13,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Forbidden",
+      "relative_to_v8_scale": 1.04,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "GFW",
+      "relative_to_v8_scale": 1.13,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "GOG",
+      "relative_to_v8_scale": 1.02,
+      "category": "横向/字标",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Game",
+      "relative_to_v8_scale": 0.97227,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。 相对倍率由样板原始倍率/v8计划倍率换算。",
+      "sample_source_scale": 1.0695,
+      "anchor": "approved-direction reduced16 sample"
+    },
+    {
+      "name": "Gemini",
+      "relative_to_v8_scale": 1.18,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "GitHub",
+      "relative_to_v8_scale": 0.88,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Global",
+      "relative_to_v8_scale": 1.0,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Globefish",
+      "relative_to_v8_scale": 1.12,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Gmail",
+      "relative_to_v8_scale": 1.00076,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。 相对倍率由样板原始倍率/v8计划倍率换算。",
+      "sample_source_scale": 0.9207,
+      "anchor": "approved-direction reduced16 sample"
+    },
+    {
+      "name": "Google",
+      "relative_to_v8_scale": 0.97794,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。 相对倍率由样板原始倍率/v8计划倍率换算。",
+      "sample_source_scale": 0.9486,
+      "anchor": "approved-direction reduced16 sample"
+    },
+    {
+      "name": "Grok",
+      "relative_to_v8_scale": 0.99065,
+      "category": "线形/疏结构",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "银色主体独立缩放，黑圆底固定；不要恢复原App方框反光。 相对倍率由样板原始倍率/v8计划倍率换算。",
+      "sample_source_scale": 0.9114,
+      "anchor": "approved-direction reduced16 sample"
+    },
+    {
+      "name": "HBO_MAX",
+      "relative_to_v8_scale": 0.91,
+      "category": "横向/字标",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Home",
+      "relative_to_v8_scale": 1.09,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Hong_Kong",
+      "relative_to_v8_scale": 1.1,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Huawei",
+      "relative_to_v8_scale": 0.91,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Huawei_black",
+      "relative_to_v8_scale": 0.91,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Huawei_white",
+      "relative_to_v8_scale": 0.91,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Hugging_face",
+      "relative_to_v8_scale": 1.0,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Hugging_face_g",
+      "relative_to_v8_scale": 0.94,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Hulu",
+      "relative_to_v8_scale": 0.92,
+      "category": "横向/字标",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Infuse",
+      "relative_to_v8_scale": 1.14,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Instagram",
+      "relative_to_v8_scale": 0.93,
+      "category": "线形/疏结构",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "白相机字形独立缩小；保留官方渐变背景，不得以缩整图产生白边。 相对倍率由样板原始倍率/v8计划倍率换算。",
+      "sample_source_scale": 0.93,
+      "anchor": "approved-direction reduced16 sample"
+    },
+    {
+      "name": "Japan",
+      "relative_to_v8_scale": 1.0,
+      "category": "全幅旗帜构图",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": null,
+      "needs_separate_background": false,
+      "background_policy": "完整旗帜圆形构图保持，不视为可分离App背景",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "旗帜是完整场域构图而非App圆底加logo；保持原旗帜几何，不造白圈、不拆星条。此项是明确的构图例外，需在全套预览单列，不能宣称内部星/月也达25px。"
+    },
+    {
+      "name": "Jellyfin",
+      "relative_to_v8_scale": 0.96,
+      "category": "线形/疏结构",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Link",
+      "relative_to_v8_scale": 1.08,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Linkedin",
+      "relative_to_v8_scale": 0.97,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Linkedin_ray",
+      "relative_to_v8_scale": 0.97,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Load_balancing",
+      "relative_to_v8_scale": 1.1625,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。 相对倍率由样板原始倍率/v8计划倍率换算。",
+      "sample_source_scale": 1.1625,
+      "anchor": "approved-direction reduced16 sample"
+    },
+    {
+      "name": "Load_balancing_2",
+      "relative_to_v8_scale": 1.10222,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。 相对倍率由样板原始倍率/v8计划倍率换算。",
+      "sample_source_scale": 1.1904,
+      "anchor": "approved-direction reduced16 sample"
+    },
+    {
+      "name": "Load_balancing_3",
+      "relative_to_v8_scale": 1.07,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Location",
+      "relative_to_v8_scale": 1.07,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "MLB",
+      "relative_to_v8_scale": 0.83,
+      "category": "横向/字标",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Magic_Timer",
+      "relative_to_v8_scale": 1.08,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Mail",
+      "relative_to_v8_scale": 1.16,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Messenger",
+      "relative_to_v8_scale": 0.95,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Meta_1",
+      "relative_to_v8_scale": 0.97,
+      "category": "线形/疏结构",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Microsoft",
+      "relative_to_v8_scale": 1.22,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Microsoft_365",
+      "relative_to_v8_scale": 1.0,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Microsoft_Copilot",
+      "relative_to_v8_scale": 0.96,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "NBA",
+      "relative_to_v8_scale": 0.87,
+      "category": "横向/字标",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Netflix",
+      "relative_to_v8_scale": 1.07,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Netflix_b",
+      "relative_to_v8_scale": 1.07,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Network",
+      "relative_to_v8_scale": 1.02,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Network_2",
+      "relative_to_v8_scale": 1.02,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Niche_Link",
+      "relative_to_v8_scale": 1.08,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Niconico",
+      "relative_to_v8_scale": 0.94,
+      "category": "线形/疏结构",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Niconico_Live",
+      "relative_to_v8_scale": 0.91,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Niconico_Manga",
+      "relative_to_v8_scale": 0.86,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Olympics",
+      "relative_to_v8_scale": 0.85,
+      "category": "线形/疏结构",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "五环横向跨度当前过宽；按宽度略收，不因低面积而加粗环或追求25px高度。"
+    },
+    {
+      "name": "Omission",
+      "relative_to_v8_scale": 0.9,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "OneDrive",
+      "relative_to_v8_scale": 0.94,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Onlyfans",
+      "relative_to_v8_scale": 0.94,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Other",
+      "relative_to_v8_scale": 1.1,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "横向三点以跨度匹配，不追求25px高度。"
+    },
+    {
+      "name": "Outlook",
+      "relative_to_v8_scale": 1.0,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Palestine",
+      "relative_to_v8_scale": 1.0,
+      "category": "全幅旗帜构图",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": null,
+      "needs_separate_background": false,
+      "background_policy": "完整旗帜圆形构图保持，不视为可分离App背景",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "旗帜是完整场域构图而非App圆底加logo；保持原旗帜几何，不造白圈、不拆星条。此项是明确的构图例外，需在全套预览单列，不能宣称内部星/月也达25px。"
+    },
+    {
+      "name": "Panda",
+      "relative_to_v8_scale": 1.12,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Panda_WWF",
+      "relative_to_v8_scale": 0.95,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Panda_ai",
+      "relative_to_v8_scale": 1.07,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-2.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "PayPal",
+      "relative_to_v8_scale": 0.95,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "PayPal_business",
+      "relative_to_v8_scale": 0.95,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Peacook",
+      "relative_to_v8_scale": 0.9,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Perplexity",
+      "relative_to_v8_scale": 0.91,
+      "category": "线形/疏结构",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Pig",
+      "relative_to_v8_scale": 1.01611,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。 相对倍率由样板原始倍率/v8计划倍率换算。",
+      "sample_source_scale": 1.0974,
+      "anchor": "approved-direction reduced16 sample"
+    },
+    {
+      "name": "Piggies",
+      "relative_to_v8_scale": 0.85,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "需分离猪脸前景和绿色圆底，不能把整张圆图当主体。"
+    },
+    {
+      "name": "Piggies_b",
+      "relative_to_v8_scale": 0.95,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Pixiv",
+      "relative_to_v8_scale": 0.9951,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "必须抽出p字形，原蓝底铺圆；沿用样板向右14native光学偏移，解除左缘逼近。 相对倍率由样板原始倍率/v8计划倍率换算。",
+      "sample_source_scale": 0.9951,
+      "anchor": "approved-direction reduced16 sample"
+    },
+    {
+      "name": "Playstation",
+      "relative_to_v8_scale": 0.88,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Playstation_30th",
+      "relative_to_v8_scale": 0.95,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Playstation_remote",
+      "relative_to_v8_scale": 0.93,
+      "category": "线形/疏结构",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Plex",
+      "relative_to_v8_scale": 1.0,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Pornhub",
+      "relative_to_v8_scale": 1.0,
+      "category": "横向/字标",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Prime",
+      "relative_to_v8_scale": 0.83,
+      "category": "横向/字标",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Qoura",
+      "relative_to_v8_scale": 1.0,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Reddit",
+      "relative_to_v8_scale": 0.94,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Remote",
+      "relative_to_v8_scale": 1.08,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Round_Robin",
+      "relative_to_v8_scale": 0.99,
+      "category": "线形/疏结构",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "SNS",
+      "relative_to_v8_scale": 1.07,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Scholar",
+      "relative_to_v8_scale": 1.07,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Seancody",
+      "relative_to_v8_scale": 0.88,
+      "category": "横向/字标",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Server",
+      "relative_to_v8_scale": 1.12,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Settings",
+      "relative_to_v8_scale": 1.07,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Signal_Light",
+      "relative_to_v8_scale": 1.05,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "横向胶囊以跨度匹配，不追求25px高度。"
+    },
+    {
+      "name": "Singapore",
+      "relative_to_v8_scale": 1.0,
+      "category": "全幅旗帜构图",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": null,
+      "needs_separate_background": false,
+      "background_policy": "完整旗帜圆形构图保持，不视为可分离App背景",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "旗帜是完整场域构图而非App圆底加logo；保持原旗帜几何，不造白圈、不拆星条。此项是明确的构图例外，需在全套预览单列，不能宣称内部星/月也达25px。"
+    },
+    {
+      "name": "Sony_Live",
+      "relative_to_v8_scale": 0.85,
+      "category": "横向/字标",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "文字与标志作为主体，原渐变背景固定；不得用外圆alpha测量主体大小。"
+    },
+    {
+      "name": "South_Korea",
+      "relative_to_v8_scale": 1.0,
+      "category": "全幅旗帜构图",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": null,
+      "needs_separate_background": false,
+      "background_policy": "完整旗帜圆形构图保持，不视为可分离App背景",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "旗帜是完整场域构图而非App圆底加logo；保持原旗帜几何，不造白圈、不拆星条。此项是明确的构图例外，需在全套预览单列，不能宣称内部星/月也达25px。"
+    },
+    {
+      "name": "SpeedTest",
+      "relative_to_v8_scale": 0.98,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Spotify",
+      "relative_to_v8_scale": 0.88,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Steam",
+      "relative_to_v8_scale": 0.85,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "原白蒸汽标延伸至边缘，需分离后缩小；原蓝渐变圆底不变。"
+    },
+    {
+      "name": "Stream",
+      "relative_to_v8_scale": 0.96,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Taiwan_Province",
+      "relative_to_v8_scale": 0.9,
+      "category": "线形/疏结构",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Telegram",
+      "relative_to_v8_scale": 0.98,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Threads",
+      "relative_to_v8_scale": 0.95,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Tick",
+      "relative_to_v8_scale": 1.03,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Tick_2",
+      "relative_to_v8_scale": 0.95,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "TikTok",
+      "relative_to_v8_scale": 0.90343,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。 相对倍率由样板原始倍率/v8计划倍率换算。",
+      "sample_source_scale": 0.9486,
+      "anchor": "approved-direction reduced16 sample"
+    },
+    {
+      "name": "Transfer",
+      "relative_to_v8_scale": 1.12,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Twitch",
+      "relative_to_v8_scale": 1.0,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Twitter",
+      "relative_to_v8_scale": 0.95,
+      "category": "线形/疏结构",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "UBISOFT",
+      "relative_to_v8_scale": 1.11,
+      "category": "线形/疏结构",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "UK",
+      "relative_to_v8_scale": 1.0,
+      "category": "全幅旗帜构图",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": null,
+      "needs_separate_background": false,
+      "background_policy": "完整旗帜圆形构图保持，不视为可分离App背景",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "旗帜是完整场域构图而非App圆底加logo；保持原旗帜几何，不造白圈、不拆星条。此项是明确的构图例外，需在全套预览单列，不能宣称内部星/月也达25px。"
+    },
+    {
+      "name": "USA",
+      "relative_to_v8_scale": 1.0,
+      "category": "全幅旗帜构图",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": null,
+      "needs_separate_background": false,
+      "background_policy": "完整旗帜圆形构图保持，不视为可分离App背景",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "旗帜是完整场域构图而非App圆底加logo；保持原旗帜几何，不造白圈、不拆星条。此项是明确的构图例外，需在全套预览单列，不能宣称内部星/月也达25px。"
+    },
+    {
+      "name": "Video_Vimeo",
+      "relative_to_v8_scale": 1.06,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Vimeo",
+      "relative_to_v8_scale": 1.06,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Weibo",
+      "relative_to_v8_scale": 1.02,
+      "category": "实心/复合主体",
+      "assessment": "略放大",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "WhatsApp",
+      "relative_to_v8_scale": 0.89,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "X",
+      "relative_to_v8_scale": 0.95,
+      "category": "线形/疏结构",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Xbox",
+      "relative_to_v8_scale": 0.82,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "原X贴满球面，需独立主体/背景分层；不得直接缩整球后补白。"
+    },
+    {
+      "name": "Xianyu",
+      "relative_to_v8_scale": 1.0,
+      "category": "横向/字标",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Yin_Yang",
+      "relative_to_v8_scale": 0.98,
+      "category": "实心/复合主体",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "YouTube",
+      "relative_to_v8_scale": 1.0,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "Zoho_new",
+      "relative_to_v8_scale": 0.99,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "当前v8仍与Zoho_old同样式；来源区分是独立必修项，倍率不能解决。"
+    },
+    {
+      "name": "Zoho_old",
+      "relative_to_v8_scale": 0.99,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "当前v8仍与Zoho_new同样式；来源区分是独立必修项，倍率不能解决。"
+    },
+    {
+      "name": "Zune",
+      "relative_to_v8_scale": 0.92,
+      "category": "线形/疏结构",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "bilibili",
+      "relative_to_v8_scale": 0.97,
+      "category": "线形/疏结构",
+      "assessment": "略缩小",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": true,
+      "background_policy": "保留原有颜色/渐变铺满固定圆盘；只变换前景，禁止白补边",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    },
+    {
+      "name": "xHamster",
+      "relative_to_v8_scale": 1.0,
+      "category": "实心/复合主体",
+      "assessment": "保留样板附近尺度",
+      "target_visual_extent_px": [
+        25,
+        26
+      ],
+      "needs_separate_background": false,
+      "background_policy": "固定既有白盘/浅色底，只变换主体",
+      "reviewed_individually": true,
+      "review_evidence": "v8-individual-review-3.png at90px and36px; reduced16 reference",
+      "note": "逐项与收小7%样板在36px实际显示对照；按主体视觉量与最长可见结构共同判断，非按背景圆面积。"
+    }
+  ]
+}

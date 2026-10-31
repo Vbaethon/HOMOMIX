@@ -29,10 +29,11 @@ def gradient(n):
  if family=='system_graphite':return '<linearGradient id="ink" gradientUnits="userSpaceOnUse" x1="80" y1="60" x2="270" y2="300">'+''.join(f'<stop offset="{i/(len(colors)-1):.3f}" stop-color="{c}"/>' for i,c in enumerate(colors))+'</linearGradient>'
  cx,cy={'network_blue_cyan':(90,180),'transfer_orange_red':(260,270),'entertainment_purple_pink':(260,100),'animal_green_yellow':(180,300),'intelligence_rose_violet':(85,100),'location_emerald_teal':(100,265)}[family]
  if n=='Link':cx,cy=265,100
+ if n=='Load_balancing_2':cx,cy=85,245
  if n=='Network':cx,cy=85,85
  # Same series shares colors; family coherence outranks random palette diversity.
  stops=[0,.28,.53,.76,1] if len(colors)==5 else [0,.34,.68,1]
- radius={'Consistent_Hashing':210,'DIRECT':180,'Location':210}.get(n,255)
+ radius={'Consistent_Hashing':210,'DIRECT':180,'Location':210,'Load_balancing_2':210}.get(n,255)
  return f'<radialGradient id="ink" gradientUnits="userSpaceOnUse" cx="{cx}" cy="{cy}" r="{radius}">'+''.join(f'<stop offset="{o}" stop-color="{c}"/>' for o,c in zip(stops,colors))+'</radialGradient>'
 
 def svg(n,inner=True):

@@ -1,0 +1,258 @@
+{
+  "count": 49,
+  "method": "逐张实看49-original-audit.png，并复核第二批真实90/36px before-after；不是以清晰/居中替代集中程度判断。",
+  "first_batch": 8,
+  "second_batch": 12,
+  "alias_sync": 2,
+  "pending_recommended": 0,
+  "retained": 24,
+  "icons": [
+    {
+      "name": "AI",
+      "status": "retain_concentrated_existing",
+      "note": "头部、双耳与天线已经连接，两个大眼负形，视觉集中。"
+    },
+    {
+      "name": "AI_Tree",
+      "status": "batch1_native_candidate_ready",
+      "note": "第一批保持不变。"
+    },
+    {
+      "name": "AI_bot",
+      "status": "retain_concentrated_existing",
+      "note": "实体对话框与尾部一体，眼睛为大负形。"
+    },
+    {
+      "name": "AI_voice",
+      "status": "batch1_native_candidate_ready",
+      "note": "第一批保持不变。"
+    },
+    {
+      "name": "ASIA",
+      "status": "retain_concentrated_existing",
+      "note": "亚洲与外轮廓组成集中球形地理符号，不改官方/地域语义。"
+    },
+    {
+      "name": "Adblock",
+      "status": "retain_concentrated_existing",
+      "note": "完整实体盾牌，减号负形，已符合集中。"
+    },
+    {
+      "name": "Auto_Link",
+      "status": "batch2_native_candidate_ready",
+      "note": "第二批集中块面原生重绘；待最终图/用户方向确认。"
+    },
+    {
+      "name": "Chained",
+      "status": "batch2_native_candidate_ready",
+      "note": "第二批集中块面原生重绘；待最终图/用户方向确认。"
+    },
+    {
+      "name": "Chained_2",
+      "status": "batch1_native_candidate_ready",
+      "note": "第一批保持不变。"
+    },
+    {
+      "name": "Consistent_Hashing",
+      "status": "batch2_native_candidate_ready",
+      "note": "第二批集中块面原生重绘；待最终图/用户方向确认。"
+    },
+    {
+      "name": "DIRECT",
+      "status": "batch2_native_candidate_ready",
+      "note": "第二批集中块面原生重绘；待最终图/用户方向确认。"
+    },
+    {
+      "name": "Dolphin",
+      "status": "retain_concentrated_existing",
+      "note": "已按用户反馈改成连续身体、喙、鳍尾；保留最新动物轮廓。"
+    },
+    {
+      "name": "Download",
+      "status": "batch2_native_candidate_ready",
+      "note": "下降箭头和承载托盘通过中央实体连接；两命名为现有兼容款同步，不制造无意义微差。"
+    },
+    {
+      "name": "Download_2",
+      "status": "batch2_native_candidate_ready",
+      "note": "下降箭头和承载托盘通过中央实体连接；两命名为现有兼容款同步，不制造无意义微差。"
+    },
+    {
+      "name": "Failover",
+      "status": "batch2_native_candidate_ready",
+      "note": "第二批集中块面原生重绘；待最终图/用户方向确认。"
+    },
+    {
+      "name": "Fish",
+      "status": "retain_concentrated_existing",
+      "note": "连续圆腹与宽尾，保留最新样板加高腹部方案。"
+    },
+    {
+      "name": "Fish_b",
+      "status": "retain_concentrated_existing",
+      "note": "高体热带鱼、上下连体鳍与短尾，不同于Fish镜像。"
+    },
+    {
+      "name": "Flight",
+      "status": "retain_concentrated_existing",
+      "note": "火箭主轮廓集中；独立一片尾焰是有意义的运动语义，强合并容易把尾部变成不明尖角，本轮保留。"
+    },
+    {
+      "name": "Forbidden",
+      "status": "retain_concentrated_existing",
+      "note": "禁止圈与斜杠相连为一个集中符号，不能因SVG用stroke就当分散；保留。"
+    },
+    {
+      "name": "GFW",
+      "status": "batch2_native_candidate_ready",
+      "note": "第二批集中块面原生重绘；待最终图/用户方向确认。"
+    },
+    {
+      "name": "Game",
+      "status": "retain_concentrated_existing",
+      "note": "整个手柄为连续实体，按键是内部负形，已集中。"
+    },
+    {
+      "name": "Global",
+      "status": "retain_concentrated_existing",
+      "note": "地理色块与圆周形成统一球形，保留。"
+    },
+    {
+      "name": "Globefish",
+      "status": "retain_concentrated_existing",
+      "note": "最新圆腹、短鳍与少量肩刺轮廓连续，保留。"
+    },
+    {
+      "name": "Home",
+      "status": "retain_concentrated_existing",
+      "note": "单一房屋实体和门负形，保留。"
+    },
+    {
+      "name": "Link",
+      "status": "alias_sync_by_parent",
+      "note": "由父同步Chained_2的一体双孔连接件兼容别名，不独立造重复新款。"
+    },
+    {
+      "name": "Load_balancing",
+      "status": "batch1_native_candidate_ready",
+      "note": "第一批保持不变。"
+    },
+    {
+      "name": "Load_balancing_2",
+      "status": "batch1_native_candidate_ready",
+      "note": "第一批保持不变。"
+    },
+    {
+      "name": "Load_balancing_3",
+      "status": "batch1_native_candidate_ready",
+      "note": "第一批保持不变。"
+    },
+    {
+      "name": "Location",
+      "status": "retain_concentrated_existing",
+      "note": "水滴针体一体，圆孔清楚，保留。"
+    },
+    {
+      "name": "Magic_Timer",
+      "status": "batch3_native_candidate_ready",
+      "note": "实体秒表+闪电负形，取消浮动圈与独立闪电。"
+    },
+    {
+      "name": "Mail",
+      "status": "retain_concentrated_existing",
+      "note": "实体信封中大V形负形，保留。"
+    },
+    {
+      "name": "Network",
+      "status": "batch1_native_candidate_ready",
+      "note": "第一批保持不变。"
+    },
+    {
+      "name": "Network_2",
+      "status": "retain_concentrated_existing",
+      "note": "美洲与球面总体集中，保留地图结构。"
+    },
+    {
+      "name": "Niche_Link",
+      "status": "alias_sync_by_parent",
+      "note": "由父同步Chained_2的一体双孔连接件兼容别名，不独立造重复新款。"
+    },
+    {
+      "name": "Other",
+      "status": "batch2_native_candidate_ready",
+      "note": "第二批集中块面原生重绘；待最终图/用户方向确认。"
+    },
+    {
+      "name": "Panda",
+      "status": "retain_concentrated_existing",
+      "note": "熊猫耳、脸框和眼圈已经形成明确统一面部，保留已确认身份。"
+    },
+    {
+      "name": "Panda_ai",
+      "status": "retain_concentrated_existing",
+      "note": "熊猫主体集中，单个AI星芒为身份差异，不为去散而抹掉区别。"
+    },
+    {
+      "name": "Pig",
+      "status": "retain_concentrated_existing",
+      "note": "耳与猪头一体，口鼻负形清楚，保留。"
+    },
+    {
+      "name": "Remote",
+      "status": "retain_concentrated_existing",
+      "note": "四向实体紧贴中央围成一个中心，不是散落节点；保留。"
+    },
+    {
+      "name": "Round_Robin",
+      "status": "batch1_native_candidate_ready",
+      "note": "第一批保持不变。"
+    },
+    {
+      "name": "SNS",
+      "status": "batch2_native_candidate_ready",
+      "note": "第二批集中块面原生重绘；待最终图/用户方向确认。"
+    },
+    {
+      "name": "Server",
+      "status": "batch2_native_candidate_ready",
+      "note": "第二批集中块面原生重绘；待最终图/用户方向确认。"
+    },
+    {
+      "name": "Settings",
+      "status": "retain_concentrated_existing",
+      "note": "连续实体齿轮，中央大孔，已集中。"
+    },
+    {
+      "name": "Signal_Light",
+      "status": "retain_concentrated_existing",
+      "note": "连续实体胶囊和三孔，已集中，不套方牌。"
+    },
+    {
+      "name": "Stream",
+      "status": "batch3_native_candidate_ready",
+      "note": "实体播放圆盘+大三角负形，不再是环和游离三角。"
+    },
+    {
+      "name": "Tick",
+      "status": "retain_concentrated_existing",
+      "note": "单一连续粗勾，语义清楚且无散落部件；保留而不强加背景块。"
+    },
+    {
+      "name": "Tick_2",
+      "status": "batch3_native_candidate_ready",
+      "note": "实体确认圆章+大勾负形，与独立Tick区分。"
+    },
+    {
+      "name": "Transfer",
+      "status": "batch2_native_candidate_ready",
+      "note": "两向箭头以宽中央桥合并为连贯交换轮廓，已清除12native窄缝。"
+    },
+    {
+      "name": "Yin_Yang",
+      "status": "retain_concentrated_existing",
+      "note": "圆形内两半构成完整集中太极符号，保留。"
+    }
+  ],
+  "third_batch": 3,
+  "scale_policy": "compact_originals原生坐标即最终尺寸；主pipeline必须scale=1，不再乘v5旧倍率。"
+}

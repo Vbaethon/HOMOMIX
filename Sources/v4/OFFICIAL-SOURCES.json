@@ -1,0 +1,128 @@
+{
+  "checked_at": "2026-10-31",
+  "items": [
+    {
+      "name": "Gemini",
+      "file": "official/Gemini.svg",
+      "sha256": "f56df33f86dc0c0257da337c63bf7ad68c0a1b27b796ec707e147984351bccb3",
+      "bytes": 27794,
+      "official_source": "https://gemini.google.com/",
+      "asset_url": "https://www.gstatic.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg",
+      "format": "svg",
+      "transformation": "原始官方SVG，完整色彩/渐变/路径未改。",
+      "placement": "Equal aspect ratio on white disk; no generic inner shadow or new foreground gradient."
+    },
+    {
+      "name": "Grok",
+      "file": "official/Grok-symbol.png",
+      "sha256": "9275dff12126a518bbfd3e0ec617f350b4d830060a74250aadb47ee7709171b2",
+      "bytes": 34051,
+      "official_source": "https://apps.apple.com/us/app/grok/id6670324846",
+      "asset_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/a3/9b/2da39bbf-a4ef-a9aa-23b0-8ca0ddbbb312/Placeholder.mill/400x400Icon.ApSiOS01-75.webp",
+      "format": "official raster",
+      "transformation": "保留官方App图的两个银色主体组件原始RGB与抗锯齿，不重画；去除非主体的圆角方框反光边，防止圆形中出现横缝。原主体300原生宽居中，官方纯黑背景铺满r175圆；斜线完整。extract_grok_symbol.py可复现。",
+      "placement": "Official background fills a circular radius175 disk; no additional white frame or new shadow. Subject is uniformly scaled and not clipped.",
+      "original_file": "official/Grok.webp",
+      "original_sha256": "9a154795ef9666b0d7a1d4df42832e5b837d4bffa88df573316a7a2300d82549"
+    },
+    {
+      "name": "DeepSeek",
+      "file": "official/DeepSeek.svg",
+      "sha256": "cd11234c6455cafcfa8bcd9b6268d7352fdd53e9d6d469180d95aaead2e4d9f6",
+      "bytes": 3750,
+      "official_source": "https://www.deepseek.com/",
+      "asset_url": null,
+      "format": "svg",
+      "transformation": "官网组合标中原鲸鱼路径/clip提取；采用官网当前CSS #4176E6。完整组合源随包。",
+      "placement": "Official paths unchanged; x=80, y=90, width=236, height=181. Shifted right18 native units after small-size optical review; no vertical movement."
+    },
+    {
+      "name": "AdblockPlus_2",
+      "file": "official/AdblockPlus_2.svg",
+      "sha256": "ee2c3fa15c444d36a720536840515a22f026a1907f494646d21158a05807bfa3",
+      "bytes": 3001,
+      "official_source": "https://adblockplus.org/",
+      "asset_url": null,
+      "format": "svg",
+      "transformation": "官方完整lockup前6个路径提取为独立ABP牌；未改路径/色值。",
+      "placement": "Equal aspect ratio on white disk; no generic inner shadow or new foreground gradient."
+    },
+    {
+      "name": "Microsoft",
+      "file": "official/Microsoft.svg",
+      "sha256": "929f48f88c8ca7f3f5d294be47ec4caf51acc28ac25340c19a903125d7ecd84a",
+      "bytes": 343,
+      "official_source": "https://learn.microsoft.com/en-us/entra/identity-platform/howto-add-branding-in-apps",
+      "asset_url": "https://learn.microsoft.com/en-us/entra/identity-platform/media/howto-add-branding-in-apps/ms-symbollockup_mssymbol_19.svg",
+      "format": "svg",
+      "transformation": "官方四方格单体SVG，原始尺寸间距色值。",
+      "placement": "Equal aspect ratio on white disk; no generic inner shadow or new foreground gradient."
+    },
+    {
+      "name": "Disney",
+      "file": "official/Disney-company-original.png",
+      "sha256": "35b2316ecde11357ee2c8a01dd80fd62bef59e1f5d5aa1d0e78831e32219df99",
+      "bytes": 18046,
+      "official_source": "https://thewaltdisneycompany.com/",
+      "asset_url": "https://thewaltdisneycompany.com/app/uploads/2026/01/icon-512x512-1.png",
+      "format": "official raster",
+      "transformation": "官方512px favicon保留暖白背景及黑D；等比适配后背景裁成统一圆形，D不裁切。早期透明提取试版不用于生产。",
+      "placement": "Official background fills a circular radius175 disk; no additional white frame or new shadow. Subject is uniformly scaled and not clipped."
+    },
+    {
+      "name": "Disney_plus",
+      "file": "official/Disney_plus.svg",
+      "sha256": "0bc31ff0134ca63f2b31a6d2633dd965a2279ef451337b7646918914e2e086ba",
+      "bytes": 2693,
+      "official_source": "https://www.disneyplus.com/",
+      "asset_url": "https://static-assets.bamgrid.com/product/disneyplus/favicons/mask-icon-aurora.86b2f302cf50180b25ddd8835041b1c3.svg",
+      "format": "svg",
+      "transformation": "官方单D compact SVG；原色#136878，无需自行添加加号。",
+      "placement": "Equal aspect ratio on white disk; no generic inner shadow or new foreground gradient."
+    },
+    {
+      "name": "Disney_Channel",
+      "file": "official/Disney_Channel.png",
+      "sha256": "877fdc9eb2f27378764a6fbbc636fe362488ddebbee90580828ab866f5b343ab",
+      "bytes": 17853,
+      "official_source": "https://www.detpress.com/",
+      "asset_url": "https://www.detpress.com/storage/uploads/F9/5A/F95AB7D4-E94D-9A01-555E-38F7603C711F/press-release-9-1414570.pdf",
+      "format": "official raster",
+      "transformation": "官方新闻PDF980x260嵌入白底原位图的Channel组件原像素裁切；不是透明SVG，不用DisneyNow图替代。",
+      "placement": "Equal aspect ratio on white disk; no generic inner shadow or new foreground gradient."
+    },
+    {
+      "name": "UBISOFT",
+      "file": "official/UBISOFT.svg",
+      "sha256": "5670cddc4bcba693e0e6210d5c699c844336154c1a1a0fbf173e2619e26f7a5d",
+      "bytes": 1924,
+      "official_source": "https://www.ubisoft.com/",
+      "asset_url": "https://news.ubisoft.com/en-us/article/3aNoNe5cyUPXOhSFcQJmxN/say-hello-to-the-new-ubisoft-swirl",
+      "format": "svg",
+      "transformation": "官方inline旋涡原路径，去右侧wordmark，使用官方黑色单体版本。",
+      "placement": "Equal aspect ratio on white disk; no generic inner shadow or new foreground gradient."
+    },
+    {
+      "name": "Peacook",
+      "file": "official/Peacook.png",
+      "sha256": "71fb6ab448817ad4b5925a22a8dd9338e1efaa17cb8039282f4af78b57c71548",
+      "bytes": 5088,
+      "official_source": "https://www.peacocktv.com/",
+      "asset_url": "https://www.peacocktv.com/static/peacock-toolkit/53.4.0/peacock/favicons/apple-touch-icon_180x180.png",
+      "format": "official raster",
+      "transformation": "官方当前180px app图，保留p与5色点及黑底；沿用旧路径拼写兼容。",
+      "placement": "Official background fills a circular radius175 disk; no additional white frame or new shadow. Subject is uniformly scaled and not clipped."
+    },
+    {
+      "name": "Scholar",
+      "file": "official/Scholar.png",
+      "sha256": "5f458a76ba20b1e5762895b44857e3d77ef95a8f87fd0c160ca940e753f32734",
+      "bytes": 3123,
+      "official_source": "https://chromewebstore.google.com/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn",
+      "asset_url": "https://lh3.googleusercontent.com/b3K6HUF_rNzMlsVAbVqmZhlEgmhkmihjlVTKH8JKr-CuZX80LDYbnChZxK2_sd69cRarQvrmFX2yDAhx8zXggfAT=s128-rj-sc0x00ffffff",
+      "format": "official raster",
+      "transformation": "Google官方128px扩展图标，与Scholar官网favicon交叉核对；原图保留完整圆，无擅自散点。",
+      "placement": "Official background fills a circular radius175 disk; no additional white frame or new shadow. Subject is uniformly scaled and not clipped."
+    }
+  ]
+}

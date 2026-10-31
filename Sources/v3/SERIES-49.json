@@ -4,344 +4,344 @@
     {
       "name": "AI",
       "series": "intelligence_rose_violet",
-      "series_label": "智能与沟通",
-      "palette_family": "玫瑰／紫／暖橙",
+      "series_label": "\u667a\u80fd\u4e0e\u6c9f\u901a",
+      "palette_family": "\u73ab\u7470\uff0f\u7d2b\uff0f\u6696\u6a59",
       "status": "implemented in final inverse set"
     },
     {
       "name": "AI_Tree",
       "series": "intelligence_rose_violet",
-      "series_label": "智能与沟通",
-      "palette_family": "玫瑰／紫／暖橙",
+      "series_label": "\u667a\u80fd\u4e0e\u6c9f\u901a",
+      "palette_family": "\u73ab\u7470\uff0f\u7d2b\uff0f\u6696\u6a59",
       "status": "implemented in final inverse set"
     },
     {
       "name": "AI_bot",
       "series": "intelligence_rose_violet",
-      "series_label": "智能与沟通",
-      "palette_family": "玫瑰／紫／暖橙",
+      "series_label": "\u667a\u80fd\u4e0e\u6c9f\u901a",
+      "palette_family": "\u73ab\u7470\uff0f\u7d2b\uff0f\u6696\u6a59",
       "status": "implemented in final inverse set"
     },
     {
       "name": "AI_voice",
       "series": "intelligence_rose_violet",
-      "series_label": "智能与沟通",
-      "palette_family": "玫瑰／紫／暖橙",
+      "series_label": "\u667a\u80fd\u4e0e\u6c9f\u901a",
+      "palette_family": "\u73ab\u7470\uff0f\u7d2b\uff0f\u6696\u6a59",
       "status": "implemented in final inverse set"
     },
     {
       "name": "ASIA",
       "series": "network_blue_cyan",
-      "series_label": "连接与网络",
-      "palette_family": "蓝／青／少量紫",
+      "series_label": "\u8fde\u63a5\u4e0e\u7f51\u7edc",
+      "palette_family": "\u84dd\uff0f\u9752\uff0f\u5c11\u91cf\u7d2b",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Adblock",
       "series": "system_graphite",
-      "series_label": "系统工具",
-      "palette_family": "灰黑",
+      "series_label": "\u7cfb\u7edf\u5de5\u5177",
+      "palette_family": "\u7070\u9ed1",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Auto_Link",
       "series": "network_blue_cyan",
-      "series_label": "连接与网络",
-      "palette_family": "蓝／青／少量紫",
+      "series_label": "\u8fde\u63a5\u4e0e\u7f51\u7edc",
+      "palette_family": "\u84dd\uff0f\u9752\uff0f\u5c11\u91cf\u7d2b",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Chained",
       "series": "network_blue_cyan",
-      "series_label": "连接与网络",
-      "palette_family": "蓝／青／少量紫",
+      "series_label": "\u8fde\u63a5\u4e0e\u7f51\u7edc",
+      "palette_family": "\u84dd\uff0f\u9752\uff0f\u5c11\u91cf\u7d2b",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Chained_2",
       "series": "network_blue_cyan",
-      "series_label": "连接与网络",
-      "palette_family": "蓝／青／少量紫",
+      "series_label": "\u8fde\u63a5\u4e0e\u7f51\u7edc",
+      "palette_family": "\u84dd\uff0f\u9752\uff0f\u5c11\u91cf\u7d2b",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Consistent_Hashing",
       "series": "network_blue_cyan",
-      "series_label": "连接与网络",
-      "palette_family": "蓝／青／少量紫",
+      "series_label": "\u8fde\u63a5\u4e0e\u7f51\u7edc",
+      "palette_family": "\u84dd\uff0f\u9752\uff0f\u5c11\u91cf\u7d2b",
       "status": "implemented in final inverse set"
     },
     {
       "name": "DIRECT",
       "series": "network_blue_cyan",
-      "series_label": "连接与网络",
-      "palette_family": "蓝／青／少量紫",
+      "series_label": "\u8fde\u63a5\u4e0e\u7f51\u7edc",
+      "palette_family": "\u84dd\uff0f\u9752\uff0f\u5c11\u91cf\u7d2b",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Dolphin",
       "series": "animal_green_yellow",
-      "series_label": "动物",
-      "palette_family": "绿／黄／青碧",
+      "series_label": "\u52a8\u7269",
+      "palette_family": "\u7eff\uff0f\u9ec4\uff0f\u9752\u78a7",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Download",
       "series": "transfer_orange_red",
-      "series_label": "下载与传输",
-      "palette_family": "橙／红／金",
+      "series_label": "\u4e0b\u8f7d\u4e0e\u4f20\u8f93",
+      "palette_family": "\u6a59\uff0f\u7ea2\uff0f\u91d1",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Download_2",
       "series": "transfer_orange_red",
-      "series_label": "下载与传输",
-      "palette_family": "橙／红／金",
+      "series_label": "\u4e0b\u8f7d\u4e0e\u4f20\u8f93",
+      "palette_family": "\u6a59\uff0f\u7ea2\uff0f\u91d1",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Failover",
       "series": "network_blue_cyan",
-      "series_label": "连接与网络",
-      "palette_family": "蓝／青／少量紫",
+      "series_label": "\u8fde\u63a5\u4e0e\u7f51\u7edc",
+      "palette_family": "\u84dd\uff0f\u9752\uff0f\u5c11\u91cf\u7d2b",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Fish",
       "series": "animal_green_yellow",
-      "series_label": "动物",
-      "palette_family": "绿／黄／青碧",
+      "series_label": "\u52a8\u7269",
+      "palette_family": "\u7eff\uff0f\u9ec4\uff0f\u9752\u78a7",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Fish_b",
       "series": "animal_green_yellow",
-      "series_label": "动物",
-      "palette_family": "绿／黄／青碧",
+      "series_label": "\u52a8\u7269",
+      "palette_family": "\u7eff\uff0f\u9ec4\uff0f\u9752\u78a7",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Flight",
       "series": "location_emerald_teal",
-      "series_label": "出行与定位",
-      "palette_family": "翡翠／青碧／蓝",
+      "series_label": "\u51fa\u884c\u4e0e\u5b9a\u4f4d",
+      "palette_family": "\u7fe1\u7fe0\uff0f\u9752\u78a7\uff0f\u84dd",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Forbidden",
       "series": "system_graphite",
-      "series_label": "系统工具",
-      "palette_family": "灰黑",
+      "series_label": "\u7cfb\u7edf\u5de5\u5177",
+      "palette_family": "\u7070\u9ed1",
       "status": "implemented in final inverse set"
     },
     {
       "name": "GFW",
       "series": "system_graphite",
-      "series_label": "系统工具",
-      "palette_family": "灰黑",
+      "series_label": "\u7cfb\u7edf\u5de5\u5177",
+      "palette_family": "\u7070\u9ed1",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Game",
       "series": "entertainment_purple_pink",
-      "series_label": "游戏与影音",
-      "palette_family": "紫／粉／珊瑚",
+      "series_label": "\u6e38\u620f\u4e0e\u5f71\u97f3",
+      "palette_family": "\u7d2b\uff0f\u7c89\uff0f\u73ca\u745a",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Global",
       "series": "network_blue_cyan",
-      "series_label": "连接与网络",
-      "palette_family": "蓝／青／少量紫",
+      "series_label": "\u8fde\u63a5\u4e0e\u7f51\u7edc",
+      "palette_family": "\u84dd\uff0f\u9752\uff0f\u5c11\u91cf\u7d2b",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Globefish",
       "series": "animal_green_yellow",
-      "series_label": "动物",
-      "palette_family": "绿／黄／青碧",
+      "series_label": "\u52a8\u7269",
+      "palette_family": "\u7eff\uff0f\u9ec4\uff0f\u9752\u78a7",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Home",
       "series": "system_graphite",
-      "series_label": "系统工具",
-      "palette_family": "灰黑",
+      "series_label": "\u7cfb\u7edf\u5de5\u5177",
+      "palette_family": "\u7070\u9ed1",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Link",
       "series": "network_blue_cyan",
-      "series_label": "连接与网络",
-      "palette_family": "蓝／青／少量紫",
+      "series_label": "\u8fde\u63a5\u4e0e\u7f51\u7edc",
+      "palette_family": "\u84dd\uff0f\u9752\uff0f\u5c11\u91cf\u7d2b",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Load_balancing",
       "series": "network_blue_cyan",
-      "series_label": "连接与网络",
-      "palette_family": "蓝／青／少量紫",
+      "series_label": "\u8fde\u63a5\u4e0e\u7f51\u7edc",
+      "palette_family": "\u84dd\uff0f\u9752\uff0f\u5c11\u91cf\u7d2b",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Load_balancing_2",
       "series": "network_blue_cyan",
-      "series_label": "连接与网络",
-      "palette_family": "蓝／青／少量紫",
+      "series_label": "\u8fde\u63a5\u4e0e\u7f51\u7edc",
+      "palette_family": "\u84dd\uff0f\u9752\uff0f\u5c11\u91cf\u7d2b",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Load_balancing_3",
       "series": "network_blue_cyan",
-      "series_label": "连接与网络",
-      "palette_family": "蓝／青／少量紫",
+      "series_label": "\u8fde\u63a5\u4e0e\u7f51\u7edc",
+      "palette_family": "\u84dd\uff0f\u9752\uff0f\u5c11\u91cf\u7d2b",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Location",
       "series": "location_emerald_teal",
-      "series_label": "出行与定位",
-      "palette_family": "翡翠／青碧／蓝",
+      "series_label": "\u51fa\u884c\u4e0e\u5b9a\u4f4d",
+      "palette_family": "\u7fe1\u7fe0\uff0f\u9752\u78a7\uff0f\u84dd",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Magic_Timer",
       "series": "system_graphite",
-      "series_label": "系统工具",
-      "palette_family": "灰黑",
+      "series_label": "\u7cfb\u7edf\u5de5\u5177",
+      "palette_family": "\u7070\u9ed1",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Mail",
       "series": "intelligence_rose_violet",
-      "series_label": "智能与沟通",
-      "palette_family": "玫瑰／紫／暖橙",
+      "series_label": "\u667a\u80fd\u4e0e\u6c9f\u901a",
+      "palette_family": "\u73ab\u7470\uff0f\u7d2b\uff0f\u6696\u6a59",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Network",
       "series": "network_blue_cyan",
-      "series_label": "连接与网络",
-      "palette_family": "蓝／青／少量紫",
+      "series_label": "\u8fde\u63a5\u4e0e\u7f51\u7edc",
+      "palette_family": "\u84dd\uff0f\u9752\uff0f\u5c11\u91cf\u7d2b",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Network_2",
       "series": "network_blue_cyan",
-      "series_label": "连接与网络",
-      "palette_family": "蓝／青／少量紫",
+      "series_label": "\u8fde\u63a5\u4e0e\u7f51\u7edc",
+      "palette_family": "\u84dd\uff0f\u9752\uff0f\u5c11\u91cf\u7d2b",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Niche_Link",
       "series": "network_blue_cyan",
-      "series_label": "连接与网络",
-      "palette_family": "蓝／青／少量紫",
+      "series_label": "\u8fde\u63a5\u4e0e\u7f51\u7edc",
+      "palette_family": "\u84dd\uff0f\u9752\uff0f\u5c11\u91cf\u7d2b",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Other",
       "series": "system_graphite",
-      "series_label": "系统工具",
-      "palette_family": "灰黑",
+      "series_label": "\u7cfb\u7edf\u5de5\u5177",
+      "palette_family": "\u7070\u9ed1",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Panda",
-      "series": "animal_green_yellow",
-      "series_label": "动物",
-      "palette_family": "绿／黄／青碧",
+      "series": "system_graphite",
+      "series_label": "\u52a8\u7269",
+      "palette_family": "\u7eff\uff0f\u9ec4\uff0f\u9752\u78a7",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Panda_ai",
-      "series": "animal_green_yellow",
-      "series_label": "动物",
-      "palette_family": "绿／黄／青碧",
+      "series": "system_graphite",
+      "series_label": "\u52a8\u7269",
+      "palette_family": "\u7eff\uff0f\u9ec4\uff0f\u9752\u78a7",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Pig",
       "series": "animal_green_yellow",
-      "series_label": "动物",
-      "palette_family": "绿／黄／青碧",
+      "series_label": "\u52a8\u7269",
+      "palette_family": "\u7eff\uff0f\u9ec4\uff0f\u9752\u78a7",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Remote",
       "series": "system_graphite",
-      "series_label": "系统工具",
-      "palette_family": "灰黑",
+      "series_label": "\u7cfb\u7edf\u5de5\u5177",
+      "palette_family": "\u7070\u9ed1",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Round_Robin",
       "series": "network_blue_cyan",
-      "series_label": "连接与网络",
-      "palette_family": "蓝／青／少量紫",
+      "series_label": "\u8fde\u63a5\u4e0e\u7f51\u7edc",
+      "palette_family": "\u84dd\uff0f\u9752\uff0f\u5c11\u91cf\u7d2b",
       "status": "implemented in final inverse set"
     },
     {
       "name": "SNS",
       "series": "intelligence_rose_violet",
-      "series_label": "智能与沟通",
-      "palette_family": "玫瑰／紫／暖橙",
+      "series_label": "\u667a\u80fd\u4e0e\u6c9f\u901a",
+      "palette_family": "\u73ab\u7470\uff0f\u7d2b\uff0f\u6696\u6a59",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Server",
       "series": "system_graphite",
-      "series_label": "系统工具",
-      "palette_family": "灰黑",
+      "series_label": "\u7cfb\u7edf\u5de5\u5177",
+      "palette_family": "\u7070\u9ed1",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Settings",
       "series": "system_graphite",
-      "series_label": "系统工具",
-      "palette_family": "灰黑",
+      "series_label": "\u7cfb\u7edf\u5de5\u5177",
+      "palette_family": "\u7070\u9ed1",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Signal_Light",
       "series": "system_graphite",
-      "series_label": "系统工具",
-      "palette_family": "灰黑",
+      "series_label": "\u7cfb\u7edf\u5de5\u5177",
+      "palette_family": "\u7070\u9ed1",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Stream",
       "series": "entertainment_purple_pink",
-      "series_label": "游戏与影音",
-      "palette_family": "紫／粉／珊瑚",
+      "series_label": "\u6e38\u620f\u4e0e\u5f71\u97f3",
+      "palette_family": "\u7d2b\uff0f\u7c89\uff0f\u73ca\u745a",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Tick",
       "series": "system_graphite",
-      "series_label": "系统工具",
-      "palette_family": "灰黑",
+      "series_label": "\u7cfb\u7edf\u5de5\u5177",
+      "palette_family": "\u7070\u9ed1",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Tick_2",
       "series": "system_graphite",
-      "series_label": "系统工具",
-      "palette_family": "灰黑",
+      "series_label": "\u7cfb\u7edf\u5de5\u5177",
+      "palette_family": "\u7070\u9ed1",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Transfer",
       "series": "transfer_orange_red",
-      "series_label": "下载与传输",
-      "palette_family": "橙／红／金",
+      "series_label": "\u4e0b\u8f7d\u4e0e\u4f20\u8f93",
+      "palette_family": "\u6a59\uff0f\u7ea2\uff0f\u91d1",
       "status": "implemented in final inverse set"
     },
     {
       "name": "Yin_Yang",
       "series": "system_graphite",
-      "series_label": "系统工具",
-      "palette_family": "灰黑",
+      "series_label": "\u7cfb\u7edf\u5de5\u5177",
+      "palette_family": "\u7070\u9ed1",
       "status": "implemented in final inverse set"
     }
   ],

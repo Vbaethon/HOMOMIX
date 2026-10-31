@@ -1,0 +1,45 @@
+test_all_urls_preserved_and_bytes_frozen (test_brand_revision.BrandRevision.test_all_urls_preserved_and_bytes_frozen) ... ok
+test_audit_covers_every_published_png (test_brand_revision.BrandRevision.test_audit_covers_every_published_png) ... ok
+test_deepseek_paths_unchanged_and_optically_adjusted (test_brand_revision.BrandRevision.test_deepseek_paths_unchanged_and_optically_adjusted) ... ok
+test_distinct_balance_shapes_and_panda_anatomy (test_brand_revision.BrandRevision.test_distinct_balance_shapes_and_panda_anatomy) ... ok
+test_official_backgrounds_fill_circular_outline_without_white_frame (test_brand_revision.BrandRevision.test_official_backgrounds_fill_circular_outline_without_white_frame) ... ok
+test_official_exports_and_pairs (test_brand_revision.BrandRevision.test_official_exports_and_pairs) ... ok
+test_original_background_and_logo_pixels_are_untouched (test_brand_revision.BrandRevision.test_original_background_and_logo_pixels_are_untouched) ... ok
+test_alias_is_excluded_only_if_canonical_exists (test_catalog.CatalogTests.test_alias_is_excluded_only_if_canonical_exists) ... ok
+test_missing_icon_directory_does_not_write_empty_catalog (test_catalog.CatalogTests.test_missing_icon_directory_does_not_write_empty_catalog) ... ok
+test_repository_catalog_is_valid_and_current (test_catalog.CatalogTests.test_repository_catalog_is_valid_and_current) ... ok
+test_sorted_escaped_and_idempotent_output (test_catalog.CatalogTests.test_sorted_escaped_and_idempotent_output) ... ok
+test_alias_is_directory_local_and_safe_when_canonical_missing (test_dedup.DedupTests.test_alias_is_directory_local_and_safe_when_canonical_missing) ... ok
+test_all_legacy_alias_files_stay_downloadable (test_dedup.DedupTests.test_all_legacy_alias_files_stay_downloadable) ... ok
+test_catalog_hides_only_aliases_not_variants (test_dedup.DedupTests.test_catalog_hides_only_aliases_not_variants) ... ok
+test_readme_hides_alias_images_explains_variants (test_dedup.DedupTests.test_readme_hides_alias_images_explains_variants) ... ok
+test_single_alias_table_and_no_claud (test_dedup.DedupTests.test_single_alias_table_and_no_claud) ... ok
+test_approved_theme_outputs (test_inverse_full.InverseFull.test_approved_theme_outputs) ... ok
+test_baseline_workflows (test_inverse_full.InverseFull.test_baseline_workflows) ... ok
+test_broad_gaussian_outer_not_tight_contact_layer (test_inverse_full.InverseFull.test_broad_gaussian_outer_not_tight_contact_layer) ... ok
+test_centered_symmetric_inner_effect (test_inverse_full.InverseFull.test_centered_symmetric_inner_effect) ... ok
+test_hues_and_holes (test_inverse_full.InverseFull.test_hues_and_holes) ... ok
+test_inner_proof_and_shadow_margins (test_inverse_full.InverseFull.test_inner_proof_and_shadow_margins) ... ok
+test_preview_uses_exact_actual_exports (test_inverse_full.InverseFull.test_preview_uses_exact_actual_exports) ... ok
+test_taxonomy_and_series (test_inverse_full.InverseFull.test_taxonomy_and_series) ... ok
+test_v5_geometry_locked_except_reviewed_identity_fixes (test_inverse_full.InverseFull.test_v5_geometry_locked_except_reviewed_identity_fixes) ... ok
+test_white_disk_and_real_inner_layers (test_inverse_full.InverseFull.test_white_disk_and_real_inner_layers) ... ok
+test_actual_full_audit_paths (test_optical_revision.OpticalRevision.test_actual_full_audit_paths) ... ok
+test_background_roundness_and_source_identity (test_optical_revision.OpticalRevision.test_background_roundness_and_source_identity) ... ok
+test_current_collection_and_explicit_delete (test_optical_revision.OpticalRevision.test_current_collection_and_explicit_delete) ... ok
+test_deepseek_base_optical_center_preserved (test_optical_revision.OpticalRevision.test_deepseek_base_optical_center_preserved) ... ok
+test_every_standard_name_reviewed_and_exact_export (test_optical_revision.OpticalRevision.test_every_standard_name_reviewed_and_exact_export) ... ok
+test_fish_shapes_not_mirrored_duplicates (test_optical_revision.OpticalRevision.test_fish_shapes_not_mirrored_duplicates) ... ok
+test_native_geometry_preserved_except_requested_animals (test_optical_revision.OpticalRevision.test_native_geometry_preserved_except_requested_animals) ... ok
+test_no_exact_duplicate_display (test_optical_revision.OpticalRevision.test_no_exact_duplicate_display) ... ok
+test_overview_matches_canonical_catalog (test_optical_revision.OpticalRevision.test_overview_matches_canonical_catalog) ... ok
+test_complete_self_contained_native_sources (test_v3_assets.ReconstructionTests.test_complete_self_contained_native_sources) ... ok
+test_disposition_covers_all_174_and_matches_updates (test_v3_assets.ReconstructionTests.test_disposition_covers_all_174_and_matches_updates) ... ok
+test_exact_pairs_dimensions_and_checksums (test_v3_assets.ReconstructionTests.test_exact_pairs_dimensions_and_checksums) ... ok
+test_protected_and_all_retained_png_bytes (test_v3_assets.ReconstructionTests.test_protected_and_all_retained_png_bytes) ... ok
+test_source_inventory (test_v3_assets.ReconstructionTests.test_source_inventory) ... ok
+
+----------------------------------------------------------------------
+Ran 40 tests in 0.796s
+
+OK

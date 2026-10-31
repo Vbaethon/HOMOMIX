@@ -1,0 +1,600 @@
+[
+  {
+    "name": "AdblockPlus",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      53,
+      53,
+      309,
+      309
+    ]
+  },
+  {
+    "name": "Adguard",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      46,
+      49,
+      312,
+      318
+    ]
+  },
+  {
+    "name": "Amazon",
+    "background_fit_median_error": 0.2189085508569235,
+    "background_top": 254.9761362483426,
+    "background_bottom": 239.638149465943,
+    "ring_samples": 350,
+    "matte_extent": [
+      44,
+      40,
+      315,
+      319
+    ]
+  },
+  {
+    "name": "BT_Bittorrent",
+    "background_fit_median_error": 0.09507008631098302,
+    "background_top": 255.0,
+    "background_bottom": 226.0,
+    "ring_samples": 350,
+    "matte_extent": [
+      40,
+      44,
+      319,
+      317
+    ]
+  },
+  {
+    "name": "Bilibili_Global",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      57,
+      64,
+      302,
+      294
+    ]
+  },
+  {
+    "name": "Binance",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      50,
+      50,
+      309,
+      310
+    ]
+  },
+  {
+    "name": "Bing",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      102,
+      53,
+      273,
+      304
+    ]
+  },
+  {
+    "name": "Bitcoin",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      50,
+      50,
+      309,
+      309
+    ]
+  },
+  {
+    "name": "Bytedance",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      50,
+      66,
+      309,
+      292
+    ]
+  },
+  {
+    "name": "ChatGPT",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      50,
+      51,
+      309,
+      308
+    ]
+  },
+  {
+    "name": "Claude",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      40,
+      40,
+      319,
+      319
+    ]
+  },
+  {
+    "name": "Crypto",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      40,
+      40,
+      319,
+      319
+    ]
+  },
+  {
+    "name": "EPIC",
+    "background_fit_median_error": 0.23163638653615237,
+    "background_top": 254.93977266286734,
+    "background_bottom": 216.625941622847,
+    "ring_samples": 350,
+    "matte_extent": [
+      70,
+      62,
+      289,
+      315
+    ]
+  },
+  {
+    "name": "Emby",
+    "background_fit_median_error": 0.2274241422379646,
+    "background_top": 255.0,
+    "background_bottom": 226.33569941678815,
+    "ring_samples": 350,
+    "matte_extent": [
+      40,
+      40,
+      319,
+      319
+    ]
+  },
+  {
+    "name": "F2C",
+    "background_fit_median_error": 0.2084174564690784,
+    "background_top": 244.56027036955405,
+    "background_bottom": 248.259729630446,
+    "ring_samples": 350,
+    "matte_extent": [
+      60,
+      48,
+      299,
+      312
+    ]
+  },
+  {
+    "name": "FCM_Firebase_Cloud_Messaging",
+    "background_fit_median_error": 0.2289193264551983,
+    "background_top": 254.96174221830387,
+    "background_bottom": 227.90682921026755,
+    "ring_samples": 350,
+    "matte_extent": [
+      68,
+      40,
+      291,
+      319
+    ]
+  },
+  {
+    "name": "Fast",
+    "background_fit_median_error": 0.23223464214869693,
+    "background_top": 254.98458018899282,
+    "background_bottom": 235.5125626681499,
+    "ring_samples": 350,
+    "matte_extent": [
+      60,
+      56,
+      299,
+      275
+    ]
+  },
+  {
+    "name": "GOG",
+    "background_fit_median_error": 0.23163638653615237,
+    "background_top": 254.93977266286734,
+    "background_bottom": 216.625941622847,
+    "ring_samples": 350,
+    "matte_extent": [
+      60,
+      72,
+      299,
+      287
+    ]
+  },
+  {
+    "name": "Gmail",
+    "background_fit_median_error": 0.0028571428571382285,
+    "background_top": 255.0,
+    "background_bottom": 254.9918928317782,
+    "ring_samples": 350,
+    "matte_extent": [
+      39,
+      68,
+      320,
+      291
+    ]
+  },
+  {
+    "name": "Google",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      48,
+      47,
+      310,
+      313
+    ]
+  },
+  {
+    "name": "Huawei_white",
+    "background_fit_median_error": 0.2571249444601875,
+    "background_top": 255.0,
+    "background_bottom": 241.99682623648246,
+    "ring_samples": 350,
+    "matte_extent": [
+      53,
+      85,
+      306,
+      275
+    ]
+  },
+  {
+    "name": "Hugging_face",
+    "background_fit_median_error": 0.22282327669154256,
+    "background_top": 254.9904978816154,
+    "background_bottom": 231.03807354695596,
+    "ring_samples": 350,
+    "matte_extent": [
+      50,
+      62,
+      309,
+      295
+    ]
+  },
+  {
+    "name": "Infuse",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      98,
+      63,
+      284,
+      296
+    ]
+  },
+  {
+    "name": "Messenger",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      47,
+      49,
+      316,
+      318
+    ]
+  },
+  {
+    "name": "Meta_1",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      39,
+      87,
+      319,
+      273
+    ]
+  },
+  {
+    "name": "Microsoft_365",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      66,
+      56,
+      293,
+      303
+    ]
+  },
+  {
+    "name": "Microsoft_Copilot",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      40,
+      48,
+      319,
+      310
+    ]
+  },
+  {
+    "name": "Netflix_b",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      109,
+      55,
+      248,
+      306
+    ]
+  },
+  {
+    "name": "Niconico",
+    "background_fit_median_error": 0.0014285714285620088,
+    "background_top": 255.0,
+    "background_bottom": 254.9958961764119,
+    "ring_samples": 350,
+    "matte_extent": [
+      42,
+      40,
+      317,
+      316
+    ]
+  },
+  {
+    "name": "Niconico_Live",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      83,
+      29,
+      296,
+      322
+    ]
+  },
+  {
+    "name": "Olympics",
+    "background_fit_median_error": 0.23057320584537422,
+    "background_top": 251.84244829986943,
+    "background_bottom": 225.74326598584477,
+    "ring_samples": 350,
+    "matte_extent": [
+      40,
+      116,
+      319,
+      245
+    ]
+  },
+  {
+    "name": "OneDrive",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      39,
+      84,
+      320,
+      271
+    ]
+  },
+  {
+    "name": "Onlyfans",
+    "background_fit_median_error": 0.24979207993533237,
+    "background_top": 255.0,
+    "background_bottom": 230.88663902795705,
+    "ring_samples": 350,
+    "matte_extent": [
+      60,
+      100,
+      323,
+      275
+    ]
+  },
+  {
+    "name": "Outlook",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      45,
+      44,
+      318,
+      303
+    ]
+  },
+  {
+    "name": "Panda_WWF",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      60,
+      46,
+      299,
+      313
+    ]
+  },
+  {
+    "name": "PayPal_business",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      81,
+      68,
+      296,
+      327
+    ]
+  },
+  {
+    "name": "Playstation_30th",
+    "background_fit_median_error": 0.2201237444504045,
+    "background_top": 253.26789760382886,
+    "background_bottom": 229.40924525331397,
+    "ring_samples": 350,
+    "matte_extent": [
+      49,
+      75,
+      310,
+      273
+    ]
+  },
+  {
+    "name": "Reddit",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      61,
+      63,
+      304,
+      306
+    ]
+  },
+  {
+    "name": "Seancody",
+    "background_fit_median_error": 0.24196805105117392,
+    "background_top": 254.95979239480673,
+    "background_bottom": 210.70592189090752,
+    "ring_samples": 350,
+    "matte_extent": [
+      50,
+      98,
+      309,
+      260
+    ]
+  },
+  {
+    "name": "TikTok",
+    "background_fit_median_error": 0.22591198995208117,
+    "background_top": 254.93645818683075,
+    "background_bottom": 234.50639895602635,
+    "ring_samples": 350,
+    "matte_extent": [
+      60,
+      46,
+      299,
+      313
+    ]
+  },
+  {
+    "name": "Weibo",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      57,
+      55,
+      317,
+      284
+    ]
+  },
+  {
+    "name": "YouTube",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      44,
+      85,
+      314,
+      274
+    ]
+  },
+  {
+    "name": "Zoho_new",
+    "background_fit_median_error": 0.24875566331152754,
+    "background_top": 254.94622892548398,
+    "background_bottom": 224.33948536023033,
+    "ring_samples": 350,
+    "matte_extent": [
+      58,
+      58,
+      302,
+      302
+    ]
+  },
+  {
+    "name": "Zoho_old",
+    "background_fit_median_error": 0.24875566331152754,
+    "background_top": 254.94622892548398,
+    "background_bottom": 224.33948536023033,
+    "ring_samples": 350,
+    "matte_extent": [
+      58,
+      58,
+      302,
+      302
+    ]
+  },
+  {
+    "name": "Zune",
+    "background_fit_median_error": 0.0,
+    "background_top": 255.0,
+    "background_bottom": 254.99999999999991,
+    "ring_samples": 350,
+    "matte_extent": [
+      42,
+      16,
+      317,
+      343
+    ]
+  },
+  {
+    "name": "xHamster",
+    "background_fit_median_error": 0.23268777704308263,
+    "background_top": 255.0,
+    "background_bottom": 207.9387279896162,
+    "ring_samples": 350,
+    "matte_extent": [
+      50,
+      60,
+      309,
+      301
+    ]
+  }
+]

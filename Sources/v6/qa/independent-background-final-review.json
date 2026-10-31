@@ -1,0 +1,71 @@
+{
+  "schema": 1,
+  "reviewed_at_utc": "2026-10-31T13:48:45.428525+00:00",
+  "status": "no_blocking_visual_issue_observed_in_three_targeted_background_revisions",
+  "scope": "Addendum to independent-collection-final-review; only these three changed identities re-reviewed. Reviewed targeted output later installed byte-identically, verified by cold-build.json; no publication claim.",
+  "evidence": [
+    "Sources/v6/qa/background-final-comparison.png",
+    "Icon/Color/Large/Bitcoin.png",
+    "Icon/Color/Large/Crypto.png",
+    "Icon/Color/Large/GOG.png"
+  ],
+  "rows": [
+    {
+      "name": "Bitcoin",
+      "actual36_visual_reviewed": true,
+      "large_png_visual_reviewed": true,
+      "remaining_blocking_visual_issue": null,
+      "observation": "Orange background fills the common circle; white tilted B is independent, centered and comfortably inset. No residual smaller coin/white annulus. This is the specifically authorized background adaptation, not a claim of untouched official coin artwork.",
+      "reviewed_output": [
+        {
+          "path": "Icon/Color/Bitcoin.png",
+          "sha256": "d2ec8402208485c4747b52b3333e25e46d6604a3b8c0cfc448240961d4262fc1"
+        },
+        {
+          "path": "Icon/Color/Large/Bitcoin.png",
+          "sha256": "9fa187d8e5c50d4aa46fbf17fee5912e6af38a6958ce388208a68ac454b8580e"
+        }
+      ]
+    },
+    {
+      "name": "Crypto",
+      "actual36_visual_reviewed": true,
+      "large_png_visual_reviewed": true,
+      "remaining_blocking_visual_issue": null,
+      "observation": "Official deep-blue app background fills the common circle; full white hexagon/lion is centered and complete. No top highlight misclassified as an extra white line is visible in the current PNG.",
+      "reviewed_output": [
+        {
+          "path": "Icon/Color/Crypto.png",
+          "sha256": "d743c952cbea9a15f2ba62dea40096827e1333c000bd905233358a9db653ba0e"
+        },
+        {
+          "path": "Icon/Color/Large/Crypto.png",
+          "sha256": "2619bd16bc2f4f0305caebad31ae4aa48208129bf3c7ba289c1b69dedcde036d"
+        }
+      ]
+    },
+    {
+      "name": "GOG",
+      "actual36_visual_reviewed": true,
+      "large_png_visual_reviewed": true,
+      "remaining_blocking_visual_issue": null,
+      "observation": "Purple GOG/com lettering on white circle; old black/purple square card is absent. Text remains readable at actual36px. Some softness at360px is consistent with the152px source, not a new sharp vector asset.",
+      "reviewed_output": [
+        {
+          "path": "Icon/Color/GOG.png",
+          "sha256": "289f823303b85ddd356526529163b164ceca19e98f940ed5cbceaf0936dad756"
+        },
+        {
+          "path": "Icon/Color/Large/GOG.png",
+          "sha256": "8f81e0d332874aa9843bafc6619c972b9c9d591d7fb5377d9997fe1f97d93327"
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Visual review at actual36px and360px, not original-vector provenance or trademark licensing clearance.",
+    "Bitcoin full-orange adaptation is an explicit project decision, superseding the earlier whole-coin exception interpretation.",
+    "GOG source152px softness remains at enlarged360px; actual36px is readable.",
+    "No files outside QA reports were changed by this reviewer."
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "scope": "Targeted background-vs-mark review; final follow-up narrowed to Crypto and GOG. No production changes.",
+  "items": [
+    {
+      "name": "Bitcoin",
+      "evidence": "Bitcoin Core primary repository SVG contains orange circular field and white B as one logo asset.",
+      "source": "https://raw.githubusercontent.com/bitcoin/bitcoin/master/src/qt/res/src/bitcoin.svg",
+      "decision": "Collection layout selects orange full-disc with B independently optically sized as a collection-layout adaptation; not a claim that official branding mandates full bleed."
+    },
+    {
+      "name": "Reddit",
+      "source": "https://redditinc.com/brand",
+      "evidence": "Official definition explicitly includes Snoo head within OrangeRed conversation bubble. Actual official icon includes bubble tail.",
+      "decision": "Retain complete bubble as foreground on white; do not erase tail by treating orange as generic disc backdrop."
+    },
+    {
+      "name": "Messenger",
+      "source": "https://www.meta.com/brand/resources/facebook/messenger-icon/",
+      "evidence": "Official blue icon shown as complete speech bubble with white bolt; clear space applies around complete icon.",
+      "decision": "Bubble is logo geometry, not background; retain complete bubble, not bolt-only full-blue disc."
+    },
+    {
+      "name": "Crypto",
+      "source": "https://apps.apple.com/us/app/crypto-com-trade-every-market/id1262148500",
+      "existing_research_asset": "Sources/v6/official-special/Crypto.webp",
+      "evidence": "Official developer app bitmap actually viewed: blue gradient rounded-square carrier with complete white hexagonal lion mark. Earlier v4 audit records original project cyan-green as custom color variant.",
+      "recommendation": "Prefer verified official blue color family over copying project cyan-green. Adapt app carrier to full circle and scale complete white hexagon+lion together; do not extract lion alone.",
+      "confidence": "Official app identity and appearance confirmed; exact hidden blue background still requires recovery or official separate asset."
+    },
+    {
+      "name": "GOG",
+      "source": "https://store-static-modular.gog-statics.com/en/assets/favicons/apple-touch-icon-152x152.png",
+      "existing_research_asset": "Sources/v6/official-special/GOG.png",
+      "evidence": "Official website apple-touch bitmap actually viewed: purple gog.com lettering on white; no intrinsic dark-square border.",
+      "recommendation": "Current dark/purple square can be treated as carrier, not immutable mark geometry. Either fixed dark full-disc plus original lettering (collection adaptation, current exact color variant not proven official), or verified purple official lettering on white. Avoid inset square card.",
+      "confidence": "Shape/carrier separation supported by official alternate presentation; current dark color variant not independently verified."
+    }
+  ]
+}

@@ -1,0 +1,1075 @@
+{
+  "count": 178,
+  "max_mean_error": 2.7226,
+  "note": "Paired visual scale check on white composite, not identical compression. Individual default contact sheets and changed Large images were visually inspected.",
+  "items": [
+    {
+      "name": "AI",
+      "default": "Icon/Color/AI.png",
+      "large": "Icon/Color/Large/AI.png",
+      "white_composite_mae_0_255": 0.0903
+    },
+    {
+      "name": "AI_Tree",
+      "default": "Icon/Color/AI_Tree.png",
+      "large": "Icon/Color/Large/AI_Tree.png",
+      "white_composite_mae_0_255": 0.0872
+    },
+    {
+      "name": "AI_bot",
+      "default": "Icon/Color/AI_bot.png",
+      "large": "Icon/Color/Large/AI_bot.png",
+      "white_composite_mae_0_255": 0.0857
+    },
+    {
+      "name": "AI_voice",
+      "default": "Icon/Color/AI_voice.png",
+      "large": "Icon/Color/Large/AI_voice.png",
+      "white_composite_mae_0_255": 0.0725
+    },
+    {
+      "name": "ASIA",
+      "default": "Icon/Color/ASIA.png",
+      "large": "Icon/Color/Large/ASIA.png",
+      "white_composite_mae_0_255": 0.1171
+    },
+    {
+      "name": "Adblock",
+      "default": "Icon/Color/Adblock.png",
+      "large": "Icon/Color/Large/Adblock.png",
+      "white_composite_mae_0_255": 0.0737
+    },
+    {
+      "name": "AdblockPlus",
+      "default": "Icon/Color/AdblockPlus.png",
+      "large": "Icon/Color/Large/AdblockPlus.png",
+      "white_composite_mae_0_255": 0.752
+    },
+    {
+      "name": "AdblockPlus_2",
+      "default": "Icon/Color/AdblockPlus_2.png",
+      "large": "Icon/Color/Large/AdblockPlus_2.png",
+      "white_composite_mae_0_255": 0.114
+    },
+    {
+      "name": "Adguard",
+      "default": "Icon/Color/Adguard.png",
+      "large": "Icon/Color/Large/Adguard.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "Adobe",
+      "default": "Icon/Color/Adobe.png",
+      "large": "Icon/Color/Large/Adobe.png",
+      "white_composite_mae_0_255": 0.964
+    },
+    {
+      "name": "Amazon",
+      "default": "Icon/Color/Amazon.png",
+      "large": "Icon/Color/Large/Amazon.png",
+      "white_composite_mae_0_255": 0.7843
+    },
+    {
+      "name": "Apple",
+      "default": "Icon/Color/Apple.png",
+      "large": "Icon/Color/Large/Apple.png",
+      "white_composite_mae_0_255": 0.5788
+    },
+    {
+      "name": "Apple_TV",
+      "default": "Icon/Color/Apple_TV.png",
+      "large": "Icon/Color/Large/Apple_TV.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "Apple_black",
+      "default": "Icon/Color/Apple_black.png",
+      "large": "Icon/Color/Large/Apple_black.png",
+      "white_composite_mae_0_255": 0.6484
+    },
+    {
+      "name": "Apple_rainbow",
+      "default": "Icon/Color/Apple_rainbow.png",
+      "large": "Icon/Color/Large/Apple_rainbow.png",
+      "white_composite_mae_0_255": 0.465
+    },
+    {
+      "name": "Auto_Link",
+      "default": "Icon/Color/Auto_Link.png",
+      "large": "Icon/Color/Large/Auto_Link.png",
+      "white_composite_mae_0_255": 0.0848
+    },
+    {
+      "name": "BT_Bittorrent",
+      "default": "Icon/Color/BT_Bittorrent.png",
+      "large": "Icon/Color/Large/BT_Bittorrent.png",
+      "white_composite_mae_0_255": 1.0754
+    },
+    {
+      "name": "Bahamut",
+      "default": "Icon/Color/Bahamut.png",
+      "large": "Icon/Color/Large/Bahamut.png",
+      "white_composite_mae_0_255": 0.0587
+    },
+    {
+      "name": "Bahamut_b",
+      "default": "Icon/Color/Bahamut_b.png",
+      "large": "Icon/Color/Large/Bahamut_b.png",
+      "white_composite_mae_0_255": 0.1351
+    },
+    {
+      "name": "Bahamut_i",
+      "default": "Icon/Color/Bahamut_i.png",
+      "large": "Icon/Color/Large/Bahamut_i.png",
+      "white_composite_mae_0_255": 0.1049
+    },
+    {
+      "name": "Bilibili_Global",
+      "default": "Icon/Color/Bilibili_Global.png",
+      "large": "Icon/Color/Large/Bilibili_Global.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "Bilibili_blue",
+      "default": "Icon/Color/Bilibili_blue.png",
+      "large": "Icon/Color/Large/Bilibili_blue.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "Binance",
+      "default": "Icon/Color/Binance.png",
+      "large": "Icon/Color/Large/Binance.png",
+      "white_composite_mae_0_255": 0.1881
+    },
+    {
+      "name": "Bing",
+      "default": "Icon/Color/Bing.png",
+      "large": "Icon/Color/Large/Bing.png",
+      "white_composite_mae_0_255": 0.2117
+    },
+    {
+      "name": "Bitcoin",
+      "default": "Icon/Color/Bitcoin.png",
+      "large": "Icon/Color/Large/Bitcoin.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "Bluesky",
+      "default": "Icon/Color/Bluesky.png",
+      "large": "Icon/Color/Large/Bluesky.png",
+      "white_composite_mae_0_255": 0.4569
+    },
+    {
+      "name": "Bytedance",
+      "default": "Icon/Color/Bytedance.png",
+      "large": "Icon/Color/Large/Bytedance.png",
+      "white_composite_mae_0_255": 0.2583
+    },
+    {
+      "name": "Calcifer",
+      "default": "Icon/Color/Calcifer.png",
+      "large": "Icon/Color/Large/Calcifer.png",
+      "white_composite_mae_0_255": 0.6475
+    },
+    {
+      "name": "Chained",
+      "default": "Icon/Color/Chained.png",
+      "large": "Icon/Color/Large/Chained.png",
+      "white_composite_mae_0_255": 0.0873
+    },
+    {
+      "name": "Chained_2",
+      "default": "Icon/Color/Chained_2.png",
+      "large": "Icon/Color/Large/Chained_2.png",
+      "white_composite_mae_0_255": 0.0882
+    },
+    {
+      "name": "ChatGPT",
+      "default": "Icon/Color/ChatGPT.png",
+      "large": "Icon/Color/Large/ChatGPT.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "China",
+      "default": "Icon/Color/China.png",
+      "large": "Icon/Color/Large/China.png",
+      "white_composite_mae_0_255": 0.5205
+    },
+    {
+      "name": "China_Taipei",
+      "default": "Icon/Color/China_Taipei.png",
+      "large": "Icon/Color/Large/China_Taipei.png",
+      "white_composite_mae_0_255": 1.2039
+    },
+    {
+      "name": "Claud",
+      "default": "Icon/Color/Claud.png",
+      "large": "Icon/Color/Large/Claud.png",
+      "white_composite_mae_0_255": 0.4614
+    },
+    {
+      "name": "Claude",
+      "default": "Icon/Color/Claude.png",
+      "large": "Icon/Color/Large/Claude.png",
+      "white_composite_mae_0_255": 0.4614
+    },
+    {
+      "name": "Cloud",
+      "default": "Icon/Color/Cloud.png",
+      "large": "Icon/Color/Large/Cloud.png",
+      "white_composite_mae_0_255": 0.7839
+    },
+    {
+      "name": "CloudFlare",
+      "default": "Icon/Color/CloudFlare.png",
+      "large": "Icon/Color/Large/CloudFlare.png",
+      "white_composite_mae_0_255": 0.3769
+    },
+    {
+      "name": "Consistent_Hashing",
+      "default": "Icon/Color/Consistent_Hashing.png",
+      "large": "Icon/Color/Large/Consistent_Hashing.png",
+      "white_composite_mae_0_255": 0.0937
+    },
+    {
+      "name": "Crypto",
+      "default": "Icon/Color/Crypto.png",
+      "large": "Icon/Color/Large/Crypto.png",
+      "white_composite_mae_0_255": 0.4256
+    },
+    {
+      "name": "DIRECT",
+      "default": "Icon/Color/DIRECT.png",
+      "large": "Icon/Color/Large/DIRECT.png",
+      "white_composite_mae_0_255": 0.0614
+    },
+    {
+      "name": "DeepSeek",
+      "default": "Icon/Color/DeepSeek.png",
+      "large": "Icon/Color/Large/DeepSeek.png",
+      "white_composite_mae_0_255": 0.062
+    },
+    {
+      "name": "Discord",
+      "default": "Icon/Color/Discord.png",
+      "large": "Icon/Color/Large/Discord.png",
+      "white_composite_mae_0_255": 0.4428
+    },
+    {
+      "name": "Disney",
+      "default": "Icon/Color/Disney.png",
+      "large": "Icon/Color/Large/Disney.png",
+      "white_composite_mae_0_255": 0.0659
+    },
+    {
+      "name": "Disney_Castle",
+      "default": "Icon/Color/Disney_Castle.png",
+      "large": "Icon/Color/Large/Disney_Castle.png",
+      "white_composite_mae_0_255": 0.1343
+    },
+    {
+      "name": "Disney_Channel",
+      "default": "Icon/Color/Disney_Channel.png",
+      "large": "Icon/Color/Large/Disney_Channel.png",
+      "white_composite_mae_0_255": 0.1148
+    },
+    {
+      "name": "Disney_Mickey",
+      "default": "Icon/Color/Disney_Mickey.png",
+      "large": "Icon/Color/Large/Disney_Mickey.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "Disney_plus",
+      "default": "Icon/Color/Disney_plus.png",
+      "large": "Icon/Color/Large/Disney_plus.png",
+      "white_composite_mae_0_255": 0.086
+    },
+    {
+      "name": "Dolphin",
+      "default": "Icon/Color/Dolphin.png",
+      "large": "Icon/Color/Large/Dolphin.png",
+      "white_composite_mae_0_255": 0.0862
+    },
+    {
+      "name": "Douyin",
+      "default": "Icon/Color/Douyin.png",
+      "large": "Icon/Color/Large/Douyin.png",
+      "white_composite_mae_0_255": 0.7423
+    },
+    {
+      "name": "Download",
+      "default": "Icon/Color/Download.png",
+      "large": "Icon/Color/Large/Download.png",
+      "white_composite_mae_0_255": 0.0792
+    },
+    {
+      "name": "Download_2",
+      "default": "Icon/Color/Download_2.png",
+      "large": "Icon/Color/Large/Download_2.png",
+      "white_composite_mae_0_255": 0.0792
+    },
+    {
+      "name": "EPIC",
+      "default": "Icon/Color/EPIC.png",
+      "large": "Icon/Color/Large/EPIC.png",
+      "white_composite_mae_0_255": 1.2255
+    },
+    {
+      "name": "Emby",
+      "default": "Icon/Color/Emby.png",
+      "large": "Icon/Color/Large/Emby.png",
+      "white_composite_mae_0_255": 0.5558
+    },
+    {
+      "name": "European_Union",
+      "default": "Icon/Color/European_Union.png",
+      "large": "Icon/Color/Large/European_Union.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "F2C",
+      "default": "Icon/Color/F2C.png",
+      "large": "Icon/Color/Large/F2C.png",
+      "white_composite_mae_0_255": 0.9321
+    },
+    {
+      "name": "FCM_Firebase_Cloud_Messaging",
+      "default": "Icon/Color/FCM_Firebase_Cloud_Messaging.png",
+      "large": "Icon/Color/Large/FCM_Firebase_Cloud_Messaging.png",
+      "white_composite_mae_0_255": 0.5516
+    },
+    {
+      "name": "Facebook",
+      "default": "Icon/Color/Facebook.png",
+      "large": "Icon/Color/Large/Facebook.png",
+      "white_composite_mae_0_255": 0.3675
+    },
+    {
+      "name": "Failover",
+      "default": "Icon/Color/Failover.png",
+      "large": "Icon/Color/Large/Failover.png",
+      "white_composite_mae_0_255": 0.0874
+    },
+    {
+      "name": "Fast",
+      "default": "Icon/Color/Fast.png",
+      "large": "Icon/Color/Large/Fast.png",
+      "white_composite_mae_0_255": 1.0484
+    },
+    {
+      "name": "Fish",
+      "default": "Icon/Color/Fish.png",
+      "large": "Icon/Color/Large/Fish.png",
+      "white_composite_mae_0_255": 0.0878
+    },
+    {
+      "name": "Fish_b",
+      "default": "Icon/Color/Fish_b.png",
+      "large": "Icon/Color/Large/Fish_b.png",
+      "white_composite_mae_0_255": 0.0857
+    },
+    {
+      "name": "Fish_x",
+      "default": "Icon/Color/Fish_x.png",
+      "large": "Icon/Color/Large/Fish_x.png",
+      "white_composite_mae_0_255": 0.8894
+    },
+    {
+      "name": "Flight",
+      "default": "Icon/Color/Flight.png",
+      "large": "Icon/Color/Large/Flight.png",
+      "white_composite_mae_0_255": 0.0746
+    },
+    {
+      "name": "Forbidden",
+      "default": "Icon/Color/Forbidden.png",
+      "large": "Icon/Color/Large/Forbidden.png",
+      "white_composite_mae_0_255": 0.108
+    },
+    {
+      "name": "GFW",
+      "default": "Icon/Color/GFW.png",
+      "large": "Icon/Color/Large/GFW.png",
+      "white_composite_mae_0_255": 0.0926
+    },
+    {
+      "name": "GOG",
+      "default": "Icon/Color/GOG.png",
+      "large": "Icon/Color/Large/GOG.png",
+      "white_composite_mae_0_255": 1.2613
+    },
+    {
+      "name": "Game",
+      "default": "Icon/Color/Game.png",
+      "large": "Icon/Color/Large/Game.png",
+      "white_composite_mae_0_255": 0.0899
+    },
+    {
+      "name": "Gemini",
+      "default": "Icon/Color/Gemini.png",
+      "large": "Icon/Color/Large/Gemini.png",
+      "white_composite_mae_0_255": 0.0644
+    },
+    {
+      "name": "GitHub",
+      "default": "Icon/Color/GitHub.png",
+      "large": "Icon/Color/Large/GitHub.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "Global",
+      "default": "Icon/Color/Global.png",
+      "large": "Icon/Color/Large/Global.png",
+      "white_composite_mae_0_255": 0.1155
+    },
+    {
+      "name": "Globefish",
+      "default": "Icon/Color/Globefish.png",
+      "large": "Icon/Color/Large/Globefish.png",
+      "white_composite_mae_0_255": 0.1053
+    },
+    {
+      "name": "Gmail",
+      "default": "Icon/Color/Gmail.png",
+      "large": "Icon/Color/Large/Gmail.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "Google",
+      "default": "Icon/Color/Google.png",
+      "large": "Icon/Color/Large/Google.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "Grok",
+      "default": "Icon/Color/Grok.png",
+      "large": "Icon/Color/Large/Grok.png",
+      "white_composite_mae_0_255": 0.165
+    },
+    {
+      "name": "HBO_MAX",
+      "default": "Icon/Color/HBO_MAX.png",
+      "large": "Icon/Color/Large/HBO_MAX.png",
+      "white_composite_mae_0_255": 0.3136
+    },
+    {
+      "name": "Home",
+      "default": "Icon/Color/Home.png",
+      "large": "Icon/Color/Large/Home.png",
+      "white_composite_mae_0_255": 0.076
+    },
+    {
+      "name": "Hong_Kong",
+      "default": "Icon/Color/Hong_Kong.png",
+      "large": "Icon/Color/Large/Hong_Kong.png",
+      "white_composite_mae_0_255": 0.9958
+    },
+    {
+      "name": "Huawei",
+      "default": "Icon/Color/Huawei.png",
+      "large": "Icon/Color/Large/Huawei.png",
+      "white_composite_mae_0_255": 0.1829
+    },
+    {
+      "name": "Huawei_black",
+      "default": "Icon/Color/Huawei_black.png",
+      "large": "Icon/Color/Large/Huawei_black.png",
+      "white_composite_mae_0_255": 0.2301
+    },
+    {
+      "name": "Huawei_white",
+      "default": "Icon/Color/Huawei_white.png",
+      "large": "Icon/Color/Large/Huawei_white.png",
+      "white_composite_mae_0_255": 0.1157
+    },
+    {
+      "name": "Hugging_face",
+      "default": "Icon/Color/Hugging_face.png",
+      "large": "Icon/Color/Large/Hugging_face.png",
+      "white_composite_mae_0_255": 0.806
+    },
+    {
+      "name": "Hugging_face_g",
+      "default": "Icon/Color/Hugging_face_g.png",
+      "large": "Icon/Color/Large/Hugging_face_g.png",
+      "white_composite_mae_0_255": 1.2712
+    },
+    {
+      "name": "Hulu",
+      "default": "Icon/Color/Hulu.png",
+      "large": "Icon/Color/Large/Hulu.png",
+      "white_composite_mae_0_255": 0.6111
+    },
+    {
+      "name": "Infuse",
+      "default": "Icon/Color/Infuse.png",
+      "large": "Icon/Color/Large/Infuse.png",
+      "white_composite_mae_0_255": 0.2049
+    },
+    {
+      "name": "Instagram",
+      "default": "Icon/Color/Instagram.png",
+      "large": "Icon/Color/Large/Instagram.png",
+      "white_composite_mae_0_255": 0.7667
+    },
+    {
+      "name": "Japan",
+      "default": "Icon/Color/Japan.png",
+      "large": "Icon/Color/Large/Japan.png",
+      "white_composite_mae_0_255": 0.1377
+    },
+    {
+      "name": "Jellyfin",
+      "default": "Icon/Color/Jellyfin.png",
+      "large": "Icon/Color/Large/Jellyfin.png",
+      "white_composite_mae_0_255": 0.7305
+    },
+    {
+      "name": "Link",
+      "default": "Icon/Color/Link.png",
+      "large": "Icon/Color/Large/Link.png",
+      "white_composite_mae_0_255": 0.0925
+    },
+    {
+      "name": "Linkedin",
+      "default": "Icon/Color/Linkedin.png",
+      "large": "Icon/Color/Large/Linkedin.png",
+      "white_composite_mae_0_255": 0.6364
+    },
+    {
+      "name": "Linkedin_ray",
+      "default": "Icon/Color/Linkedin_ray.png",
+      "large": "Icon/Color/Large/Linkedin_ray.png",
+      "white_composite_mae_0_255": 0.6922
+    },
+    {
+      "name": "Load_balancing",
+      "default": "Icon/Color/Load_balancing.png",
+      "large": "Icon/Color/Large/Load_balancing.png",
+      "white_composite_mae_0_255": 0.0991
+    },
+    {
+      "name": "Load_balancing_2",
+      "default": "Icon/Color/Load_balancing_2.png",
+      "large": "Icon/Color/Large/Load_balancing_2.png",
+      "white_composite_mae_0_255": 0.0749
+    },
+    {
+      "name": "Load_balancing_3",
+      "default": "Icon/Color/Load_balancing_3.png",
+      "large": "Icon/Color/Large/Load_balancing_3.png",
+      "white_composite_mae_0_255": 0.1119
+    },
+    {
+      "name": "Location",
+      "default": "Icon/Color/Location.png",
+      "large": "Icon/Color/Large/Location.png",
+      "white_composite_mae_0_255": 0.0878
+    },
+    {
+      "name": "MLB",
+      "default": "Icon/Color/MLB.png",
+      "large": "Icon/Color/Large/MLB.png",
+      "white_composite_mae_0_255": 0.8795
+    },
+    {
+      "name": "Magic_Timer",
+      "default": "Icon/Color/Magic_Timer.png",
+      "large": "Icon/Color/Large/Magic_Timer.png",
+      "white_composite_mae_0_255": 0.1
+    },
+    {
+      "name": "Mail",
+      "default": "Icon/Color/Mail.png",
+      "large": "Icon/Color/Large/Mail.png",
+      "white_composite_mae_0_255": 0.0875
+    },
+    {
+      "name": "Messenger",
+      "default": "Icon/Color/Messenger.png",
+      "large": "Icon/Color/Large/Messenger.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "Meta_1",
+      "default": "Icon/Color/Meta_1.png",
+      "large": "Icon/Color/Large/Meta_1.png",
+      "white_composite_mae_0_255": 0.4924
+    },
+    {
+      "name": "Microsoft",
+      "default": "Icon/Color/Microsoft.png",
+      "large": "Icon/Color/Large/Microsoft.png",
+      "white_composite_mae_0_255": 0.1132
+    },
+    {
+      "name": "Microsoft_365",
+      "default": "Icon/Color/Microsoft_365.png",
+      "large": "Icon/Color/Large/Microsoft_365.png",
+      "white_composite_mae_0_255": 0.2923
+    },
+    {
+      "name": "Microsoft_Copilot",
+      "default": "Icon/Color/Microsoft_Copilot.png",
+      "large": "Icon/Color/Large/Microsoft_Copilot.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "NBA",
+      "default": "Icon/Color/NBA.png",
+      "large": "Icon/Color/Large/NBA.png",
+      "white_composite_mae_0_255": 0.9328
+    },
+    {
+      "name": "Netflix",
+      "default": "Icon/Color/Netflix.png",
+      "large": "Icon/Color/Large/Netflix.png",
+      "white_composite_mae_0_255": 0.4701
+    },
+    {
+      "name": "Netflix_b",
+      "default": "Icon/Color/Netflix_b.png",
+      "large": "Icon/Color/Large/Netflix_b.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "Network",
+      "default": "Icon/Color/Network.png",
+      "large": "Icon/Color/Large/Network.png",
+      "white_composite_mae_0_255": 0.1298
+    },
+    {
+      "name": "Network_2",
+      "default": "Icon/Color/Network_2.png",
+      "large": "Icon/Color/Large/Network_2.png",
+      "white_composite_mae_0_255": 0.1175
+    },
+    {
+      "name": "Niche_Link",
+      "default": "Icon/Color/Niche_Link.png",
+      "large": "Icon/Color/Large/Niche_Link.png",
+      "white_composite_mae_0_255": 0.0882
+    },
+    {
+      "name": "Niconico",
+      "default": "Icon/Color/Niconico.png",
+      "large": "Icon/Color/Large/Niconico.png",
+      "white_composite_mae_0_255": 1.3459
+    },
+    {
+      "name": "Niconico_Live",
+      "default": "Icon/Color/Niconico_Live.png",
+      "large": "Icon/Color/Large/Niconico_Live.png",
+      "white_composite_mae_0_255": 0.504
+    },
+    {
+      "name": "Niconico_Manga",
+      "default": "Icon/Color/Niconico_Manga.png",
+      "large": "Icon/Color/Large/Niconico_Manga.png",
+      "white_composite_mae_0_255": 1.1679
+    },
+    {
+      "name": "Olympics",
+      "default": "Icon/Color/Olympics.png",
+      "large": "Icon/Color/Large/Olympics.png",
+      "white_composite_mae_0_255": 0.9814
+    },
+    {
+      "name": "Omission",
+      "default": "Icon/Color/Omission.png",
+      "large": "Icon/Color/Large/Omission.png",
+      "white_composite_mae_0_255": 0.9571
+    },
+    {
+      "name": "OneDrive",
+      "default": "Icon/Color/OneDrive.png",
+      "large": "Icon/Color/Large/OneDrive.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "Onlyfans",
+      "default": "Icon/Color/Onlyfans.png",
+      "large": "Icon/Color/Large/Onlyfans.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "Other",
+      "default": "Icon/Color/Other.png",
+      "large": "Icon/Color/Large/Other.png",
+      "white_composite_mae_0_255": 0.0551
+    },
+    {
+      "name": "Outlook",
+      "default": "Icon/Color/Outlook.png",
+      "large": "Icon/Color/Large/Outlook.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "Palestine",
+      "default": "Icon/Color/Palestine.png",
+      "large": "Icon/Color/Large/Palestine.png",
+      "white_composite_mae_0_255": 0.7443
+    },
+    {
+      "name": "Panda",
+      "default": "Icon/Color/Panda.png",
+      "large": "Icon/Color/Large/Panda.png",
+      "white_composite_mae_0_255": 0.1036
+    },
+    {
+      "name": "Panda_WWF",
+      "default": "Icon/Color/Panda_WWF.png",
+      "large": "Icon/Color/Large/Panda_WWF.png",
+      "white_composite_mae_0_255": 0.6082
+    },
+    {
+      "name": "Panda_ai",
+      "default": "Icon/Color/Panda_ai.png",
+      "large": "Icon/Color/Large/Panda_ai.png",
+      "white_composite_mae_0_255": 0.1066
+    },
+    {
+      "name": "PayPal",
+      "default": "Icon/Color/PayPal.png",
+      "large": "Icon/Color/Large/PayPal.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "PayPal_business",
+      "default": "Icon/Color/PayPal_business.png",
+      "large": "Icon/Color/Large/PayPal_business.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "Peacook",
+      "default": "Icon/Color/Peacook.png",
+      "large": "Icon/Color/Large/Peacook.png",
+      "white_composite_mae_0_255": 0.192
+    },
+    {
+      "name": "Perplexity",
+      "default": "Icon/Color/Perplexity.png",
+      "large": "Icon/Color/Large/Perplexity.png",
+      "white_composite_mae_0_255": 1.3917
+    },
+    {
+      "name": "Pig",
+      "default": "Icon/Color/Pig.png",
+      "large": "Icon/Color/Large/Pig.png",
+      "white_composite_mae_0_255": 0.1141
+    },
+    {
+      "name": "Piggies",
+      "default": "Icon/Color/Piggies.png",
+      "large": "Icon/Color/Large/Piggies.png",
+      "white_composite_mae_0_255": 1.0385
+    },
+    {
+      "name": "Piggies_b",
+      "default": "Icon/Color/Piggies_b.png",
+      "large": "Icon/Color/Large/Piggies_b.png",
+      "white_composite_mae_0_255": 2.7226
+    },
+    {
+      "name": "Pixiv",
+      "default": "Icon/Color/Pixiv.png",
+      "large": "Icon/Color/Large/Pixiv.png",
+      "white_composite_mae_0_255": 0.0963
+    },
+    {
+      "name": "Playstation",
+      "default": "Icon/Color/Playstation.png",
+      "large": "Icon/Color/Large/Playstation.png",
+      "white_composite_mae_0_255": 0.665
+    },
+    {
+      "name": "Playstation_30th",
+      "default": "Icon/Color/Playstation_30th.png",
+      "large": "Icon/Color/Large/Playstation_30th.png",
+      "white_composite_mae_0_255": 1.1277
+    },
+    {
+      "name": "Playstation_remote",
+      "default": "Icon/Color/Playstation_remote.png",
+      "large": "Icon/Color/Large/Playstation_remote.png",
+      "white_composite_mae_0_255": 0.7437
+    },
+    {
+      "name": "Plex",
+      "default": "Icon/Color/Plex.png",
+      "large": "Icon/Color/Large/Plex.png",
+      "white_composite_mae_0_255": 0.5686
+    },
+    {
+      "name": "Pornhub",
+      "default": "Icon/Color/Pornhub.png",
+      "large": "Icon/Color/Large/Pornhub.png",
+      "white_composite_mae_0_255": 1.1021
+    },
+    {
+      "name": "Prime",
+      "default": "Icon/Color/Prime.png",
+      "large": "Icon/Color/Large/Prime.png",
+      "white_composite_mae_0_255": 1.9833
+    },
+    {
+      "name": "Qoura",
+      "default": "Icon/Color/Qoura.png",
+      "large": "Icon/Color/Large/Qoura.png",
+      "white_composite_mae_0_255": 0.5971
+    },
+    {
+      "name": "Reddit",
+      "default": "Icon/Color/Reddit.png",
+      "large": "Icon/Color/Large/Reddit.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "Remote",
+      "default": "Icon/Color/Remote.png",
+      "large": "Icon/Color/Large/Remote.png",
+      "white_composite_mae_0_255": 0.0815
+    },
+    {
+      "name": "Round_Robin",
+      "default": "Icon/Color/Round_Robin.png",
+      "large": "Icon/Color/Large/Round_Robin.png",
+      "white_composite_mae_0_255": 0.0873
+    },
+    {
+      "name": "SNS",
+      "default": "Icon/Color/SNS.png",
+      "large": "Icon/Color/Large/SNS.png",
+      "white_composite_mae_0_255": 0.0947
+    },
+    {
+      "name": "Scholar",
+      "default": "Icon/Color/Scholar.png",
+      "large": "Icon/Color/Large/Scholar.png",
+      "white_composite_mae_0_255": 0.0312
+    },
+    {
+      "name": "Seancody",
+      "default": "Icon/Color/Seancody.png",
+      "large": "Icon/Color/Large/Seancody.png",
+      "white_composite_mae_0_255": 1.1092
+    },
+    {
+      "name": "Server",
+      "default": "Icon/Color/Server.png",
+      "large": "Icon/Color/Large/Server.png",
+      "white_composite_mae_0_255": 0.1143
+    },
+    {
+      "name": "Settings",
+      "default": "Icon/Color/Settings.png",
+      "large": "Icon/Color/Large/Settings.png",
+      "white_composite_mae_0_255": 0.0913
+    },
+    {
+      "name": "Signal_Light",
+      "default": "Icon/Color/Signal_Light.png",
+      "large": "Icon/Color/Large/Signal_Light.png",
+      "white_composite_mae_0_255": 0.0774
+    },
+    {
+      "name": "Singapore",
+      "default": "Icon/Color/Singapore.png",
+      "large": "Icon/Color/Large/Singapore.png",
+      "white_composite_mae_0_255": 0.7337
+    },
+    {
+      "name": "Sony_Live",
+      "default": "Icon/Color/Sony_Live.png",
+      "large": "Icon/Color/Large/Sony_Live.png",
+      "white_composite_mae_0_255": 1.0905
+    },
+    {
+      "name": "South_Korea",
+      "default": "Icon/Color/South_Korea.png",
+      "large": "Icon/Color/Large/South_Korea.png",
+      "white_composite_mae_0_255": 0.822
+    },
+    {
+      "name": "SpeedTest",
+      "default": "Icon/Color/SpeedTest.png",
+      "large": "Icon/Color/Large/SpeedTest.png",
+      "white_composite_mae_0_255": 0.7695
+    },
+    {
+      "name": "Spotify",
+      "default": "Icon/Color/Spotify.png",
+      "large": "Icon/Color/Large/Spotify.png",
+      "white_composite_mae_0_255": 0.7259
+    },
+    {
+      "name": "Steam",
+      "default": "Icon/Color/Steam.png",
+      "large": "Icon/Color/Large/Steam.png",
+      "white_composite_mae_0_255": 0.7871
+    },
+    {
+      "name": "Stream",
+      "default": "Icon/Color/Stream.png",
+      "large": "Icon/Color/Large/Stream.png",
+      "white_composite_mae_0_255": 0.1214
+    },
+    {
+      "name": "Taiwan_Province",
+      "default": "Icon/Color/Taiwan_Province.png",
+      "large": "Icon/Color/Large/Taiwan_Province.png",
+      "white_composite_mae_0_255": 0.6895
+    },
+    {
+      "name": "Telegram",
+      "default": "Icon/Color/Telegram.png",
+      "large": "Icon/Color/Large/Telegram.png",
+      "white_composite_mae_0_255": 0.3416
+    },
+    {
+      "name": "Threads",
+      "default": "Icon/Color/Threads.png",
+      "large": "Icon/Color/Large/Threads.png",
+      "white_composite_mae_0_255": 0.9254
+    },
+    {
+      "name": "Tick",
+      "default": "Icon/Color/Tick.png",
+      "large": "Icon/Color/Large/Tick.png",
+      "white_composite_mae_0_255": 0.0645
+    },
+    {
+      "name": "Tick_2",
+      "default": "Icon/Color/Tick_2.png",
+      "large": "Icon/Color/Large/Tick_2.png",
+      "white_composite_mae_0_255": 0.124
+    },
+    {
+      "name": "TikTok",
+      "default": "Icon/Color/TikTok.png",
+      "large": "Icon/Color/Large/TikTok.png",
+      "white_composite_mae_0_255": 1.0657
+    },
+    {
+      "name": "Transfer",
+      "default": "Icon/Color/Transfer.png",
+      "large": "Icon/Color/Large/Transfer.png",
+      "white_composite_mae_0_255": 0.083
+    },
+    {
+      "name": "Twitch",
+      "default": "Icon/Color/Twitch.png",
+      "large": "Icon/Color/Large/Twitch.png",
+      "white_composite_mae_0_255": 0.4911
+    },
+    {
+      "name": "Twitter",
+      "default": "Icon/Color/Twitter.png",
+      "large": "Icon/Color/Large/Twitter.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "UBISOFT",
+      "default": "Icon/Color/UBISOFT.png",
+      "large": "Icon/Color/Large/UBISOFT.png",
+      "white_composite_mae_0_255": 0.1479
+    },
+    {
+      "name": "UK",
+      "default": "Icon/Color/UK.png",
+      "large": "Icon/Color/Large/UK.png",
+      "white_composite_mae_0_255": 1.2053
+    },
+    {
+      "name": "USA",
+      "default": "Icon/Color/USA.png",
+      "large": "Icon/Color/Large/USA.png",
+      "white_composite_mae_0_255": 0.9201
+    },
+    {
+      "name": "Video_Vimeo",
+      "default": "Icon/Color/Video_Vimeo.png",
+      "large": "Icon/Color/Large/Video_Vimeo.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "Vimeo",
+      "default": "Icon/Color/Vimeo.png",
+      "large": "Icon/Color/Large/Vimeo.png",
+      "white_composite_mae_0_255": 0.0795
+    },
+    {
+      "name": "Weibo",
+      "default": "Icon/Color/Weibo.png",
+      "large": "Icon/Color/Large/Weibo.png",
+      "white_composite_mae_0_255": 0.4197
+    },
+    {
+      "name": "WhatsApp",
+      "default": "Icon/Color/WhatsApp.png",
+      "large": "Icon/Color/Large/WhatsApp.png",
+      "white_composite_mae_0_255": 0.7871
+    },
+    {
+      "name": "X",
+      "default": "Icon/Color/X.png",
+      "large": "Icon/Color/Large/X.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "Xbox",
+      "default": "Icon/Color/Xbox.png",
+      "large": "Icon/Color/Large/Xbox.png",
+      "white_composite_mae_0_255": 0.1699
+    },
+    {
+      "name": "Xianyu",
+      "default": "Icon/Color/Xianyu.png",
+      "large": "Icon/Color/Large/Xianyu.png",
+      "white_composite_mae_0_255": 0.6913
+    },
+    {
+      "name": "Yin_Yang",
+      "default": "Icon/Color/Yin_Yang.png",
+      "large": "Icon/Color/Large/Yin_Yang.png",
+      "white_composite_mae_0_255": 0.1041
+    },
+    {
+      "name": "YouTube",
+      "default": "Icon/Color/YouTube.png",
+      "large": "Icon/Color/Large/YouTube.png",
+      "white_composite_mae_0_255": 0.0393
+    },
+    {
+      "name": "Zoho_new",
+      "default": "Icon/Color/Zoho_new.png",
+      "large": "Icon/Color/Large/Zoho_new.png",
+      "white_composite_mae_0_255": 1.2667
+    },
+    {
+      "name": "Zoho_old",
+      "default": "Icon/Color/Zoho_old.png",
+      "large": "Icon/Color/Large/Zoho_old.png",
+      "white_composite_mae_0_255": 1.2667
+    },
+    {
+      "name": "Zune",
+      "default": "Icon/Color/Zune.png",
+      "large": "Icon/Color/Large/Zune.png",
+      "white_composite_mae_0_255": 0.7144
+    },
+    {
+      "name": "bilibili",
+      "default": "Icon/Color/bilibili.png",
+      "large": "Icon/Color/Large/Bilibili.png",
+      "white_composite_mae_0_255": 0.0
+    },
+    {
+      "name": "xHamster",
+      "default": "Icon/Color/xHamster.png",
+      "large": "Icon/Color/Large/xHamster.png",
+      "white_composite_mae_0_255": 1.2687
+    }
+  ]
+}

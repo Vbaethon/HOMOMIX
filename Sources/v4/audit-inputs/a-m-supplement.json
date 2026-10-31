@@ -1,0 +1,149 @@
+{
+  "scope": "Bounded final primary-source supplement for seven previously unconfirmed A–M identities; does not modify frozen original audit.",
+  "checked_at": "2026-10-31T11:54:00Z",
+  "pixel_review": [
+    "a-m-supplement/supplement-sheet.png",
+    "a-m-supplement/current-seven.png",
+    "a-m-supplement/Amazon-lwa-example.png",
+    "a-m-supplement/BitTorrent-github-avatar.png"
+  ],
+  "summary": {
+    "identities_reviewed": 7,
+    "basic_identity_supported": 7,
+    "exact_bilibili_variants_still_unconfirmed": 3,
+    "confirmed_wrong_brand_marks": 0,
+    "production_files_modified": 0
+  },
+  "rows": [
+    {
+      "name": "Amazon",
+      "status": "已正确（基本形对应）",
+      "sources": [
+        "https://developer.amazon.com/docs/login-with-amazon/brand.html",
+        "https://m.media-amazon.com/images/G/01/mobile-apps/dex/login-with-amazon/login_button_integrated_3._TTH_.png"
+      ],
+      "local_assets": [
+        "a-m-supplement/Amazon-lwa-example.png"
+      ],
+      "evidence": "Amazon官方LWA样例明确使用a与微笑箭头短标；现有图标保留这些关键形状。",
+      "limits": "官方截图图标很小，仅确认身份与基本形，不宣称当前像素/渐变是官方原稿；未强制换新购物袋App标。",
+      "recommendation": "保留现有图形，无证据支持必须替换。",
+      "note": "Amazon官方LWA样例明确使用a与微笑箭头短标；现有图标保留这些关键形状。 官方截图图标很小，仅确认身份与基本形，不宣称当前像素/渐变是官方原稿；未强制换新购物袋App标。",
+      "source": "https://developer.amazon.com/docs/login-with-amazon/brand.html"
+    },
+    {
+      "name": "bilibili",
+      "status": "品牌身份已确认，具体变体未完全确认",
+      "sources": [
+        "https://apps.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%A6%82%E5%BF%B5/id1204090346?uo=4",
+        "https://apps.apple.com/id/app/bilibili-hd-anime-videos/id1548857482?uo=4",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/17/cf/7717cfbc-2543-1635-19a9-be3b538a8ad7/AppIcon-blue-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/bf/14/b6bf1482-be0c-3aef-2d2e-83e9b2f73ab3/AppIcon-inter-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+      ],
+      "local_assets": [
+        "a-m-supplement/app-1204090346.png",
+        "a-m-supplement/app-1548857482.png"
+      ],
+      "evidence": "官方哔哩哔哩概念App显示双天线TV轮廓；国际BiliBili官方App显示相同双天线、斜眼、w形嘴TV吉祥物。现有图标基本身份一致。",
+      "limits": "无法凭这两款App确证当前三个具体线框比例、粉/蓝/透明色版是官方发布原图；国际官网412已停止，未绕过。",
+      "recommendation": "保留可辨识的现有TV图形；audit不得写成精确官方几何/色版已证实。不根据当前季节性3D App图无故替换。",
+      "note": "官方哔哩哔哩概念App显示双天线TV轮廓；国际BiliBili官方App显示相同双天线、斜眼、w形嘴TV吉祥物。现有图标基本身份一致。 无法凭这两款App确证当前三个具体线框比例、粉/蓝/透明色版是官方发布原图；国际官网412已停止，未绕过。",
+      "source": "https://apps.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%A6%82%E5%BF%B5/id1204090346?uo=4"
+    },
+    {
+      "name": "Bilibili_blue",
+      "status": "品牌身份已确认，具体变体未完全确认",
+      "sources": [
+        "https://apps.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%A6%82%E5%BF%B5/id1204090346?uo=4",
+        "https://apps.apple.com/id/app/bilibili-hd-anime-videos/id1548857482?uo=4",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/17/cf/7717cfbc-2543-1635-19a9-be3b538a8ad7/AppIcon-blue-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/bf/14/b6bf1482-be0c-3aef-2d2e-83e9b2f73ab3/AppIcon-inter-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+      ],
+      "local_assets": [
+        "a-m-supplement/app-1204090346.png",
+        "a-m-supplement/app-1548857482.png"
+      ],
+      "evidence": "官方哔哩哔哩概念App显示双天线TV轮廓；国际BiliBili官方App显示相同双天线、斜眼、w形嘴TV吉祥物。现有图标基本身份一致。",
+      "limits": "无法凭这两款App确证当前三个具体线框比例、粉/蓝/透明色版是官方发布原图；国际官网412已停止，未绕过。",
+      "recommendation": "保留可辨识的现有TV图形；audit不得写成精确官方几何/色版已证实。不根据当前季节性3D App图无故替换。",
+      "note": "官方哔哩哔哩概念App显示双天线TV轮廓；国际BiliBili官方App显示相同双天线、斜眼、w形嘴TV吉祥物。现有图标基本身份一致。 无法凭这两款App确证当前三个具体线框比例、粉/蓝/透明色版是官方发布原图；国际官网412已停止，未绕过。",
+      "source": "https://apps.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%A6%82%E5%BF%B5/id1204090346?uo=4"
+    },
+    {
+      "name": "Bilibili_Global",
+      "status": "品牌身份已确认，具体变体未完全确认",
+      "sources": [
+        "https://apps.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%A6%82%E5%BF%B5/id1204090346?uo=4",
+        "https://apps.apple.com/id/app/bilibili-hd-anime-videos/id1548857482?uo=4",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/17/cf/7717cfbc-2543-1635-19a9-be3b538a8ad7/AppIcon-blue-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/bf/14/b6bf1482-be0c-3aef-2d2e-83e9b2f73ab3/AppIcon-inter-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+      ],
+      "local_assets": [
+        "a-m-supplement/app-1204090346.png",
+        "a-m-supplement/app-1548857482.png"
+      ],
+      "evidence": "官方哔哩哔哩概念App显示双天线TV轮廓；国际BiliBili官方App显示相同双天线、斜眼、w形嘴TV吉祥物。现有图标基本身份一致。",
+      "limits": "无法凭这两款App确证当前三个具体线框比例、粉/蓝/透明色版是官方发布原图；国际官网412已停止，未绕过。",
+      "recommendation": "保留可辨识的现有TV图形；audit不得写成精确官方几何/色版已证实。不根据当前季节性3D App图无故替换。",
+      "note": "官方哔哩哔哩概念App显示双天线TV轮廓；国际BiliBili官方App显示相同双天线、斜眼、w形嘴TV吉祥物。现有图标基本身份一致。 无法凭这两款App确证当前三个具体线框比例、粉/蓝/透明色版是官方发布原图；国际官网412已停止，未绕过。",
+      "source": "https://apps.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%A6%82%E5%BF%B5/id1204090346?uo=4"
+    },
+    {
+      "name": "Bitcoin",
+      "status": "已正确（基本形对应）",
+      "sources": [
+        "https://github.com/bitcoin/bitcoin/blob/master/src/qt/res/src/bitcoin.svg",
+        "https://raw.githubusercontent.com/bitcoin/bitcoin/master/src/qt/res/src/bitcoin.svg"
+      ],
+      "local_assets": [
+        "a-m-supplement/Bitcoin_core_svg.svg",
+        "a-m-supplement/Bitcoin_core.png"
+      ],
+      "evidence": "Bitcoin Core主仓库SVG实际渲染为橙圆斜白B，与当前基本标识相符。",
+      "limits": "Bitcoin没有唯一中央品牌所有者；此处为主项目第一方标识证据，不是独占官方品牌授权。当前轻平面化并非原SVG字节。bitcoin.org资源403未绕过。",
+      "recommendation": "保留现有图形，无证据支持必须替换。",
+      "note": "Bitcoin Core主仓库SVG实际渲染为橙圆斜白B，与当前基本标识相符。 Bitcoin没有唯一中央品牌所有者；此处为主项目第一方标识证据，不是独占官方品牌授权。当前轻平面化并非原SVG字节。bitcoin.org资源403未绕过。",
+      "source": "https://github.com/bitcoin/bitcoin/blob/master/src/qt/res/src/bitcoin.svg"
+    },
+    {
+      "name": "BT_Bittorrent",
+      "status": "已正确（基本形对应）",
+      "sources": [
+        "https://github.com/bittorrent",
+        "https://github.com/bittorrent/libutp",
+        "https://avatars.githubusercontent.com/u/142253?s=200&v=4"
+      ],
+      "local_assets": [
+        "a-m-supplement/BitTorrent-github-avatar.png"
+      ],
+      "evidence": "BitTorrent Inc.主项目GitHub组织使用紫色圆三弧旋涡头像；实际像素与当前三弧旋涡关键形态一致。",
+      "limits": "当前蓝绿紫渐变是套系自定义配色，不是该官方头像原色；未证明历史官方发行过此渐变版。官网presskit此前challenge不重试。",
+      "recommendation": "形状保留；若要求严格原色可采用已下载的官方紫白头像，不需自行重画。",
+      "note": "BitTorrent Inc.主项目GitHub组织使用紫色圆三弧旋涡头像；实际像素与当前三弧旋涡关键形态一致。 当前蓝绿紫渐变是套系自定义配色，不是该官方头像原色；未证明历史官方发行过此渐变版。官网presskit此前challenge不重试。",
+      "source": "https://github.com/bittorrent"
+    },
+    {
+      "name": "F2C",
+      "status": "已正确（基本形对应）",
+      "sources": [
+        "https://apps.apple.com/jp/developer/fc2-inc/id374259312",
+        "https://apps.apple.com/jp/app/fc2%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88-viewer/id1435604927?uo=4",
+        "https://apps.apple.com/jp/app/fc2%E5%8B%95%E7%94%BB-viewer/id1334133153?uo=4",
+        "https://apps.apple.com/jp/app/fc2%E5%8B%95%E7%94%BB/id866843206?uo=4",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/06/c5/8706c587-fcd4-d388-e73a-69c519dae0b0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/39/6a/20396ae9-7468-08e8-535a-cece811bf66c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4e/e6/b6/4ee6b67c-e974-f795-433e-28def5bca596/AppIcon-1x_U007emarketing-5-85-220.png/512x512bb.jpg"
+      ],
+      "local_assets": [
+        "a-m-supplement/app-1435604927.png",
+        "a-m-supplement/app-1334133153.png",
+        "a-m-supplement/app-866843206.png"
+      ],
+      "evidence": "已核实FC2, Inc.官方开发者3款App均使用相同红色分段鬃毛马头，与现有图标关键形态相符。",
+      "limits": "现有文件名F2C与官方品牌FC2字序不同；不改旧文件名避免破坏兼容。",
+      "recommendation": "保留红马头；可补FC2别名/README注明官方拼写FC2，保留F2C兼容名。",
+      "note": "已核实FC2, Inc.官方开发者3款App均使用相同红色分段鬃毛马头，与现有图标关键形态相符。 现有文件名F2C与官方品牌FC2字序不同；不改旧文件名避免破坏兼容。",
+      "source": "https://apps.apple.com/jp/developer/fc2-inc/id374259312"
+    }
+  ]
+}

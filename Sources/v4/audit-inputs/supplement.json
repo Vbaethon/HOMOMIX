@@ -1,0 +1,67 @@
+{
+  "scope": "six official-source supplement only",
+  "checked_at": "2026-10-31",
+  "rows": [
+    {
+      "name": "Apple_TV",
+      "status": "已正确（当前官方主体）",
+      "note": "当前Apple官方App Store图标为黑底虹彩银色Apple+tv，现PNG主体对应；只是圆盘底形不同，不需改。",
+      "source": "https://apps.apple.com/us/app/apple-tv/id1174078549",
+      "official_asset": "apple-tv-official.webp",
+      "current_pixels_reviewed": true,
+      "current_sha256": "e79cd447ba8ebbefcfce9b8c53c9210ac961e48c23594bdb76f01b41e3ee208c",
+      "official_pixels_reviewed": true
+    },
+    {
+      "name": "Google",
+      "status": "已正确（当前官方渐变G）",
+      "note": "现图为新版四色渐变G，与2025-09官方博客原PNG匹配；并非自造虹彩。官方SVG的滤镜在本地Inkscape有兼容问题，判断依据为官方PNG。",
+      "source": "https://blog.google/company-news/inside-google/company-announcements/gradient-g-logo-design/",
+      "official_asset": "google-official.png",
+      "current_pixels_reviewed": true,
+      "current_sha256": "be23499a91dbcdc8667b05adcb84c294865786b630cb83f45513368fc672f27c",
+      "official_pixels_reviewed": true
+    },
+    {
+      "name": "CloudFlare",
+      "status": "已正确（官方主体，项目单色变体）",
+      "note": "官方网站/CDN资源403；改查Cloudflare官方GitHub文档repo公开logo.svg，已下载渲染对照，云形/右侧小云/基线缺口对应。现白云橙盘是项目配色，不声称官方精确配色。",
+      "source": "https://github.com/cloudflare/cloudflare-docs/blob/production/public/logo.svg",
+      "official_asset": "cloudflare-repo.svg",
+      "current_pixels_reviewed": true,
+      "current_sha256": "d0eca50f60566805a1ec77f670dd650d648b1fba3b471fd4a68e5fbc7afdd142",
+      "official_pixels_reviewed": true
+    },
+    {
+      "name": "EPIC",
+      "status": "已正确（官方盾牌主体）",
+      "note": "从Epic官方新闻页的通用品牌图片取得官方像素并对照：EPIC/GAMES字样、下方倒三角、盾形轮廓对应。官方新闻图为白盾黑字，现图为黑盾白字；只是正负色版本，无需重画。",
+      "source": "https://www.epicgames.com/site/news",
+      "official_asset": "epic-official.png",
+      "current_pixels_reviewed": true,
+      "current_sha256": "e4905d5b1e95aeec8147717c801e57a076b2e17ec4c3e038f324f0dc4f96a092",
+      "official_pixels_reviewed": true,
+      "asset_url": "https://cms-assets.unrealengine.com/cm7f6mscg04mz07oh2utlcwtm/resize=width:1920/quality=value:90/auto_image/cmaksz9u66dxy07nabeiw31d8?width=1920"
+    },
+    {
+      "name": "Microsoft_365",
+      "status": "已正确（历史官方应用图标）",
+      "note": "2024微软官方商标指南第8页明确展示同款蓝紫六边形折环，现图正确；新版365 Copilot是后续版本，不因此否定历史官方图标。",
+      "source": "https://www.microsoft.com/content/dam/microsoft/mscle/documents/legal/intellectualproperty/trademarks/Microsoft_365_trademark_guidelines_2024.pdf",
+      "official_asset": "m365-official.png",
+      "current_pixels_reviewed": true,
+      "current_sha256": "6f5fce72a3e400c29f535a984a27db51320be00ba6ce14e5cca54c81a3dd33d7",
+      "official_pixels_reviewed": true
+    },
+    {
+      "name": "Crypto",
+      "status": "已正确（Crypto.com官方主体，项目配色变体）",
+      "note": "非泛指加密货币：现六边形狮头对应Crypto.com。官网静态资源403，但官方开发者App Store原图可读取并已像素对照；青绿渐变底为项目变体，不声称官方色。",
+      "source": "https://apps.apple.com/us/app/crypto-com-trade-every-market/id1262148500",
+      "official_asset": "crypto-official.webp",
+      "current_pixels_reviewed": true,
+      "current_sha256": "89e61d15c5f94463fc6df60568ebfdba306f50e1a8bfa7a433226ddf2768a263",
+      "official_pixels_reviewed": true
+    }
+  ]
+}

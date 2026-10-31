@@ -1,0 +1,206 @@
+[
+  {
+    "name": "Apple_TV",
+    "background_recovery": "robust quadratic RGB fit from original visible ring; approximate only under removed foreground",
+    "fit_ring_median_error": 0.0030148211853871193,
+    "foreground_bbox": [
+      39,
+      110,
+      326,
+      257
+    ],
+    "warning": "No claim of lossless recovery of hidden background. Inspect QA for halos, clipped geometry and dark detail preservation."
+  },
+  {
+    "name": "Douyin",
+    "background_recovery": "robust quadratic RGB fit from original visible ring; approximate only under removed foreground",
+    "fit_ring_median_error": 0.008417158022906716,
+    "foreground_bbox": [
+      51,
+      41,
+      300,
+      323
+    ],
+    "warning": "No claim of lossless recovery of hidden background. Inspect QA for halos, clipped geometry and dark detail preservation."
+  },
+  {
+    "name": "Hugging_face_g",
+    "background_recovery": "robust quadratic RGB fit from original visible ring; approximate only under removed foreground",
+    "fit_ring_median_error": 0.4699511620255379,
+    "foreground_bbox": [
+      49,
+      59,
+      311,
+      303
+    ],
+    "warning": "No claim of lossless recovery of hidden background. Inspect QA for halos, clipped geometry and dark detail preservation."
+  },
+  {
+    "name": "Hulu",
+    "background_recovery": "robust quadratic RGB fit from original visible ring; approximate only under removed foreground",
+    "fit_ring_median_error": 0.7821921241908214,
+    "foreground_bbox": [
+      52,
+      136,
+      308,
+      224
+    ],
+    "warning": "No claim of lossless recovery of hidden background. Inspect QA for halos, clipped geometry and dark detail preservation."
+  },
+  {
+    "name": "Jellyfin",
+    "background_recovery": "robust quadratic RGB fit from original visible ring; approximate only under removed foreground",
+    "fit_ring_median_error": 0.00960190260752114,
+    "foreground_bbox": [
+      47,
+      47,
+      313,
+      313
+    ],
+    "warning": "No claim of lossless recovery of hidden background. Inspect QA for halos, clipped geometry and dark detail preservation."
+  },
+  {
+    "name": "MLB",
+    "background_recovery": "robust quadratic RGB fit from original visible ring; approximate only under removed foreground",
+    "fit_ring_median_error": 1.2046296275160486,
+    "foreground_bbox": [
+      38,
+      100,
+      322,
+      259
+    ],
+    "warning": "No claim of lossless recovery of hidden background. Inspect QA for halos, clipped geometry and dark detail preservation."
+  },
+  {
+    "name": "NBA",
+    "background_recovery": "robust quadratic RGB fit from original visible ring; approximate only under removed foreground",
+    "fit_ring_median_error": 0.017539996184364526,
+    "foreground_bbox": [
+      117,
+      39,
+      243,
+      321
+    ],
+    "warning": "No claim of lossless recovery of hidden background. Inspect QA for halos, clipped geometry and dark detail preservation."
+  },
+  {
+    "name": "Netflix",
+    "background_recovery": "robust quadratic RGB fit from original visible ring; approximate only under removed foreground",
+    "fit_ring_median_error": 0.00689553521475651,
+    "foreground_bbox": [
+      110,
+      54,
+      250,
+      306
+    ],
+    "warning": "No claim of lossless recovery of hidden background. Inspect QA for halos, clipped geometry and dark detail preservation."
+  },
+  {
+    "name": "Niconico_Manga",
+    "background_recovery": "robust quadratic RGB fit from original visible ring; approximate only under removed foreground",
+    "fit_ring_median_error": 1.3619543485988288,
+    "foreground_bbox": [
+      25,
+      34,
+      318,
+      326
+    ],
+    "warning": "No claim of lossless recovery of hidden background. Inspect QA for halos, clipped geometry and dark detail preservation."
+  },
+  {
+    "name": "PayPal",
+    "background_recovery": "robust quadratic RGB fit from original visible ring; approximate only under removed foreground",
+    "fit_ring_median_error": 0.0011992674136408544,
+    "foreground_bbox": [
+      75,
+      60,
+      293,
+      322
+    ],
+    "warning": "No claim of lossless recovery of hidden background. Inspect QA for halos, clipped geometry and dark detail preservation."
+  },
+  {
+    "name": "Peacook",
+    "background_recovery": "robust quadratic RGB fit from original visible ring; approximate only under removed foreground",
+    "fit_ring_median_error": 0.5591652458897016,
+    "foreground_bbox": [
+      66,
+      68,
+      294,
+      291
+    ],
+    "warning": "No claim of lossless recovery of hidden background. Inspect QA for halos, clipped geometry and dark detail preservation."
+  },
+  {
+    "name": "Plex",
+    "background_recovery": "robust quadratic RGB fit from original visible ring; approximate only under removed foreground",
+    "fit_ring_median_error": 0.29230245949439393,
+    "foreground_bbox": [
+      121,
+      58,
+      269,
+      301
+    ],
+    "warning": "No claim of lossless recovery of hidden background. Inspect QA for halos, clipped geometry and dark detail preservation."
+  },
+  {
+    "name": "Pornhub",
+    "background_recovery": "robust quadratic RGB fit from original visible ring; approximate only under removed foreground",
+    "fit_ring_median_error": 0.2985716855460474,
+    "foreground_bbox": [
+      69,
+      85,
+      291,
+      277
+    ],
+    "warning": "No claim of lossless recovery of hidden background. Inspect QA for halos, clipped geometry and dark detail preservation."
+  },
+  {
+    "name": "Spotify",
+    "background_recovery": "robust quadratic RGB fit from original visible ring; approximate only under removed foreground",
+    "fit_ring_median_error": 1.0658141036401503e-13,
+    "foreground_bbox": [
+      36,
+      36,
+      323,
+      323
+    ],
+    "warning": "No claim of lossless recovery of hidden background. Inspect QA for halos, clipped geometry and dark detail preservation."
+  },
+  {
+    "name": "Twitch",
+    "background_recovery": "robust quadratic RGB fit from original visible ring; approximate only under removed foreground",
+    "fit_ring_median_error": 0.009744872389347847,
+    "foreground_bbox": [
+      70,
+      70,
+      290,
+      325
+    ],
+    "warning": "No claim of lossless recovery of hidden background. Inspect QA for halos, clipped geometry and dark detail preservation."
+  },
+  {
+    "name": "Vimeo",
+    "background_recovery": "robust quadratic RGB fit from original visible ring; approximate only under removed foreground",
+    "fit_ring_median_error": 0.0028716145581029195,
+    "foreground_bbox": [
+      51,
+      67,
+      306,
+      299
+    ],
+    "warning": "No claim of lossless recovery of hidden background. Inspect QA for halos, clipped geometry and dark detail preservation."
+  },
+  {
+    "name": "Xianyu",
+    "background_recovery": "robust quadratic RGB fit from original visible ring; approximate only under removed foreground",
+    "fit_ring_median_error": 0.2656967883579,
+    "foreground_bbox": [
+      71,
+      134,
+      289,
+      245
+    ],
+    "warning": "No claim of lossless recovery of hidden background. Inspect QA for halos, clipped geometry and dark detail preservation."
+  }
+]

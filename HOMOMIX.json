@@ -158,6 +158,10 @@
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Crypto.png"
     },
     {
+      "name": "DeepSeek.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/DeepSeek.png"
+    },
+    {
       "name": "DIRECT.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/DIRECT.png"
     },
@@ -196,10 +200,6 @@
     {
       "name": "Download.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Download.png"
-    },
-    {
-      "name": "Download_2.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Download_2.png"
     },
     {
       "name": "Emby.png",
@@ -266,6 +266,10 @@
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Game.png"
     },
     {
+      "name": "Gemini.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Gemini.png"
+    },
+    {
       "name": "GFW.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/GFW.png"
     },
@@ -292,6 +296,10 @@
     {
       "name": "Google.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Google.png"
+    },
+    {
+      "name": "Grok.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Grok.png"
     },
     {
       "name": "HBO_MAX.png",
@@ -502,6 +510,10 @@
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Crypto.png"
     },
     {
+      "name": "DeepSeek.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/DeepSeek.png"
+    },
+    {
       "name": "DIRECT.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/DIRECT.png"
     },
@@ -540,10 +552,6 @@
     {
       "name": "Download.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Download.png"
-    },
-    {
-      "name": "Download_2.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Download_2.png"
     },
     {
       "name": "Emby.png",
@@ -602,6 +610,10 @@
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Game.png"
     },
     {
+      "name": "Gemini.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Gemini.png"
+    },
+    {
       "name": "GFW.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/GFW.png"
     },
@@ -628,6 +640,10 @@
     {
       "name": "Google.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Google.png"
+    },
+    {
+      "name": "Grok.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Grok.png"
     },
     {
       "name": "HBO_MAX.png",
@@ -680,10 +696,6 @@
     {
       "name": "Jellyfin.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Jellyfin.png"
-    },
-    {
-      "name": "Link.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Link.png"
     },
     {
       "name": "Linkedin.png",
@@ -760,10 +772,6 @@
     {
       "name": "Network_2.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Network_2.png"
-    },
-    {
-      "name": "Niche_Link.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Niche_Link.png"
     },
     {
       "name": "Niconico.png",
@@ -974,10 +982,6 @@
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Twitch.png"
     },
     {
-      "name": "Twitter.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Twitter.png"
-    },
-    {
       "name": "UBISOFT.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/UBISOFT.png"
     },
@@ -1034,16 +1038,8 @@
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Zoho_new.png"
     },
     {
-      "name": "Zoho_old.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Zoho_old.png"
-    },
-    {
       "name": "Zune.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Zune.png"
-    },
-    {
-      "name": "Link.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Link.png"
     },
     {
       "name": "Linkedin.png",
@@ -1120,10 +1116,6 @@
     {
       "name": "Network_2.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Network_2.png"
-    },
-    {
-      "name": "Niche_Link.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Niche_Link.png"
     },
     {
       "name": "Niconico.png",
@@ -1334,10 +1326,6 @@
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Twitch.png"
     },
     {
-      "name": "Twitter.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Twitter.png"
-    },
-    {
       "name": "UBISOFT.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/UBISOFT.png"
     },
@@ -1392,10 +1380,6 @@
     {
       "name": "Zoho_new.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Zoho_new.png"
-    },
-    {
-      "name": "Zoho_old.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Zoho_old.png"
     },
     {
       "name": "Zune.png",

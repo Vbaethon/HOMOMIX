@@ -1,0 +1,422 @@
+{
+  "scope": "N-Z brand/service icons plus FDS Netflix/YouTube; Perplexity delegated separately; original system shapes and flags excluded",
+  "checked_at": "2026-10-31",
+  "rows": [
+    {
+      "name": "NBA",
+      "status": "已正确",
+      "visual_observation": "红蓝竖框、白色运球人物及NBA字样；与官网官方竖版标识一致。",
+      "official_source": "https://www.nba.com",
+      "local_reference": "NBA-1.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Netflix",
+      "status": "已正确",
+      "visual_observation": "黑底/白底版本均使用分层红色N，官方品牌资源保留此形与红色。",
+      "official_source": "https://brand.netflix.com/en/assets/logos/",
+      "local_reference": "Netflix-0.ico",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Netflix_b",
+      "status": "已正确",
+      "visual_observation": "黑底/白底版本均使用分层红色N，官方品牌资源保留此形与红色。",
+      "official_source": "https://brand.netflix.com/en/assets/logos/",
+      "local_reference": "Netflix-0.ico",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Niconico",
+      "status": "已正确",
+      "visual_observation": "电视外轮廓/天线的niconico视觉家族。现有带脸线稿是角色化变体，官网favicon为实心电视；不冒称二者像素相同。",
+      "official_source": "https://www.nicovideo.jp",
+      "local_reference": "Niconico-2.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Niconico_Live",
+      "status": "已正确",
+      "visual_observation": "官方live favicon与现图均为圆头、点眼及开口回环的黑白标识。",
+      "official_source": "https://live.nicovideo.jp",
+      "local_reference": "Niconico_Live-0.ico",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Niconico_Manga",
+      "status": "已正确",
+      "visual_observation": "绿贝雷帽电视脸，与官方manga favicon SVG匹配。",
+      "official_source": "https://manga.nicovideo.jp",
+      "local_reference": "Niconico_Manga-1.svg",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Olympics",
+      "status": "已正确",
+      "visual_observation": "五环位置与蓝黄黑绿红配色正确，内外间距以官方IOC为准；当前细线是官方特征，不应为厚重风格擅自改环。",
+      "official_source": "https://www.olympics.com/ioc/olympic-rings",
+      "local_reference": null,
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Omission",
+      "status": "无法确认",
+      "visual_observation": "现图为Microsoft Edge标志，但Omission名称本身为漏网之鱼/策略用途，不清楚是否意指Edge；不将它误算成原创官方品牌。Edge官网已查，命名意图需项目语义确认。",
+      "official_source": "https://www.microsoft.com/en-us/edge",
+      "local_reference": null,
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "OneDrive",
+      "status": "已正确",
+      "visual_observation": "已下载并看微软官方新图标公告图，现版OneDrive蓝云和Outlook分层信封/O与该2025系列形状一致；不声称压缩字节同源。",
+      "official_source": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/new-microsoft-365-icons-for-the-ai-era/4458674",
+      "local_reference": "Microsoft-icons.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Outlook",
+      "status": "已正确",
+      "visual_observation": "已下载并看微软官方新图标公告图，现版OneDrive蓝云和Outlook分层信封/O与该2025系列形状一致；不声称压缩字节同源。",
+      "official_source": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/new-microsoft-365-icons-for-the-ai-era/4458674",
+      "local_reference": "Microsoft-icons.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Onlyfans",
+      "status": "无法确认",
+      "visual_observation": "现图是蓝色OF符号；官方brand端点返回Site Unavailable，未完成官方像素核验，不盲改。",
+      "official_source": "https://onlyfans.com/brand",
+      "local_reference": null,
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Panda_WWF",
+      "status": "已正确",
+      "visual_observation": "当前站立黑白熊猫与WWF官网favicon几何家族相符；官网本身有独立favicon。正式全球标志的锁定式要求含WWF字样，保留现favicon适配但不声称完整官方锁定logo/使用授权。",
+      "official_source": "https://www.worldwildlife.org",
+      "local_reference": "Panda_WWF-1.svg",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "PayPal",
+      "status": "已正确",
+      "visual_observation": "重叠双P是官方PayPal标识；两现版为不同底色/历史色处理，非伪造几何；官网媒体资源仍提供双P monogram。",
+      "official_source": "https://newsroom.paypal-corp.com/media-resources",
+      "local_reference": "PayPal-0.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "PayPal_business",
+      "status": "已正确",
+      "visual_observation": "重叠双P是官方PayPal标识；两现版为不同底色/历史色处理，非伪造几何；官网媒体资源仍提供双P monogram。",
+      "official_source": "https://newsroom.paypal-corp.com/media-resources",
+      "local_reference": "PayPal-0.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Peacook",
+      "status": "需修",
+      "visual_observation": "当前为六点旧版。官网2026当前app icon为五点、圆滑p；应保留Peacook兼容路径并换当前官方图形，不徒手重画。",
+      "official_source": "https://www.peacocktv.com",
+      "local_reference": "Peacock-180.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Piggies",
+      "status": "已正确",
+      "visual_observation": "已从苹果官方lookup核验seller Rovio Entertainment Oyj，实看绿猪头、圆耳、两鼻孔、三齿，与现图角色造型一致；主题背景不同，不冒称完整官方app截图。",
+      "official_source": "https://apps.apple.com/us/app/bad-piggies/id533451786",
+      "local_reference": "Piggies-appstore.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Piggies_b",
+      "status": "已正确",
+      "visual_observation": "同官方Rovio Bad Piggies绿色猪头角色；现圆章版本保留角色几何，是主题适配而非官方公司标志。",
+      "official_source": "https://apps.apple.com/us/app/bad-piggies/id533451786",
+      "local_reference": "Piggies-appstore.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Pixiv",
+      "status": "已正确",
+      "visual_observation": "现p圆孔与左上缺口符合2025新版几何语言；官方新闻/press kit提供现图形。",
+      "official_source": "https://www.pixiv.co.jp/2025/01/28/150000",
+      "local_reference": "Pixiv-new.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Playstation",
+      "status": "已正确",
+      "visual_observation": "互锁PS几何匹配官方。蓝底白标为主题适配。",
+      "official_source": "https://www.playstation.com/en-us/",
+      "local_reference": "Playstation_remote-2.svg",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Playstation_30th",
+      "status": "已正确",
+      "visual_observation": "红黄绿蓝经典PS几何属于官方周年复古体系；文件并非完整30周年lockup，不应宣称完整周年标。保留。",
+      "official_source": "https://www.playstation.com/en-us/30th-anniversary/",
+      "local_reference": null,
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Playstation_remote",
+      "status": "已正确",
+      "visual_observation": "游戏手柄加三圆点为官方Remote Play标识，官网提供icon-remote-play--sm.svg。",
+      "official_source": "https://remoteplay.dl.playstation.net/remoteplay/lang/en/",
+      "local_reference": null,
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Plex",
+      "status": "已正确",
+      "visual_observation": "金黄右箭头保留，灰底为既有主题；官网favicon同一箭头。",
+      "official_source": "https://www.plex.tv/about/",
+      "local_reference": "Plex-1.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Pornhub",
+      "status": "无法确认",
+      "visual_observation": "现有黑橙双段字标可识别；官方首页只返回Site Unavailable，未完成官方当前像素核验，不盲改。",
+      "official_source": "https://www.pornhub.com",
+      "local_reference": null,
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Prime",
+      "status": "已正确",
+      "visual_observation": "官方Amazon Prime Video（seller AMZN Mobile LLC）512px图标确认prime字体/微笑箭头家族。现仅prime而无video是Prime名称主题，不冒称当前Prime Video完整app图；保留不混淆。",
+      "official_source": "https://apps.apple.com/us/app/amazon-prime-video/id545519333",
+      "local_reference": "Prime-appstore.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Qoura",
+      "status": "已正确",
+      "visual_observation": "文件拼写保留兼容，实际为Quora红Q；官网favicon红Q几何吻合。",
+      "official_source": "https://www.quora.com",
+      "local_reference": "Qoura-0.ico",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Reddit",
+      "status": "已正确",
+      "visual_observation": "当前Snoo 3D面孔、橙红背景匹配官方品牌页icon，非generic机器人替代。",
+      "official_source": "https://redditinc.com/brand",
+      "local_reference": "Reddit-2.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Scholar",
+      "status": "需修",
+      "visual_observation": "现图额外右侧青点、下半圆近透明偏离官方形。已实看Scholar官网favicon及Google官方Chrome扩展128px图：蓝菱形+完整浅蓝圆，无独立散点。应使用官方原图，不徒手trace。",
+      "official_source": "https://chromewebstore.google.com/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn",
+      "local_reference": "Scholar-chrome-icon.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Seancody",
+      "status": "无法确认",
+      "visual_observation": "现黄色黑边字标；官方站返回Site Unavailable，不能以第三方商标站替代官方来源。",
+      "official_source": "https://www.seancody.com",
+      "local_reference": null,
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Sony_Live",
+      "status": "已正确",
+      "visual_observation": "黑底SONY+彩色弧带+liv组合与官网apple touch icon一致。",
+      "official_source": "https://www.sonyliv.com",
+      "local_reference": "Sony_Live-1.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "SpeedTest",
+      "status": "已正确",
+      "visual_observation": "已从苹果官方lookup核验seller Ookla，512px图标与现版开口圆表盘/斜指针一致。",
+      "official_source": "https://apps.apple.com/us/app/speedtest-by-ookla/id300704847",
+      "local_reference": "SpeedTest-appstore.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Spotify",
+      "status": "已正确",
+      "visual_observation": "三条弧线Spotify icon与官方developer品牌指南匹配，形状已正确。",
+      "official_source": "https://developer.spotify.com/documentation/design",
+      "local_reference": "Spotify-1.svg",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Steam",
+      "status": "已正确",
+      "visual_observation": "官方Steam机械连杆/圆头图形与现图匹配。",
+      "official_source": "https://store.steampowered.com",
+      "local_reference": "Steam-0.ico",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Telegram",
+      "status": "已正确",
+      "visual_observation": "纸飞机/蓝圆底与官方PNG及favicon一致。",
+      "official_source": "https://telegram.org",
+      "local_reference": "Telegram-0.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Threads",
+      "status": "已正确",
+      "visual_observation": "黑白Threads绕线@形与官网icon身份一致。",
+      "official_source": "https://www.threads.com",
+      "local_reference": "Threads-verified.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "TikTok",
+      "status": "已正确",
+      "visual_observation": "已从苹果官方lookup核验seller TIKTOK PTE. LTD.，并实际查看512px图标；现音符、青红偏移形状与官方相符，白/黑底主题不同不属缺标。",
+      "official_source": "https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320",
+      "local_reference": "TikTok-appstore.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Twitch",
+      "status": "已正确",
+      "visual_observation": "Glitch轮廓与两竖眼为官方，现黑白紫主题保留。当前官方品牌zip已下载，提供纯紫SVG对照。",
+      "official_source": "https://brand.twitch.com",
+      "local_reference": "Twitch-official-glitch.svg",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Twitter",
+      "status": "已正确",
+      "visual_observation": "两文件均当前X，属于兼容名称重复，非遗漏官方标。官方brand toolkit确认X，不强制恢复历史小鸟。",
+      "official_source": "https://about.x.com/en/who-we-are/brand-toolkit",
+      "local_reference": "X-0.ico",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "X",
+      "status": "已正确",
+      "visual_observation": "两文件均当前X，属于兼容名称重复，非遗漏官方标。官方brand toolkit确认X，不强制恢复历史小鸟。",
+      "official_source": "https://about.x.com/en/who-we-are/brand-toolkit",
+      "local_reference": "X-0.ico",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "UBISOFT",
+      "status": "需修",
+      "visual_observation": "现蓝色渐变旧旋涡与当前官方黑白手绘旋涡不同；名称未标old，建议用官网精确path替换。官方2017说明支持此更改。",
+      "official_source": "https://news.ubisoft.com/en-us/article/3aNoNe5cyUPXOhSFcQJmxN/say-hello-to-the-new-ubisoft-swirl",
+      "local_reference": "Ubisoft-official-mark.svg",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Video_Vimeo",
+      "status": "已正确",
+      "visual_observation": "现两张均官方v形，Video_Vimeo仅使用自定义渐变底。官方媒体包有明确不改标识配色/几何要求，保留官方v，不把现处理称官方完整资产。",
+      "official_source": "https://vimeo.com/press/media-kit",
+      "local_reference": "Vimeo-icon.svg",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Vimeo",
+      "status": "已正确",
+      "visual_observation": "现两张均官方v形，Video_Vimeo仅使用自定义渐变底。官方媒体包有明确不改标识配色/几何要求，保留官方v，不把现处理称官方完整资产。",
+      "official_source": "https://vimeo.com/press/media-kit",
+      "local_reference": "Vimeo-icon.svg",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Weibo",
+      "status": "已正确",
+      "visual_observation": "现红眼与橙广播弧符合微博公司官方ESG报告标识，未改变几何。",
+      "official_source": "https://zh.ir.weibo.com/static/ESG/ESG2023.pdf",
+      "local_reference": null,
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "WhatsApp",
+      "status": "已正确",
+      "visual_observation": "官网favicon已下载并实际查看，气泡电话外形与当前图一致；green gradient为主题处理。",
+      "official_source": "https://www.whatsapp.com",
+      "local_reference": "WhatsApp-official.svg",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Xbox",
+      "status": "已正确",
+      "visual_observation": "球形绿色X与官网当前官方favicon仍一致；不是应被清除的伪造旧版。",
+      "official_source": "https://www.xbox.com/en-US/",
+      "local_reference": "Xbox-1.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Xianyu",
+      "status": "已正确",
+      "visual_observation": "现闲鱼黑字黄底与官网正式favicon匹配。",
+      "official_source": "https://www.goofish.com",
+      "local_reference": "Xianyu-icon.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "YouTube",
+      "status": "已正确",
+      "visual_observation": "红色圆角播放板与白三角符合官方资源。",
+      "official_source": "https://www.youtube.com/howyoutubeworks/resources/brand-resources/",
+      "local_reference": "YouTube-0.png",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Zoho_new",
+      "status": "已正确",
+      "visual_observation": "现四段彩色圆角环实际正是Zoho官方branding页favicon；完整横版四框ZOHO字标不同但不能据此判favicon错误。两路径现为相同视觉变体，保留兼容。",
+      "official_source": "https://www.zoho.com/branding/",
+      "local_reference": "Zoho_new-0.ico",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Zoho_old",
+      "status": "已正确",
+      "visual_observation": "现四段彩色圆角环实际正是Zoho官方branding页favicon；完整横版四框ZOHO字标不同但不能据此判favicon错误。两路径现为相同视觉变体，保留兼容。",
+      "official_source": "https://www.zoho.com/branding/",
+      "local_reference": "Zoho_new-0.ico",
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "Zune",
+      "status": "无法确认",
+      "visual_observation": "现为多色三角网格形，不能从已失效微软产品入口确认是否官方历史标。保留并列为待证，不将generic微软主页算来源。",
+      "official_source": "https://www.microsoft.com",
+      "local_reference": null,
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "xHamster",
+      "status": "无法确认",
+      "visual_observation": "现仓鼠头轮廓；官方首页返回Site Unavailable，未取得官方来源，保持原图不猜。",
+      "official_source": "https://xhamster.com",
+      "local_reference": null,
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "FDS/Netflix",
+      "status": "已正确",
+      "visual_observation": "已直接看实际PNG：分层红N与官方相符，FDS自定义立体底不能称官方完整资产。",
+      "official_source": "https://brand.netflix.com/en/assets/logos/",
+      "local_reference": null,
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    },
+    {
+      "name": "FDS/YouTube",
+      "status": "已正确",
+      "visual_observation": "已直接看实际PNG：播放板与三角身份正确，FDS红底/浅板/立体效果为自定义主题，不当作官方原版配色。",
+      "official_source": "https://www.youtube.com/howyoutubeworks/resources/brand-resources/",
+      "local_reference": null,
+      "review_scope": "Actual existing PNG contact sheet and official assets where indicated; identity/geometry, not exact pixel provenance or trademark permission."
+    }
+  ]
+}

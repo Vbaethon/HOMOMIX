@@ -250,7 +250,7 @@
       "category": "inverse_generic",
       "series": "network_blue_cyan",
       "native_source": "Sources/v3/svg/Load_balancing_2.svg",
-      "source_sha256": "f2b6f1c00a219bcba50f5b2d5bdd36d4c4c5315f2a53a500ae20a5a76ca28f4f",
+      "source_sha256": "79ef648cf2d1365159e2ab81b825c50bec77cd6ed4a8fd3c18a2d8ae8cf25375",
       "third_party_new_paths": false
     },
     {
@@ -258,7 +258,7 @@
       "category": "inverse_generic",
       "series": "network_blue_cyan",
       "native_source": "Sources/v3/svg/Load_balancing_3.svg",
-      "source_sha256": "f2b6f1c00a219bcba50f5b2d5bdd36d4c4c5315f2a53a500ae20a5a76ca28f4f",
+      "source_sha256": "c82978f4f8511510f89f636a384888001db8bf9d4aec7f2f89970b29d3cd784f",
       "third_party_new_paths": false
     },
     {
@@ -320,17 +320,17 @@
     {
       "name": "Panda",
       "category": "inverse_generic",
-      "series": "animal_green_yellow",
+      "series": "system_graphite",
       "native_source": "Sources/v3/svg/Panda.svg",
-      "source_sha256": "310f3bdbd2ac1e59af4b51aefc8299f92c219852918f98d50b0e0d3e7cf1442d",
+      "source_sha256": "0188ff01a74cf7b23e88fcdfbbd0e2813aba6f60f59682471090a4cb021a68fa",
       "third_party_new_paths": false
     },
     {
       "name": "Panda_ai",
       "category": "inverse_generic",
-      "series": "animal_green_yellow",
+      "series": "system_graphite",
       "native_source": "Sources/v3/svg/Panda_ai.svg",
-      "source_sha256": "308f917c3c9057fc1b0cb402bd25024b97f8e28161371a3341c56b3bc8c894a5",
+      "source_sha256": "f6bce55ad72b703302df8855d74ec0eef69e1def050761dab62d3d32ac460e80",
       "third_party_new_paths": false
     },
     {

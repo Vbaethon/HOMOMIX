@@ -399,7 +399,26 @@
     },
     {
       "name": "Load_balancing_3",
-      "enclosed_negative_components": []
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 358,
+          "bbox": [
+            97,
+            174,
+            119,
+            204
+          ]
+        },
+        {
+          "area_native_px": 358,
+          "bbox": [
+            241,
+            174,
+            263,
+            204
+          ]
+        }
+      ]
     },
     {
       "name": "Location",
@@ -556,30 +575,30 @@
       "name": "Panda",
       "enclosed_negative_components": [
         {
-          "area_native_px": 3374,
+          "area_native_px": 11373,
           "bbox": [
             101,
-            132,
-            167,
-            206
-          ]
-        },
-        {
-          "area_native_px": 3374,
-          "bbox": [
-            193,
-            132,
+            114,
             259,
-            206
+            254
           ]
         },
         {
-          "area_native_px": 626,
+          "area_native_px": 316,
           "bbox": [
-            164,
-            215,
-            196,
-            245
+            133,
+            157,
+            153,
+            177
+          ]
+        },
+        {
+          "area_native_px": 316,
+          "bbox": [
+            207,
+            157,
+            227,
+            177
           ]
         }
       ]
@@ -588,30 +607,30 @@
       "name": "Panda_ai",
       "enclosed_negative_components": [
         {
-          "area_native_px": 3174,
+          "area_native_px": 11373,
           "bbox": [
-            103,
-            137,
-            167,
-            209
+            101,
+            114,
+            259,
+            254
           ]
         },
         {
-          "area_native_px": 3174,
+          "area_native_px": 316,
           "bbox": [
-            193,
-            137,
-            257,
-            209
+            133,
+            157,
+            153,
+            177
           ]
         },
         {
-          "area_native_px": 558,
+          "area_native_px": 316,
           "bbox": [
-            165,
-            220,
-            195,
-            248
+            207,
+            157,
+            227,
+            177
           ]
         }
       ]

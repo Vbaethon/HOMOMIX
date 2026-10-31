@@ -39,10 +39,10 @@ class CatalogTests(unittest.TestCase):
             root = Path(temp)
             icons = root / 'Icon/Color'
             icons.mkdir(parents=True)
-            (icons / 'Claud.png').touch()
-            self.assertEqual([x['name'] for x in build_catalog(root)['icons']], ['Claud.png'])
-            (icons / 'Claude.png').touch()
-            self.assertEqual([x['name'] for x in build_catalog(root)['icons']], ['Claude.png'])
+            (icons / 'Download_2.png').touch()
+            self.assertEqual([x['name'] for x in build_catalog(root)['icons']], ['Download_2.png'])
+            (icons / 'Download.png').touch()
+            self.assertEqual([x['name'] for x in build_catalog(root)['icons']], ['Download.png'])
 
     def test_sorted_escaped_and_idempotent_output(self):
         with tempfile.TemporaryDirectory() as temp:

@@ -1,0 +1,674 @@
+{
+  "status": "pass",
+  "verified": false,
+  "names": 11,
+  "png": 22,
+  "environment": {
+    "python": "3.12.14",
+    "pillow": "11.3.0",
+    "resvg-js": "2.6.2",
+    "node": "v24.22.1"
+  },
+  "assets": [
+    {
+      "name": "AdblockPlus_2",
+      "path": "Icon/Color/AdblockPlus_2.png",
+      "new_sha256": "dcaa0554e81e8188e491c590ea83a0c339310f7fdffad2038390eea2c9fe037d",
+      "native_source": "Sources/v4/svg/AdblockPlus_2.svg",
+      "native_source_sha256": "19945b6268502b8994a578afca3114f0624003a47f6522873d1e29ab2db09102",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        300,
+        300
+      ],
+      "body": [
+        180,
+        180
+      ],
+      "offset": [
+        60,
+        60
+      ],
+      "alpha_bbox": [
+        60,
+        60,
+        240,
+        240
+      ],
+      "bytes": 14159
+    },
+    {
+      "name": "DeepSeek",
+      "path": "Icon/Color/DeepSeek.png",
+      "new_sha256": "752eb670bf4f44f93b04b53f572e2ffe2a962086a6f770cd722c2d966212c49d",
+      "native_source": "Sources/v4/svg/DeepSeek.svg",
+      "native_source_sha256": "1b58deddabc5b38e34241ab17bec410b376a834568c8bf4a44204cb3d6f36f51",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        300,
+        300
+      ],
+      "body": [
+        180,
+        180
+      ],
+      "offset": [
+        60,
+        60
+      ],
+      "alpha_bbox": [
+        60,
+        60,
+        240,
+        240
+      ],
+      "bytes": 14306
+    },
+    {
+      "name": "Disney",
+      "path": "Icon/Color/Disney.png",
+      "new_sha256": "5ab196c30be2906d2ef3a3476c863f5ff0081d44293b2aae8d11e506199fe95c",
+      "native_source": "Sources/v4/svg/Disney.svg",
+      "native_source_sha256": "25ae6e3e67730bc795d99e3cbf714d431005b2f956b6bffdb64be1901fa94ac8",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        300,
+        300
+      ],
+      "body": [
+        180,
+        180
+      ],
+      "offset": [
+        60,
+        60
+      ],
+      "alpha_bbox": [
+        62,
+        62,
+        238,
+        238
+      ],
+      "bytes": 16357
+    },
+    {
+      "name": "Disney_Channel",
+      "path": "Icon/Color/Disney_Channel.png",
+      "new_sha256": "d22fd94c9352e7fd12d722c0b838e1fd7a5802413c6f6d2f95709b53a2ce3dcc",
+      "native_source": "Sources/v4/svg/Disney_Channel.svg",
+      "native_source_sha256": "685e529a81ee30b0d018a7e27cb3dfa23d6ce43235cc8102092fcf0b2f5d9cc9",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        300,
+        300
+      ],
+      "body": [
+        180,
+        180
+      ],
+      "offset": [
+        60,
+        60
+      ],
+      "alpha_bbox": [
+        60,
+        60,
+        240,
+        240
+      ],
+      "bytes": 15382
+    },
+    {
+      "name": "Disney_plus",
+      "path": "Icon/Color/Disney_plus.png",
+      "new_sha256": "3e274d062b8ebceea1b7451811ed7ec1b9e7ce1c368390e45c2ca7e4bfe2ca66",
+      "native_source": "Sources/v4/svg/Disney_plus.svg",
+      "native_source_sha256": "bef724cd0629d14683db1ff707d17606e50ea27da29254db30492a28b48f204e",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        300,
+        300
+      ],
+      "body": [
+        180,
+        180
+      ],
+      "offset": [
+        60,
+        60
+      ],
+      "alpha_bbox": [
+        60,
+        60,
+        240,
+        240
+      ],
+      "bytes": 16108
+    },
+    {
+      "name": "Gemini",
+      "path": "Icon/Color/Gemini.png",
+      "new_sha256": "593244f0de3098c50775a59b0c80e08b366adeef041a455f8a1834f90e0c13a1",
+      "native_source": "Sources/v4/svg/Gemini.svg",
+      "native_source_sha256": "43e1d4d4336975cbb09d1454ceae67954ecace9877f524bfae05ad4fda1489d3",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        300,
+        300
+      ],
+      "body": [
+        180,
+        180
+      ],
+      "offset": [
+        60,
+        60
+      ],
+      "alpha_bbox": [
+        60,
+        60,
+        240,
+        240
+      ],
+      "bytes": 15860
+    },
+    {
+      "name": "Grok",
+      "path": "Icon/Color/Grok.png",
+      "new_sha256": "27945dd1bc7d09888c19150e1a26b1928796036f519fef335dd000c74f9b0e7c",
+      "native_source": "Sources/v4/svg/Grok.svg",
+      "native_source_sha256": "e986d706079360a92dbeddf89b993e3fe1ff32f26e1f030261204509b01cc321",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        300,
+        300
+      ],
+      "body": [
+        180,
+        180
+      ],
+      "offset": [
+        60,
+        60
+      ],
+      "alpha_bbox": [
+        62,
+        62,
+        238,
+        238
+      ],
+      "bytes": 13404
+    },
+    {
+      "name": "AdblockPlus_2",
+      "path": "Icon/Color/Large/AdblockPlus_2.png",
+      "new_sha256": "b06d97783e86a9c2c707d7b46d1e9b01cf6edfe16283567be714ae27b285e32d",
+      "native_source": "Sources/v4/svg/AdblockPlus_2.svg",
+      "native_source_sha256": "19945b6268502b8994a578afca3114f0624003a47f6522873d1e29ab2db09102",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        360,
+        360
+      ],
+      "body": [
+        360,
+        360
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "alpha_bbox": [
+        1,
+        2,
+        359,
+        360
+      ],
+      "bytes": 27709
+    },
+    {
+      "name": "DeepSeek",
+      "path": "Icon/Color/Large/DeepSeek.png",
+      "new_sha256": "eaba86624b681ad7b4e18b0efd35abe1e4be40f0e4349216eea78d9734008b83",
+      "native_source": "Sources/v4/svg/DeepSeek.svg",
+      "native_source_sha256": "1b58deddabc5b38e34241ab17bec410b376a834568c8bf4a44204cb3d6f36f51",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        360,
+        360
+      ],
+      "body": [
+        360,
+        360
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "alpha_bbox": [
+        1,
+        2,
+        359,
+        360
+      ],
+      "bytes": 30228
+    },
+    {
+      "name": "Disney",
+      "path": "Icon/Color/Large/Disney.png",
+      "new_sha256": "6f608df0dc2e6c4c7426442c8a045f3cdb975e695b6733daca63c33df2379bee",
+      "native_source": "Sources/v4/svg/Disney.svg",
+      "native_source_sha256": "25ae6e3e67730bc795d99e3cbf714d431005b2f956b6bffdb64be1901fa94ac8",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        360,
+        360
+      ],
+      "body": [
+        360,
+        360
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "alpha_bbox": [
+        5,
+        5,
+        355,
+        355
+      ],
+      "bytes": 31792
+    },
+    {
+      "name": "Disney_Channel",
+      "path": "Icon/Color/Large/Disney_Channel.png",
+      "new_sha256": "4a0d3da8bfc18ab79cfc796fa660cb8a598194dfb1e1a5abf050776ea285a1b1",
+      "native_source": "Sources/v4/svg/Disney_Channel.svg",
+      "native_source_sha256": "685e529a81ee30b0d018a7e27cb3dfa23d6ce43235cc8102092fcf0b2f5d9cc9",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        360,
+        360
+      ],
+      "body": [
+        360,
+        360
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "alpha_bbox": [
+        1,
+        2,
+        359,
+        360
+      ],
+      "bytes": 37057
+    },
+    {
+      "name": "Disney_plus",
+      "path": "Icon/Color/Large/Disney_plus.png",
+      "new_sha256": "eb65c2331bf09b75430226e2e68f7aae38357c69a1c019ce570b8dd37453652e",
+      "native_source": "Sources/v4/svg/Disney_plus.svg",
+      "native_source_sha256": "bef724cd0629d14683db1ff707d17606e50ea27da29254db30492a28b48f204e",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        360,
+        360
+      ],
+      "body": [
+        360,
+        360
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "alpha_bbox": [
+        1,
+        2,
+        359,
+        360
+      ],
+      "bytes": 34050
+    },
+    {
+      "name": "Gemini",
+      "path": "Icon/Color/Large/Gemini.png",
+      "new_sha256": "47d37938433d5b10102c85bd5aeed86d689bd58ed942cd84709dc613679b6a9f",
+      "native_source": "Sources/v4/svg/Gemini.svg",
+      "native_source_sha256": "43e1d4d4336975cbb09d1454ceae67954ecace9877f524bfae05ad4fda1489d3",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        360,
+        360
+      ],
+      "body": [
+        360,
+        360
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "alpha_bbox": [
+        1,
+        2,
+        359,
+        360
+      ],
+      "bytes": 38667
+    },
+    {
+      "name": "Grok",
+      "path": "Icon/Color/Large/Grok.png",
+      "new_sha256": "7e511b468b20376458f9346880ae2649af9303e274d7540c1c1ef1154c005cb3",
+      "native_source": "Sources/v4/svg/Grok.svg",
+      "native_source_sha256": "e986d706079360a92dbeddf89b993e3fe1ff32f26e1f030261204509b01cc321",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        360,
+        360
+      ],
+      "body": [
+        360,
+        360
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "alpha_bbox": [
+        5,
+        5,
+        355,
+        355
+      ],
+      "bytes": 30007
+    },
+    {
+      "name": "Microsoft",
+      "path": "Icon/Color/Large/Microsoft.png",
+      "new_sha256": "d018f216465276af90c77fcc07c1d2abf097dbef5a74b7a4cba7b8b526fae994",
+      "native_source": "Sources/v4/svg/Microsoft.svg",
+      "native_source_sha256": "598c20412a2abfae6f847bfbd5d9f9305d4c9601604a8d60c4a90b740cfee343",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        360,
+        360
+      ],
+      "body": [
+        360,
+        360
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "alpha_bbox": [
+        1,
+        2,
+        359,
+        360
+      ],
+      "bytes": 16897
+    },
+    {
+      "name": "Peacook",
+      "path": "Icon/Color/Large/Peacook.png",
+      "new_sha256": "f231a7ffc5bed3ce6c43ab197dc75adf93192b1d3536b153f978c8f9fa3cb2ed",
+      "native_source": "Sources/v4/svg/Peacook.svg",
+      "native_source_sha256": "9d09e251592b33b3289cecdd2f9ebfe55c1440e2260d841cb962e636706bdc20",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        360,
+        360
+      ],
+      "body": [
+        360,
+        360
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "alpha_bbox": [
+        5,
+        5,
+        355,
+        355
+      ],
+      "bytes": 46042
+    },
+    {
+      "name": "Scholar",
+      "path": "Icon/Color/Large/Scholar.png",
+      "new_sha256": "d6dedd6a6197495347c14111b85c49d2f7475baf28e9b4ad1c1f18602280f053",
+      "native_source": "Sources/v4/svg/Scholar.svg",
+      "native_source_sha256": "cba24e4ee83ac6129a5b2e7c0efd7c3bc12aa225c7d50e83daabc429d742a8ef",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        360,
+        360
+      ],
+      "body": [
+        360,
+        360
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "alpha_bbox": [
+        5,
+        5,
+        355,
+        355
+      ],
+      "bytes": 39520
+    },
+    {
+      "name": "UBISOFT",
+      "path": "Icon/Color/Large/UBISOFT.png",
+      "new_sha256": "661b913b364060bb2dd8070f1ba59b3b7293308363c6c83928b9d5aa9653971f",
+      "native_source": "Sources/v4/svg/UBISOFT.svg",
+      "native_source_sha256": "6e08e33891a982be00da0cd500210c4e96271a8c90bcada5d78b3d7d3ac582cd",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        360,
+        360
+      ],
+      "body": [
+        360,
+        360
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "alpha_bbox": [
+        1,
+        2,
+        359,
+        360
+      ],
+      "bytes": 40357
+    },
+    {
+      "name": "Microsoft",
+      "path": "Icon/Color/Microsoft.png",
+      "new_sha256": "c25c0dae31ed1397f76842ebdafe2e47d7385bed721f2698227fec993fead213",
+      "native_source": "Sources/v4/svg/Microsoft.svg",
+      "native_source_sha256": "598c20412a2abfae6f847bfbd5d9f9305d4c9601604a8d60c4a90b740cfee343",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        300,
+        300
+      ],
+      "body": [
+        180,
+        180
+      ],
+      "offset": [
+        60,
+        60
+      ],
+      "alpha_bbox": [
+        60,
+        60,
+        240,
+        240
+      ],
+      "bytes": 7748
+    },
+    {
+      "name": "Peacook",
+      "path": "Icon/Color/Peacook.png",
+      "new_sha256": "c024a60188fa5c006b2de9723c39be675672970372f3e2d155a7b7a013a6f508",
+      "native_source": "Sources/v4/svg/Peacook.svg",
+      "native_source_sha256": "9d09e251592b33b3289cecdd2f9ebfe55c1440e2260d841cb962e636706bdc20",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        300,
+        300
+      ],
+      "body": [
+        180,
+        180
+      ],
+      "offset": [
+        60,
+        60
+      ],
+      "alpha_bbox": [
+        62,
+        62,
+        238,
+        238
+      ],
+      "bytes": 21537
+    },
+    {
+      "name": "Scholar",
+      "path": "Icon/Color/Scholar.png",
+      "new_sha256": "892f9c0e181a808e4b443784a1bf145c52a6d305e54998e3ff8f6298a111cdbb",
+      "native_source": "Sources/v4/svg/Scholar.svg",
+      "native_source_sha256": "cba24e4ee83ac6129a5b2e7c0efd7c3bc12aa225c7d50e83daabc429d742a8ef",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        300,
+        300
+      ],
+      "body": [
+        180,
+        180
+      ],
+      "offset": [
+        60,
+        60
+      ],
+      "alpha_bbox": [
+        62,
+        62,
+        238,
+        238
+      ],
+      "bytes": 15978
+    },
+    {
+      "name": "UBISOFT",
+      "path": "Icon/Color/UBISOFT.png",
+      "new_sha256": "887f76a841660120e9d4fc822d534df00cb6e80e5fb7584fd275f8b29c2ac912",
+      "native_source": "Sources/v4/svg/UBISOFT.svg",
+      "native_source_sha256": "6e08e33891a982be00da0cd500210c4e96271a8c90bcada5d78b3d7d3ac582cd",
+      "master": [
+        1440,
+        1440
+      ],
+      "dimensions": [
+        300,
+        300
+      ],
+      "body": [
+        180,
+        180
+      ],
+      "offset": [
+        60,
+        60
+      ],
+      "alpha_bbox": [
+        60,
+        60,
+        240,
+        240
+      ],
+      "bytes": 19529
+    }
+  ]
+}

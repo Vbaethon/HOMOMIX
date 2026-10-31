@@ -1,0 +1,1855 @@
+{
+  "method": "Decoded RGBA exact hash; 36px RGB MAE plus white-disc-excluding foreground-mask IoU. Mask bbox normalized independently; candidates require visual review.",
+  "default_count": 178,
+  "excluded": "Nonrecursive glob excludes Icon/Color/Large and FDS; no Default/Large size-pair false matches.",
+  "exact_pixel_groups": [
+    [
+      "Chained_2",
+      "Niche_Link"
+    ],
+    [
+      "Claud",
+      "Claude"
+    ],
+    [
+      "Download",
+      "Download_2"
+    ],
+    [
+      "Twitter",
+      "X"
+    ],
+    [
+      "Zoho_new",
+      "Zoho_old"
+    ]
+  ],
+  "candidate_pairs": [
+    {
+      "names": [
+        "Chained_2",
+        "Niche_Link"
+      ],
+      "edge_cos": 1.0,
+      "foreground_iou": 1.0,
+      "shape_mae": 0.0,
+      "rgb36_mae": 0.0
+    },
+    {
+      "names": [
+        "Claud",
+        "Claude"
+      ],
+      "edge_cos": 1.0,
+      "foreground_iou": 1.0,
+      "shape_mae": 0.0,
+      "rgb36_mae": 0.0
+    },
+    {
+      "names": [
+        "Download",
+        "Download_2"
+      ],
+      "edge_cos": 1.0,
+      "foreground_iou": 1.0,
+      "shape_mae": 0.0,
+      "rgb36_mae": 0.0
+    },
+    {
+      "names": [
+        "Twitter",
+        "X"
+      ],
+      "edge_cos": 1.0,
+      "foreground_iou": 1.0,
+      "shape_mae": 0.0,
+      "rgb36_mae": 0.0
+    },
+    {
+      "names": [
+        "Zoho_new",
+        "Zoho_old"
+      ],
+      "edge_cos": 1.0,
+      "foreground_iou": 1.0,
+      "shape_mae": 0.0,
+      "rgb36_mae": 0.0
+    },
+    {
+      "names": [
+        "Chained_2",
+        "Link"
+      ],
+      "edge_cos": 0.9968,
+      "foreground_iou": 0.998,
+      "shape_mae": 0.0009,
+      "rgb36_mae": 0.0067
+    },
+    {
+      "names": [
+        "Link",
+        "Niche_Link"
+      ],
+      "edge_cos": 0.9968,
+      "foreground_iou": 0.998,
+      "shape_mae": 0.0009,
+      "rgb36_mae": 0.0067
+    },
+    {
+      "names": [
+        "Bilibili_blue",
+        "bilibili"
+      ],
+      "edge_cos": 0.9971,
+      "foreground_iou": 0.9976,
+      "shape_mae": 0.0015,
+      "rgb36_mae": 0.1206
+    },
+    {
+      "names": [
+        "Linkedin",
+        "Linkedin_ray"
+      ],
+      "edge_cos": 0.9995,
+      "foreground_iou": 0.9958,
+      "shape_mae": 0.0026,
+      "rgb36_mae": 0.0254
+    },
+    {
+      "names": [
+        "Huawei",
+        "Huawei_black"
+      ],
+      "edge_cos": 0.9999,
+      "foreground_iou": 0.9838,
+      "shape_mae": 0.0097,
+      "rgb36_mae": 0.059
+    },
+    {
+      "names": [
+        "Bahamut_b",
+        "Bahamut_i"
+      ],
+      "edge_cos": 0.9435,
+      "foreground_iou": 0.941,
+      "shape_mae": 0.0406,
+      "rgb36_mae": 0.101
+    },
+    {
+      "names": [
+        "Disney",
+        "Disney_plus"
+      ],
+      "edge_cos": 0.9903,
+      "foreground_iou": 0.9321,
+      "shape_mae": 0.0213,
+      "rgb36_mae": 0.0282
+    },
+    {
+      "names": [
+        "Panda",
+        "Panda_ai"
+      ],
+      "edge_cos": 0.816,
+      "foreground_iou": 0.8127,
+      "shape_mae": 0.1072,
+      "rgb36_mae": 0.0017
+    },
+    {
+      "names": [
+        "Fish",
+        "Fish_b"
+      ],
+      "edge_cos": 0.3838,
+      "foreground_iou": 0.7506,
+      "shape_mae": 0.1676,
+      "rgb36_mae": 0.0078
+    },
+    {
+      "names": [
+        "AI_bot",
+        "Mail"
+      ],
+      "edge_cos": 0.3075,
+      "foreground_iou": 0.7122,
+      "shape_mae": 0.271,
+      "rgb36_mae": 0.0138
+    },
+    {
+      "names": [
+        "ASIA",
+        "Network_2"
+      ],
+      "edge_cos": 0.621,
+      "foreground_iou": 0.7052,
+      "shape_mae": 0.1746,
+      "rgb36_mae": 0.0174
+    },
+    {
+      "names": [
+        "Chained",
+        "Chained_2"
+      ],
+      "edge_cos": 0.1817,
+      "foreground_iou": 0.5546,
+      "shape_mae": 0.2357,
+      "rgb36_mae": 0.0178
+    },
+    {
+      "names": [
+        "Chained",
+        "Niche_Link"
+      ],
+      "edge_cos": 0.1817,
+      "foreground_iou": 0.5546,
+      "shape_mae": 0.2357,
+      "rgb36_mae": 0.0178
+    },
+    {
+      "names": [
+        "DeepSeek",
+        "Scholar"
+      ],
+      "edge_cos": 0.2299,
+      "foreground_iou": 0.5119,
+      "shape_mae": 0.3427,
+      "rgb36_mae": 0.0177
+    },
+    {
+      "names": [
+        "AI",
+        "AI_bot"
+      ],
+      "edge_cos": 0.2576,
+      "foreground_iou": 0.4967,
+      "shape_mae": 0.4373,
+      "rgb36_mae": 0.0129
+    },
+    {
+      "names": [
+        "AI",
+        "Mail"
+      ],
+      "edge_cos": 0.2264,
+      "foreground_iou": 0.4514,
+      "shape_mae": 0.5194,
+      "rgb36_mae": 0.016
+    },
+    {
+      "names": [
+        "DIRECT",
+        "Other"
+      ],
+      "edge_cos": 0.1824,
+      "foreground_iou": 0.4121,
+      "shape_mae": 0.4156,
+      "rgb36_mae": 0.0148
+    }
+  ],
+  "limitations": "Bbox normalization can overmatch generic circles. Pale/white details may be omitted. Perceptual thresholds are candidates, not a complete mathematical proof of nonduplication.",
+  "files": [
+    {
+      "name": "AI",
+      "foreground_bbox": [
+        87,
+        88,
+        213,
+        198
+      ]
+    },
+    {
+      "name": "AI_Tree",
+      "foreground_bbox": [
+        101,
+        95,
+        199,
+        205
+      ]
+    },
+    {
+      "name": "AI_bot",
+      "foreground_bbox": [
+        100,
+        108,
+        200,
+        200
+      ]
+    },
+    {
+      "name": "AI_voice",
+      "foreground_bbox": [
+        95,
+        111,
+        205,
+        189
+      ]
+    },
+    {
+      "name": "ASIA",
+      "foreground_bbox": [
+        85,
+        85,
+        215,
+        215
+      ]
+    },
+    {
+      "name": "Adblock",
+      "foreground_bbox": [
+        104,
+        96,
+        196,
+        206
+      ]
+    },
+    {
+      "name": "AdblockPlus",
+      "foreground_bbox": [
+        87,
+        87,
+        215,
+        215
+      ]
+    },
+    {
+      "name": "AdblockPlus_2",
+      "foreground_bbox": [
+        99,
+        99,
+        201,
+        200
+      ]
+    },
+    {
+      "name": "Adguard",
+      "foreground_bbox": [
+        83,
+        85,
+        216,
+        219
+      ]
+    },
+    {
+      "name": "Adobe",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Amazon",
+      "foreground_bbox": [
+        82,
+        80,
+        218,
+        220
+      ]
+    },
+    {
+      "name": "Apple",
+      "foreground_bbox": [
+        95,
+        76,
+        205,
+        211
+      ]
+    },
+    {
+      "name": "Apple_TV",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Apple_black",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Apple_rainbow",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Auto_Link",
+      "foreground_bbox": [
+        102,
+        101,
+        210,
+        195
+      ]
+    },
+    {
+      "name": "BT_Bittorrent",
+      "foreground_bbox": [
+        80,
+        82,
+        220,
+        219
+      ]
+    },
+    {
+      "name": "Bahamut",
+      "foreground_bbox": [
+        75,
+        117,
+        221,
+        190
+      ]
+    },
+    {
+      "name": "Bahamut_b",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Bahamut_i",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Bilibili_Global",
+      "foreground_bbox": [
+        88,
+        92,
+        212,
+        208
+      ]
+    },
+    {
+      "name": "Bilibili_blue",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Binance",
+      "foreground_bbox": [
+        85,
+        85,
+        215,
+        215
+      ]
+    },
+    {
+      "name": "Bing",
+      "foreground_bbox": [
+        111,
+        87,
+        197,
+        212
+      ]
+    },
+    {
+      "name": "Bitcoin",
+      "foreground_bbox": [
+        85,
+        85,
+        215,
+        215
+      ]
+    },
+    {
+      "name": "Bluesky",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Bytedance",
+      "foreground_bbox": [
+        85,
+        93,
+        215,
+        206
+      ]
+    },
+    {
+      "name": "Calcifer",
+      "foreground_bbox": [
+        88,
+        89,
+        209,
+        211
+      ]
+    },
+    {
+      "name": "Chained",
+      "foreground_bbox": [
+        94,
+        94,
+        206,
+        206
+      ]
+    },
+    {
+      "name": "Chained_2",
+      "foreground_bbox": [
+        94,
+        94,
+        206,
+        206
+      ]
+    },
+    {
+      "name": "ChatGPT",
+      "foreground_bbox": [
+        85,
+        85,
+        215,
+        215
+      ]
+    },
+    {
+      "name": "China",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "China_Taipei",
+      "foreground_bbox": [
+        85,
+        85,
+        215,
+        215
+      ]
+    },
+    {
+      "name": "Claud",
+      "foreground_bbox": [
+        80,
+        80,
+        220,
+        220
+      ]
+    },
+    {
+      "name": "Claude",
+      "foreground_bbox": [
+        80,
+        80,
+        220,
+        220
+      ]
+    },
+    {
+      "name": "Cloud",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "CloudFlare",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Consistent_Hashing",
+      "foreground_bbox": [
+        100,
+        87,
+        200,
+        203
+      ]
+    },
+    {
+      "name": "Crypto",
+      "foreground_bbox": [
+        80,
+        80,
+        220,
+        220
+      ]
+    },
+    {
+      "name": "DIRECT",
+      "foreground_bbox": [
+        89,
+        123,
+        206,
+        177
+      ]
+    },
+    {
+      "name": "DeepSeek",
+      "foreground_bbox": [
+        100,
+        112,
+        206,
+        189
+      ]
+    },
+    {
+      "name": "Discord",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Disney",
+      "foreground_bbox": [
+        88,
+        100,
+        204,
+        198
+      ]
+    },
+    {
+      "name": "Disney_Castle",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Disney_Channel",
+      "foreground_bbox": [
+        86,
+        123,
+        214,
+        177
+      ]
+    },
+    {
+      "name": "Disney_Mickey",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Disney_plus",
+      "foreground_bbox": [
+        94,
+        107,
+        206,
+        200
+      ]
+    },
+    {
+      "name": "Dolphin",
+      "foreground_bbox": [
+        84,
+        96,
+        212,
+        199
+      ]
+    },
+    {
+      "name": "Douyin",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Download",
+      "foreground_bbox": [
+        97,
+        92,
+        203,
+        203
+      ]
+    },
+    {
+      "name": "Download_2",
+      "foreground_bbox": [
+        97,
+        92,
+        203,
+        203
+      ]
+    },
+    {
+      "name": "EPIC",
+      "foreground_bbox": [
+        95,
+        91,
+        205,
+        218
+      ]
+    },
+    {
+      "name": "Emby",
+      "foreground_bbox": [
+        80,
+        80,
+        220,
+        220
+      ]
+    },
+    {
+      "name": "European_Union",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "F2C",
+      "foreground_bbox": [
+        90,
+        84,
+        210,
+        216
+      ]
+    },
+    {
+      "name": "FCM_Firebase_Cloud_Messaging",
+      "foreground_bbox": [
+        94,
+        80,
+        206,
+        220
+      ]
+    },
+    {
+      "name": "Facebook",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        239
+      ]
+    },
+    {
+      "name": "Failover",
+      "foreground_bbox": [
+        88,
+        111,
+        210,
+        192
+      ]
+    },
+    {
+      "name": "Fast",
+      "foreground_bbox": [
+        90,
+        88,
+        210,
+        198
+      ]
+    },
+    {
+      "name": "Fish",
+      "foreground_bbox": [
+        93,
+        107,
+        208,
+        188
+      ]
+    },
+    {
+      "name": "Fish_b",
+      "foreground_bbox": [
+        91,
+        105,
+        207,
+        194
+      ]
+    },
+    {
+      "name": "Fish_x",
+      "foreground_bbox": [
+        88,
+        86,
+        213,
+        213
+      ]
+    },
+    {
+      "name": "Flight",
+      "foreground_bbox": [
+        99,
+        102,
+        194,
+        200
+      ]
+    },
+    {
+      "name": "Forbidden",
+      "foreground_bbox": [
+        90,
+        90,
+        210,
+        210
+      ]
+    },
+    {
+      "name": "GFW",
+      "foreground_bbox": [
+        81,
+        104,
+        202,
+        196
+      ]
+    },
+    {
+      "name": "GOG",
+      "foreground_bbox": [
+        90,
+        96,
+        210,
+        204
+      ]
+    },
+    {
+      "name": "Game",
+      "foreground_bbox": [
+        87,
+        110,
+        213,
+        192
+      ]
+    },
+    {
+      "name": "Gemini",
+      "foreground_bbox": [
+        97,
+        97,
+        203,
+        203
+      ]
+    },
+    {
+      "name": "GitHub",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Global",
+      "foreground_bbox": [
+        85,
+        85,
+        215,
+        215
+      ]
+    },
+    {
+      "name": "Globefish",
+      "foreground_bbox": [
+        86,
+        90,
+        214,
+        204
+      ]
+    },
+    {
+      "name": "Gmail",
+      "foreground_bbox": [
+        79,
+        94,
+        221,
+        206
+      ]
+    },
+    {
+      "name": "Google",
+      "foreground_bbox": [
+        84,
+        83,
+        216,
+        217
+      ]
+    },
+    {
+      "name": "Grok",
+      "foreground_bbox": [
+        62,
+        62,
+        238,
+        238
+      ]
+    },
+    {
+      "name": "HBO_MAX",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Home",
+      "foreground_bbox": [
+        95,
+        95,
+        204,
+        201
+      ]
+    },
+    {
+      "name": "Hong_Kong",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Huawei",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Huawei_black",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Huawei_white",
+      "foreground_bbox": [
+        87,
+        102,
+        213,
+        198
+      ]
+    },
+    {
+      "name": "Hugging_face",
+      "foreground_bbox": [
+        89,
+        91,
+        211,
+        203
+      ]
+    },
+    {
+      "name": "Hugging_face_g",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Hulu",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Infuse",
+      "foreground_bbox": [
+        109,
+        92,
+        202,
+        208
+      ]
+    },
+    {
+      "name": "Instagram",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Japan",
+      "foreground_bbox": [
+        96,
+        96,
+        204,
+        204
+      ]
+    },
+    {
+      "name": "Jellyfin",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Link",
+      "foreground_bbox": [
+        94,
+        94,
+        206,
+        206
+      ]
+    },
+    {
+      "name": "Linkedin",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Linkedin_ray",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Load_balancing",
+      "foreground_bbox": [
+        88,
+        97,
+        201,
+        203
+      ]
+    },
+    {
+      "name": "Load_balancing_2",
+      "foreground_bbox": [
+        97,
+        96,
+        203,
+        197
+      ]
+    },
+    {
+      "name": "Load_balancing_3",
+      "foreground_bbox": [
+        92,
+        101,
+        208,
+        202
+      ]
+    },
+    {
+      "name": "Location",
+      "foreground_bbox": [
+        102,
+        96,
+        198,
+        207
+      ]
+    },
+    {
+      "name": "MLB",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Magic_Timer",
+      "foreground_bbox": [
+        97,
+        85,
+        203,
+        205
+      ]
+    },
+    {
+      "name": "Mail",
+      "foreground_bbox": [
+        96,
+        112,
+        204,
+        190
+      ]
+    },
+    {
+      "name": "Messenger",
+      "foreground_bbox": [
+        83,
+        84,
+        219,
+        220
+      ]
+    },
+    {
+      "name": "Meta_1",
+      "foreground_bbox": [
+        80,
+        104,
+        220,
+        197
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "foreground_bbox": [
+        99,
+        99,
+        201,
+        201
+      ]
+    },
+    {
+      "name": "Microsoft_365",
+      "foreground_bbox": [
+        93,
+        88,
+        207,
+        212
+      ]
+    },
+    {
+      "name": "Microsoft_Copilot",
+      "foreground_bbox": [
+        80,
+        84,
+        220,
+        216
+      ]
+    },
+    {
+      "name": "NBA",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Netflix",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Netflix_b",
+      "foreground_bbox": [
+        115,
+        87,
+        184,
+        214
+      ]
+    },
+    {
+      "name": "Network",
+      "foreground_bbox": [
+        85,
+        85,
+        215,
+        215
+      ]
+    },
+    {
+      "name": "Network_2",
+      "foreground_bbox": [
+        85,
+        85,
+        215,
+        215
+      ]
+    },
+    {
+      "name": "Niche_Link",
+      "foreground_bbox": [
+        94,
+        94,
+        206,
+        206
+      ]
+    },
+    {
+      "name": "Niconico",
+      "foreground_bbox": [
+        82,
+        80,
+        218,
+        218
+      ]
+    },
+    {
+      "name": "Niconico_Live",
+      "foreground_bbox": [
+        102,
+        75,
+        208,
+        221
+      ]
+    },
+    {
+      "name": "Niconico_Manga",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Olympics",
+      "foreground_bbox": [
+        80,
+        118,
+        220,
+        183
+      ]
+    },
+    {
+      "name": "Omission",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "OneDrive",
+      "foreground_bbox": [
+        79,
+        102,
+        221,
+        196
+      ]
+    },
+    {
+      "name": "Onlyfans",
+      "foreground_bbox": [
+        90,
+        110,
+        222,
+        198
+      ]
+    },
+    {
+      "name": "Other",
+      "foreground_bbox": [
+        96,
+        136,
+        204,
+        164
+      ]
+    },
+    {
+      "name": "Outlook",
+      "foreground_bbox": [
+        82,
+        82,
+        220,
+        212
+      ]
+    },
+    {
+      "name": "Palestine",
+      "foreground_bbox": [
+        60,
+        60,
+        235,
+        240
+      ]
+    },
+    {
+      "name": "Panda",
+      "foreground_bbox": [
+        96,
+        93,
+        204,
+        198
+      ]
+    },
+    {
+      "name": "Panda_WWF",
+      "foreground_bbox": [
+        90,
+        83,
+        210,
+        217
+      ]
+    },
+    {
+      "name": "Panda_ai",
+      "foreground_bbox": [
+        96,
+        89,
+        204,
+        198
+      ]
+    },
+    {
+      "name": "PayPal",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "PayPal_business",
+      "foreground_bbox": [
+        100,
+        94,
+        209,
+        224
+      ]
+    },
+    {
+      "name": "Peacook",
+      "foreground_bbox": [
+        62,
+        62,
+        238,
+        238
+      ]
+    },
+    {
+      "name": "Perplexity",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Pig",
+      "foreground_bbox": [
+        93,
+        96,
+        207,
+        199
+      ]
+    },
+    {
+      "name": "Piggies",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Piggies_b",
+      "foreground_bbox": [
+        84,
+        81,
+        219,
+        215
+      ]
+    },
+    {
+      "name": "Pixiv",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Playstation",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Playstation_30th",
+      "foreground_bbox": [
+        85,
+        98,
+        215,
+        197
+      ]
+    },
+    {
+      "name": "Playstation_remote",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Plex",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Pornhub",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Prime",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Qoura",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Reddit",
+      "foreground_bbox": [
+        90,
+        91,
+        213,
+        214
+      ]
+    },
+    {
+      "name": "Remote",
+      "foreground_bbox": [
+        90,
+        90,
+        210,
+        210
+      ]
+    },
+    {
+      "name": "Round_Robin",
+      "foreground_bbox": [
+        87,
+        92,
+        205,
+        208
+      ]
+    },
+    {
+      "name": "SNS",
+      "foreground_bbox": [
+        90,
+        96,
+        210,
+        195
+      ]
+    },
+    {
+      "name": "Scholar",
+      "foreground_bbox": [
+        94,
+        94,
+        206,
+        206
+      ]
+    },
+    {
+      "name": "Seancody",
+      "foreground_bbox": [
+        85,
+        109,
+        215,
+        191
+      ]
+    },
+    {
+      "name": "Server",
+      "foreground_bbox": [
+        95,
+        92,
+        205,
+        208
+      ]
+    },
+    {
+      "name": "Settings",
+      "foreground_bbox": [
+        90,
+        90,
+        210,
+        210
+      ]
+    },
+    {
+      "name": "Signal_Light",
+      "foreground_bbox": [
+        88,
+        121,
+        212,
+        179
+      ]
+    },
+    {
+      "name": "Singapore",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        172
+      ]
+    },
+    {
+      "name": "Sony_Live",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "South_Korea",
+      "foreground_bbox": [
+        80,
+        96,
+        220,
+        205
+      ]
+    },
+    {
+      "name": "SpeedTest",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Spotify",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Steam",
+      "foreground_bbox": [
+        61,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Stream",
+      "foreground_bbox": [
+        85,
+        85,
+        215,
+        215
+      ]
+    },
+    {
+      "name": "Taiwan_Province",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Telegram",
+      "foreground_bbox": [
+        72,
+        72,
+        228,
+        228
+      ]
+    },
+    {
+      "name": "Threads",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Tick",
+      "foreground_bbox": [
+        94,
+        105,
+        206,
+        188
+      ]
+    },
+    {
+      "name": "Tick_2",
+      "foreground_bbox": [
+        86,
+        86,
+        214,
+        214
+      ]
+    },
+    {
+      "name": "TikTok",
+      "foreground_bbox": [
+        90,
+        83,
+        210,
+        217
+      ]
+    },
+    {
+      "name": "Transfer",
+      "foreground_bbox": [
+        94,
+        101,
+        206,
+        199
+      ]
+    },
+    {
+      "name": "Twitch",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Twitter",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "UBISOFT",
+      "foreground_bbox": [
+        94,
+        94,
+        199,
+        204
+      ]
+    },
+    {
+      "name": "UK",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "USA",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Video_Vimeo",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Vimeo",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Weibo",
+      "foreground_bbox": [
+        89,
+        87,
+        219,
+        202
+      ]
+    },
+    {
+      "name": "WhatsApp",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "X",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Xbox",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Xianyu",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "Yin_Yang",
+      "foreground_bbox": [
+        89,
+        89,
+        211,
+        211
+      ]
+    },
+    {
+      "name": "YouTube",
+      "foreground_bbox": [
+        82,
+        102,
+        218,
+        198
+      ]
+    },
+    {
+      "name": "Zoho_new",
+      "foreground_bbox": [
+        89,
+        89,
+        211,
+        211
+      ]
+    },
+    {
+      "name": "Zoho_old",
+      "foreground_bbox": [
+        89,
+        89,
+        211,
+        211
+      ]
+    },
+    {
+      "name": "Zune",
+      "foreground_bbox": [
+        81,
+        69,
+        219,
+        232
+      ]
+    },
+    {
+      "name": "bilibili",
+      "foreground_bbox": [
+        60,
+        60,
+        240,
+        240
+      ]
+    },
+    {
+      "name": "xHamster",
+      "foreground_bbox": [
+        85,
+        90,
+        215,
+        211
+      ]
+    }
+  ],
+  "stage": "Historical pre-optical audit; use qa/duplicate-final.json and current canonical alias table for final outputs."
+}

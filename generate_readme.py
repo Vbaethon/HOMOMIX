@@ -1,4 +1,6 @@
 import os
+from pathlib import Path
+from icon_aliases import ALIASES, is_hidden_alias
 
 icon_dir = 'Icon/Color/'
 readme_file = 'README.md'
@@ -7,19 +9,20 @@ start_marker = '<!--start-icons-->'
 end_marker = '<!--end-icons-->'
 
 html_header = f'\n\n{start_marker}\n\n## 图标展示\n\n'  
-html_content = '<table style="width: 100%; text-align: center;"><tr>'  
+variant_note = '''兼容下载别名：`Zoho_old → Zoho_new`、`Download_2 → Download`、`Niche_Link → Chained_2`、`Twitter → X`、`Link → Chained_2`。默认与 Large 的旧 URL 均保留，展示区和目录只列规范名称。`Claud` 是拼写错误，已删除；请使用 `Claude`。
+
+配色变体说明：bilibili 的粉/蓝/白底、Huawei 红/黑、LinkedIn 明/暗、Bahamut 两色及 Hugging Face 白/绿底保留为同主体的配色选择，不视为不同造型；Link 与 Chained_2 的微小色差也不计作独立样式。Disney 与 Disney_plus 是不同服务，使用各自官网采用的 D 短标与配色。
+
+'''
+html_content = variant_note + '<table style="width: 100%; text-align: center;"><tr>'  
 
 columns = 7
 col_count = 0
 
 
 icon_files = [f for f in os.listdir(icon_dir) if f.endswith(('.png', '.jpg', '.jpeg', '.svg'))]
-# 保留旧文件链接；有规范名称时，不在展示区重复列出兼容别名。
-icon_aliases = {'Claud.png': 'Claude.png'}
-icon_files = [
-    f for f in icon_files
-    if f not in icon_aliases or icon_aliases[f] not in icon_files
-]
+# 统一alias表：保留下载URL，但展示区只列规范名称。
+icon_files = [f for f in icon_files if not is_hidden_alias(Path(icon_dir) / f)]
 icon_files_sorted = sorted(icon_files, key=lambda x: os.path.splitext(x)[0].lower())  
 
 
