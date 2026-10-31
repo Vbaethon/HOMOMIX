@@ -1,0 +1,45 @@
+# HOMOMIX · 白底系列配色最终原生源
+
+当前更新53个名称／106张PNG：49项原创通用图形使用白圆底、按功能系列统一的渐变或近黑主体、协调内缘层次与柔和外阴影；另完整保留已确认的Bahamut三款龙形简化与Disney_Castle比例修正。当前为按最终方向新作，不冒称此前丢失源包原件。
+
+174个规范名称全部分类：53更新、121保留。原352个PNG路径和Claud兼容文件保留，范围外246个PNG与基线`efe70aec5ee7da492609be67a53c6a9dde78c3a2`字节一致。官方品牌、FDS、Google、Apple_rainbow、GOG、Twitch、Apple、Plex、Linkedin_ray、Claude/Claud均未改。既有工作流字节不变。
+
+## 内容
+
+- `svg/`：53个自包含母版。49通用项原生矢量；四项主题例外含来源保真内嵌位图，不宣称全套纯矢量。
+- `author_sources.py`、`material.py`、`adjustments/`：完整作者流程、统一材料效果及逐项紧凑度／光学微调。
+- `references/original-white-geometry/`：49项前版原生形状输入，仅作作者几何来源，不是当前生产配色。
+- `SERIES-49.json`、`SERIES-PALETTES.json`、`SOURCE-LEDGER.json`：最终功能系列、色值和逐项来源。
+- `DESIGN-STANDARD.md`：原生单位、视觉尺寸、负形、阴影与小尺寸限制。
+- `TAXONOMY-174.json`、`all174-disposition.json`：全目录更新／保留理由。
+- `render-manifest.json`、`collection-manifest.json`：106个输出与53个原生源的SHA-256、尺寸、偏移。
+- `qa/inverse49-overview.png`、`qa/inverse49-actual60.png`：49项大图与真实60px默认／Large浅深底。
+- `qa/shadow-inner-on-off.png`：仅开关内缘光影，其他几何、颜色、外阴影相同的证明。
+- `qa/all174-overview.png`、`qa/approved-theme-exceptions.png`：完整目录及四项例外。
+
+## 复现
+
+首次安装需要网络：
+
+```sh
+python3 -m venv .venv
+.venv/bin/python -m pip install -r Sources/v3/requirements.txt
+npm ci --prefix Sources/v3 --ignore-scripts
+```
+
+安装后离线导出，只写显式目录：
+
+```sh
+.venv/bin/python Sources/v3/build_all.py --output-dir /tmp/homomix-final --verify
+.venv/bin/python -m unittest discover -s tests -v
+```
+
+resvg-js2.6.2在1440px渲染，Pillow11.3.0 Lanczos缩放。Large360；默认300画布、180内容盒、偏移(60,60)。49项白盘半径175原生单位，给淡外影留5单位边缘；默认60px显示时内容盒36px、白盘35px。四项主题例外保持原有输出字节。生产不依赖字体或网络。
+
+`author_sources.py`可重建全部母版。设计变更后须人工复核并显式冻结摘要，不能为通过测试直接篡改期望值。固定环境可核验106个PNG SHA；跨平台压缩库不同可能改变文件摘要而不改变解码像素。
+
+## 来源与限制
+
+49项形状为本项目原生构造，地理轮廓使用随包Natural Earth公有领域数据；没有新增第三方图标路径。QA使用附许可证的DejaVu字体。Apple Music官方商店图仅作为近黑主体和细微层次的视觉参考，未复制音符或打包Apple素材。品牌、角色与原项目素材权利归各自权利人，适配不构成官方新标，不重新许可为CC0。
+
+默认60px画布内的36px内容盒以识别和内轮廓可读为主；内缘效果在大图和Large60px可辨，在36px可能极细微，不宣称所有尺寸都有同等立体感。亮黄绿局部对比低于蓝紫或近黑，已按实际小尺寸检查，不冒称每个渐变像素达到统一无障碍阈值。

@@ -1,0 +1,1576 @@
+{
+  "counts": {
+    "canonical": 174,
+    "approved_exceptions": 4,
+    "baseline_retained": 121,
+    "inverse_generic": 49
+  },
+  "items": [
+    {
+      "name": "AI",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/AI.png",
+        "Icon/Color/Large/AI.png"
+      ]
+    },
+    {
+      "name": "AI_Tree",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/AI_Tree.png",
+        "Icon/Color/Large/AI_Tree.png"
+      ]
+    },
+    {
+      "name": "AI_bot",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/AI_bot.png",
+        "Icon/Color/Large/AI_bot.png"
+      ]
+    },
+    {
+      "name": "AI_voice",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/AI_voice.png",
+        "Icon/Color/Large/AI_voice.png"
+      ]
+    },
+    {
+      "name": "ASIA",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/ASIA.png",
+        "Icon/Color/Large/ASIA.png"
+      ]
+    },
+    {
+      "name": "Adblock",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Adblock.png",
+        "Icon/Color/Large/Adblock.png"
+      ]
+    },
+    {
+      "name": "AdblockPlus",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/AdblockPlus.png",
+        "Icon/Color/Large/AdblockPlus.png"
+      ]
+    },
+    {
+      "name": "AdblockPlus_2",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/AdblockPlus_2.png",
+        "Icon/Color/Large/AdblockPlus_2.png"
+      ]
+    },
+    {
+      "name": "Adguard",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Adguard.png",
+        "Icon/Color/Large/Adguard.png"
+      ]
+    },
+    {
+      "name": "Adobe",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Adobe.png",
+        "Icon/Color/Large/Adobe.png"
+      ]
+    },
+    {
+      "name": "Amazon",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Amazon.png",
+        "Icon/Color/Large/Amazon.png"
+      ]
+    },
+    {
+      "name": "Apple",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Apple.png",
+        "Icon/Color/Large/Apple.png"
+      ]
+    },
+    {
+      "name": "Apple_TV",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Apple_TV.png",
+        "Icon/Color/Large/Apple_TV.png"
+      ]
+    },
+    {
+      "name": "Apple_black",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Apple_black.png",
+        "Icon/Color/Large/Apple_black.png"
+      ]
+    },
+    {
+      "name": "Apple_rainbow",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Apple_rainbow.png",
+        "Icon/Color/Large/Apple_rainbow.png"
+      ]
+    },
+    {
+      "name": "Auto_Link",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Auto_Link.png",
+        "Icon/Color/Large/Auto_Link.png"
+      ]
+    },
+    {
+      "name": "BT_Bittorrent",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/BT_Bittorrent.png",
+        "Icon/Color/Large/BT_Bittorrent.png"
+      ]
+    },
+    {
+      "name": "Bahamut",
+      "category": "preserved_approved_theme_exception",
+      "reason": "Preserve earlier expressly approved compact visible-dragon/scale correction; no monochrome brand redesign",
+      "paths": [
+        "Icon/Color/Bahamut.png",
+        "Icon/Color/Large/Bahamut.png"
+      ]
+    },
+    {
+      "name": "Bahamut_b",
+      "category": "preserved_approved_theme_exception",
+      "reason": "Preserve earlier expressly approved compact visible-dragon/scale correction; no monochrome brand redesign",
+      "paths": [
+        "Icon/Color/Bahamut_b.png",
+        "Icon/Color/Large/Bahamut_b.png"
+      ]
+    },
+    {
+      "name": "Bahamut_i",
+      "category": "preserved_approved_theme_exception",
+      "reason": "Preserve earlier expressly approved compact visible-dragon/scale correction; no monochrome brand redesign",
+      "paths": [
+        "Icon/Color/Bahamut_i.png",
+        "Icon/Color/Large/Bahamut_i.png"
+      ]
+    },
+    {
+      "name": "Bilibili_Global",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Bilibili_Global.png",
+        "Icon/Color/Large/Bilibili_Global.png"
+      ]
+    },
+    {
+      "name": "Bilibili_blue",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Bilibili_blue.png",
+        "Icon/Color/Large/Bilibili_blue.png"
+      ]
+    },
+    {
+      "name": "Binance",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Binance.png",
+        "Icon/Color/Large/Binance.png"
+      ]
+    },
+    {
+      "name": "Bing",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Bing.png",
+        "Icon/Color/Large/Bing.png"
+      ]
+    },
+    {
+      "name": "Bitcoin",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Bitcoin.png",
+        "Icon/Color/Large/Bitcoin.png"
+      ]
+    },
+    {
+      "name": "Bluesky",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Bluesky.png",
+        "Icon/Color/Large/Bluesky.png"
+      ]
+    },
+    {
+      "name": "Bytedance",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Bytedance.png",
+        "Icon/Color/Large/Bytedance.png"
+      ]
+    },
+    {
+      "name": "Calcifer",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Calcifer.png",
+        "Icon/Color/Large/Calcifer.png"
+      ]
+    },
+    {
+      "name": "Chained",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Chained.png",
+        "Icon/Color/Large/Chained.png"
+      ]
+    },
+    {
+      "name": "Chained_2",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Chained_2.png",
+        "Icon/Color/Large/Chained_2.png"
+      ]
+    },
+    {
+      "name": "ChatGPT",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/ChatGPT.png",
+        "Icon/Color/Large/ChatGPT.png"
+      ]
+    },
+    {
+      "name": "China",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/China.png",
+        "Icon/Color/Large/China.png"
+      ]
+    },
+    {
+      "name": "China_Taipei",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/China_Taipei.png",
+        "Icon/Color/Large/China_Taipei.png"
+      ]
+    },
+    {
+      "name": "Claude",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Claude.png",
+        "Icon/Color/Large/Claude.png"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Existing SoundCloud-style service mark; not generic cloud",
+      "paths": [
+        "Icon/Color/Cloud.png",
+        "Icon/Color/Large/Cloud.png"
+      ]
+    },
+    {
+      "name": "CloudFlare",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/CloudFlare.png",
+        "Icon/Color/Large/CloudFlare.png"
+      ]
+    },
+    {
+      "name": "Consistent_Hashing",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Consistent_Hashing.png",
+        "Icon/Color/Large/Consistent_Hashing.png"
+      ]
+    },
+    {
+      "name": "Crypto",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Existing Crypto.com mark; not generic finance",
+      "paths": [
+        "Icon/Color/Crypto.png",
+        "Icon/Color/Large/Crypto.png"
+      ]
+    },
+    {
+      "name": "DIRECT",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/DIRECT.png",
+        "Icon/Color/Large/DIRECT.png"
+      ]
+    },
+    {
+      "name": "Discord",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Discord.png",
+        "Icon/Color/Large/Discord.png"
+      ]
+    },
+    {
+      "name": "Disney",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Disney.png",
+        "Icon/Color/Large/Disney.png"
+      ]
+    },
+    {
+      "name": "Disney_Castle",
+      "category": "preserved_approved_theme_exception",
+      "reason": "Preserve earlier expressly approved compact visible-dragon/scale correction; no monochrome brand redesign",
+      "paths": [
+        "Icon/Color/Disney_Castle.png",
+        "Icon/Color/Large/Disney_Castle.png"
+      ]
+    },
+    {
+      "name": "Disney_Channel",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Disney_Channel.png",
+        "Icon/Color/Large/Disney_Channel.png"
+      ]
+    },
+    {
+      "name": "Disney_Mickey",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Disney_Mickey.png",
+        "Icon/Color/Large/Disney_Mickey.png"
+      ]
+    },
+    {
+      "name": "Disney_plus",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Disney_plus.png",
+        "Icon/Color/Large/Disney_plus.png"
+      ]
+    },
+    {
+      "name": "Dolphin",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Dolphin.png",
+        "Icon/Color/Large/Dolphin.png"
+      ]
+    },
+    {
+      "name": "Douyin",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Douyin.png",
+        "Icon/Color/Large/Douyin.png"
+      ]
+    },
+    {
+      "name": "Download",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Download.png",
+        "Icon/Color/Large/Download.png"
+      ]
+    },
+    {
+      "name": "Download_2",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Download_2.png",
+        "Icon/Color/Large/Download_2.png"
+      ]
+    },
+    {
+      "name": "EPIC",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/EPIC.png",
+        "Icon/Color/Large/EPIC.png"
+      ]
+    },
+    {
+      "name": "Emby",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Emby.png",
+        "Icon/Color/Large/Emby.png"
+      ]
+    },
+    {
+      "name": "European_Union",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/European_Union.png",
+        "Icon/Color/Large/European_Union.png"
+      ]
+    },
+    {
+      "name": "F2C",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Conservatively retain existing named theme/character artwork; not established as a generic function",
+      "paths": [
+        "Icon/Color/F2C.png",
+        "Icon/Color/Large/F2C.png"
+      ]
+    },
+    {
+      "name": "FCM_Firebase_Cloud_Messaging",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/FCM_Firebase_Cloud_Messaging.png",
+        "Icon/Color/Large/FCM_Firebase_Cloud_Messaging.png"
+      ]
+    },
+    {
+      "name": "Facebook",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Facebook.png",
+        "Icon/Color/Large/Facebook.png"
+      ]
+    },
+    {
+      "name": "Failover",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Failover.png",
+        "Icon/Color/Large/Failover.png"
+      ]
+    },
+    {
+      "name": "Fast",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Fast.png",
+        "Icon/Color/Large/Fast.png"
+      ]
+    },
+    {
+      "name": "Fish",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Fish.png",
+        "Icon/Color/Large/Fish.png"
+      ]
+    },
+    {
+      "name": "Fish_b",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Fish_b.png",
+        "Icon/Color/Large/Fish_b.png"
+      ]
+    },
+    {
+      "name": "Fish_x",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Conservatively retain existing named theme/character artwork; not established as a generic function",
+      "paths": [
+        "Icon/Color/Fish_x.png",
+        "Icon/Color/Large/Fish_x.png"
+      ]
+    },
+    {
+      "name": "Flight",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Flight.png",
+        "Icon/Color/Large/Flight.png"
+      ]
+    },
+    {
+      "name": "Forbidden",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Forbidden.png",
+        "Icon/Color/Large/Forbidden.png"
+      ]
+    },
+    {
+      "name": "GFW",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/GFW.png",
+        "Icon/Color/Large/GFW.png"
+      ]
+    },
+    {
+      "name": "GOG",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/GOG.png",
+        "Icon/Color/Large/GOG.png"
+      ]
+    },
+    {
+      "name": "Game",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Game.png",
+        "Icon/Color/Large/Game.png"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/GitHub.png",
+        "Icon/Color/Large/GitHub.png"
+      ]
+    },
+    {
+      "name": "Global",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Global.png",
+        "Icon/Color/Large/Global.png"
+      ]
+    },
+    {
+      "name": "Globefish",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Globefish.png",
+        "Icon/Color/Large/Globefish.png"
+      ]
+    },
+    {
+      "name": "Gmail",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Gmail.png",
+        "Icon/Color/Large/Gmail.png"
+      ]
+    },
+    {
+      "name": "Google",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Google.png",
+        "Icon/Color/Large/Google.png"
+      ]
+    },
+    {
+      "name": "HBO_MAX",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/HBO_MAX.png",
+        "Icon/Color/Large/HBO_MAX.png"
+      ]
+    },
+    {
+      "name": "Home",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Home.png",
+        "Icon/Color/Large/Home.png"
+      ]
+    },
+    {
+      "name": "Hong_Kong",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Hong_Kong.png",
+        "Icon/Color/Large/Hong_Kong.png"
+      ]
+    },
+    {
+      "name": "Huawei",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Huawei.png",
+        "Icon/Color/Large/Huawei.png"
+      ]
+    },
+    {
+      "name": "Huawei_black",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Huawei_black.png",
+        "Icon/Color/Large/Huawei_black.png"
+      ]
+    },
+    {
+      "name": "Huawei_white",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Huawei_white.png",
+        "Icon/Color/Large/Huawei_white.png"
+      ]
+    },
+    {
+      "name": "Hugging_face",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Hugging_face.png",
+        "Icon/Color/Large/Hugging_face.png"
+      ]
+    },
+    {
+      "name": "Hugging_face_g",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Hugging_face_g.png",
+        "Icon/Color/Large/Hugging_face_g.png"
+      ]
+    },
+    {
+      "name": "Hulu",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Hulu.png",
+        "Icon/Color/Large/Hulu.png"
+      ]
+    },
+    {
+      "name": "Infuse",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Infuse.png",
+        "Icon/Color/Large/Infuse.png"
+      ]
+    },
+    {
+      "name": "Instagram",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Instagram.png",
+        "Icon/Color/Large/Instagram.png"
+      ]
+    },
+    {
+      "name": "Japan",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Japan.png",
+        "Icon/Color/Large/Japan.png"
+      ]
+    },
+    {
+      "name": "Jellyfin",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Jellyfin.png",
+        "Icon/Color/Large/Jellyfin.png"
+      ]
+    },
+    {
+      "name": "Link",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Link.png",
+        "Icon/Color/Large/Link.png"
+      ]
+    },
+    {
+      "name": "Linkedin",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Linkedin.png",
+        "Icon/Color/Large/Linkedin.png"
+      ]
+    },
+    {
+      "name": "Linkedin_ray",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Linkedin_ray.png",
+        "Icon/Color/Large/Linkedin_ray.png"
+      ]
+    },
+    {
+      "name": "Load_balancing",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Load_balancing.png",
+        "Icon/Color/Large/Load_balancing.png"
+      ]
+    },
+    {
+      "name": "Load_balancing_2",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Load_balancing_2.png",
+        "Icon/Color/Large/Load_balancing_2.png"
+      ]
+    },
+    {
+      "name": "Load_balancing_3",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Load_balancing_3.png",
+        "Icon/Color/Large/Load_balancing_3.png"
+      ]
+    },
+    {
+      "name": "Location",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Location.png",
+        "Icon/Color/Large/Location.png"
+      ]
+    },
+    {
+      "name": "MLB",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/MLB.png",
+        "Icon/Color/Large/MLB.png"
+      ]
+    },
+    {
+      "name": "Magic_Timer",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Magic_Timer.png",
+        "Icon/Color/Large/Magic_Timer.png"
+      ]
+    },
+    {
+      "name": "Mail",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Mail.png",
+        "Icon/Color/Large/Mail.png"
+      ]
+    },
+    {
+      "name": "Messenger",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Messenger.png",
+        "Icon/Color/Large/Messenger.png"
+      ]
+    },
+    {
+      "name": "Meta_1",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Meta_1.png",
+        "Icon/Color/Large/Meta_1.png"
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Microsoft.png",
+        "Icon/Color/Large/Microsoft.png"
+      ]
+    },
+    {
+      "name": "Microsoft_365",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Microsoft_365.png",
+        "Icon/Color/Large/Microsoft_365.png"
+      ]
+    },
+    {
+      "name": "Microsoft_Copilot",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Microsoft_Copilot.png",
+        "Icon/Color/Large/Microsoft_Copilot.png"
+      ]
+    },
+    {
+      "name": "NBA",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/NBA.png",
+        "Icon/Color/Large/NBA.png"
+      ]
+    },
+    {
+      "name": "Netflix",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Netflix.png",
+        "Icon/Color/Large/Netflix.png"
+      ]
+    },
+    {
+      "name": "Netflix_b",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Netflix_b.png",
+        "Icon/Color/Large/Netflix_b.png"
+      ]
+    },
+    {
+      "name": "Network",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Network.png",
+        "Icon/Color/Large/Network.png"
+      ]
+    },
+    {
+      "name": "Network_2",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Network_2.png",
+        "Icon/Color/Large/Network_2.png"
+      ]
+    },
+    {
+      "name": "Niche_Link",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Niche_Link.png",
+        "Icon/Color/Large/Niche_Link.png"
+      ]
+    },
+    {
+      "name": "Niconico",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Niconico.png",
+        "Icon/Color/Large/Niconico.png"
+      ]
+    },
+    {
+      "name": "Niconico_Live",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Niconico_Live.png",
+        "Icon/Color/Large/Niconico_Live.png"
+      ]
+    },
+    {
+      "name": "Niconico_Manga",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Niconico_Manga.png",
+        "Icon/Color/Large/Niconico_Manga.png"
+      ]
+    },
+    {
+      "name": "Olympics",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Olympics.png",
+        "Icon/Color/Large/Olympics.png"
+      ]
+    },
+    {
+      "name": "Omission",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Conservatively retain existing named theme/character artwork; not established as a generic function",
+      "paths": [
+        "Icon/Color/Omission.png",
+        "Icon/Color/Large/Omission.png"
+      ]
+    },
+    {
+      "name": "OneDrive",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/OneDrive.png",
+        "Icon/Color/Large/OneDrive.png"
+      ]
+    },
+    {
+      "name": "Onlyfans",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Onlyfans.png",
+        "Icon/Color/Large/Onlyfans.png"
+      ]
+    },
+    {
+      "name": "Other",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Other.png",
+        "Icon/Color/Large/Other.png"
+      ]
+    },
+    {
+      "name": "Outlook",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Outlook.png",
+        "Icon/Color/Large/Outlook.png"
+      ]
+    },
+    {
+      "name": "Palestine",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Palestine.png",
+        "Icon/Color/Large/Palestine.png"
+      ]
+    },
+    {
+      "name": "Panda",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Panda.png",
+        "Icon/Color/Large/Panda.png"
+      ]
+    },
+    {
+      "name": "Panda_WWF",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Panda_WWF.png",
+        "Icon/Color/Large/Panda_WWF.png"
+      ]
+    },
+    {
+      "name": "Panda_ai",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Panda_ai.png",
+        "Icon/Color/Large/Panda_ai.png"
+      ]
+    },
+    {
+      "name": "PayPal",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/PayPal.png",
+        "Icon/Color/Large/PayPal.png"
+      ]
+    },
+    {
+      "name": "PayPal_business",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/PayPal_business.png",
+        "Icon/Color/Large/PayPal_business.png"
+      ]
+    },
+    {
+      "name": "Peacook",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Peacook.png",
+        "Icon/Color/Large/Peacook.png"
+      ]
+    },
+    {
+      "name": "Perplexity",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Perplexity.png",
+        "Icon/Color/Large/Perplexity.png"
+      ]
+    },
+    {
+      "name": "Pig",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Pig.png",
+        "Icon/Color/Large/Pig.png"
+      ]
+    },
+    {
+      "name": "Piggies",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Piggies.png",
+        "Icon/Color/Large/Piggies.png"
+      ]
+    },
+    {
+      "name": "Piggies_b",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Piggies_b.png",
+        "Icon/Color/Large/Piggies_b.png"
+      ]
+    },
+    {
+      "name": "Pixiv",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Pixiv.png",
+        "Icon/Color/Large/Pixiv.png"
+      ]
+    },
+    {
+      "name": "Playstation",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Playstation.png",
+        "Icon/Color/Large/Playstation.png"
+      ]
+    },
+    {
+      "name": "Playstation_30th",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Playstation_30th.png",
+        "Icon/Color/Large/Playstation_30th.png"
+      ]
+    },
+    {
+      "name": "Playstation_remote",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Playstation_remote.png",
+        "Icon/Color/Large/Playstation_remote.png"
+      ]
+    },
+    {
+      "name": "Plex",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Plex.png",
+        "Icon/Color/Large/Plex.png"
+      ]
+    },
+    {
+      "name": "Pornhub",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Pornhub.png",
+        "Icon/Color/Large/Pornhub.png"
+      ]
+    },
+    {
+      "name": "Prime",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Prime.png",
+        "Icon/Color/Large/Prime.png"
+      ]
+    },
+    {
+      "name": "Qoura",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Qoura.png",
+        "Icon/Color/Large/Qoura.png"
+      ]
+    },
+    {
+      "name": "Reddit",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Reddit.png",
+        "Icon/Color/Large/Reddit.png"
+      ]
+    },
+    {
+      "name": "Remote",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Remote.png",
+        "Icon/Color/Large/Remote.png"
+      ]
+    },
+    {
+      "name": "Round_Robin",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Round_Robin.png",
+        "Icon/Color/Large/Round_Robin.png"
+      ]
+    },
+    {
+      "name": "SNS",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/SNS.png",
+        "Icon/Color/Large/SNS.png"
+      ]
+    },
+    {
+      "name": "Scholar",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Existing Scholar service identity; not generic graduation icon",
+      "paths": [
+        "Icon/Color/Scholar.png",
+        "Icon/Color/Large/Scholar.png"
+      ]
+    },
+    {
+      "name": "Seancody",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Seancody.png",
+        "Icon/Color/Large/Seancody.png"
+      ]
+    },
+    {
+      "name": "Server",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Server.png",
+        "Icon/Color/Large/Server.png"
+      ]
+    },
+    {
+      "name": "Settings",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Settings.png",
+        "Icon/Color/Large/Settings.png"
+      ]
+    },
+    {
+      "name": "Signal_Light",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Signal_Light.png",
+        "Icon/Color/Large/Signal_Light.png"
+      ]
+    },
+    {
+      "name": "Singapore",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Singapore.png",
+        "Icon/Color/Large/Singapore.png"
+      ]
+    },
+    {
+      "name": "Sony_Live",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Sony_Live.png",
+        "Icon/Color/Large/Sony_Live.png"
+      ]
+    },
+    {
+      "name": "South_Korea",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/South_Korea.png",
+        "Icon/Color/Large/South_Korea.png"
+      ]
+    },
+    {
+      "name": "SpeedTest",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/SpeedTest.png",
+        "Icon/Color/Large/SpeedTest.png"
+      ]
+    },
+    {
+      "name": "Spotify",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Spotify.png",
+        "Icon/Color/Large/Spotify.png"
+      ]
+    },
+    {
+      "name": "Steam",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Steam.png",
+        "Icon/Color/Large/Steam.png"
+      ]
+    },
+    {
+      "name": "Stream",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Stream.png",
+        "Icon/Color/Large/Stream.png"
+      ]
+    },
+    {
+      "name": "Taiwan_Province",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Taiwan_Province.png",
+        "Icon/Color/Large/Taiwan_Province.png"
+      ]
+    },
+    {
+      "name": "Telegram",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Telegram.png",
+        "Icon/Color/Large/Telegram.png"
+      ]
+    },
+    {
+      "name": "Threads",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Threads.png",
+        "Icon/Color/Large/Threads.png"
+      ]
+    },
+    {
+      "name": "Tick",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Tick.png",
+        "Icon/Color/Large/Tick.png"
+      ]
+    },
+    {
+      "name": "Tick_2",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Tick_2.png",
+        "Icon/Color/Large/Tick_2.png"
+      ]
+    },
+    {
+      "name": "TikTok",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/TikTok.png",
+        "Icon/Color/Large/TikTok.png"
+      ]
+    },
+    {
+      "name": "Transfer",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Transfer.png",
+        "Icon/Color/Large/Transfer.png"
+      ]
+    },
+    {
+      "name": "Twitch",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Twitch.png",
+        "Icon/Color/Large/Twitch.png"
+      ]
+    },
+    {
+      "name": "Twitter",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Twitter.png",
+        "Icon/Color/Large/Twitter.png"
+      ]
+    },
+    {
+      "name": "UBISOFT",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/UBISOFT.png",
+        "Icon/Color/Large/UBISOFT.png"
+      ]
+    },
+    {
+      "name": "UK",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/UK.png",
+        "Icon/Color/Large/UK.png"
+      ]
+    },
+    {
+      "name": "USA",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/USA.png",
+        "Icon/Color/Large/USA.png"
+      ]
+    },
+    {
+      "name": "Video_Vimeo",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Video_Vimeo.png",
+        "Icon/Color/Large/Video_Vimeo.png"
+      ]
+    },
+    {
+      "name": "Vimeo",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Vimeo.png",
+        "Icon/Color/Large/Vimeo.png"
+      ]
+    },
+    {
+      "name": "Weibo",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Weibo.png",
+        "Icon/Color/Large/Weibo.png"
+      ]
+    },
+    {
+      "name": "WhatsApp",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/WhatsApp.png",
+        "Icon/Color/Large/WhatsApp.png"
+      ]
+    },
+    {
+      "name": "X",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/X.png",
+        "Icon/Color/Large/X.png"
+      ]
+    },
+    {
+      "name": "Xbox",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Xbox.png",
+        "Icon/Color/Large/Xbox.png"
+      ]
+    },
+    {
+      "name": "Xianyu",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Xianyu.png",
+        "Icon/Color/Large/Xianyu.png"
+      ]
+    },
+    {
+      "name": "Yin_Yang",
+      "category": "inverse_generic",
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "paths": [
+        "Icon/Color/Yin_Yang.png",
+        "Icon/Color/Large/Yin_Yang.png"
+      ]
+    },
+    {
+      "name": "YouTube",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/YouTube.png",
+        "Icon/Color/Large/YouTube.png"
+      ]
+    },
+    {
+      "name": "Zoho_new",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Zoho_new.png",
+        "Icon/Color/Large/Zoho_new.png"
+      ]
+    },
+    {
+      "name": "Zoho_old",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Zoho_old.png",
+        "Icon/Color/Large/Zoho_old.png"
+      ]
+    },
+    {
+      "name": "Zune",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/Zune.png",
+        "Icon/Color/Large/Zune.png"
+      ]
+    },
+    {
+      "name": "bilibili",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/bilibili.png",
+        "Icon/Color/Large/Bilibili.png"
+      ]
+    },
+    {
+      "name": "xHamster",
+      "category": "baseline_brand_character_flag_or_named_theme",
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "paths": [
+        "Icon/Color/xHamster.png",
+        "Icon/Color/Large/xHamster.png"
+      ]
+    }
+  ]
+}

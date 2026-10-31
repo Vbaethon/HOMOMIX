@@ -1,0 +1,357 @@
+{
+  "status": "final49 functional-series implementation",
+  "items": [
+    {
+      "name": "AI",
+      "series": "intelligence_rose_violet",
+      "series_label": "智能与沟通",
+      "palette_family": "玫瑰／紫／暖橙",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "AI_Tree",
+      "series": "intelligence_rose_violet",
+      "series_label": "智能与沟通",
+      "palette_family": "玫瑰／紫／暖橙",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "AI_bot",
+      "series": "intelligence_rose_violet",
+      "series_label": "智能与沟通",
+      "palette_family": "玫瑰／紫／暖橙",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "AI_voice",
+      "series": "intelligence_rose_violet",
+      "series_label": "智能与沟通",
+      "palette_family": "玫瑰／紫／暖橙",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "ASIA",
+      "series": "network_blue_cyan",
+      "series_label": "连接与网络",
+      "palette_family": "蓝／青／少量紫",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Adblock",
+      "series": "system_graphite",
+      "series_label": "系统工具",
+      "palette_family": "灰黑",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Auto_Link",
+      "series": "network_blue_cyan",
+      "series_label": "连接与网络",
+      "palette_family": "蓝／青／少量紫",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Chained",
+      "series": "network_blue_cyan",
+      "series_label": "连接与网络",
+      "palette_family": "蓝／青／少量紫",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Chained_2",
+      "series": "network_blue_cyan",
+      "series_label": "连接与网络",
+      "palette_family": "蓝／青／少量紫",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Consistent_Hashing",
+      "series": "network_blue_cyan",
+      "series_label": "连接与网络",
+      "palette_family": "蓝／青／少量紫",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "DIRECT",
+      "series": "network_blue_cyan",
+      "series_label": "连接与网络",
+      "palette_family": "蓝／青／少量紫",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Dolphin",
+      "series": "animal_green_yellow",
+      "series_label": "动物",
+      "palette_family": "绿／黄／青碧",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Download",
+      "series": "transfer_orange_red",
+      "series_label": "下载与传输",
+      "palette_family": "橙／红／金",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Download_2",
+      "series": "transfer_orange_red",
+      "series_label": "下载与传输",
+      "palette_family": "橙／红／金",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Failover",
+      "series": "network_blue_cyan",
+      "series_label": "连接与网络",
+      "palette_family": "蓝／青／少量紫",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Fish",
+      "series": "animal_green_yellow",
+      "series_label": "动物",
+      "palette_family": "绿／黄／青碧",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Fish_b",
+      "series": "animal_green_yellow",
+      "series_label": "动物",
+      "palette_family": "绿／黄／青碧",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Flight",
+      "series": "location_emerald_teal",
+      "series_label": "出行与定位",
+      "palette_family": "翡翠／青碧／蓝",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Forbidden",
+      "series": "system_graphite",
+      "series_label": "系统工具",
+      "palette_family": "灰黑",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "GFW",
+      "series": "system_graphite",
+      "series_label": "系统工具",
+      "palette_family": "灰黑",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Game",
+      "series": "entertainment_purple_pink",
+      "series_label": "游戏与影音",
+      "palette_family": "紫／粉／珊瑚",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Global",
+      "series": "network_blue_cyan",
+      "series_label": "连接与网络",
+      "palette_family": "蓝／青／少量紫",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Globefish",
+      "series": "animal_green_yellow",
+      "series_label": "动物",
+      "palette_family": "绿／黄／青碧",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Home",
+      "series": "system_graphite",
+      "series_label": "系统工具",
+      "palette_family": "灰黑",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Link",
+      "series": "network_blue_cyan",
+      "series_label": "连接与网络",
+      "palette_family": "蓝／青／少量紫",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Load_balancing",
+      "series": "network_blue_cyan",
+      "series_label": "连接与网络",
+      "palette_family": "蓝／青／少量紫",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Load_balancing_2",
+      "series": "network_blue_cyan",
+      "series_label": "连接与网络",
+      "palette_family": "蓝／青／少量紫",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Load_balancing_3",
+      "series": "network_blue_cyan",
+      "series_label": "连接与网络",
+      "palette_family": "蓝／青／少量紫",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Location",
+      "series": "location_emerald_teal",
+      "series_label": "出行与定位",
+      "palette_family": "翡翠／青碧／蓝",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Magic_Timer",
+      "series": "system_graphite",
+      "series_label": "系统工具",
+      "palette_family": "灰黑",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Mail",
+      "series": "intelligence_rose_violet",
+      "series_label": "智能与沟通",
+      "palette_family": "玫瑰／紫／暖橙",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Network",
+      "series": "network_blue_cyan",
+      "series_label": "连接与网络",
+      "palette_family": "蓝／青／少量紫",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Network_2",
+      "series": "network_blue_cyan",
+      "series_label": "连接与网络",
+      "palette_family": "蓝／青／少量紫",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Niche_Link",
+      "series": "network_blue_cyan",
+      "series_label": "连接与网络",
+      "palette_family": "蓝／青／少量紫",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Other",
+      "series": "system_graphite",
+      "series_label": "系统工具",
+      "palette_family": "灰黑",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Panda",
+      "series": "animal_green_yellow",
+      "series_label": "动物",
+      "palette_family": "绿／黄／青碧",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Panda_ai",
+      "series": "animal_green_yellow",
+      "series_label": "动物",
+      "palette_family": "绿／黄／青碧",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Pig",
+      "series": "animal_green_yellow",
+      "series_label": "动物",
+      "palette_family": "绿／黄／青碧",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Remote",
+      "series": "system_graphite",
+      "series_label": "系统工具",
+      "palette_family": "灰黑",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Round_Robin",
+      "series": "network_blue_cyan",
+      "series_label": "连接与网络",
+      "palette_family": "蓝／青／少量紫",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "SNS",
+      "series": "intelligence_rose_violet",
+      "series_label": "智能与沟通",
+      "palette_family": "玫瑰／紫／暖橙",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Server",
+      "series": "system_graphite",
+      "series_label": "系统工具",
+      "palette_family": "灰黑",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Settings",
+      "series": "system_graphite",
+      "series_label": "系统工具",
+      "palette_family": "灰黑",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Signal_Light",
+      "series": "system_graphite",
+      "series_label": "系统工具",
+      "palette_family": "灰黑",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Stream",
+      "series": "entertainment_purple_pink",
+      "series_label": "游戏与影音",
+      "palette_family": "紫／粉／珊瑚",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Tick",
+      "series": "system_graphite",
+      "series_label": "系统工具",
+      "palette_family": "灰黑",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Tick_2",
+      "series": "system_graphite",
+      "series_label": "系统工具",
+      "palette_family": "灰黑",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Transfer",
+      "series": "transfer_orange_red",
+      "series_label": "下载与传输",
+      "palette_family": "橙／红／金",
+      "status": "implemented in final inverse set"
+    },
+    {
+      "name": "Yin_Yang",
+      "series": "system_graphite",
+      "series_label": "系统工具",
+      "palette_family": "灰黑",
+      "status": "implemented in final inverse set"
+    }
+  ],
+  "counts": {
+    "intelligence_rose_violet": 6,
+    "network_blue_cyan": 16,
+    "system_graphite": 13,
+    "animal_green_yellow": 7,
+    "transfer_orange_red": 3,
+    "location_emerald_teal": 2,
+    "entertainment_purple_pink": 2
+  }
+}

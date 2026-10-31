@@ -135,3 +135,11 @@ Baseline `638ecb4df92a43ba8938023c538d36764e38a07b`. **59 PNG paths / 34 ordinar
 - This is raster/source QA, not an interactive client-runtime test or a trademark-license grant.
 
 Third-party brand assets are not relicensed as CC0. No open redistribution license covering all listed brands was verified; repository licensing does not confer third-party trademark rights.
+
+## 2026-10-31 — 白底系列配色最终版本
+
+当前更新53个名称／106张PNG：49项原创通用主体使用白圆底、功能系列渐变或近黑、协调内缘层次与柔和投影；四项已确认主题（Bahamut三款、Disney_Castle）保留原适配。其余121个规范名称保持基线外观，范围外246个PNG原字节不变。所有原文件名、大小写、URL与Claud兼容路径保留。
+
+[完整源与复现说明](../Sources/v3/README.md)包含53个自包含母版、174项分类、作者流程和摘要。49项为原生矢量，四项主题含保真内嵌图像。官方品牌与FDS、Google、Apple_rainbow、GOG、Twitch、Apple、Plex、Linkedin_ray、Claude/Claud均未改。
+
+Apple Music当前官方商店黑白图仅供系统工具黑白关系及克制层次参考，未复制音乐符号或引入Apple图像。第三方商标和角色权利仍归原权利人，不重新许可为开放素材。地理轮廓来自随包Natural Earth公有领域数据。Huawei来源许可仍见[readme.txt](readme.txt)，本轮未改。

@@ -1,0 +1,1164 @@
+{
+  "files": [
+    {
+      "path": "Sources/v3/DESIGN-STANDARD.md",
+      "bytes": 6086,
+      "sha256": "fb7d1c31181315ed353cbfbed1e0cb5f78a8d340e6a1458ef2f35d5bd07a0b0b"
+    },
+    {
+      "path": "Sources/v3/README.md",
+      "bytes": 3521,
+      "sha256": "bdae78cb2abb291adbd9f7328fc84dece851290782030444637c617a22fcbf63"
+    },
+    {
+      "path": "Sources/v3/SERIES-49.json",
+      "bytes": 10637,
+      "sha256": "1422d3c551f5fd2fde014d9604d7eb5bcc2ec2257e3c220d1766293c2ac63497"
+    },
+    {
+      "path": "Sources/v3/SERIES-PALETTES.json",
+      "bytes": 647,
+      "sha256": "479e7f558a2ab2323028c4c3a857b2ae5d8f4ddd6cc8c8f56e76d57d8ad22f55"
+    },
+    {
+      "path": "Sources/v3/SOURCE-LEDGER.json",
+      "bytes": 15892,
+      "sha256": "e0f649b86cd17000743bf5346125b3eaea95cccdb936bb7a3011efb2e88e221c"
+    },
+    {
+      "path": "Sources/v3/TAXONOMY-174.json",
+      "bytes": 55862,
+      "sha256": "b060a879546297b2973647fea36c99ed83d60794bc6bde193f90242b3319f0ef"
+    },
+    {
+      "path": "Sources/v3/WORKFLOW-BASELINE.json",
+      "bytes": 275,
+      "sha256": "d1d61ad1f79b212a0d3ac73423fb765c71d125bf586928bc6fdc9f44074731bb"
+    },
+    {
+      "path": "Sources/v3/adjustments/animals.py",
+      "bytes": 2463,
+      "sha256": "19b05df522e1d5dba1e6cd981441b7b70576efd3a80548379cd9b22193013ee9"
+    },
+    {
+      "path": "Sources/v3/adjustments/navigation.py",
+      "bytes": 2733,
+      "sha256": "cc9cee133a90abfb67e3e6f201e36f275379f801729ac8c5e7631b22b1cf05f5"
+    },
+    {
+      "path": "Sources/v3/adjustments/system.py",
+      "bytes": 4135,
+      "sha256": "3d1d89841777a6a4109c466459ffca6b6aa984b5dbd90723979edae37e332253"
+    },
+    {
+      "path": "Sources/v3/all174-disposition.json",
+      "bytes": 157260,
+      "sha256": "ff3dde8ea214e4df0d86470abcc9f0bb85faaacfe009bd30c329f719a0945d45"
+    },
+    {
+      "path": "Sources/v3/author_sources.py",
+      "bytes": 4305,
+      "sha256": "b2276b833774527e9cf814c8a2fd5e4ec610d9bd652b925c807448e6ea0e5409"
+    },
+    {
+      "path": "Sources/v3/baseline-files.json",
+      "bytes": 57103,
+      "sha256": "4bc44fa5feed2704fbefbce40fe63be2c9691d939831b27d60ebc7c70ad23de0"
+    },
+    {
+      "path": "Sources/v3/build_all.py",
+      "bytes": 4666,
+      "sha256": "739c2726896c46b8695ee70aaf237ef36631d090b918b7bc012b1aac8d99d71b"
+    },
+    {
+      "path": "Sources/v3/collection-manifest.json",
+      "bytes": 77196,
+      "sha256": "979392fe46ce6dc0484dbef99482c451c06fcc1d29f27cb50b11d1979971c66e"
+    },
+    {
+      "path": "Sources/v3/freeze_manifest.py",
+      "bytes": 3923,
+      "sha256": "d0f78279ff4f4b377f58207379453488657d11fc5e176764e2c4d5a03421d9ee"
+    },
+    {
+      "path": "Sources/v3/generic-names.txt",
+      "bytes": 414,
+      "sha256": "a30733c7069367d99b8fba381cd630271770ca267629214233f56e536926dc61"
+    },
+    {
+      "path": "Sources/v3/interior_audit.py",
+      "bytes": 1935,
+      "sha256": "7554b19e0b3ef49a69b78f097a2cec41aef6db997e5f510831654c6531deac37"
+    },
+    {
+      "path": "Sources/v3/material.py",
+      "bytes": 1628,
+      "sha256": "13ebc826957b9067778cb3f400290b15c49934853a5d2794a2cd899796d02b86"
+    },
+    {
+      "path": "Sources/v3/names.txt",
+      "bytes": 456,
+      "sha256": "34be1088926ffb0761dbfce16cee7695574c59e904827b78a8c54d67f81a9752"
+    },
+    {
+      "path": "Sources/v3/ne_110m_land.geojson",
+      "bytes": 138161,
+      "sha256": "db0d01a4aa88992fb428dddf8467ce0ffb30bb2e4636134bae57e5b3a37ecddc"
+    },
+    {
+      "path": "Sources/v3/package-lock.json",
+      "bytes": 7485,
+      "sha256": "6fd86cdb44aa95738dd9798e30e7311db034725515705980ccf2afac6dfccbb0"
+    },
+    {
+      "path": "Sources/v3/package.json",
+      "bytes": 229,
+      "sha256": "f65b4498f3a792779f7f64002a16e5b1a9f84118c95a2893110fc507f56ed9cd"
+    },
+    {
+      "path": "Sources/v3/qa/FINAL-QA.json",
+      "bytes": 878,
+      "sha256": "04e7d5fe5f3c28ee0ca2e6a43a3ce4306ae96c05718271a9ba46424fd0552b97"
+    },
+    {
+      "path": "Sources/v3/qa/OPTICAL-DECISIONS.json",
+      "bytes": 5796,
+      "sha256": "8857a69c99198c7b82112dc7f448f162cd3b096a14a6e2cff3b72c8401b37997"
+    },
+    {
+      "path": "Sources/v3/qa/all174-overview.png",
+      "bytes": 1787503,
+      "sha256": "d6b009831b1158775af871d3315f4d2e61898c28eca84d49c0ad4c993542cad5"
+    },
+    {
+      "path": "Sources/v3/qa/approved-theme-exceptions.png",
+      "bytes": 64276,
+      "sha256": "ac5cb3493621f0052fbb126cac4cf65afe95772dbdc74d2482c91ae2ba870680"
+    },
+    {
+      "path": "Sources/v3/qa/interior-topology.json",
+      "bytes": 14588,
+      "sha256": "238bfb2e4890ae9aafaa907b8129a799221a2e702976edc39f5cfeaa5e29c40f"
+    },
+    {
+      "path": "Sources/v3/qa/inverse49-actual60.png",
+      "bytes": 413576,
+      "sha256": "30a429cfa8dec0214d72c69c62fe4b83b8454e5fe164f07ab0a7923f8d97274e"
+    },
+    {
+      "path": "Sources/v3/qa/inverse49-overview.png",
+      "bytes": 357412,
+      "sha256": "8ee5896a0570c01400bf005d8cee2636b5b3a9a7f0ac749c9acab4167656e82e"
+    },
+    {
+      "path": "Sources/v3/qa/pixel-qa.json",
+      "bytes": 8548,
+      "sha256": "14aff47acdf48bd9e13c12373e2c7224fad6998a4a4838421d9f61d2850f6146"
+    },
+    {
+      "path": "Sources/v3/qa/shadow-inner-on-off.png",
+      "bytes": 156882,
+      "sha256": "022c665007a1100cf0a381170fb4144d344a8edfcb5448682db1f09ae2cb6ce1"
+    },
+    {
+      "path": "Sources/v3/qa/shadow-inner-proof.json",
+      "bytes": 320,
+      "sha256": "0207aae96887472272be0fb0d110b600963220a00f68777952e5bb825dc7548e"
+    },
+    {
+      "path": "Sources/v3/qa/validation.json",
+      "bytes": 20711,
+      "sha256": "adc96cc4423f03edc609ca2a933e3f7df5e30c6a4247c3f3fa0a1ccced21367b"
+    },
+    {
+      "path": "Sources/v3/qa.py",
+      "bytes": 3430,
+      "sha256": "346c2c9f311c07939063b15290672636ba2f0357d506a039e7330db64c827f53"
+    },
+    {
+      "path": "Sources/v3/references/DejaVuSans.ttf",
+      "bytes": 759720,
+      "sha256": "57f73e11f51999432bf7ab22ce55b6f945d5eca1bf824404cfa9ec2e3718c84e"
+    },
+    {
+      "path": "Sources/v3/references/LICENSE-DejaVu.txt",
+      "bytes": 3859,
+      "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9"
+    },
+    {
+      "path": "Sources/v3/references/approved-brand-exceptions/Bahamut.svg",
+      "bytes": 17861,
+      "sha256": "81487f68d0b2b13b309e81efb59bff03377a33942ffbe6497dcdf917c9d5a73e"
+    },
+    {
+      "path": "Sources/v3/references/approved-brand-exceptions/Bahamut_b.svg",
+      "bytes": 11205,
+      "sha256": "9eba694bd076561000e493881152c168ad6763acd61938379f1dd36a19972c40"
+    },
+    {
+      "path": "Sources/v3/references/approved-brand-exceptions/Bahamut_i.svg",
+      "bytes": 7653,
+      "sha256": "0e98944acfc3f18bbcc1a7f200475622bc10cf9042df324ae9327708cf901365"
+    },
+    {
+      "path": "Sources/v3/references/approved-brand-exceptions/Disney_Castle.svg",
+      "bytes": 13229,
+      "sha256": "b038a5e270200d99f5e6ec2905457b1e3d5808d757ac3b64c185df6174b78280"
+    },
+    {
+      "path": "Sources/v3/references/approved-brand-exceptions/expected-outputs.json",
+      "bytes": 1071,
+      "sha256": "d0cb5a588e86b8c1c602cb4a30af8db7af1d69ca6cc73ecfc7b4af0a190f8564"
+    },
+    {
+      "path": "Sources/v3/references/baseline/Large/Bahamut.png",
+      "bytes": 58439,
+      "sha256": "de0366952229d9b889fa8b94cdfc3ea4cba45dd1d1d0cd6c1896898ced6b4434"
+    },
+    {
+      "path": "Sources/v3/references/baseline/Large/Bahamut_b.png",
+      "bytes": 25311,
+      "sha256": "409e43c6dfe6cd76b631127b205fad8f2eb425444ea1136c6539cd7c8a9019f9"
+    },
+    {
+      "path": "Sources/v3/references/baseline/Large/Bahamut_i.png",
+      "bytes": 88286,
+      "sha256": "d08ec60af752837c88aad0916ecd5c84c6d74e03c8f358c581c025b58f44fe26"
+    },
+    {
+      "path": "Sources/v3/references/baseline/Large/Disney_Castle.png",
+      "bytes": 109480,
+      "sha256": "c042b15442d33d597fbcd0fedc4d74c7d441f1a72a4c59d7e3f93885983ef9d9"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/AI.png",
+      "bytes": 13501,
+      "sha256": "8814739171eedb187ddba7dd5100951001c355fe01d18e6ef014c4ce19007940"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/AI_Tree.png",
+      "bytes": 10529,
+      "sha256": "2813944c16eec4625b4c03a615a40842c935e43fda8e3233f0a89f9ede2f1437"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/AI_bot.png",
+      "bytes": 16090,
+      "sha256": "0e1a86cf83b79b228646c971b344027100fc4173871e7844a6b6145cc7b8f76b"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/AI_voice.png",
+      "bytes": 45565,
+      "sha256": "b595ee53b3110dd71f95a6221c9fb5e33a064657d169e3c2d28f23a8d8525d20"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/ASIA.png",
+      "bytes": 16818,
+      "sha256": "6963dbaf98109182f969e8e7ae1de3aab2d646e7dd92833b43475cd2a2404981"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Adblock.png",
+      "bytes": 22589,
+      "sha256": "8c928f93f7a0a244e7364bc5e71f5c8c99da335bdbb005f1f4af20e45ce8ef6f"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/AdblockPlus.png",
+      "bytes": 18786,
+      "sha256": "4010c1b816a3caae7d2a4db756ec406c212ba5c0702565392df924ef435845ed"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/AdblockPlus_2.png",
+      "bytes": 14636,
+      "sha256": "13a917f278215f6e2a6feb975550a91b78f6d34113f5c8c0b36d27cf973ee6b9"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Auto_Link.png",
+      "bytes": 22496,
+      "sha256": "9edd2d3ede1541a5dbe84bf09d581818f875a3f29208f6b1e68a1e674ca18e72"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Bahamut.png",
+      "bytes": 23990,
+      "sha256": "2b568aedcdeab6b6b83569ed460a50c78216f78490bd4e8aa4ea2746b001c47a"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Bahamut_b.png",
+      "bytes": 12886,
+      "sha256": "3f78c0b8c958e03d5b07989eb69f65c27bf9f71ea8345cbbdc93e0fc5aafd7c2"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Bahamut_i.png",
+      "bytes": 34349,
+      "sha256": "7380bb70c1d75234d899d78cdfc492888942f521f70e1cc4b34c94808ecfdd38"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Binance.png",
+      "bytes": 9570,
+      "sha256": "9eb99f0242b3ff82210ab255fecd3e0c7914baebe7d87cf19e5e0b18df65db53"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Bytedance.png",
+      "bytes": 6754,
+      "sha256": "ccbc12b53017ff302589135c5a7ab1db53d99aa73b5ea7869af2e160d0eceb53"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Chained.png",
+      "bytes": 17884,
+      "sha256": "17afa694db0fb981a9abbac83d31fa5c04ca9061c79596325dfce10fff8fb244"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Chained_2.png",
+      "bytes": 18311,
+      "sha256": "a2b724afa7d52a197bdd3fce6c1e76cae36cfe6353f86743cf37f90c090bff4e"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Consistent_Hashing.png",
+      "bytes": 23375,
+      "sha256": "3da6a7db82d401ee91111055635c430511b81e088f698c03f6ff2d172e06a654"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/DIRECT.png",
+      "bytes": 22604,
+      "sha256": "9a3864de199d15df0c542a18935d96cc2962accdfdd441b0d5ac392321cf9921"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Disney.png",
+      "bytes": 26819,
+      "sha256": "59763055d27333e9f6b8b635bd9061f544feb2b78613fa742ee3128f9f03b804"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Disney_Castle.png",
+      "bytes": 40261,
+      "sha256": "d711dc805e5f8df6db2b45696ffc8dfed4e8397046a203b54040fa5f37080239"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Disney_Mickey.png",
+      "bytes": 32325,
+      "sha256": "c5516f4d8ec3751f440840bbcd69008f3b41f41dd46199f373ac97e51b82998e"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Disney_plus.png",
+      "bytes": 44950,
+      "sha256": "11bb9181d66ceb0c0d07b226c63dc11a567ed191d4fa598996209e73e4165729"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Dolphin.png",
+      "bytes": 22717,
+      "sha256": "0b1038a5fbef14800daa7c90f65c72ff1e177b1df1ff70a585b870aeaf5d5794"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Download.png",
+      "bytes": 23836,
+      "sha256": "6eaf507bb1ded291aa57ca2f1f37de5e9fdcffcc904b6c22571925c508c1ad2d"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Download_2.png",
+      "bytes": 21404,
+      "sha256": "5a056d54a42432c5c3315faff29bba7df41811a0684c996d4453fa94af63f9d6"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/EPIC.png",
+      "bytes": 14710,
+      "sha256": "e4905d5b1e95aeec8147717c801e57a076b2e17ec4c3e038f324f0dc4f96a092"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Emby.png",
+      "bytes": 21826,
+      "sha256": "7a850f9096658cc9c76c82e14c12b527b7e8fc0a9b483885d1bca436fbd5f1a2"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/FCM_Firebase_Cloud_Messaging.png",
+      "bytes": 22897,
+      "sha256": "daa91353a58e396c1956fb91cd9621ad7df8cd99b56d0e938562728aab562fde"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Failover.png",
+      "bytes": 13857,
+      "sha256": "16c774212238ef68766101a02d95a0873fcf6515ff6109d8f8e071436c08f110"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Fast.png",
+      "bytes": 22995,
+      "sha256": "0872b4009dd35d22a1486175b34f8fb8a0b66c5c5a14f803c6bcd363475be21d"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Fish.png",
+      "bytes": 41746,
+      "sha256": "cc3cdd7275941fc4bbc785240359d69b40c44ecb9279970ffc2610ed8bd87b0b"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Fish_b.png",
+      "bytes": 47911,
+      "sha256": "53d852266ea8ae77a1be83241897a7f01233a9a5e695b1262574972f58cb1d9b"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Flight.png",
+      "bytes": 14834,
+      "sha256": "4019ee19aafbe27888c4c1505c4fcb07c094963b522bb31289039fb101ec4880"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Forbidden.png",
+      "bytes": 17532,
+      "sha256": "4356beb67cabd2a9ab5d645f9441793cfb63e13f39572e5442722ec31f0e07e9"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/GFW.png",
+      "bytes": 12428,
+      "sha256": "462a85a872785282eefe5f27bd5aa590e16872fad4f55f4f65c515edd5c45b28"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Game.png",
+      "bytes": 48192,
+      "sha256": "3052c738ac9e95c1d0a498638c62baf4478324770a6aaa8bbe7f0411ae327ee0"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Global.png",
+      "bytes": 18250,
+      "sha256": "178ee35c52399fe3794e598070b0137367974c80d034f3dc03acb723568d2440"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Globefish.png",
+      "bytes": 15103,
+      "sha256": "9ca557b53ff0a93bf0570a36eeadd93c9ed697b4dd72ac5819e44c482c2a7b29"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Home.png",
+      "bytes": 14964,
+      "sha256": "77f5f0db3ab684c9d67e6a1da23b34589307e1b3dc492bca4c1d301546cb7a51"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Hugging_face.png",
+      "bytes": 26314,
+      "sha256": "9f7c3227bcd5c907336de7d3e39afebc679b5c11be5826d17fcf27e5620606c7"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Hugging_face_g.png",
+      "bytes": 30623,
+      "sha256": "d664f5f38b99eb425338ed65880e38ca74e9c6104520db37c1a61351549541c0"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Hulu.png",
+      "bytes": 24428,
+      "sha256": "68cf908c8812e75b70238a123cacb37197c7f95ef0bc3bbed64aa776add5ee5f"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Jellyfin.png",
+      "bytes": 25102,
+      "sha256": "7c4a121473e4b69c73e91ae08423a93d0eb4ccbab45c4414c5b822454dfa651d"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Link.png",
+      "bytes": 23830,
+      "sha256": "54bd1dd7d1577aeabac3606356945a72f0bc87ddb41de21ed37821528ef88517"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Load_balancing.png",
+      "bytes": 18661,
+      "sha256": "9d229744afd957a78236b6c0816b91890b10907f233548cd4d881c61ab908f4a"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Load_balancing_2.png",
+      "bytes": 24730,
+      "sha256": "8cc2fdba69d3ae5da879ff3c51a03e30bf7d5275786d680b92e5fd5d430af2af"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Load_balancing_3.png",
+      "bytes": 12268,
+      "sha256": "e1520d8049ecf379ce553093c1ef51d70b8f576784c7f75a86a611c8093b5f7e"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Location.png",
+      "bytes": 23028,
+      "sha256": "dee597763d5286d744038ec2ccb0706b8c0a220bf9f7b3c71c06a5d57acd535d"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/MLB.png",
+      "bytes": 19796,
+      "sha256": "c9f7b6be4034bbff514c7d99426f57d843bbff9085dd5bbffa4d0960f7feb4b5"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Magic_Timer.png",
+      "bytes": 35301,
+      "sha256": "62b9fc18ec5fd1fd788ce0d479bbaa29edb1512c934ac513aece7dfc4ca9fd51"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Mail.png",
+      "bytes": 22254,
+      "sha256": "2804bbecd00d89681281fa734a194ac3f7ee6a33612d348779dbe53d150bf849"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Microsoft.png",
+      "bytes": 19745,
+      "sha256": "d236ee2e535193ca7dff27c72cc1dd245bfd07cbc7fde8a1353b998295d8ae4d"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Network.png",
+      "bytes": 33311,
+      "sha256": "400105e526e12c1839f43d9c608c1819ae848caef7ede1d18e512211ceaa602c"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Network_2.png",
+      "bytes": 38781,
+      "sha256": "a3cd08433bfc2c34cb48cf8f4250d405e0b603154e8aa2073b6b156af3a59ade"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Niche_Link.png",
+      "bytes": 22440,
+      "sha256": "52b97c7c62352c4e18e340e75a3017255a3814511d4ad621121c6e964b8fc41a"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Olympics.png",
+      "bytes": 20946,
+      "sha256": "f488fc648e18955362b328493e261fe442ad393fc4a57670fec5b22093627919"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Other.png",
+      "bytes": 32177,
+      "sha256": "2651dbd4ce539c1297ade909acb20e0f91cf5deaa74375c799fc8b85f3f69e3a"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Panda.png",
+      "bytes": 30424,
+      "sha256": "f4f9b6d4ba7be7d11e43e3de883c470a10bfb0971c7dcb9332150b94d85b4e6e"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Panda_ai.png",
+      "bytes": 10687,
+      "sha256": "6e28b553c1927c486a05c847c9e5f172cba99d142f83e1e8099d776f5c61b106"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Perplexity.png",
+      "bytes": 22552,
+      "sha256": "5d76cb842ccef3c9fa761b05dcfd75aa94cd9ce7d8dee3e775e3654002363d13"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Pig.png",
+      "bytes": 29957,
+      "sha256": "4cccc7bb88a02d7787f26093ab99c0ea59e523d29eb8bf998d2635e8574e8d84"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Piggies_b.png",
+      "bytes": 36857,
+      "sha256": "dfd95855a97f0fd5a1ba8e340e4baf0b5e2722b212391e3031445db746b4ac78"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Playstation.png",
+      "bytes": 19745,
+      "sha256": "b82165c07ea7df64d987dbec78787595ad8eaba3254a0e598a01adee3e5434c6"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Playstation_30th.png",
+      "bytes": 17443,
+      "sha256": "51fd73b1037e68254738161db6d7b6926f22a595becc828e39e8e64f43d3d063"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Playstation_remote.png",
+      "bytes": 22068,
+      "sha256": "513b529108ea7dae87ceba286d4cbbf7f8b683ec33fcc4f94bca436cedd1ec53"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Qoura.png",
+      "bytes": 15777,
+      "sha256": "e1a4fb1e5446584ef9c11c83b3da5a050726790360a2da687ccf3bef8cbf4bb6"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Remote.png",
+      "bytes": 12679,
+      "sha256": "fc6c8e630e51755afa99b42af74ebdada99c5bdab17e5d1c22267be4163acefb"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Round_Robin.png",
+      "bytes": 23807,
+      "sha256": "8d3180adc9c7a9e4e8c8e80b7eef7e4d81174ddb2e936cb6c2c41e219937f73b"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/SNS.png",
+      "bytes": 19604,
+      "sha256": "32a1b5a153b421155d9a33f2f876eea7fdc0dda740f5cddb5203c543d43ed9f1"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Server.png",
+      "bytes": 8526,
+      "sha256": "d17cf6b33e6cfea501f71c22ab825d389e4774b021df7d62c60f72121fc73ec8"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Settings.png",
+      "bytes": 15938,
+      "sha256": "cdb0abb1c662152dc18b7e710a18bf1dcf72ebf8dcb0df2f2a437fac12807e8d"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Signal_Light.png",
+      "bytes": 18968,
+      "sha256": "4f35ad02f0ba1c8697356fc5603c0160ef8c0dc86358a2b36bf2a3e60aea9dee"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Stream.png",
+      "bytes": 23107,
+      "sha256": "bb29e741d25a3ca8d1b1134879e0bd2bac5ee90f16c1f003cda90fee92442454"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Tick.png",
+      "bytes": 21801,
+      "sha256": "2f8d14345ab4bf2d2bdb1bda4f4ffdbb6f5a18c3264ea72124d6a3eff5439833"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Tick_2.png",
+      "bytes": 30641,
+      "sha256": "f9f8310cb33470b852d92a5c943a294d095a579d5ad029facf77b58c50c3764e"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Transfer.png",
+      "bytes": 19319,
+      "sha256": "c7b1117044c76cbe6bc78732f601f67a85f300f370911fa172925deb04bc1fa9"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/WhatsApp.png",
+      "bytes": 29183,
+      "sha256": "dcc8b094519facc184ab39fb570b8067894a592508781c5ff8a73fd345c15a42"
+    },
+    {
+      "path": "Sources/v3/references/baseline/default/Yin_Yang.png",
+      "bytes": 21436,
+      "sha256": "0b246483117835a273b2a8b6f137d9cf2809585f04784a17a4cc4000115ebbb5"
+    },
+    {
+      "path": "Sources/v3/references/geography-provenance.json",
+      "bytes": 794,
+      "sha256": "f12c2418228f8c7b98ac04f3d0a9090eba336f36771ca6311413398435993904"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/AI.svg",
+      "bytes": 1955,
+      "sha256": "85b458f9c49bbfaf798de8c579efcb1ecdf942ee97a62e7dc301ce89d0af88c4"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/AI_Tree.svg",
+      "bytes": 2607,
+      "sha256": "ed0346293f863370dca45834d7a68df46387edbfea49fea72e461632f7a503b8"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/AI_bot.svg",
+      "bytes": 1678,
+      "sha256": "c378842c397410e2fb35751ceac3b8e7ed88f94f9a5b872786e131a55c79203d"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/AI_voice.svg",
+      "bytes": 1566,
+      "sha256": "2318ab137c38ba69d9a1081297aa41749e3276c255d06620422b8428e810c87b"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/ASIA.svg",
+      "bytes": 2928,
+      "sha256": "8a1614602fe0cb1535bf7699a1e84aa9e34322fa973ce63807e2e10cb256df3f"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Adblock.svg",
+      "bytes": 1643,
+      "sha256": "cdde31ba80d50adecfdaf65267cf0c4778772e574033ac5a00b34d1dedb07470"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Auto_Link.svg",
+      "bytes": 1804,
+      "sha256": "91b5467eeaa60923cdd9866153261d04275418cb8d217db578e84bc7a979fc0f"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Chained.svg",
+      "bytes": 1823,
+      "sha256": "eebb3d9cbb43b659b4b9d6b6204b7b0c9f530ab850292bf9b84f5aeb12338acb"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Chained_2.svg",
+      "bytes": 1549,
+      "sha256": "0c25a2427dde4703e3f0782c9e47e07f35b3e73b9cef85458124f547a96ae8c9"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Consistent_Hashing.svg",
+      "bytes": 1582,
+      "sha256": "a4f8ed4427b5e3d2e296d8e09db92d238e0aa46c698b262a33fc79a474add713"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/DIRECT.svg",
+      "bytes": 1442,
+      "sha256": "752077ac64caac1919c54e66c428b96223fd2bc9e97d418a59ad526d385d7177"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Dolphin.svg",
+      "bytes": 1937,
+      "sha256": "9fb04fa49f4ff3fbee5d5d2859e7b129a4d8e248e887eedc3f5b2d13843efecb"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Download.svg",
+      "bytes": 1548,
+      "sha256": "6ac9e01f271ab2a5e5ecc833a8be596a0019d587f7d64c910e4c90c37071d369"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Download_2.svg",
+      "bytes": 1548,
+      "sha256": "155a5e30122dc7bb02d99b80082324eca2a73e2d2c3ff2c320864449b1067362"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Failover.svg",
+      "bytes": 1701,
+      "sha256": "04b7f81fd76aa09c82f52592be2c6198c3c691d40b926eb5603579b49bf4b3d2"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Fish.svg",
+      "bytes": 1695,
+      "sha256": "daa0371af77e88f0bf29a20d505f2dc1dc0bb2cb9e4431d99120d14470a20655"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Fish_b.svg",
+      "bytes": 1725,
+      "sha256": "a16aae8482db5a9e3aefb7fea8b2e36d1c2cb2d6f848c4ca4a85f34fb0200ea1"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Flight.svg",
+      "bytes": 1906,
+      "sha256": "c1be0d9d6601b4c9251f78710621f4c361635f27d07ec4814d013679f4abc286"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Forbidden.svg",
+      "bytes": 1416,
+      "sha256": "b136ac312fb094b7191da94b7b42653863281fc98791009ac59b8f2ec74e1bc8"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/GFW.svg",
+      "bytes": 1835,
+      "sha256": "972b277d9c89c674d1e70a338bd056f657dc068a9a6aefd07b39e017f65ed7d8"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Game.svg",
+      "bytes": 1806,
+      "sha256": "59611844c9bec4f6b23a5a9c9a415e895b0bd90692471f212d07c9b4e1029f17"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Global.svg",
+      "bytes": 2487,
+      "sha256": "95e0918155f971174d0d214a0c1ec42bc518844bac855bf167f80960c29862f3"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Globefish.svg",
+      "bytes": 2119,
+      "sha256": "8ee393a4f07479b2fedce8302a2f9c137d5e27668d2f305cbb1cd46a4083181c"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Home.svg",
+      "bytes": 1607,
+      "sha256": "0100da57bcb197866d47721f0e00d0e37939d367f38b47758740dc3e51dd4e1d"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Link.svg",
+      "bytes": 1549,
+      "sha256": "bd3fc6cc6f4438bf5ef0489b54e2c4dd60bb41635a79b0362eb0452085c58538"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Load_balancing.svg",
+      "bytes": 1711,
+      "sha256": "ccad5fd89744e6313ca05c6a1447973eecb3dc2d68719e11edf33a75c7b86de6"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Load_balancing_2.svg",
+      "bytes": 1715,
+      "sha256": "2ed45d18250962d334236aaf523e2044de61f147090840ef6f8390bef25c29d7"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Load_balancing_3.svg",
+      "bytes": 1711,
+      "sha256": "93c264f5b9e77d8f41200fa3f8a9ed2747a65d4269d4e21dd370a742dfb888f5"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Location.svg",
+      "bytes": 1585,
+      "sha256": "8a7372007e84794e6aa1fe13fe178d31598f0e086dae44411d3079d6c4876738"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Magic_Timer.svg",
+      "bytes": 1598,
+      "sha256": "7323c39e2582aafd1d4506861a6034dfc4715f213109335139718f3a668ed749"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Mail.svg",
+      "bytes": 1603,
+      "sha256": "f5aaa5704db1e25c26a80017950ba8c0f0c4e8aa13215460171da45e09bc9dc6"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Network.svg",
+      "bytes": 1505,
+      "sha256": "548632d27c1159f2b1f444790a3b399eb7d70ec7297647ed597d0024991b2b61"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Network_2.svg",
+      "bytes": 2733,
+      "sha256": "e1b0892b3174665f191c36eae2b4429a5f46690a86f886eb8d0c5a082e21af7e"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Niche_Link.svg",
+      "bytes": 1549,
+      "sha256": "38554fa60c051fa512ece72849c0fcd4b796ed9160f34b9cd6a2ccccc069965a"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Other.svg",
+      "bytes": 1360,
+      "sha256": "910931e680e1da8bc6136d52ea71270e9300dd9ef7b83982c194d8fdfb5fd57b"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Panda.svg",
+      "bytes": 1921,
+      "sha256": "ef398b64a024afbe8bdb311f8994d51950ab7bcdbadf5b715227d0875f15b398"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Panda_ai.svg",
+      "bytes": 2083,
+      "sha256": "e2f50dddd9d0a69c49c4dc9b5fa3fe0e404c8f016d4c9b2a31cf71b516e1e629"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Pig.svg",
+      "bytes": 1891,
+      "sha256": "173e59996d671f3ebad72230645a49f24935aee4f65283db7bd4be9efc1ec495"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Remote.svg",
+      "bytes": 2003,
+      "sha256": "a91b8491f1d5619c768cd8b16cabb5570f9319fd77f291c2ebcfd4993c6b3688"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Round_Robin.svg",
+      "bytes": 1537,
+      "sha256": "e41dd72204529b791429c7633b706f614f0758b02cb46a2178a1bd373a310534"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/SNS.svg",
+      "bytes": 1602,
+      "sha256": "0672f2b7c2b23912e37f68739dc4087fc689f95968f32fdbaa191985d9f3fc3f"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Server.svg",
+      "bytes": 1929,
+      "sha256": "eb685379218f5ee96b0bc62955560aaaba255f69007920f9bf6b6df84e3aefaf"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Settings.svg",
+      "bytes": 2327,
+      "sha256": "0939fae81a9b2cef527f2cbe68ccca4c4f552c02d2653c0c9d5605a688044997"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Signal_Light.svg",
+      "bytes": 1606,
+      "sha256": "d220e3dfdd5c5f35730a1a768f3fc785e92153cc1c6a361fe3e01c6be19a02da"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Stream.svg",
+      "bytes": 1392,
+      "sha256": "6272faa40c852406c21119fbbbfa2c722ce4518092f706fe0b40189c98944547"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Tick.svg",
+      "bytes": 1343,
+      "sha256": "2ed4f019e345b6c00228dd1ef5709cfabfb06719cdea278c123d40bab8c6f482"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Tick_2.svg",
+      "bytes": 1426,
+      "sha256": "47e807de2f4874944e680153c521143e2c81d387d7a67ff8e6a4d8f1639d2043"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Transfer.svg",
+      "bytes": 1494,
+      "sha256": "7e6f7a5a9605ed4cfcf1638ca56ca71bca7c102ee0a18e2462ca4fdc64d9659a"
+    },
+    {
+      "path": "Sources/v3/references/original-white-geometry/Yin_Yang.svg",
+      "bytes": 1664,
+      "sha256": "c4afe862b41bb288b9c3b7f7e25a7fc529f50553bf249fbfd7f13e6c1e4eccca"
+    },
+    {
+      "path": "Sources/v3/render-manifest.json",
+      "bytes": 77196,
+      "sha256": "979392fe46ce6dc0484dbef99482c451c06fcc1d29f27cb50b11d1979971c66e"
+    },
+    {
+      "path": "Sources/v3/render.cjs",
+      "bytes": 380,
+      "sha256": "8e59f8161da72954190db8cd3d664272ab8f1ba203e878733fb7366f70f6517d"
+    },
+    {
+      "path": "Sources/v3/requirements.txt",
+      "bytes": 28,
+      "sha256": "c7ce8e2a5e2be1fac6b874893f9ce61ff6bd9d4f0b041f3e047c1ab5a9e1753f"
+    },
+    {
+      "path": "Sources/v3/shadow_proof.py",
+      "bytes": 1564,
+      "sha256": "c8a8a3e0e3d4e28ac4369f665892933e7e9b0a3f76d846154e993874ef089a70"
+    },
+    {
+      "path": "Sources/v3/svg/AI.svg",
+      "bytes": 2852,
+      "sha256": "b665952d97a4bb7a6ae719169db74b7389427b40fb15ac2b4c2bd0dd79544f36"
+    },
+    {
+      "path": "Sources/v3/svg/AI_Tree.svg",
+      "bytes": 3364,
+      "sha256": "751123935aa86a34f2c823dfbee905b1026131c3c5264e9e209a1e992b819b87"
+    },
+    {
+      "path": "Sources/v3/svg/AI_bot.svg",
+      "bytes": 2575,
+      "sha256": "afe8b818a6885f2ce6c70b67d58585cabd8b5911f8267728979e0753d9d4e462"
+    },
+    {
+      "path": "Sources/v3/svg/AI_voice.svg",
+      "bytes": 2468,
+      "sha256": "b2cb52e813c0158474f210b7ecea11d2e1d5645dc67baa3de06d70cf2f21d139"
+    },
+    {
+      "path": "Sources/v3/svg/ASIA.svg",
+      "bytes": 3825,
+      "sha256": "b6ad0c192c350d2c93f8aa0ef0d5a522c3f4447de104461776cfa8d78585f8b6"
+    },
+    {
+      "path": "Sources/v3/svg/Adblock.svg",
+      "bytes": 2516,
+      "sha256": "953266b69d1b69f5d3f55072f91f8841bb83e3d69dca26fd1622d73765ea24e3"
+    },
+    {
+      "path": "Sources/v3/svg/Auto_Link.svg",
+      "bytes": 2701,
+      "sha256": "8ed828aea5132e682715f23caa22127842c8f00495e0c79f98290d57b640c55b"
+    },
+    {
+      "path": "Sources/v3/svg/Bahamut.svg",
+      "bytes": 17861,
+      "sha256": "81487f68d0b2b13b309e81efb59bff03377a33942ffbe6497dcdf917c9d5a73e"
+    },
+    {
+      "path": "Sources/v3/svg/Bahamut_b.svg",
+      "bytes": 11205,
+      "sha256": "9eba694bd076561000e493881152c168ad6763acd61938379f1dd36a19972c40"
+    },
+    {
+      "path": "Sources/v3/svg/Bahamut_i.svg",
+      "bytes": 7653,
+      "sha256": "0e98944acfc3f18bbcc1a7f200475622bc10cf9042df324ae9327708cf901365"
+    },
+    {
+      "path": "Sources/v3/svg/Chained.svg",
+      "bytes": 2720,
+      "sha256": "3a329822b07ce0c419d158ebd7e6f82c44af6842cf530ee688d0b9028e1e0086"
+    },
+    {
+      "path": "Sources/v3/svg/Chained_2.svg",
+      "bytes": 2446,
+      "sha256": "eb855bf85dd23abb8e5c8a39eb641099ed4a8b270190e513bdc203f7446bbbb7"
+    },
+    {
+      "path": "Sources/v3/svg/Consistent_Hashing.svg",
+      "bytes": 2479,
+      "sha256": "4ec8caddf5890c610e3bcbc3ad8f26cbe7dbe984c073b6abaa5e74dfaf2096b8"
+    },
+    {
+      "path": "Sources/v3/svg/DIRECT.svg",
+      "bytes": 2339,
+      "sha256": "537e1848d45bc43064c7268667b60654d9a57a12b223222451b349a9e88a94ef"
+    },
+    {
+      "path": "Sources/v3/svg/Disney_Castle.svg",
+      "bytes": 13229,
+      "sha256": "b038a5e270200d99f5e6ec2905457b1e3d5808d757ac3b64c185df6174b78280"
+    },
+    {
+      "path": "Sources/v3/svg/Dolphin.svg",
+      "bytes": 2881,
+      "sha256": "0f4d67f1efb95d8134e550cffa1e707916c85e84fa85ea6a6cde6b9ebf95686c"
+    },
+    {
+      "path": "Sources/v3/svg/Download.svg",
+      "bytes": 2446,
+      "sha256": "816c8d8afff45dacdbcf7404ff5d453e82d970e7eb8de31237b627e5637f9882"
+    },
+    {
+      "path": "Sources/v3/svg/Download_2.svg",
+      "bytes": 2446,
+      "sha256": "816c8d8afff45dacdbcf7404ff5d453e82d970e7eb8de31237b627e5637f9882"
+    },
+    {
+      "path": "Sources/v3/svg/Failover.svg",
+      "bytes": 2598,
+      "sha256": "f48de1a4fa593e5b033f3a0937f0967a737c9c7d2fd78ef13ebbea65d6cacd40"
+    },
+    {
+      "path": "Sources/v3/svg/Fish.svg",
+      "bytes": 2669,
+      "sha256": "f9d6d12d8c5f5bf7d46ba4adccd0d01dd760600c2a88ef991a14c4225e9cae84"
+    },
+    {
+      "path": "Sources/v3/svg/Fish_b.svg",
+      "bytes": 2665,
+      "sha256": "f93b2bfca64ef277f36c0b928ed287bb0ca712bea6ae93681de117b208c5b00b"
+    },
+    {
+      "path": "Sources/v3/svg/Flight.svg",
+      "bytes": 2804,
+      "sha256": "2975ad42e4a794c0fb3aa768175afd6b24a3ec568a8f37a95281c24b0bac295b"
+    },
+    {
+      "path": "Sources/v3/svg/Forbidden.svg",
+      "bytes": 2289,
+      "sha256": "8ba0c9dbf9a69f6ea73d3e3d4438d0b59a0df752183721d0ab6ecd41f7f6e003"
+    },
+    {
+      "path": "Sources/v3/svg/GFW.svg",
+      "bytes": 2712,
+      "sha256": "27d6bc25356f9dadc3d0849d714ffde11bc5033e0b59fc84d48ab17677968202"
+    },
+    {
+      "path": "Sources/v3/svg/Game.svg",
+      "bytes": 2704,
+      "sha256": "ea0d41a2d5e4d94f09d8e9107cf5f87d84148633a9819b1f09b08d14de4e0244"
+    },
+    {
+      "path": "Sources/v3/svg/Global.svg",
+      "bytes": 3384,
+      "sha256": "ab107d3cef7aaa044fb94e99c68c38c03aab2bfcb651fd0218d22b62f75d7189"
+    },
+    {
+      "path": "Sources/v3/svg/Globefish.svg",
+      "bytes": 3059,
+      "sha256": "339633418a44cf92bdfb4c3bdc2180ac50c226e1e46ae2491aeae1944b215066"
+    },
+    {
+      "path": "Sources/v3/svg/Home.svg",
+      "bytes": 2480,
+      "sha256": "a809234877ac80a019bbadb3b66a7f5b8750eb7babdb08e64029ce4a8a40272a"
+    },
+    {
+      "path": "Sources/v3/svg/Link.svg",
+      "bytes": 2447,
+      "sha256": "44a91356b4e6420069b5c6a31faf7f733396e36d7ae9add522e98568dc622f3d"
+    },
+    {
+      "path": "Sources/v3/svg/Load_balancing.svg",
+      "bytes": 2612,
+      "sha256": "b94c6e0429eeab4daf9577056f32cce06778bc3e5434bad4dda5bd88f9c12e95"
+    },
+    {
+      "path": "Sources/v3/svg/Load_balancing_2.svg",
+      "bytes": 2612,
+      "sha256": "b94c6e0429eeab4daf9577056f32cce06778bc3e5434bad4dda5bd88f9c12e95"
+    },
+    {
+      "path": "Sources/v3/svg/Load_balancing_3.svg",
+      "bytes": 2612,
+      "sha256": "b94c6e0429eeab4daf9577056f32cce06778bc3e5434bad4dda5bd88f9c12e95"
+    },
+    {
+      "path": "Sources/v3/svg/Location.svg",
+      "bytes": 2483,
+      "sha256": "7bc80782a71baba1c3267b679765651c9459c6f35a9362e079090148008fb2c6"
+    },
+    {
+      "path": "Sources/v3/svg/Magic_Timer.svg",
+      "bytes": 2471,
+      "sha256": "50d80014395e196327235b6c3afe67c7f1f3551ff9b34a42334cf5a0dfc568e2"
+    },
+    {
+      "path": "Sources/v3/svg/Mail.svg",
+      "bytes": 2500,
+      "sha256": "fb4091a60851f6269da692a94c7002744deef53d2bdf539dc7f323c0df91ea70"
+    },
+    {
+      "path": "Sources/v3/svg/Network.svg",
+      "bytes": 2401,
+      "sha256": "32646fc2d5b7c83e41d4813855ca01e91b661a3d380217ce39241b93e184b77b"
+    },
+    {
+      "path": "Sources/v3/svg/Network_2.svg",
+      "bytes": 3630,
+      "sha256": "5220c9a3404d597c0140d0499056de612d5ecf075ce3b98ceeae326415931c15"
+    },
+    {
+      "path": "Sources/v3/svg/Niche_Link.svg",
+      "bytes": 2446,
+      "sha256": "eb855bf85dd23abb8e5c8a39eb641099ed4a8b270190e513bdc203f7446bbbb7"
+    },
+    {
+      "path": "Sources/v3/svg/Other.svg",
+      "bytes": 2234,
+      "sha256": "aea89aec6a956ac086487f3b72fb16b32efcf615b375f2266c1dbc92a650bf3c"
+    },
+    {
+      "path": "Sources/v3/svg/Panda.svg",
+      "bytes": 2865,
+      "sha256": "fb4d35a78f243003287b56775b32e9f795a3009d636496c0fa5f528cb8083380"
+    },
+    {
+      "path": "Sources/v3/svg/Panda_ai.svg",
+      "bytes": 3024,
+      "sha256": "76b3e6567192e9e86e8f6304ba26a0cc2882961e36a551c390cf604f1278ab8c"
+    },
+    {
+      "path": "Sources/v3/svg/Pig.svg",
+      "bytes": 2831,
+      "sha256": "63689507bcf4151c294e44d9750bf8249e3286969d7c1a742d6a04d6a8e4840b"
+    },
+    {
+      "path": "Sources/v3/svg/Remote.svg",
+      "bytes": 2876,
+      "sha256": "75e85a3dca1ea12adef50022a81ed7a91e97376feca893a4ad5d9b0c5b612d30"
+    },
+    {
+      "path": "Sources/v3/svg/Round_Robin.svg",
+      "bytes": 2434,
+      "sha256": "bad44ded4ac2fe929af7b3cfa7ad63b4fd823978a2849072c28f43024dcb7488"
+    },
+    {
+      "path": "Sources/v3/svg/SNS.svg",
+      "bytes": 2499,
+      "sha256": "ae9b3e0d43ebe008b1daa03cf1ae4685a1604ec64aca5801cf6f7621a9c544a5"
+    },
+    {
+      "path": "Sources/v3/svg/Server.svg",
+      "bytes": 2802,
+      "sha256": "c22bd46efa071aae544d53351a09ad85ac70d61d26b0f386d9a6d06ca608f382"
+    },
+    {
+      "path": "Sources/v3/svg/Settings.svg",
+      "bytes": 3200,
+      "sha256": "cc13ee273ebaf2424506eaba752e64ffd4f25fbfebff74b707e7ad00a2eaed84"
+    },
+    {
+      "path": "Sources/v3/svg/Signal_Light.svg",
+      "bytes": 2483,
+      "sha256": "79aad7a9155251999d7f448e6342bf5dfb322cfc944184a21b3a83e76194d4fe"
+    },
+    {
+      "path": "Sources/v3/svg/Stream.svg",
+      "bytes": 2290,
+      "sha256": "145f23439285880e688d7e49f768ac32cc1004f4d2dc439d27298f942b79b1e5"
+    },
+    {
+      "path": "Sources/v3/svg/Tick.svg",
+      "bytes": 2216,
+      "sha256": "6ac6aa05b46182583e3eaca9065fdedf4a132bcbea97e8c1bd5421facc609b6c"
+    },
+    {
+      "path": "Sources/v3/svg/Tick_2.svg",
+      "bytes": 2299,
+      "sha256": "939aaeb6e9341ed3cf5b67d1f836960f305777335bff61a822c1ca6e197fe7a0"
+    },
+    {
+      "path": "Sources/v3/svg/Transfer.svg",
+      "bytes": 2392,
+      "sha256": "6ee65eaba7a09c4baa847fcf1acbe00630770a611b5b0d4ad5d63dc04b37bcb8"
+    },
+    {
+      "path": "Sources/v3/svg/Yin_Yang.svg",
+      "bytes": 2537,
+      "sha256": "47e319c00e86a2e7c1b91ec6d36dfab98290ce70b5c573f0b28430bd3d69c9ef"
+    },
+    {
+      "path": "Sources/v3/validate_inverse.py",
+      "bytes": 1508,
+      "sha256": "5604c28606a00ed25e1a3b47d02dd4ba608091416aa6a7fddfa1af5c1986820b"
+    }
+  ]
+}

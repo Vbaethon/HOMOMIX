@@ -1,0 +1,3478 @@
+{
+  "counts": {
+    "canonical_reviewed": 174,
+    "updated_names": 53,
+    "retained_names": 121,
+    "changed_png": 106,
+    "inverse_generic": 49,
+    "preserved_theme_exceptions": 4
+  },
+  "items": [
+    {
+      "name": "AI",
+      "paths": [
+        "Icon/Color/AI.png",
+        "Icon/Color/Large/AI.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/AI.png",
+        "Icon/Color/Large/AI.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/AI.png": "8814739171eedb187ddba7dd5100951001c355fe01d18e6ef014c4ce19007940",
+        "Icon/Color/Large/AI.png": "46c4bc758673058bc5036dbafa6d0fd14b9b90819b2861486b1eb6ef65de88da"
+      },
+      "final_sha256": {
+        "Icon/Color/AI.png": "3622eadec3683e16859a2c2ae62c06c27847335cbbc5b97b9ffdac3b0fa0f0a0",
+        "Icon/Color/Large/AI.png": "9d748d9070e1a3589589e70b0cca185cac3e5a79b27254d602a5ab42f7a2a24a"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "AI_Tree",
+      "paths": [
+        "Icon/Color/AI_Tree.png",
+        "Icon/Color/Large/AI_Tree.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/AI_Tree.png",
+        "Icon/Color/Large/AI_Tree.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/AI_Tree.png": "2813944c16eec4625b4c03a615a40842c935e43fda8e3233f0a89f9ede2f1437",
+        "Icon/Color/Large/AI_Tree.png": "e5268568d2f424ba73f5bc695b696c9858920df455347cb98b013e0bd24cf601"
+      },
+      "final_sha256": {
+        "Icon/Color/AI_Tree.png": "67e8151adc84397b747f4aa3f4bdaedbb6f3396a34a466fcc155de0d6137af92",
+        "Icon/Color/Large/AI_Tree.png": "4715929c256c333d9b0ac08d8cc5e91a2e7e748c17662f03db252d8e4f23b594"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "AI_bot",
+      "paths": [
+        "Icon/Color/AI_bot.png",
+        "Icon/Color/Large/AI_bot.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/AI_bot.png",
+        "Icon/Color/Large/AI_bot.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/AI_bot.png": "0e1a86cf83b79b228646c971b344027100fc4173871e7844a6b6145cc7b8f76b",
+        "Icon/Color/Large/AI_bot.png": "a916684d9a9a9ad8508199af25971fc201371b7187b0e5651512626c360969bb"
+      },
+      "final_sha256": {
+        "Icon/Color/AI_bot.png": "85f84df5f3ba7ef75ffbaaed7c8f04c7651ebea5ff4a97e904058d4ea5f8f7cd",
+        "Icon/Color/Large/AI_bot.png": "8117aa6d2896f2d9f817bcbc1e125877cbcab374ce3792379a14d3aa1ece285f"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "AI_voice",
+      "paths": [
+        "Icon/Color/AI_voice.png",
+        "Icon/Color/Large/AI_voice.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/AI_voice.png",
+        "Icon/Color/Large/AI_voice.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/AI_voice.png": "b595ee53b3110dd71f95a6221c9fb5e33a064657d169e3c2d28f23a8d8525d20",
+        "Icon/Color/Large/AI_voice.png": "fc1f13ab09cb2a1010e62b8fe270189617e574a40a147b419728ae91741d5e9a"
+      },
+      "final_sha256": {
+        "Icon/Color/AI_voice.png": "b50238856091faad5f39c2339d6b829848d450d64e5eda082650300ee74bb2d2",
+        "Icon/Color/Large/AI_voice.png": "aa8a3c2dee2d3aff5093bc58d49610badf198c4780c7ee053c19587f576231d1"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "ASIA",
+      "paths": [
+        "Icon/Color/ASIA.png",
+        "Icon/Color/Large/ASIA.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/ASIA.png",
+        "Icon/Color/Large/ASIA.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/ASIA.png": "6963dbaf98109182f969e8e7ae1de3aab2d646e7dd92833b43475cd2a2404981",
+        "Icon/Color/Large/ASIA.png": "495d6d34b33b7446609af9acdfa23b2db7c57fdd0a8a52aff6b1eb7535bb789e"
+      },
+      "final_sha256": {
+        "Icon/Color/ASIA.png": "39a425774ad701f65fcaac05be2a9cf6b7eee765dd679213e38cc514c29bd490",
+        "Icon/Color/Large/ASIA.png": "d2e395f44aa0767cc6a3158535bc494114668490716185b53680eabec82385c0"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Adblock",
+      "paths": [
+        "Icon/Color/Adblock.png",
+        "Icon/Color/Large/Adblock.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Adblock.png",
+        "Icon/Color/Large/Adblock.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Adblock.png": "8c928f93f7a0a244e7364bc5e71f5c8c99da335bdbb005f1f4af20e45ce8ef6f",
+        "Icon/Color/Large/Adblock.png": "108b0069c43ccd61501671047ef5dcd77a2ac11c5c4257a2365fd7c12edf35fd"
+      },
+      "final_sha256": {
+        "Icon/Color/Adblock.png": "a0d3542ee7a7f0ba55f4e1effdf243103aa30559325cebd5d15eac85f4e794f1",
+        "Icon/Color/Large/Adblock.png": "5929ae35d6e20606826f74ddbe8dd5c67de77d3b87275934740515a8856fca5a"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "AdblockPlus",
+      "paths": [
+        "Icon/Color/AdblockPlus.png",
+        "Icon/Color/Large/AdblockPlus.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/AdblockPlus.png": "4010c1b816a3caae7d2a4db756ec406c212ba5c0702565392df924ef435845ed",
+        "Icon/Color/Large/AdblockPlus.png": "d85db236ea65a8df4813881f160ed6ce4eadbcfd4751e3ae1ccbb0391389969b"
+      },
+      "final_sha256": {
+        "Icon/Color/AdblockPlus.png": "4010c1b816a3caae7d2a4db756ec406c212ba5c0702565392df924ef435845ed",
+        "Icon/Color/Large/AdblockPlus.png": "d85db236ea65a8df4813881f160ed6ce4eadbcfd4751e3ae1ccbb0391389969b"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "AdblockPlus_2",
+      "paths": [
+        "Icon/Color/AdblockPlus_2.png",
+        "Icon/Color/Large/AdblockPlus_2.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/AdblockPlus_2.png": "13a917f278215f6e2a6feb975550a91b78f6d34113f5c8c0b36d27cf973ee6b9",
+        "Icon/Color/Large/AdblockPlus_2.png": "da0a8339bd5eece525473be15076ebc38fb3e03e55899499fdd447ccc6a91a7f"
+      },
+      "final_sha256": {
+        "Icon/Color/AdblockPlus_2.png": "13a917f278215f6e2a6feb975550a91b78f6d34113f5c8c0b36d27cf973ee6b9",
+        "Icon/Color/Large/AdblockPlus_2.png": "da0a8339bd5eece525473be15076ebc38fb3e03e55899499fdd447ccc6a91a7f"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Adguard",
+      "paths": [
+        "Icon/Color/Adguard.png",
+        "Icon/Color/Large/Adguard.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Adguard.png": "8e3ec4ffa1e3ca994f3c0a1613dca4b5cc5872fe8ef02b5f9054cfe55aedef66",
+        "Icon/Color/Large/Adguard.png": "bdbbfd33323f10317179488ee7fcbe6ff5cebb86b3926a9bf141de9c1391d8af"
+      },
+      "final_sha256": {
+        "Icon/Color/Adguard.png": "8e3ec4ffa1e3ca994f3c0a1613dca4b5cc5872fe8ef02b5f9054cfe55aedef66",
+        "Icon/Color/Large/Adguard.png": "bdbbfd33323f10317179488ee7fcbe6ff5cebb86b3926a9bf141de9c1391d8af"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Adobe",
+      "paths": [
+        "Icon/Color/Adobe.png",
+        "Icon/Color/Large/Adobe.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Adobe.png": "dc001d84a9ac7803aa491a7c3052aa239d163110d259d2dd289245ce8ae540fb",
+        "Icon/Color/Large/Adobe.png": "4803a7e76d499e3b0ff84260028ea3fc48e9faa7f8eeae316b33277762ae3bf4"
+      },
+      "final_sha256": {
+        "Icon/Color/Adobe.png": "dc001d84a9ac7803aa491a7c3052aa239d163110d259d2dd289245ce8ae540fb",
+        "Icon/Color/Large/Adobe.png": "4803a7e76d499e3b0ff84260028ea3fc48e9faa7f8eeae316b33277762ae3bf4"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Amazon",
+      "paths": [
+        "Icon/Color/Amazon.png",
+        "Icon/Color/Large/Amazon.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Amazon.png": "f8655f404d678301a50dd2c632839a1f2e8332e4d8d446e770e2bc7e0fb8acbd",
+        "Icon/Color/Large/Amazon.png": "68e5bb4f004836c6cc50018c47df3e4cae5c6dc0e3509875852fd28a150132b7"
+      },
+      "final_sha256": {
+        "Icon/Color/Amazon.png": "f8655f404d678301a50dd2c632839a1f2e8332e4d8d446e770e2bc7e0fb8acbd",
+        "Icon/Color/Large/Amazon.png": "68e5bb4f004836c6cc50018c47df3e4cae5c6dc0e3509875852fd28a150132b7"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Apple",
+      "paths": [
+        "Icon/Color/Apple.png",
+        "Icon/Color/Large/Apple.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Apple.png": "73dc37a1559491105a14bb87f3bd1f8a0fd287d39ebfef114eacb70941ea6cc7",
+        "Icon/Color/Large/Apple.png": "091792874d504b2294010666da3a4afdb736108360279750e141e1282df45266"
+      },
+      "final_sha256": {
+        "Icon/Color/Apple.png": "73dc37a1559491105a14bb87f3bd1f8a0fd287d39ebfef114eacb70941ea6cc7",
+        "Icon/Color/Large/Apple.png": "091792874d504b2294010666da3a4afdb736108360279750e141e1282df45266"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Apple_TV",
+      "paths": [
+        "Icon/Color/Apple_TV.png",
+        "Icon/Color/Large/Apple_TV.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Apple_TV.png": "e79cd447ba8ebbefcfce9b8c53c9210ac961e48c23594bdb76f01b41e3ee208c",
+        "Icon/Color/Large/Apple_TV.png": "9f12d8176c1fa0b431a879738255978dda7bad63d932930470eb88021485ab80"
+      },
+      "final_sha256": {
+        "Icon/Color/Apple_TV.png": "e79cd447ba8ebbefcfce9b8c53c9210ac961e48c23594bdb76f01b41e3ee208c",
+        "Icon/Color/Large/Apple_TV.png": "9f12d8176c1fa0b431a879738255978dda7bad63d932930470eb88021485ab80"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Apple_black",
+      "paths": [
+        "Icon/Color/Apple_black.png",
+        "Icon/Color/Large/Apple_black.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Apple_black.png": "e3b4be0020ba7b5586f14b0ab505d87e909500a700fe27d0fd3ab6a61c51c4cb",
+        "Icon/Color/Large/Apple_black.png": "250ee15b593b68097a35353423a9a2f1597c72027de7b492f6de238b6b8c1fa4"
+      },
+      "final_sha256": {
+        "Icon/Color/Apple_black.png": "e3b4be0020ba7b5586f14b0ab505d87e909500a700fe27d0fd3ab6a61c51c4cb",
+        "Icon/Color/Large/Apple_black.png": "250ee15b593b68097a35353423a9a2f1597c72027de7b492f6de238b6b8c1fa4"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Apple_rainbow",
+      "paths": [
+        "Icon/Color/Apple_rainbow.png",
+        "Icon/Color/Large/Apple_rainbow.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Apple_rainbow.png": "ee5bb3eac574f074adb8af6f4a6c0da8251cb0ba5de7275a4926651ddc7fce3c",
+        "Icon/Color/Large/Apple_rainbow.png": "9754e0a9a231036c7772850aede5d69d4ddd622b8c239f9259368d392183c4d6"
+      },
+      "final_sha256": {
+        "Icon/Color/Apple_rainbow.png": "ee5bb3eac574f074adb8af6f4a6c0da8251cb0ba5de7275a4926651ddc7fce3c",
+        "Icon/Color/Large/Apple_rainbow.png": "9754e0a9a231036c7772850aede5d69d4ddd622b8c239f9259368d392183c4d6"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Auto_Link",
+      "paths": [
+        "Icon/Color/Auto_Link.png",
+        "Icon/Color/Large/Auto_Link.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Auto_Link.png",
+        "Icon/Color/Large/Auto_Link.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Auto_Link.png": "9edd2d3ede1541a5dbe84bf09d581818f875a3f29208f6b1e68a1e674ca18e72",
+        "Icon/Color/Large/Auto_Link.png": "24b6ef5898e8cade4579c8d7a6d5d2e017c68458a0e13a7bdacefa97b16401d9"
+      },
+      "final_sha256": {
+        "Icon/Color/Auto_Link.png": "72c55f64098c77162e8fc801c48577ae55adafa4edbd230f0a0ed76d4893645d",
+        "Icon/Color/Large/Auto_Link.png": "24625f237562d6b86841a0892cb29ac1b342b4d71fd7184644bee2ccf2c874c1"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "BT_Bittorrent",
+      "paths": [
+        "Icon/Color/BT_Bittorrent.png",
+        "Icon/Color/Large/BT_Bittorrent.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/BT_Bittorrent.png": "abb71fba05282a597a8b8b6e846c948288738fd6e033670465ae0fd2842d0600",
+        "Icon/Color/Large/BT_Bittorrent.png": "9ad28aa5dc4fc76cdf5b4cbc857d1facf10ed914d09fdb2e89d7a43b8847df60"
+      },
+      "final_sha256": {
+        "Icon/Color/BT_Bittorrent.png": "abb71fba05282a597a8b8b6e846c948288738fd6e033670465ae0fd2842d0600",
+        "Icon/Color/Large/BT_Bittorrent.png": "9ad28aa5dc4fc76cdf5b4cbc857d1facf10ed914d09fdb2e89d7a43b8847df60"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Bahamut",
+      "paths": [
+        "Icon/Color/Bahamut.png",
+        "Icon/Color/Large/Bahamut.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Bahamut.png",
+        "Icon/Color/Large/Bahamut.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Bahamut.png": "2b568aedcdeab6b6b83569ed460a50c78216f78490bd4e8aa4ea2746b001c47a",
+        "Icon/Color/Large/Bahamut.png": "de0366952229d9b889fa8b94cdfc3ea4cba45dd1d1d0cd6c1896898ced6b4434"
+      },
+      "final_sha256": {
+        "Icon/Color/Bahamut.png": "828a6aac6867c494c1d7e678b55231249d89871ea5535685b76adf41b8e82f17",
+        "Icon/Color/Large/Bahamut.png": "887ae95775c167aec3dc3e10136f2a35d7612b7d19484deef366d2f4d645eedf"
+      },
+      "reason": "Preserve earlier expressly approved compact visible-dragon/scale correction; no monochrome brand redesign",
+      "category": "preserved_approved_theme_exception"
+    },
+    {
+      "name": "Bahamut_b",
+      "paths": [
+        "Icon/Color/Bahamut_b.png",
+        "Icon/Color/Large/Bahamut_b.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Bahamut_b.png",
+        "Icon/Color/Large/Bahamut_b.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Bahamut_b.png": "3f78c0b8c958e03d5b07989eb69f65c27bf9f71ea8345cbbdc93e0fc5aafd7c2",
+        "Icon/Color/Large/Bahamut_b.png": "409e43c6dfe6cd76b631127b205fad8f2eb425444ea1136c6539cd7c8a9019f9"
+      },
+      "final_sha256": {
+        "Icon/Color/Bahamut_b.png": "0483e06e6429055aa86239a78fe5604b01500e686006b553257a90fce28272cf",
+        "Icon/Color/Large/Bahamut_b.png": "190c3939ea121077564fd7e9527ac87e2c9f48dcd323f3446a1388fa4c04e239"
+      },
+      "reason": "Preserve earlier expressly approved compact visible-dragon/scale correction; no monochrome brand redesign",
+      "category": "preserved_approved_theme_exception"
+    },
+    {
+      "name": "Bahamut_i",
+      "paths": [
+        "Icon/Color/Bahamut_i.png",
+        "Icon/Color/Large/Bahamut_i.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Bahamut_i.png",
+        "Icon/Color/Large/Bahamut_i.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Bahamut_i.png": "7380bb70c1d75234d899d78cdfc492888942f521f70e1cc4b34c94808ecfdd38",
+        "Icon/Color/Large/Bahamut_i.png": "d08ec60af752837c88aad0916ecd5c84c6d74e03c8f358c581c025b58f44fe26"
+      },
+      "final_sha256": {
+        "Icon/Color/Bahamut_i.png": "e32a5ab976ce7b52a6c7f963e6b6afa0a806527ab18ebf9f65859b290fbc297e",
+        "Icon/Color/Large/Bahamut_i.png": "3831326e1d5215bc1c7bfeba3a61d868bd65c1056ef059c40bde06b982501653"
+      },
+      "reason": "Preserve earlier expressly approved compact visible-dragon/scale correction; no monochrome brand redesign",
+      "category": "preserved_approved_theme_exception"
+    },
+    {
+      "name": "Bilibili_Global",
+      "paths": [
+        "Icon/Color/Bilibili_Global.png",
+        "Icon/Color/Large/Bilibili_Global.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Bilibili_Global.png": "320ec8c7e1a49430a2f28162246c8dc87dd2a4167300f779ca5591ad8f44e9e6",
+        "Icon/Color/Large/Bilibili_Global.png": "c131f5df37fbc142bd6b44ca6b781c96fc4f6b3381d35aaf8dd51b2cb81e2e13"
+      },
+      "final_sha256": {
+        "Icon/Color/Bilibili_Global.png": "320ec8c7e1a49430a2f28162246c8dc87dd2a4167300f779ca5591ad8f44e9e6",
+        "Icon/Color/Large/Bilibili_Global.png": "c131f5df37fbc142bd6b44ca6b781c96fc4f6b3381d35aaf8dd51b2cb81e2e13"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Bilibili_blue",
+      "paths": [
+        "Icon/Color/Bilibili_blue.png",
+        "Icon/Color/Large/Bilibili_blue.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Bilibili_blue.png": "fbc3d7ccc3541973506fa68b04381b1595c338d007be3ad28ad6b9af2abc8395",
+        "Icon/Color/Large/Bilibili_blue.png": "4b81d8251c1714386b5ef3c51956c92298fc17b55ccdeefaa1729de92c6675c4"
+      },
+      "final_sha256": {
+        "Icon/Color/Bilibili_blue.png": "fbc3d7ccc3541973506fa68b04381b1595c338d007be3ad28ad6b9af2abc8395",
+        "Icon/Color/Large/Bilibili_blue.png": "4b81d8251c1714386b5ef3c51956c92298fc17b55ccdeefaa1729de92c6675c4"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Binance",
+      "paths": [
+        "Icon/Color/Binance.png",
+        "Icon/Color/Large/Binance.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Binance.png": "9eb99f0242b3ff82210ab255fecd3e0c7914baebe7d87cf19e5e0b18df65db53",
+        "Icon/Color/Large/Binance.png": "eabf870b75ac1fbe6514ea5205c5b1152b8a5d4eeb67e45bcfd07615edd75278"
+      },
+      "final_sha256": {
+        "Icon/Color/Binance.png": "9eb99f0242b3ff82210ab255fecd3e0c7914baebe7d87cf19e5e0b18df65db53",
+        "Icon/Color/Large/Binance.png": "eabf870b75ac1fbe6514ea5205c5b1152b8a5d4eeb67e45bcfd07615edd75278"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Bing",
+      "paths": [
+        "Icon/Color/Bing.png",
+        "Icon/Color/Large/Bing.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Bing.png": "947b6cf7c34b6209d7348572d49bc606c5be29d850a943d6fd1a49d4f91458cf",
+        "Icon/Color/Large/Bing.png": "6780f032040d517a7b50312dd3a2aac98394f781af08aa19c663893d6b223dac"
+      },
+      "final_sha256": {
+        "Icon/Color/Bing.png": "947b6cf7c34b6209d7348572d49bc606c5be29d850a943d6fd1a49d4f91458cf",
+        "Icon/Color/Large/Bing.png": "6780f032040d517a7b50312dd3a2aac98394f781af08aa19c663893d6b223dac"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Bitcoin",
+      "paths": [
+        "Icon/Color/Bitcoin.png",
+        "Icon/Color/Large/Bitcoin.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Bitcoin.png": "bd337088ebea8ce9ef2c4e90e7e589e69c2b6429f42e311538d15916759bf86c",
+        "Icon/Color/Large/Bitcoin.png": "ef5b4bdbc2c35425415c49a29c61c8c03ff38f2213134f34935325ff99ccfece"
+      },
+      "final_sha256": {
+        "Icon/Color/Bitcoin.png": "bd337088ebea8ce9ef2c4e90e7e589e69c2b6429f42e311538d15916759bf86c",
+        "Icon/Color/Large/Bitcoin.png": "ef5b4bdbc2c35425415c49a29c61c8c03ff38f2213134f34935325ff99ccfece"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Bluesky",
+      "paths": [
+        "Icon/Color/Bluesky.png",
+        "Icon/Color/Large/Bluesky.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Bluesky.png": "702e999abdd061c34129797a306442625449d3aeefe0c96f0610dc30118133a9",
+        "Icon/Color/Large/Bluesky.png": "4a4b50618af27e8a5d02fb5fc7fa83c5f98eb0e3fdbe89f6e9061e5631fa5686"
+      },
+      "final_sha256": {
+        "Icon/Color/Bluesky.png": "702e999abdd061c34129797a306442625449d3aeefe0c96f0610dc30118133a9",
+        "Icon/Color/Large/Bluesky.png": "4a4b50618af27e8a5d02fb5fc7fa83c5f98eb0e3fdbe89f6e9061e5631fa5686"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Bytedance",
+      "paths": [
+        "Icon/Color/Bytedance.png",
+        "Icon/Color/Large/Bytedance.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Bytedance.png": "ccbc12b53017ff302589135c5a7ab1db53d99aa73b5ea7869af2e160d0eceb53",
+        "Icon/Color/Large/Bytedance.png": "5080d93f1c5125b6792ce7ebae9e1aa3394e34b5555495aa7ad3c66af89a4f39"
+      },
+      "final_sha256": {
+        "Icon/Color/Bytedance.png": "ccbc12b53017ff302589135c5a7ab1db53d99aa73b5ea7869af2e160d0eceb53",
+        "Icon/Color/Large/Bytedance.png": "5080d93f1c5125b6792ce7ebae9e1aa3394e34b5555495aa7ad3c66af89a4f39"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Calcifer",
+      "paths": [
+        "Icon/Color/Calcifer.png",
+        "Icon/Color/Large/Calcifer.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Calcifer.png": "7684f42db6e02a640c542a44ae0df939496824b526fffc0cca636bfc435e657e",
+        "Icon/Color/Large/Calcifer.png": "63eaafb5e5a189329913730c75d9c0b6b7309e41c83373bdc904f5657c680697"
+      },
+      "final_sha256": {
+        "Icon/Color/Calcifer.png": "7684f42db6e02a640c542a44ae0df939496824b526fffc0cca636bfc435e657e",
+        "Icon/Color/Large/Calcifer.png": "63eaafb5e5a189329913730c75d9c0b6b7309e41c83373bdc904f5657c680697"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Chained",
+      "paths": [
+        "Icon/Color/Chained.png",
+        "Icon/Color/Large/Chained.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Chained.png",
+        "Icon/Color/Large/Chained.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Chained.png": "17afa694db0fb981a9abbac83d31fa5c04ca9061c79596325dfce10fff8fb244",
+        "Icon/Color/Large/Chained.png": "984b62ad21d5162226ff403c411aab19fac5f6781b69fa393686ea9cc3202c4a"
+      },
+      "final_sha256": {
+        "Icon/Color/Chained.png": "10c1c50c4bb4297e613edfbf60bf91e730408709db118922ca96dbbe097c8cec",
+        "Icon/Color/Large/Chained.png": "32a427d1f2db846bd2a01bb726a71f91801e577842e9d41d30b44a32307785f5"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Chained_2",
+      "paths": [
+        "Icon/Color/Chained_2.png",
+        "Icon/Color/Large/Chained_2.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Chained_2.png",
+        "Icon/Color/Large/Chained_2.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Chained_2.png": "a2b724afa7d52a197bdd3fce6c1e76cae36cfe6353f86743cf37f90c090bff4e",
+        "Icon/Color/Large/Chained_2.png": "78e5ba306364eccdb7d71acf889588bcdf968435c2a59c3f0b69298938eed6ea"
+      },
+      "final_sha256": {
+        "Icon/Color/Chained_2.png": "a58c19896b978fb1dde109402938459dd048ef8f33add85e4c15a948604fcb2a",
+        "Icon/Color/Large/Chained_2.png": "c726a9ae7d3f66962f58592bf4231e3e27343ab7fe7b656c5e4b81411faf9f2c"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "ChatGPT",
+      "paths": [
+        "Icon/Color/ChatGPT.png",
+        "Icon/Color/Large/ChatGPT.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/ChatGPT.png": "7a46ff289dbab97315e417e94cf60aebabe34cde2a61f0486f6c15f1f085934b",
+        "Icon/Color/Large/ChatGPT.png": "8c72c988ae2d03db0c9c7d48623b13d67d2e00355e27414d81eb54510072021d"
+      },
+      "final_sha256": {
+        "Icon/Color/ChatGPT.png": "7a46ff289dbab97315e417e94cf60aebabe34cde2a61f0486f6c15f1f085934b",
+        "Icon/Color/Large/ChatGPT.png": "8c72c988ae2d03db0c9c7d48623b13d67d2e00355e27414d81eb54510072021d"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "China",
+      "paths": [
+        "Icon/Color/China.png",
+        "Icon/Color/Large/China.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/China.png": "f50842bce7a5faeaf6ad00b2db0d1785cb20b573f702c83ca9e41362ce7d9fa7",
+        "Icon/Color/Large/China.png": "4478a5acfc2ba4c1b297225471d48c555afea4b560a020f9f4efcfb9d220e749"
+      },
+      "final_sha256": {
+        "Icon/Color/China.png": "f50842bce7a5faeaf6ad00b2db0d1785cb20b573f702c83ca9e41362ce7d9fa7",
+        "Icon/Color/Large/China.png": "4478a5acfc2ba4c1b297225471d48c555afea4b560a020f9f4efcfb9d220e749"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "China_Taipei",
+      "paths": [
+        "Icon/Color/China_Taipei.png",
+        "Icon/Color/Large/China_Taipei.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/China_Taipei.png": "e02b21501ff8b0ac146c1ba5aaf0986852425b3ba62bc9841e49772548d226fe",
+        "Icon/Color/Large/China_Taipei.png": "03a79840922b3b9c5079169389e7ce5513c6e9107532de014bcc4ff69e3ef6b5"
+      },
+      "final_sha256": {
+        "Icon/Color/China_Taipei.png": "e02b21501ff8b0ac146c1ba5aaf0986852425b3ba62bc9841e49772548d226fe",
+        "Icon/Color/Large/China_Taipei.png": "03a79840922b3b9c5079169389e7ce5513c6e9107532de014bcc4ff69e3ef6b5"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Claude",
+      "paths": [
+        "Icon/Color/Claude.png",
+        "Icon/Color/Large/Claude.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Claude.png": "63df1d98c757dfeba1a651f5e87971e8383f6126624c395647db3ccfe080a12c",
+        "Icon/Color/Large/Claude.png": "99faeeb1e8fb8640ca891f5c560013c79f7c59406c179911085bcd6afc08c7d6"
+      },
+      "final_sha256": {
+        "Icon/Color/Claude.png": "63df1d98c757dfeba1a651f5e87971e8383f6126624c395647db3ccfe080a12c",
+        "Icon/Color/Large/Claude.png": "99faeeb1e8fb8640ca891f5c560013c79f7c59406c179911085bcd6afc08c7d6"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Cloud",
+      "paths": [
+        "Icon/Color/Cloud.png",
+        "Icon/Color/Large/Cloud.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Cloud.png": "64b339e0843b530a65ce0d3575fa7133778d10f04a04e55521ccc8a1fc030575",
+        "Icon/Color/Large/Cloud.png": "d9fb16bd3723f571952e3cb25098937e55a3e209a4a34d0cd1ef89ca4e90f41f"
+      },
+      "final_sha256": {
+        "Icon/Color/Cloud.png": "64b339e0843b530a65ce0d3575fa7133778d10f04a04e55521ccc8a1fc030575",
+        "Icon/Color/Large/Cloud.png": "d9fb16bd3723f571952e3cb25098937e55a3e209a4a34d0cd1ef89ca4e90f41f"
+      },
+      "reason": "Existing SoundCloud-style service mark; not generic cloud",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "CloudFlare",
+      "paths": [
+        "Icon/Color/CloudFlare.png",
+        "Icon/Color/Large/CloudFlare.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/CloudFlare.png": "d0eca50f60566805a1ec77f670dd650d648b1fba3b471fd4a68e5fbc7afdd142",
+        "Icon/Color/Large/CloudFlare.png": "3243638b46553147bc1a38d56fcfa36a5b8414afe1da9f3e66aeac4921beec51"
+      },
+      "final_sha256": {
+        "Icon/Color/CloudFlare.png": "d0eca50f60566805a1ec77f670dd650d648b1fba3b471fd4a68e5fbc7afdd142",
+        "Icon/Color/Large/CloudFlare.png": "3243638b46553147bc1a38d56fcfa36a5b8414afe1da9f3e66aeac4921beec51"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Consistent_Hashing",
+      "paths": [
+        "Icon/Color/Consistent_Hashing.png",
+        "Icon/Color/Large/Consistent_Hashing.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Consistent_Hashing.png",
+        "Icon/Color/Large/Consistent_Hashing.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Consistent_Hashing.png": "3da6a7db82d401ee91111055635c430511b81e088f698c03f6ff2d172e06a654",
+        "Icon/Color/Large/Consistent_Hashing.png": "ed8ee1999d8ace9b9f1db7a7e4de01083761e16c345a5881601a68839c95a061"
+      },
+      "final_sha256": {
+        "Icon/Color/Consistent_Hashing.png": "c97b56d68e21b56104e2bd46a0d97c61fff7ae6c5a2ef436d8884015fdef8302",
+        "Icon/Color/Large/Consistent_Hashing.png": "3ac40cd5fd8547b2208d7045a2c94b6603e31c214cee7411d7be52f645e6ab12"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Crypto",
+      "paths": [
+        "Icon/Color/Crypto.png",
+        "Icon/Color/Large/Crypto.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Crypto.png": "89e61d15c5f94463fc6df60568ebfdba306f50e1a8bfa7a433226ddf2768a263",
+        "Icon/Color/Large/Crypto.png": "96c03d5e42d660fbb0b3fa3cd5c116248e796fa1545078173c7aa61e25388497"
+      },
+      "final_sha256": {
+        "Icon/Color/Crypto.png": "89e61d15c5f94463fc6df60568ebfdba306f50e1a8bfa7a433226ddf2768a263",
+        "Icon/Color/Large/Crypto.png": "96c03d5e42d660fbb0b3fa3cd5c116248e796fa1545078173c7aa61e25388497"
+      },
+      "reason": "Existing Crypto.com mark; not generic finance",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "DIRECT",
+      "paths": [
+        "Icon/Color/DIRECT.png",
+        "Icon/Color/Large/DIRECT.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/DIRECT.png",
+        "Icon/Color/Large/DIRECT.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/DIRECT.png": "9a3864de199d15df0c542a18935d96cc2962accdfdd441b0d5ac392321cf9921",
+        "Icon/Color/Large/DIRECT.png": "487c5d7f8f3a24db346a14f568c7cdf8b43eb7b15e3bc37acfcbaeeac41e85fd"
+      },
+      "final_sha256": {
+        "Icon/Color/DIRECT.png": "a40fc0bb88773971829f4d7a112a83381842eb83bf99c98ec3ea19c92f0685b6",
+        "Icon/Color/Large/DIRECT.png": "29bf6e7988586106b6f6968b768a4bffbfb2de2ce90bceb47c25fbdd4bf829c5"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Discord",
+      "paths": [
+        "Icon/Color/Discord.png",
+        "Icon/Color/Large/Discord.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Discord.png": "d103733b80a1919261735b5b9952550eb7dc08abcd5fbf2dceea51ddcc0dba10",
+        "Icon/Color/Large/Discord.png": "5dff89c5565488faf34df7513a279048e59c08513a16a5e799de25efd8b8cb31"
+      },
+      "final_sha256": {
+        "Icon/Color/Discord.png": "d103733b80a1919261735b5b9952550eb7dc08abcd5fbf2dceea51ddcc0dba10",
+        "Icon/Color/Large/Discord.png": "5dff89c5565488faf34df7513a279048e59c08513a16a5e799de25efd8b8cb31"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Disney",
+      "paths": [
+        "Icon/Color/Disney.png",
+        "Icon/Color/Large/Disney.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Disney.png": "59763055d27333e9f6b8b635bd9061f544feb2b78613fa742ee3128f9f03b804",
+        "Icon/Color/Large/Disney.png": "63375af6f722551a6f80aa2ddf3d3befe24efe6cac6284f86d80a2f1526b155a"
+      },
+      "final_sha256": {
+        "Icon/Color/Disney.png": "59763055d27333e9f6b8b635bd9061f544feb2b78613fa742ee3128f9f03b804",
+        "Icon/Color/Large/Disney.png": "63375af6f722551a6f80aa2ddf3d3befe24efe6cac6284f86d80a2f1526b155a"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Disney_Castle",
+      "paths": [
+        "Icon/Color/Disney_Castle.png",
+        "Icon/Color/Large/Disney_Castle.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Disney_Castle.png",
+        "Icon/Color/Large/Disney_Castle.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Disney_Castle.png": "d711dc805e5f8df6db2b45696ffc8dfed4e8397046a203b54040fa5f37080239",
+        "Icon/Color/Large/Disney_Castle.png": "c042b15442d33d597fbcd0fedc4d74c7d441f1a72a4c59d7e3f93885983ef9d9"
+      },
+      "final_sha256": {
+        "Icon/Color/Disney_Castle.png": "1645fe3db5e95db9fac4699f0fb6efb5a275cbf6f1be05b8c4a5e2bf216a6eea",
+        "Icon/Color/Large/Disney_Castle.png": "c827aa9a5a26db0415c00eb289404653f66295a403ac8995855dfc31a1797c49"
+      },
+      "reason": "Preserve earlier expressly approved compact visible-dragon/scale correction; no monochrome brand redesign",
+      "category": "preserved_approved_theme_exception"
+    },
+    {
+      "name": "Disney_Channel",
+      "paths": [
+        "Icon/Color/Disney_Channel.png",
+        "Icon/Color/Large/Disney_Channel.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Disney_Channel.png": "9aa8f12679e10cc9a71c9e8222b2b0e9c3846636201fef63202caec2316128d2",
+        "Icon/Color/Large/Disney_Channel.png": "dfa69a15d7262439e51102d007a0cad08d0fada76446dd1e70343143ebf48665"
+      },
+      "final_sha256": {
+        "Icon/Color/Disney_Channel.png": "9aa8f12679e10cc9a71c9e8222b2b0e9c3846636201fef63202caec2316128d2",
+        "Icon/Color/Large/Disney_Channel.png": "dfa69a15d7262439e51102d007a0cad08d0fada76446dd1e70343143ebf48665"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Disney_Mickey",
+      "paths": [
+        "Icon/Color/Disney_Mickey.png",
+        "Icon/Color/Large/Disney_Mickey.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Disney_Mickey.png": "c5516f4d8ec3751f440840bbcd69008f3b41f41dd46199f373ac97e51b82998e",
+        "Icon/Color/Large/Disney_Mickey.png": "668199db2a3bb2b642d047a6089f8b3c0f6a917fcb265f48db1fb59d9923da57"
+      },
+      "final_sha256": {
+        "Icon/Color/Disney_Mickey.png": "c5516f4d8ec3751f440840bbcd69008f3b41f41dd46199f373ac97e51b82998e",
+        "Icon/Color/Large/Disney_Mickey.png": "668199db2a3bb2b642d047a6089f8b3c0f6a917fcb265f48db1fb59d9923da57"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Disney_plus",
+      "paths": [
+        "Icon/Color/Disney_plus.png",
+        "Icon/Color/Large/Disney_plus.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Disney_plus.png": "11bb9181d66ceb0c0d07b226c63dc11a567ed191d4fa598996209e73e4165729",
+        "Icon/Color/Large/Disney_plus.png": "a9e45ac8ee1e7b7b3c2e8f6d6c737aa9178ee82645d899848ddd47498c71c08c"
+      },
+      "final_sha256": {
+        "Icon/Color/Disney_plus.png": "11bb9181d66ceb0c0d07b226c63dc11a567ed191d4fa598996209e73e4165729",
+        "Icon/Color/Large/Disney_plus.png": "a9e45ac8ee1e7b7b3c2e8f6d6c737aa9178ee82645d899848ddd47498c71c08c"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Dolphin",
+      "paths": [
+        "Icon/Color/Dolphin.png",
+        "Icon/Color/Large/Dolphin.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Dolphin.png",
+        "Icon/Color/Large/Dolphin.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Dolphin.png": "0b1038a5fbef14800daa7c90f65c72ff1e177b1df1ff70a585b870aeaf5d5794",
+        "Icon/Color/Large/Dolphin.png": "2fa87f50ed96fc7cd7717fc01c906385622514befc8265c8cdebb0d71df9b93f"
+      },
+      "final_sha256": {
+        "Icon/Color/Dolphin.png": "78cc5919f5c0b63e618dd66f2f0ea006b80d345bf14f4357fbc627934c386940",
+        "Icon/Color/Large/Dolphin.png": "b5cd3d5407f72d6e0c29fc7215fdc681e49ddf2cef7f252650215fbfc628a6d3"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Douyin",
+      "paths": [
+        "Icon/Color/Douyin.png",
+        "Icon/Color/Large/Douyin.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Douyin.png": "e84695046bf5be853b3f5571e28eef58961c7b336b060f7071df5cd75e92fbdd",
+        "Icon/Color/Large/Douyin.png": "59ecf71742de91be888f124450fb6f2fca9c2f037f00689085d26255753ff621"
+      },
+      "final_sha256": {
+        "Icon/Color/Douyin.png": "e84695046bf5be853b3f5571e28eef58961c7b336b060f7071df5cd75e92fbdd",
+        "Icon/Color/Large/Douyin.png": "59ecf71742de91be888f124450fb6f2fca9c2f037f00689085d26255753ff621"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Download",
+      "paths": [
+        "Icon/Color/Download.png",
+        "Icon/Color/Large/Download.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Download.png",
+        "Icon/Color/Large/Download.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Download.png": "6eaf507bb1ded291aa57ca2f1f37de5e9fdcffcc904b6c22571925c508c1ad2d",
+        "Icon/Color/Large/Download.png": "04492bbaadfb72ff0e7cff9d6db670e8f09cc110482b6ebb51133cf01e40ef82"
+      },
+      "final_sha256": {
+        "Icon/Color/Download.png": "4e67f39d818f1247b5c1fa319861818b9eed3c33916ee9e80fe92283bf1d9430",
+        "Icon/Color/Large/Download.png": "8161cd13fc8f984778b7a43d83872067b919dbfa92541f31cdf0b060dbec91ae"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Download_2",
+      "paths": [
+        "Icon/Color/Download_2.png",
+        "Icon/Color/Large/Download_2.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Download_2.png",
+        "Icon/Color/Large/Download_2.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Download_2.png": "5a056d54a42432c5c3315faff29bba7df41811a0684c996d4453fa94af63f9d6",
+        "Icon/Color/Large/Download_2.png": "8ac9f5aad251e48388625bdbc8de458039a176a59ff6a51c367d4d84328293c9"
+      },
+      "final_sha256": {
+        "Icon/Color/Download_2.png": "4e67f39d818f1247b5c1fa319861818b9eed3c33916ee9e80fe92283bf1d9430",
+        "Icon/Color/Large/Download_2.png": "8161cd13fc8f984778b7a43d83872067b919dbfa92541f31cdf0b060dbec91ae"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "EPIC",
+      "paths": [
+        "Icon/Color/EPIC.png",
+        "Icon/Color/Large/EPIC.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/EPIC.png": "e4905d5b1e95aeec8147717c801e57a076b2e17ec4c3e038f324f0dc4f96a092",
+        "Icon/Color/Large/EPIC.png": "d9fe073e9df44d426dee73992e8e982a127ce392ef5efe7dc3ffd3a376f9c521"
+      },
+      "final_sha256": {
+        "Icon/Color/EPIC.png": "e4905d5b1e95aeec8147717c801e57a076b2e17ec4c3e038f324f0dc4f96a092",
+        "Icon/Color/Large/EPIC.png": "d9fe073e9df44d426dee73992e8e982a127ce392ef5efe7dc3ffd3a376f9c521"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Emby",
+      "paths": [
+        "Icon/Color/Emby.png",
+        "Icon/Color/Large/Emby.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Emby.png": "7a850f9096658cc9c76c82e14c12b527b7e8fc0a9b483885d1bca436fbd5f1a2",
+        "Icon/Color/Large/Emby.png": "7217a00e07b0592bd07183d4477e885bec106d93ea7d0a6baee88e052a62a75c"
+      },
+      "final_sha256": {
+        "Icon/Color/Emby.png": "7a850f9096658cc9c76c82e14c12b527b7e8fc0a9b483885d1bca436fbd5f1a2",
+        "Icon/Color/Large/Emby.png": "7217a00e07b0592bd07183d4477e885bec106d93ea7d0a6baee88e052a62a75c"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "European_Union",
+      "paths": [
+        "Icon/Color/European_Union.png",
+        "Icon/Color/Large/European_Union.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/European_Union.png": "05cefff7de70a1238a9f1803fdc2d280342f431a651e2f3e35068a383e64bf1a",
+        "Icon/Color/Large/European_Union.png": "66972ef68139183e28733e6c0325096f7e7d98c6149331de7e37969415acbcf1"
+      },
+      "final_sha256": {
+        "Icon/Color/European_Union.png": "05cefff7de70a1238a9f1803fdc2d280342f431a651e2f3e35068a383e64bf1a",
+        "Icon/Color/Large/European_Union.png": "66972ef68139183e28733e6c0325096f7e7d98c6149331de7e37969415acbcf1"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "F2C",
+      "paths": [
+        "Icon/Color/F2C.png",
+        "Icon/Color/Large/F2C.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/F2C.png": "ee52f1621d9587490af22fea2ca83607dc9e9f2b56d8a74903295fdbe534c134",
+        "Icon/Color/Large/F2C.png": "f48be95c9665e7d5ab0d37aa02abb1bdf4dafdd83eba4a0d7f5af5c3feed3643"
+      },
+      "final_sha256": {
+        "Icon/Color/F2C.png": "ee52f1621d9587490af22fea2ca83607dc9e9f2b56d8a74903295fdbe534c134",
+        "Icon/Color/Large/F2C.png": "f48be95c9665e7d5ab0d37aa02abb1bdf4dafdd83eba4a0d7f5af5c3feed3643"
+      },
+      "reason": "Conservatively retain existing named theme/character artwork; not established as a generic function",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "FCM_Firebase_Cloud_Messaging",
+      "paths": [
+        "Icon/Color/FCM_Firebase_Cloud_Messaging.png",
+        "Icon/Color/Large/FCM_Firebase_Cloud_Messaging.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/FCM_Firebase_Cloud_Messaging.png": "daa91353a58e396c1956fb91cd9621ad7df8cd99b56d0e938562728aab562fde",
+        "Icon/Color/Large/FCM_Firebase_Cloud_Messaging.png": "f904edf51b4a111737817047127ad95ea739653b073477aa8bf226dfdaf88b49"
+      },
+      "final_sha256": {
+        "Icon/Color/FCM_Firebase_Cloud_Messaging.png": "daa91353a58e396c1956fb91cd9621ad7df8cd99b56d0e938562728aab562fde",
+        "Icon/Color/Large/FCM_Firebase_Cloud_Messaging.png": "f904edf51b4a111737817047127ad95ea739653b073477aa8bf226dfdaf88b49"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Facebook",
+      "paths": [
+        "Icon/Color/Facebook.png",
+        "Icon/Color/Large/Facebook.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Facebook.png": "0a42385e3699f93f953909d3b99f769b72b2366fd7f37a495b2524ce49b413b6",
+        "Icon/Color/Large/Facebook.png": "0eeb1de9e147dd42e1a0283ff1d7510ed7737bbc735bb784241df92edbb60ac1"
+      },
+      "final_sha256": {
+        "Icon/Color/Facebook.png": "0a42385e3699f93f953909d3b99f769b72b2366fd7f37a495b2524ce49b413b6",
+        "Icon/Color/Large/Facebook.png": "0eeb1de9e147dd42e1a0283ff1d7510ed7737bbc735bb784241df92edbb60ac1"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Failover",
+      "paths": [
+        "Icon/Color/Failover.png",
+        "Icon/Color/Large/Failover.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Failover.png",
+        "Icon/Color/Large/Failover.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Failover.png": "16c774212238ef68766101a02d95a0873fcf6515ff6109d8f8e071436c08f110",
+        "Icon/Color/Large/Failover.png": "d2076c4fcb27209706defc66475de0c9525a05ca7549b7ddbff7c2633d6be074"
+      },
+      "final_sha256": {
+        "Icon/Color/Failover.png": "c4c802c1af3765acb5fa8bd9b431e90be71308a108bde0eeaec8d17f97365177",
+        "Icon/Color/Large/Failover.png": "1a39cd48b2919c3913347ae67a5346529a6c60f7d22f3749237ef88cdc8275a5"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Fast",
+      "paths": [
+        "Icon/Color/Fast.png",
+        "Icon/Color/Large/Fast.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Fast.png": "0872b4009dd35d22a1486175b34f8fb8a0b66c5c5a14f803c6bcd363475be21d",
+        "Icon/Color/Large/Fast.png": "0a1088f696d44288c95c1dd03d215a0384cadfa58ad0d6b99c3f5cc4211f2226"
+      },
+      "final_sha256": {
+        "Icon/Color/Fast.png": "0872b4009dd35d22a1486175b34f8fb8a0b66c5c5a14f803c6bcd363475be21d",
+        "Icon/Color/Large/Fast.png": "0a1088f696d44288c95c1dd03d215a0384cadfa58ad0d6b99c3f5cc4211f2226"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Fish",
+      "paths": [
+        "Icon/Color/Fish.png",
+        "Icon/Color/Large/Fish.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Fish.png",
+        "Icon/Color/Large/Fish.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Fish.png": "cc3cdd7275941fc4bbc785240359d69b40c44ecb9279970ffc2610ed8bd87b0b",
+        "Icon/Color/Large/Fish.png": "ddb966e27b8d08cd3d05bd9c69ca5b8df11833a1ba206d8e2bda870b13ea281b"
+      },
+      "final_sha256": {
+        "Icon/Color/Fish.png": "c9f6811ae4c730c30f8c6e7fc92cd6ae7d4f193dde72da52dc1897eb8df6239b",
+        "Icon/Color/Large/Fish.png": "dc1e561ab30252a051d41d6d23bb0691af6a0833a3ee3f3c96423110285e9d5e"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Fish_b",
+      "paths": [
+        "Icon/Color/Fish_b.png",
+        "Icon/Color/Large/Fish_b.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Fish_b.png",
+        "Icon/Color/Large/Fish_b.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Fish_b.png": "53d852266ea8ae77a1be83241897a7f01233a9a5e695b1262574972f58cb1d9b",
+        "Icon/Color/Large/Fish_b.png": "8f49388c7f524f4fc3d0226fcb8877367512566c7ecfc59e5e209b3f7f6da359"
+      },
+      "final_sha256": {
+        "Icon/Color/Fish_b.png": "a3bc7227dcc8fe94b281fcf2227f236d46ffcc4ee1bcbfffe08d62ed8284e170",
+        "Icon/Color/Large/Fish_b.png": "71ee9fbe41245489ff97b52ee6083f532183e860492fe7a339078034f81e33b6"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Fish_x",
+      "paths": [
+        "Icon/Color/Fish_x.png",
+        "Icon/Color/Large/Fish_x.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Fish_x.png": "3ca0a85a3e7f33b7a190d0beb5b74d2aba5c7447a14eb7caf7519c0e07124c9c",
+        "Icon/Color/Large/Fish_x.png": "18415e7a85b514ee29201daa8eedb68136c98aacb753059f9a5809a73ff1d578"
+      },
+      "final_sha256": {
+        "Icon/Color/Fish_x.png": "3ca0a85a3e7f33b7a190d0beb5b74d2aba5c7447a14eb7caf7519c0e07124c9c",
+        "Icon/Color/Large/Fish_x.png": "18415e7a85b514ee29201daa8eedb68136c98aacb753059f9a5809a73ff1d578"
+      },
+      "reason": "Conservatively retain existing named theme/character artwork; not established as a generic function",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Flight",
+      "paths": [
+        "Icon/Color/Flight.png",
+        "Icon/Color/Large/Flight.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Flight.png",
+        "Icon/Color/Large/Flight.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Flight.png": "4019ee19aafbe27888c4c1505c4fcb07c094963b522bb31289039fb101ec4880",
+        "Icon/Color/Large/Flight.png": "ea60f8530cff7bcd8e79bfd59beb472a074de41c8f67205a91bb6cf54abe2714"
+      },
+      "final_sha256": {
+        "Icon/Color/Flight.png": "927fc3061a5d04b9cf0e94ad2b03b92225617fdeffac2e874bb0bb4f97d1a514",
+        "Icon/Color/Large/Flight.png": "2495d688e0069888702dabefc569917d9793439c0be20daea71ed6370d9d953e"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Forbidden",
+      "paths": [
+        "Icon/Color/Forbidden.png",
+        "Icon/Color/Large/Forbidden.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Forbidden.png",
+        "Icon/Color/Large/Forbidden.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Forbidden.png": "4356beb67cabd2a9ab5d645f9441793cfb63e13f39572e5442722ec31f0e07e9",
+        "Icon/Color/Large/Forbidden.png": "3a1d5dde5d92bcc0c6f4daa92b280b885b3cfb707592b87c05a0068fe6920bf3"
+      },
+      "final_sha256": {
+        "Icon/Color/Forbidden.png": "ee3171cd5224d55963f74a25c0bf053716d2a0f92c693a8af4c0f0d4f4526e4a",
+        "Icon/Color/Large/Forbidden.png": "17c0f6b7cde3b6ce17c3d782814331690eb84e5c9ac666913d7ffe3523a14f3f"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "GFW",
+      "paths": [
+        "Icon/Color/GFW.png",
+        "Icon/Color/Large/GFW.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/GFW.png",
+        "Icon/Color/Large/GFW.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/GFW.png": "462a85a872785282eefe5f27bd5aa590e16872fad4f55f4f65c515edd5c45b28",
+        "Icon/Color/Large/GFW.png": "1f4ff95430cb23ca9bff6931ec099c237ed797d1000a0432d106405aff3a1752"
+      },
+      "final_sha256": {
+        "Icon/Color/GFW.png": "b3f073726368f6aebb03d9fabc122d25dafb68a67877d4497a5cff937e0a98cc",
+        "Icon/Color/Large/GFW.png": "125b699e1304c2c9707befa501266e1f132820ab893f8f765985bffa2a33280b"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "GOG",
+      "paths": [
+        "Icon/Color/GOG.png",
+        "Icon/Color/Large/GOG.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/GOG.png": "9f15b6dfee640c5c97c479f1ec9c92526defaabf03db1c3a3ec423824d17c277",
+        "Icon/Color/Large/GOG.png": "87afe1658f98a7c13c6ca0e859b533c51f6bd0c845cc281f347a42cfac182339"
+      },
+      "final_sha256": {
+        "Icon/Color/GOG.png": "9f15b6dfee640c5c97c479f1ec9c92526defaabf03db1c3a3ec423824d17c277",
+        "Icon/Color/Large/GOG.png": "87afe1658f98a7c13c6ca0e859b533c51f6bd0c845cc281f347a42cfac182339"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Game",
+      "paths": [
+        "Icon/Color/Game.png",
+        "Icon/Color/Large/Game.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Game.png",
+        "Icon/Color/Large/Game.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Game.png": "3052c738ac9e95c1d0a498638c62baf4478324770a6aaa8bbe7f0411ae327ee0",
+        "Icon/Color/Large/Game.png": "021278bb221fced074e5685b23d4207d852998e5af29d3eceb9b750cbc6180fe"
+      },
+      "final_sha256": {
+        "Icon/Color/Game.png": "86c5b68919a2bf001c9a2ebce84f302128edba69c7bbc0e9221e7d4419f2f89a",
+        "Icon/Color/Large/Game.png": "013a2927549e9581beea45b59eecba042f83ae6693ffeb18adb0bc8fae97e6e4"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "GitHub",
+      "paths": [
+        "Icon/Color/GitHub.png",
+        "Icon/Color/Large/GitHub.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/GitHub.png": "b314775dfc9e19bc6353b954caa958c7d671a7e9e8004da0132a206733be9bbb",
+        "Icon/Color/Large/GitHub.png": "96d4d9aa11cfd47f0e2269ee7e41792d0a4a8b4708e8525dd0cbdbcb94e31645"
+      },
+      "final_sha256": {
+        "Icon/Color/GitHub.png": "b314775dfc9e19bc6353b954caa958c7d671a7e9e8004da0132a206733be9bbb",
+        "Icon/Color/Large/GitHub.png": "96d4d9aa11cfd47f0e2269ee7e41792d0a4a8b4708e8525dd0cbdbcb94e31645"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Global",
+      "paths": [
+        "Icon/Color/Global.png",
+        "Icon/Color/Large/Global.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Global.png",
+        "Icon/Color/Large/Global.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Global.png": "178ee35c52399fe3794e598070b0137367974c80d034f3dc03acb723568d2440",
+        "Icon/Color/Large/Global.png": "cbbbc52ff89c4b59471ffd9e1f47f10c69530d9d7fa8aa6f515aef2bf625f200"
+      },
+      "final_sha256": {
+        "Icon/Color/Global.png": "6611390465f146f986553f83a617c2da3d4c48c4987599ce62d1701f5093c7f8",
+        "Icon/Color/Large/Global.png": "58f90eaef22402c4e115238121cb69590806031867f0c186d205023056a68d81"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Globefish",
+      "paths": [
+        "Icon/Color/Globefish.png",
+        "Icon/Color/Large/Globefish.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Globefish.png",
+        "Icon/Color/Large/Globefish.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Globefish.png": "9ca557b53ff0a93bf0570a36eeadd93c9ed697b4dd72ac5819e44c482c2a7b29",
+        "Icon/Color/Large/Globefish.png": "94a5d6db22ef7baa302d960beb270ee0bede037cf1b5f14e68b65bb0e26f0c17"
+      },
+      "final_sha256": {
+        "Icon/Color/Globefish.png": "bcc9743d1090fe0300dc4764996ecbbf13e050a94343d241b595c55b2de94572",
+        "Icon/Color/Large/Globefish.png": "3260bc92de053c7fbc78b8e7eaa40a2357a275220f879e47683630e47845b2eb"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Gmail",
+      "paths": [
+        "Icon/Color/Gmail.png",
+        "Icon/Color/Large/Gmail.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Gmail.png": "ce39eff2224df095f5c3abfc16c0ff109caa52ae06ba7a38c94fed81bc4199f6",
+        "Icon/Color/Large/Gmail.png": "d38820fc41d40f59328ebaa95a2b0dbd828eef03d96f6c326f6f4e6e8c367249"
+      },
+      "final_sha256": {
+        "Icon/Color/Gmail.png": "ce39eff2224df095f5c3abfc16c0ff109caa52ae06ba7a38c94fed81bc4199f6",
+        "Icon/Color/Large/Gmail.png": "d38820fc41d40f59328ebaa95a2b0dbd828eef03d96f6c326f6f4e6e8c367249"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Google",
+      "paths": [
+        "Icon/Color/Google.png",
+        "Icon/Color/Large/Google.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Google.png": "be23499a91dbcdc8667b05adcb84c294865786b630cb83f45513368fc672f27c",
+        "Icon/Color/Large/Google.png": "2439d2c0d45d2da4f94a9e579a60dc92b6707ea771e04b4788206a9c178d3a56"
+      },
+      "final_sha256": {
+        "Icon/Color/Google.png": "be23499a91dbcdc8667b05adcb84c294865786b630cb83f45513368fc672f27c",
+        "Icon/Color/Large/Google.png": "2439d2c0d45d2da4f94a9e579a60dc92b6707ea771e04b4788206a9c178d3a56"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "HBO_MAX",
+      "paths": [
+        "Icon/Color/HBO_MAX.png",
+        "Icon/Color/Large/HBO_MAX.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/HBO_MAX.png": "db0d06e32fc88cc6b99231da729f66f3aa6999be88451c2774709fdfe96065a5",
+        "Icon/Color/Large/HBO_MAX.png": "3614f2aec2bec89a9bc4dae080d2e2bed81cbc8cd4bd32b0c30b04ae2aa921e3"
+      },
+      "final_sha256": {
+        "Icon/Color/HBO_MAX.png": "db0d06e32fc88cc6b99231da729f66f3aa6999be88451c2774709fdfe96065a5",
+        "Icon/Color/Large/HBO_MAX.png": "3614f2aec2bec89a9bc4dae080d2e2bed81cbc8cd4bd32b0c30b04ae2aa921e3"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Home",
+      "paths": [
+        "Icon/Color/Home.png",
+        "Icon/Color/Large/Home.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Home.png",
+        "Icon/Color/Large/Home.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Home.png": "77f5f0db3ab684c9d67e6a1da23b34589307e1b3dc492bca4c1d301546cb7a51",
+        "Icon/Color/Large/Home.png": "545a691c71638d27c0eabf75b0b1f231e89de350bcb81f83c3521100abdec006"
+      },
+      "final_sha256": {
+        "Icon/Color/Home.png": "a5aaab5ebc6344bf11aa37595f934b4c292bc1a1f4853bf0cac70e95338d6403",
+        "Icon/Color/Large/Home.png": "4094ecc2282dde9350294f89d8a2ea646128f2a208b6995b863e34447a62ed6e"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Hong_Kong",
+      "paths": [
+        "Icon/Color/Hong_Kong.png",
+        "Icon/Color/Large/Hong_Kong.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Hong_Kong.png": "c17245e54889b0a4d6877722769ffea934e19843e54d8326611ccfe4b45f993c",
+        "Icon/Color/Large/Hong_Kong.png": "f09dc090a9f23d99adc560b0fd7672189d84d2274648cbb56945eb2a2c11bdfc"
+      },
+      "final_sha256": {
+        "Icon/Color/Hong_Kong.png": "c17245e54889b0a4d6877722769ffea934e19843e54d8326611ccfe4b45f993c",
+        "Icon/Color/Large/Hong_Kong.png": "f09dc090a9f23d99adc560b0fd7672189d84d2274648cbb56945eb2a2c11bdfc"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Huawei",
+      "paths": [
+        "Icon/Color/Huawei.png",
+        "Icon/Color/Large/Huawei.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Huawei.png": "9569bbb04b84890c2017720f39a354793765a9931ca542c1ac77f8cd40702c21",
+        "Icon/Color/Large/Huawei.png": "8b54b241501133f0f3b01bd06f81d01b5400d436fb32edb24abb82c0be9c3624"
+      },
+      "final_sha256": {
+        "Icon/Color/Huawei.png": "9569bbb04b84890c2017720f39a354793765a9931ca542c1ac77f8cd40702c21",
+        "Icon/Color/Large/Huawei.png": "8b54b241501133f0f3b01bd06f81d01b5400d436fb32edb24abb82c0be9c3624"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Huawei_black",
+      "paths": [
+        "Icon/Color/Huawei_black.png",
+        "Icon/Color/Large/Huawei_black.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Huawei_black.png": "eb3b3903fc3caf7b36efe85291229f2544c704c41a2e15ae529960fbf263dd9f",
+        "Icon/Color/Large/Huawei_black.png": "8a26b5165e17952acbbddad1c8f478f12854a0875ace9a1991ec482624054786"
+      },
+      "final_sha256": {
+        "Icon/Color/Huawei_black.png": "eb3b3903fc3caf7b36efe85291229f2544c704c41a2e15ae529960fbf263dd9f",
+        "Icon/Color/Large/Huawei_black.png": "8a26b5165e17952acbbddad1c8f478f12854a0875ace9a1991ec482624054786"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Huawei_white",
+      "paths": [
+        "Icon/Color/Huawei_white.png",
+        "Icon/Color/Large/Huawei_white.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Huawei_white.png": "209658281d5b7620ad28b3629ed6c64a0136ff4c18a5b8f0c6f47160ac1bf878",
+        "Icon/Color/Large/Huawei_white.png": "d7797b8214b512dd54a7c9cbd800acec7e1044c16f5a051d842ef7a6d4517456"
+      },
+      "final_sha256": {
+        "Icon/Color/Huawei_white.png": "209658281d5b7620ad28b3629ed6c64a0136ff4c18a5b8f0c6f47160ac1bf878",
+        "Icon/Color/Large/Huawei_white.png": "d7797b8214b512dd54a7c9cbd800acec7e1044c16f5a051d842ef7a6d4517456"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Hugging_face",
+      "paths": [
+        "Icon/Color/Hugging_face.png",
+        "Icon/Color/Large/Hugging_face.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Hugging_face.png": "9f7c3227bcd5c907336de7d3e39afebc679b5c11be5826d17fcf27e5620606c7",
+        "Icon/Color/Large/Hugging_face.png": "7092d3f581787021222980f6ec53623a40f1d7546ab428285e15d6fb6a21cde7"
+      },
+      "final_sha256": {
+        "Icon/Color/Hugging_face.png": "9f7c3227bcd5c907336de7d3e39afebc679b5c11be5826d17fcf27e5620606c7",
+        "Icon/Color/Large/Hugging_face.png": "7092d3f581787021222980f6ec53623a40f1d7546ab428285e15d6fb6a21cde7"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Hugging_face_g",
+      "paths": [
+        "Icon/Color/Hugging_face_g.png",
+        "Icon/Color/Large/Hugging_face_g.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Hugging_face_g.png": "d664f5f38b99eb425338ed65880e38ca74e9c6104520db37c1a61351549541c0",
+        "Icon/Color/Large/Hugging_face_g.png": "5763a93970a6b7c9e338f21ac15c6536e260944deb1c1e61bb922426f8a1d8e0"
+      },
+      "final_sha256": {
+        "Icon/Color/Hugging_face_g.png": "d664f5f38b99eb425338ed65880e38ca74e9c6104520db37c1a61351549541c0",
+        "Icon/Color/Large/Hugging_face_g.png": "5763a93970a6b7c9e338f21ac15c6536e260944deb1c1e61bb922426f8a1d8e0"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Hulu",
+      "paths": [
+        "Icon/Color/Hulu.png",
+        "Icon/Color/Large/Hulu.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Hulu.png": "68cf908c8812e75b70238a123cacb37197c7f95ef0bc3bbed64aa776add5ee5f",
+        "Icon/Color/Large/Hulu.png": "700cb020a143bbe6db729afe9f9cb0ca1e29b1d1845aa00bf07aa13ebdc21f72"
+      },
+      "final_sha256": {
+        "Icon/Color/Hulu.png": "68cf908c8812e75b70238a123cacb37197c7f95ef0bc3bbed64aa776add5ee5f",
+        "Icon/Color/Large/Hulu.png": "700cb020a143bbe6db729afe9f9cb0ca1e29b1d1845aa00bf07aa13ebdc21f72"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Infuse",
+      "paths": [
+        "Icon/Color/Infuse.png",
+        "Icon/Color/Large/Infuse.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Infuse.png": "9ea188165010e83178b03eba05e9ef6f2cbf293f8e398562b35aa657f1172d20",
+        "Icon/Color/Large/Infuse.png": "f66cff507004ba00218cfff335a3497796cafd7003a4b9f124b79bff4eb05a85"
+      },
+      "final_sha256": {
+        "Icon/Color/Infuse.png": "9ea188165010e83178b03eba05e9ef6f2cbf293f8e398562b35aa657f1172d20",
+        "Icon/Color/Large/Infuse.png": "f66cff507004ba00218cfff335a3497796cafd7003a4b9f124b79bff4eb05a85"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Instagram",
+      "paths": [
+        "Icon/Color/Instagram.png",
+        "Icon/Color/Large/Instagram.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Instagram.png": "6db42af5300a759b49b0e7a9e93cec046b50f0faff2b87ece006eab88d80c2a6",
+        "Icon/Color/Large/Instagram.png": "35b514f51a10b0e368d48bdbf633bc231c87ff8a4278d5ff423de513641db9bb"
+      },
+      "final_sha256": {
+        "Icon/Color/Instagram.png": "6db42af5300a759b49b0e7a9e93cec046b50f0faff2b87ece006eab88d80c2a6",
+        "Icon/Color/Large/Instagram.png": "35b514f51a10b0e368d48bdbf633bc231c87ff8a4278d5ff423de513641db9bb"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Japan",
+      "paths": [
+        "Icon/Color/Japan.png",
+        "Icon/Color/Large/Japan.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Japan.png": "00970ffb9b0eceea14ccd15f658ff5f09294e3311064da758d44e6e4e99f9904",
+        "Icon/Color/Large/Japan.png": "d5f6ee5085a3413a61b82dfe3b6b06dae7770073890b853ae8e1efe5dce4c403"
+      },
+      "final_sha256": {
+        "Icon/Color/Japan.png": "00970ffb9b0eceea14ccd15f658ff5f09294e3311064da758d44e6e4e99f9904",
+        "Icon/Color/Large/Japan.png": "d5f6ee5085a3413a61b82dfe3b6b06dae7770073890b853ae8e1efe5dce4c403"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Jellyfin",
+      "paths": [
+        "Icon/Color/Jellyfin.png",
+        "Icon/Color/Large/Jellyfin.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Jellyfin.png": "7c4a121473e4b69c73e91ae08423a93d0eb4ccbab45c4414c5b822454dfa651d",
+        "Icon/Color/Large/Jellyfin.png": "dd85d461acf2b6b0af70566367e082139eca8866b2a7c34c6c5247cd3fab0d9a"
+      },
+      "final_sha256": {
+        "Icon/Color/Jellyfin.png": "7c4a121473e4b69c73e91ae08423a93d0eb4ccbab45c4414c5b822454dfa651d",
+        "Icon/Color/Large/Jellyfin.png": "dd85d461acf2b6b0af70566367e082139eca8866b2a7c34c6c5247cd3fab0d9a"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Link",
+      "paths": [
+        "Icon/Color/Link.png",
+        "Icon/Color/Large/Link.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Link.png",
+        "Icon/Color/Large/Link.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Link.png": "54bd1dd7d1577aeabac3606356945a72f0bc87ddb41de21ed37821528ef88517",
+        "Icon/Color/Large/Link.png": "280507727b3ccb60e3f8e6887cfdf46b9f6bd7d4396668ebb6e67840a062c0e2"
+      },
+      "final_sha256": {
+        "Icon/Color/Link.png": "46be4f5056d2db72e9f2a1c0e0685d5c2cb0090b4275340320179acd41a6d3de",
+        "Icon/Color/Large/Link.png": "e24ef8e49961357fa0e85b542f0adf89c983ea1161147945637c64c8f1e7c4c2"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Linkedin",
+      "paths": [
+        "Icon/Color/Linkedin.png",
+        "Icon/Color/Large/Linkedin.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Linkedin.png": "c83dddd65f0a68c60e856cb9f0aeef715b19f897480bd21b70cf43e03e8b8e7a",
+        "Icon/Color/Large/Linkedin.png": "6f06370e8724c4c0fb08789755fe688ddf5a0a78d0b2f8c453054a82a9cef703"
+      },
+      "final_sha256": {
+        "Icon/Color/Linkedin.png": "c83dddd65f0a68c60e856cb9f0aeef715b19f897480bd21b70cf43e03e8b8e7a",
+        "Icon/Color/Large/Linkedin.png": "6f06370e8724c4c0fb08789755fe688ddf5a0a78d0b2f8c453054a82a9cef703"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Linkedin_ray",
+      "paths": [
+        "Icon/Color/Linkedin_ray.png",
+        "Icon/Color/Large/Linkedin_ray.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Linkedin_ray.png": "0965b85a3efa3b7ffc5a2f6e87890399d3b322dfca6d8604aaa17246136787ea",
+        "Icon/Color/Large/Linkedin_ray.png": "4bea2402108eb3d352c7d0fe77e2b898493c7c784a93bcda3ed76bcf12fc73b5"
+      },
+      "final_sha256": {
+        "Icon/Color/Linkedin_ray.png": "0965b85a3efa3b7ffc5a2f6e87890399d3b322dfca6d8604aaa17246136787ea",
+        "Icon/Color/Large/Linkedin_ray.png": "4bea2402108eb3d352c7d0fe77e2b898493c7c784a93bcda3ed76bcf12fc73b5"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Load_balancing",
+      "paths": [
+        "Icon/Color/Load_balancing.png",
+        "Icon/Color/Large/Load_balancing.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Load_balancing.png",
+        "Icon/Color/Large/Load_balancing.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Load_balancing.png": "9d229744afd957a78236b6c0816b91890b10907f233548cd4d881c61ab908f4a",
+        "Icon/Color/Large/Load_balancing.png": "d9e1075a52ed301a8a894b70f69c644a667921c7bdc69909a98567a876f2ea89"
+      },
+      "final_sha256": {
+        "Icon/Color/Load_balancing.png": "7edf37bfe2c61bb6b6eb6fcad000064923bc7624dae1fbf997f25b792f65b29c",
+        "Icon/Color/Large/Load_balancing.png": "4fbdf3618e8c92522691180bd12754d858c71b243e9a024faedd64f028d5e77c"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Load_balancing_2",
+      "paths": [
+        "Icon/Color/Load_balancing_2.png",
+        "Icon/Color/Large/Load_balancing_2.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Load_balancing_2.png",
+        "Icon/Color/Large/Load_balancing_2.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Load_balancing_2.png": "8cc2fdba69d3ae5da879ff3c51a03e30bf7d5275786d680b92e5fd5d430af2af",
+        "Icon/Color/Large/Load_balancing_2.png": "50cad032424a5e85082ebfaca3381e66173b1ff1457f49d26703d84080cc149f"
+      },
+      "final_sha256": {
+        "Icon/Color/Load_balancing_2.png": "7edf37bfe2c61bb6b6eb6fcad000064923bc7624dae1fbf997f25b792f65b29c",
+        "Icon/Color/Large/Load_balancing_2.png": "4fbdf3618e8c92522691180bd12754d858c71b243e9a024faedd64f028d5e77c"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Load_balancing_3",
+      "paths": [
+        "Icon/Color/Load_balancing_3.png",
+        "Icon/Color/Large/Load_balancing_3.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Load_balancing_3.png",
+        "Icon/Color/Large/Load_balancing_3.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Load_balancing_3.png": "e1520d8049ecf379ce553093c1ef51d70b8f576784c7f75a86a611c8093b5f7e",
+        "Icon/Color/Large/Load_balancing_3.png": "6d041fe4c6e9db0266b35356d5ded3cff2783c9064397b6f7ba1d04c42234ef0"
+      },
+      "final_sha256": {
+        "Icon/Color/Load_balancing_3.png": "7edf37bfe2c61bb6b6eb6fcad000064923bc7624dae1fbf997f25b792f65b29c",
+        "Icon/Color/Large/Load_balancing_3.png": "4fbdf3618e8c92522691180bd12754d858c71b243e9a024faedd64f028d5e77c"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Location",
+      "paths": [
+        "Icon/Color/Location.png",
+        "Icon/Color/Large/Location.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Location.png",
+        "Icon/Color/Large/Location.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Location.png": "dee597763d5286d744038ec2ccb0706b8c0a220bf9f7b3c71c06a5d57acd535d",
+        "Icon/Color/Large/Location.png": "d918921d7286e0795e01b14b584be9e798024dac36fc3663b40dd8c802971bbb"
+      },
+      "final_sha256": {
+        "Icon/Color/Location.png": "81afd255ef8f4db693581deca0eb284a9aa6713639bf0e217de8e7739401de5f",
+        "Icon/Color/Large/Location.png": "80d2e9b66fb9c4fd1ddfbb2859e086b943cd7105d11c8c26f90dc166c4810935"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "MLB",
+      "paths": [
+        "Icon/Color/MLB.png",
+        "Icon/Color/Large/MLB.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/MLB.png": "c9f7b6be4034bbff514c7d99426f57d843bbff9085dd5bbffa4d0960f7feb4b5",
+        "Icon/Color/Large/MLB.png": "6a880904b3ccf38889201571284a2f5721cacda5ea946b6e9af2be49894ba279"
+      },
+      "final_sha256": {
+        "Icon/Color/MLB.png": "c9f7b6be4034bbff514c7d99426f57d843bbff9085dd5bbffa4d0960f7feb4b5",
+        "Icon/Color/Large/MLB.png": "6a880904b3ccf38889201571284a2f5721cacda5ea946b6e9af2be49894ba279"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Magic_Timer",
+      "paths": [
+        "Icon/Color/Magic_Timer.png",
+        "Icon/Color/Large/Magic_Timer.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Magic_Timer.png",
+        "Icon/Color/Large/Magic_Timer.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Magic_Timer.png": "62b9fc18ec5fd1fd788ce0d479bbaa29edb1512c934ac513aece7dfc4ca9fd51",
+        "Icon/Color/Large/Magic_Timer.png": "ac59b271bbcea4764beddcf8cabf1105e255e044f5244b1ae9e9cd5f7e1ca628"
+      },
+      "final_sha256": {
+        "Icon/Color/Magic_Timer.png": "854e60c91ac9bd9775f811078b50ac862943f4e93a584882bfe08bfebf708153",
+        "Icon/Color/Large/Magic_Timer.png": "7cfbcb4a62201c1eabcccf6dbac0ca6dff15f5356ddf7a9c7097b601c1066527"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Mail",
+      "paths": [
+        "Icon/Color/Mail.png",
+        "Icon/Color/Large/Mail.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Mail.png",
+        "Icon/Color/Large/Mail.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Mail.png": "2804bbecd00d89681281fa734a194ac3f7ee6a33612d348779dbe53d150bf849",
+        "Icon/Color/Large/Mail.png": "e38449b16c80acc967961bc8ec5b5ae8e4f73fbcf54bba02d8c27e61ae1e2421"
+      },
+      "final_sha256": {
+        "Icon/Color/Mail.png": "5f49136dfa6cfab2cfc3a86e1c685572680da1f4bb071ff027d54b7e0221411c",
+        "Icon/Color/Large/Mail.png": "62b25394c98c6df7783c503027a0cb23e791b7d132d77846800c3d47191d5066"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Messenger",
+      "paths": [
+        "Icon/Color/Messenger.png",
+        "Icon/Color/Large/Messenger.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Messenger.png": "6ea1c22bbc24fffbe7f4f81488d73a0641e7426a15da31ec3749fe8023dcfe2b",
+        "Icon/Color/Large/Messenger.png": "8e6be2077d9a5c3fa3755d59f593e331c0bb29ed82be2cafb2c03ac9079b7e16"
+      },
+      "final_sha256": {
+        "Icon/Color/Messenger.png": "6ea1c22bbc24fffbe7f4f81488d73a0641e7426a15da31ec3749fe8023dcfe2b",
+        "Icon/Color/Large/Messenger.png": "8e6be2077d9a5c3fa3755d59f593e331c0bb29ed82be2cafb2c03ac9079b7e16"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Meta_1",
+      "paths": [
+        "Icon/Color/Meta_1.png",
+        "Icon/Color/Large/Meta_1.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Meta_1.png": "fb83f63a24967e10ee5d20560eff7ad8aac7a7f102922ef1b52fe72d0f7c9f28",
+        "Icon/Color/Large/Meta_1.png": "e95c7c07672e25031f74ef8fc72c5e2a536ef483208686f58b39908e7411703d"
+      },
+      "final_sha256": {
+        "Icon/Color/Meta_1.png": "fb83f63a24967e10ee5d20560eff7ad8aac7a7f102922ef1b52fe72d0f7c9f28",
+        "Icon/Color/Large/Meta_1.png": "e95c7c07672e25031f74ef8fc72c5e2a536ef483208686f58b39908e7411703d"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Microsoft",
+      "paths": [
+        "Icon/Color/Microsoft.png",
+        "Icon/Color/Large/Microsoft.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Microsoft.png": "d236ee2e535193ca7dff27c72cc1dd245bfd07cbc7fde8a1353b998295d8ae4d",
+        "Icon/Color/Large/Microsoft.png": "9532db0076b8a32a9431ecc801bd3096d8c087314a76e2bf35903380de1d40e8"
+      },
+      "final_sha256": {
+        "Icon/Color/Microsoft.png": "d236ee2e535193ca7dff27c72cc1dd245bfd07cbc7fde8a1353b998295d8ae4d",
+        "Icon/Color/Large/Microsoft.png": "9532db0076b8a32a9431ecc801bd3096d8c087314a76e2bf35903380de1d40e8"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Microsoft_365",
+      "paths": [
+        "Icon/Color/Microsoft_365.png",
+        "Icon/Color/Large/Microsoft_365.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Microsoft_365.png": "6f5fce72a3e400c29f535a984a27db51320be00ba6ce14e5cca54c81a3dd33d7",
+        "Icon/Color/Large/Microsoft_365.png": "634ac9e7a45184749fa69de820fa659b16947bb98160178bd5abaaf891b37b1d"
+      },
+      "final_sha256": {
+        "Icon/Color/Microsoft_365.png": "6f5fce72a3e400c29f535a984a27db51320be00ba6ce14e5cca54c81a3dd33d7",
+        "Icon/Color/Large/Microsoft_365.png": "634ac9e7a45184749fa69de820fa659b16947bb98160178bd5abaaf891b37b1d"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Microsoft_Copilot",
+      "paths": [
+        "Icon/Color/Microsoft_Copilot.png",
+        "Icon/Color/Large/Microsoft_Copilot.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Microsoft_Copilot.png": "6f7786d95dd07327847acd5b74db5a4074d424e8494e48c3fc8baf3c2ab2b695",
+        "Icon/Color/Large/Microsoft_Copilot.png": "9f9c6d78832b8359be39fca1d03966eb9b98334c29ecf3145457f7d36cdd88bc"
+      },
+      "final_sha256": {
+        "Icon/Color/Microsoft_Copilot.png": "6f7786d95dd07327847acd5b74db5a4074d424e8494e48c3fc8baf3c2ab2b695",
+        "Icon/Color/Large/Microsoft_Copilot.png": "9f9c6d78832b8359be39fca1d03966eb9b98334c29ecf3145457f7d36cdd88bc"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "NBA",
+      "paths": [
+        "Icon/Color/NBA.png",
+        "Icon/Color/Large/NBA.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/NBA.png": "52462a772fe474d66b7ea6a0c1a7b4d95c3118be8b98c607c4d3b0ac61540081",
+        "Icon/Color/Large/NBA.png": "b3494560bcbf049164e146a8162d8755d4d53fbcaf98b58d1992539c8d178382"
+      },
+      "final_sha256": {
+        "Icon/Color/NBA.png": "52462a772fe474d66b7ea6a0c1a7b4d95c3118be8b98c607c4d3b0ac61540081",
+        "Icon/Color/Large/NBA.png": "b3494560bcbf049164e146a8162d8755d4d53fbcaf98b58d1992539c8d178382"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Netflix",
+      "paths": [
+        "Icon/Color/Netflix.png",
+        "Icon/Color/Large/Netflix.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Netflix.png": "254b2310008a45c998a2681d33de016b5202fb4cb1bc4a073c0b275fc6b144b9",
+        "Icon/Color/Large/Netflix.png": "ae4a04352f719e578479cd9a34ebd4b41e0d0fd9e64b96c566dd348ff5ef9306"
+      },
+      "final_sha256": {
+        "Icon/Color/Netflix.png": "254b2310008a45c998a2681d33de016b5202fb4cb1bc4a073c0b275fc6b144b9",
+        "Icon/Color/Large/Netflix.png": "ae4a04352f719e578479cd9a34ebd4b41e0d0fd9e64b96c566dd348ff5ef9306"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Netflix_b",
+      "paths": [
+        "Icon/Color/Netflix_b.png",
+        "Icon/Color/Large/Netflix_b.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Netflix_b.png": "80f28e121629306f9c7608a1a9cd7dc529ae3323aea52eb589313b346d118de8",
+        "Icon/Color/Large/Netflix_b.png": "21dc6f2b5b7937c6323569c519756a76808c5afc2fec4b0e92066264abde1712"
+      },
+      "final_sha256": {
+        "Icon/Color/Netflix_b.png": "80f28e121629306f9c7608a1a9cd7dc529ae3323aea52eb589313b346d118de8",
+        "Icon/Color/Large/Netflix_b.png": "21dc6f2b5b7937c6323569c519756a76808c5afc2fec4b0e92066264abde1712"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Network",
+      "paths": [
+        "Icon/Color/Network.png",
+        "Icon/Color/Large/Network.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Network.png",
+        "Icon/Color/Large/Network.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Network.png": "400105e526e12c1839f43d9c608c1819ae848caef7ede1d18e512211ceaa602c",
+        "Icon/Color/Large/Network.png": "d278786b813bb4f77ea498740064199aa84bd79cb65198ec23750cea6f8acd61"
+      },
+      "final_sha256": {
+        "Icon/Color/Network.png": "cc31620053f16cb12199e45cbef868d7346aac69c9eb02e004fb447cb1527dcf",
+        "Icon/Color/Large/Network.png": "672df232d21e4ebc6f0e1f053a83119ca0f0728a6a7d710b8e2d090de76cd12e"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Network_2",
+      "paths": [
+        "Icon/Color/Network_2.png",
+        "Icon/Color/Large/Network_2.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Network_2.png",
+        "Icon/Color/Large/Network_2.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Network_2.png": "a3cd08433bfc2c34cb48cf8f4250d405e0b603154e8aa2073b6b156af3a59ade",
+        "Icon/Color/Large/Network_2.png": "33e5ddb35590f0d6dda23b2f2de7a6795dac5ae9fce3460e4da070228596ad79"
+      },
+      "final_sha256": {
+        "Icon/Color/Network_2.png": "7efa3c9872cbbf81f666d524e53612191297ea975e5cdfbf5d78620f9f02a168",
+        "Icon/Color/Large/Network_2.png": "5eaa4782229d22aef1e1076af8f41cef817d89c9690a9f06417503d3fdd43c35"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Niche_Link",
+      "paths": [
+        "Icon/Color/Niche_Link.png",
+        "Icon/Color/Large/Niche_Link.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Niche_Link.png",
+        "Icon/Color/Large/Niche_Link.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Niche_Link.png": "52b97c7c62352c4e18e340e75a3017255a3814511d4ad621121c6e964b8fc41a",
+        "Icon/Color/Large/Niche_Link.png": "75c4575e4f002c65daa9c9b02bac94532f58e98b154eead677c1578a718b79d8"
+      },
+      "final_sha256": {
+        "Icon/Color/Niche_Link.png": "a58c19896b978fb1dde109402938459dd048ef8f33add85e4c15a948604fcb2a",
+        "Icon/Color/Large/Niche_Link.png": "c726a9ae7d3f66962f58592bf4231e3e27343ab7fe7b656c5e4b81411faf9f2c"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Niconico",
+      "paths": [
+        "Icon/Color/Niconico.png",
+        "Icon/Color/Large/Niconico.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Niconico.png": "c12b8f722c3a39a4829f24bbb781be7108928b75bfaf088505d3cb3dcc0eae2e",
+        "Icon/Color/Large/Niconico.png": "8ccc362dcd6c059a1a7c0ecd1b65f90f726df9f681566446a21db03d20de137e"
+      },
+      "final_sha256": {
+        "Icon/Color/Niconico.png": "c12b8f722c3a39a4829f24bbb781be7108928b75bfaf088505d3cb3dcc0eae2e",
+        "Icon/Color/Large/Niconico.png": "8ccc362dcd6c059a1a7c0ecd1b65f90f726df9f681566446a21db03d20de137e"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Niconico_Live",
+      "paths": [
+        "Icon/Color/Niconico_Live.png",
+        "Icon/Color/Large/Niconico_Live.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Niconico_Live.png": "884f6d998ce78d2e79a03c0ad7ae930d023b3258b5d9535eae2da8be31fd5e4d",
+        "Icon/Color/Large/Niconico_Live.png": "82eccac2e586c028eed75300bfb6436948ff2d3d6c660d0d604f25d9e33f58c3"
+      },
+      "final_sha256": {
+        "Icon/Color/Niconico_Live.png": "884f6d998ce78d2e79a03c0ad7ae930d023b3258b5d9535eae2da8be31fd5e4d",
+        "Icon/Color/Large/Niconico_Live.png": "82eccac2e586c028eed75300bfb6436948ff2d3d6c660d0d604f25d9e33f58c3"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Niconico_Manga",
+      "paths": [
+        "Icon/Color/Niconico_Manga.png",
+        "Icon/Color/Large/Niconico_Manga.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Niconico_Manga.png": "84e452eefccb8bd1838ab4ed99cdbacd1b5a40e2aa00d024466833930eef04b9",
+        "Icon/Color/Large/Niconico_Manga.png": "d9ddc5b63f13a2a04a2dc91e7ff31881417304f748c752995f7daab8458be066"
+      },
+      "final_sha256": {
+        "Icon/Color/Niconico_Manga.png": "84e452eefccb8bd1838ab4ed99cdbacd1b5a40e2aa00d024466833930eef04b9",
+        "Icon/Color/Large/Niconico_Manga.png": "d9ddc5b63f13a2a04a2dc91e7ff31881417304f748c752995f7daab8458be066"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Olympics",
+      "paths": [
+        "Icon/Color/Olympics.png",
+        "Icon/Color/Large/Olympics.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Olympics.png": "f488fc648e18955362b328493e261fe442ad393fc4a57670fec5b22093627919",
+        "Icon/Color/Large/Olympics.png": "41165094370ffca95dc7a1ec58d9a43ac316661ac44ee1efa41fb50650d005c9"
+      },
+      "final_sha256": {
+        "Icon/Color/Olympics.png": "f488fc648e18955362b328493e261fe442ad393fc4a57670fec5b22093627919",
+        "Icon/Color/Large/Olympics.png": "41165094370ffca95dc7a1ec58d9a43ac316661ac44ee1efa41fb50650d005c9"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Omission",
+      "paths": [
+        "Icon/Color/Omission.png",
+        "Icon/Color/Large/Omission.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Omission.png": "38e24c185f29fb4071749d39a710d1f8851dcfb5cd777d2780e35aa5c77666e3",
+        "Icon/Color/Large/Omission.png": "e79a66c339a73cf9659881a8b2fd030a13f81007504cba17b8a6adbb2d7391ee"
+      },
+      "final_sha256": {
+        "Icon/Color/Omission.png": "38e24c185f29fb4071749d39a710d1f8851dcfb5cd777d2780e35aa5c77666e3",
+        "Icon/Color/Large/Omission.png": "e79a66c339a73cf9659881a8b2fd030a13f81007504cba17b8a6adbb2d7391ee"
+      },
+      "reason": "Conservatively retain existing named theme/character artwork; not established as a generic function",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "OneDrive",
+      "paths": [
+        "Icon/Color/OneDrive.png",
+        "Icon/Color/Large/OneDrive.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/OneDrive.png": "7d565576181a2cc782e3d419ab08a6c79fdcb81b2a2aea67198530146af3c39d",
+        "Icon/Color/Large/OneDrive.png": "ed3ab8ef33ef1cb34eb831c0e9c2271cc8ae1eb351c6d962bf3679e14c877198"
+      },
+      "final_sha256": {
+        "Icon/Color/OneDrive.png": "7d565576181a2cc782e3d419ab08a6c79fdcb81b2a2aea67198530146af3c39d",
+        "Icon/Color/Large/OneDrive.png": "ed3ab8ef33ef1cb34eb831c0e9c2271cc8ae1eb351c6d962bf3679e14c877198"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Onlyfans",
+      "paths": [
+        "Icon/Color/Onlyfans.png",
+        "Icon/Color/Large/Onlyfans.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Onlyfans.png": "a64b910686ee2aaac50053c8d01a801fc542c629ee733a4e11e2595aa314c7dd",
+        "Icon/Color/Large/Onlyfans.png": "ca18a8558dbf42917fd92f79802bc3172d38b1eae483b608b9fc1e05bc3aaca5"
+      },
+      "final_sha256": {
+        "Icon/Color/Onlyfans.png": "a64b910686ee2aaac50053c8d01a801fc542c629ee733a4e11e2595aa314c7dd",
+        "Icon/Color/Large/Onlyfans.png": "ca18a8558dbf42917fd92f79802bc3172d38b1eae483b608b9fc1e05bc3aaca5"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Other",
+      "paths": [
+        "Icon/Color/Other.png",
+        "Icon/Color/Large/Other.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Other.png",
+        "Icon/Color/Large/Other.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Other.png": "2651dbd4ce539c1297ade909acb20e0f91cf5deaa74375c799fc8b85f3f69e3a",
+        "Icon/Color/Large/Other.png": "3a6ad0d404688eb84f9a9f62ba18e16fbe31c7d6df52609706acae7a6226213e"
+      },
+      "final_sha256": {
+        "Icon/Color/Other.png": "d268c20151a2f173ec76e7d37db11ebce991390a3bf0f31fe1fed4019b52d58d",
+        "Icon/Color/Large/Other.png": "5789b8db1cbb4b01822f2b7a6bcdf0278e6f88116ca3191a66540f3db78e767b"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Outlook",
+      "paths": [
+        "Icon/Color/Outlook.png",
+        "Icon/Color/Large/Outlook.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Outlook.png": "2dd436cba5e31dbf0c612b8dc23056c5091afde0e17f78a8a75fdc336750d0b8",
+        "Icon/Color/Large/Outlook.png": "28b795273332da028357945d932144f791e2958bcb449f4e182e4b0b894fd36c"
+      },
+      "final_sha256": {
+        "Icon/Color/Outlook.png": "2dd436cba5e31dbf0c612b8dc23056c5091afde0e17f78a8a75fdc336750d0b8",
+        "Icon/Color/Large/Outlook.png": "28b795273332da028357945d932144f791e2958bcb449f4e182e4b0b894fd36c"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Palestine",
+      "paths": [
+        "Icon/Color/Palestine.png",
+        "Icon/Color/Large/Palestine.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Palestine.png": "84e9fb8aaca0fc4b98fba14b9fea7467362990e1ec30c155919a14a943cb7ed5",
+        "Icon/Color/Large/Palestine.png": "b6feeb0d38dde81a89d9fe1ef4cdce186db264a5359822cc43107170a93670a6"
+      },
+      "final_sha256": {
+        "Icon/Color/Palestine.png": "84e9fb8aaca0fc4b98fba14b9fea7467362990e1ec30c155919a14a943cb7ed5",
+        "Icon/Color/Large/Palestine.png": "b6feeb0d38dde81a89d9fe1ef4cdce186db264a5359822cc43107170a93670a6"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Panda",
+      "paths": [
+        "Icon/Color/Panda.png",
+        "Icon/Color/Large/Panda.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Panda.png",
+        "Icon/Color/Large/Panda.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Panda.png": "f4f9b6d4ba7be7d11e43e3de883c470a10bfb0971c7dcb9332150b94d85b4e6e",
+        "Icon/Color/Large/Panda.png": "3079f776fe57d90a59cc2507f10aca94f4e0c53d2b95c487f66b5e9e10cb4f13"
+      },
+      "final_sha256": {
+        "Icon/Color/Panda.png": "687cbdd6f9555bb83047e2b4314073e6552da16b2dae1bcb9ed4a5c5d35ddc56",
+        "Icon/Color/Large/Panda.png": "6e05efdb7574f1bc6ae1854e35106dd541f5cba32461f5820770b1956e9ab72a"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Panda_WWF",
+      "paths": [
+        "Icon/Color/Panda_WWF.png",
+        "Icon/Color/Large/Panda_WWF.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Panda_WWF.png": "c2e30f55277d682758d973107983de9dfdb6dc68054ed233022543258dcfccae",
+        "Icon/Color/Large/Panda_WWF.png": "48c336aa7c6ab1cffac1f28ad1f5d0156cba8aafc863a2b57928cb860ab956d8"
+      },
+      "final_sha256": {
+        "Icon/Color/Panda_WWF.png": "c2e30f55277d682758d973107983de9dfdb6dc68054ed233022543258dcfccae",
+        "Icon/Color/Large/Panda_WWF.png": "48c336aa7c6ab1cffac1f28ad1f5d0156cba8aafc863a2b57928cb860ab956d8"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Panda_ai",
+      "paths": [
+        "Icon/Color/Panda_ai.png",
+        "Icon/Color/Large/Panda_ai.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Panda_ai.png",
+        "Icon/Color/Large/Panda_ai.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Panda_ai.png": "6e28b553c1927c486a05c847c9e5f172cba99d142f83e1e8099d776f5c61b106",
+        "Icon/Color/Large/Panda_ai.png": "cc879ce514b5724b20d45072ea0a96ed59604ee82ea247f3bff14ef4a05d0408"
+      },
+      "final_sha256": {
+        "Icon/Color/Panda_ai.png": "4ff87113e87d6382423a34a24f6c0a087ec11efbb0a5a4808c5ca2da76115dea",
+        "Icon/Color/Large/Panda_ai.png": "e15e081e022e257e611c57531c4d4049471dbbee16596f58e6fe73d277faa1a9"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "PayPal",
+      "paths": [
+        "Icon/Color/PayPal.png",
+        "Icon/Color/Large/PayPal.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/PayPal.png": "654294301279e960b6a0df6e8fc3976176df6acbd66a82c0168902735184738a",
+        "Icon/Color/Large/PayPal.png": "f73b16f895faee165a8a0f8508b5943a4568e4606e1513ba79b2240f15ce5fc2"
+      },
+      "final_sha256": {
+        "Icon/Color/PayPal.png": "654294301279e960b6a0df6e8fc3976176df6acbd66a82c0168902735184738a",
+        "Icon/Color/Large/PayPal.png": "f73b16f895faee165a8a0f8508b5943a4568e4606e1513ba79b2240f15ce5fc2"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "PayPal_business",
+      "paths": [
+        "Icon/Color/PayPal_business.png",
+        "Icon/Color/Large/PayPal_business.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/PayPal_business.png": "95de0067364929f01fa43d4f3896d442f618332fff2a7570c3f5bbbbe82c6427",
+        "Icon/Color/Large/PayPal_business.png": "0d45874637713c568ba3fc6602b6619c14e19c2afa10f0663d5a70bf92ca0001"
+      },
+      "final_sha256": {
+        "Icon/Color/PayPal_business.png": "95de0067364929f01fa43d4f3896d442f618332fff2a7570c3f5bbbbe82c6427",
+        "Icon/Color/Large/PayPal_business.png": "0d45874637713c568ba3fc6602b6619c14e19c2afa10f0663d5a70bf92ca0001"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Peacook",
+      "paths": [
+        "Icon/Color/Peacook.png",
+        "Icon/Color/Large/Peacook.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Peacook.png": "3058887b099011d0dfd4d9a8ee2963ed87e688dd0b88f8ec9780570491e3d8be",
+        "Icon/Color/Large/Peacook.png": "3608b81accbd008a02394e4f4f1cb0145b63ddd57e59b3a90c8a1e132c5f8cb9"
+      },
+      "final_sha256": {
+        "Icon/Color/Peacook.png": "3058887b099011d0dfd4d9a8ee2963ed87e688dd0b88f8ec9780570491e3d8be",
+        "Icon/Color/Large/Peacook.png": "3608b81accbd008a02394e4f4f1cb0145b63ddd57e59b3a90c8a1e132c5f8cb9"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Perplexity",
+      "paths": [
+        "Icon/Color/Perplexity.png",
+        "Icon/Color/Large/Perplexity.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Perplexity.png": "5d76cb842ccef3c9fa761b05dcfd75aa94cd9ce7d8dee3e775e3654002363d13",
+        "Icon/Color/Large/Perplexity.png": "f2406019427ebdbf9beeaf2194b1ee26684927bf60d33de415354eaf6a66aee8"
+      },
+      "final_sha256": {
+        "Icon/Color/Perplexity.png": "5d76cb842ccef3c9fa761b05dcfd75aa94cd9ce7d8dee3e775e3654002363d13",
+        "Icon/Color/Large/Perplexity.png": "f2406019427ebdbf9beeaf2194b1ee26684927bf60d33de415354eaf6a66aee8"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Pig",
+      "paths": [
+        "Icon/Color/Pig.png",
+        "Icon/Color/Large/Pig.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Pig.png",
+        "Icon/Color/Large/Pig.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Pig.png": "4cccc7bb88a02d7787f26093ab99c0ea59e523d29eb8bf998d2635e8574e8d84",
+        "Icon/Color/Large/Pig.png": "d9ac863a8e001492499df1f058c45c850ebfbedb06fe611b2e57a2f43f98c51a"
+      },
+      "final_sha256": {
+        "Icon/Color/Pig.png": "514c6547f8d37f552afa9fae7824cf5cddab4cb654f3806c82695b3b164efd0c",
+        "Icon/Color/Large/Pig.png": "c5b2d6254574f27bcfd02808b25122f212582bd5d71146139f889283f888cc35"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Piggies",
+      "paths": [
+        "Icon/Color/Piggies.png",
+        "Icon/Color/Large/Piggies.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Piggies.png": "fd8e79ec8a389d6e60e5c796c355d0ff4e526e49b05042e3ebbfdda4d8da0fbb",
+        "Icon/Color/Large/Piggies.png": "553efa6835937bdb15162cc6d47b191fcbcdccba2e05ba53832910ae6306237c"
+      },
+      "final_sha256": {
+        "Icon/Color/Piggies.png": "fd8e79ec8a389d6e60e5c796c355d0ff4e526e49b05042e3ebbfdda4d8da0fbb",
+        "Icon/Color/Large/Piggies.png": "553efa6835937bdb15162cc6d47b191fcbcdccba2e05ba53832910ae6306237c"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Piggies_b",
+      "paths": [
+        "Icon/Color/Piggies_b.png",
+        "Icon/Color/Large/Piggies_b.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Piggies_b.png": "dfd95855a97f0fd5a1ba8e340e4baf0b5e2722b212391e3031445db746b4ac78",
+        "Icon/Color/Large/Piggies_b.png": "12c9cfdf2e1b9592b72aca5130022d6f5e0795d6701347ec176ecc5dd053ac9a"
+      },
+      "final_sha256": {
+        "Icon/Color/Piggies_b.png": "dfd95855a97f0fd5a1ba8e340e4baf0b5e2722b212391e3031445db746b4ac78",
+        "Icon/Color/Large/Piggies_b.png": "12c9cfdf2e1b9592b72aca5130022d6f5e0795d6701347ec176ecc5dd053ac9a"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Pixiv",
+      "paths": [
+        "Icon/Color/Pixiv.png",
+        "Icon/Color/Large/Pixiv.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Pixiv.png": "9e9a3aeb76dc0638c15af48bce818a2e394815228894ab3965419463f9e2b534",
+        "Icon/Color/Large/Pixiv.png": "fc0439a45e20b2c7c88788d2ae757c29de16ed6cd9ae79e10b37f9b8a7bc2a40"
+      },
+      "final_sha256": {
+        "Icon/Color/Pixiv.png": "9e9a3aeb76dc0638c15af48bce818a2e394815228894ab3965419463f9e2b534",
+        "Icon/Color/Large/Pixiv.png": "fc0439a45e20b2c7c88788d2ae757c29de16ed6cd9ae79e10b37f9b8a7bc2a40"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Playstation",
+      "paths": [
+        "Icon/Color/Playstation.png",
+        "Icon/Color/Large/Playstation.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Playstation.png": "b82165c07ea7df64d987dbec78787595ad8eaba3254a0e598a01adee3e5434c6",
+        "Icon/Color/Large/Playstation.png": "72e247b222e28f3428125bbb0f156c5b99f8f2fae33e3e19077934cc0fb9f7ea"
+      },
+      "final_sha256": {
+        "Icon/Color/Playstation.png": "b82165c07ea7df64d987dbec78787595ad8eaba3254a0e598a01adee3e5434c6",
+        "Icon/Color/Large/Playstation.png": "72e247b222e28f3428125bbb0f156c5b99f8f2fae33e3e19077934cc0fb9f7ea"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Playstation_30th",
+      "paths": [
+        "Icon/Color/Playstation_30th.png",
+        "Icon/Color/Large/Playstation_30th.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Playstation_30th.png": "51fd73b1037e68254738161db6d7b6926f22a595becc828e39e8e64f43d3d063",
+        "Icon/Color/Large/Playstation_30th.png": "be8d0e544812d7e5a1596c518675ddd9e50ec41a893ae9eac1badb632fa7e7ff"
+      },
+      "final_sha256": {
+        "Icon/Color/Playstation_30th.png": "51fd73b1037e68254738161db6d7b6926f22a595becc828e39e8e64f43d3d063",
+        "Icon/Color/Large/Playstation_30th.png": "be8d0e544812d7e5a1596c518675ddd9e50ec41a893ae9eac1badb632fa7e7ff"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Playstation_remote",
+      "paths": [
+        "Icon/Color/Playstation_remote.png",
+        "Icon/Color/Large/Playstation_remote.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Playstation_remote.png": "513b529108ea7dae87ceba286d4cbbf7f8b683ec33fcc4f94bca436cedd1ec53",
+        "Icon/Color/Large/Playstation_remote.png": "6f3d5a91abe0423e937f77ec343c053065adbaa1929cbd67b740b705ec46e68d"
+      },
+      "final_sha256": {
+        "Icon/Color/Playstation_remote.png": "513b529108ea7dae87ceba286d4cbbf7f8b683ec33fcc4f94bca436cedd1ec53",
+        "Icon/Color/Large/Playstation_remote.png": "6f3d5a91abe0423e937f77ec343c053065adbaa1929cbd67b740b705ec46e68d"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Plex",
+      "paths": [
+        "Icon/Color/Plex.png",
+        "Icon/Color/Large/Plex.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Plex.png": "053723837b8b51724e1711b8a4b9588aa1a653da7571388ff9c2432a41fd99a3",
+        "Icon/Color/Large/Plex.png": "dc701d41951f8b3569e0afc37fb54af0af1faffcfe62201621e7dfe77f893f4a"
+      },
+      "final_sha256": {
+        "Icon/Color/Plex.png": "053723837b8b51724e1711b8a4b9588aa1a653da7571388ff9c2432a41fd99a3",
+        "Icon/Color/Large/Plex.png": "dc701d41951f8b3569e0afc37fb54af0af1faffcfe62201621e7dfe77f893f4a"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Pornhub",
+      "paths": [
+        "Icon/Color/Pornhub.png",
+        "Icon/Color/Large/Pornhub.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Pornhub.png": "2c683bb1ad67ea50e2cfd33cf74e000457ec6dc43877fecbcd1fcb15b2df153b",
+        "Icon/Color/Large/Pornhub.png": "03b2c20a3d329b3f58ae3789a7a886a132954957e4cdbae21b0d4098e196690e"
+      },
+      "final_sha256": {
+        "Icon/Color/Pornhub.png": "2c683bb1ad67ea50e2cfd33cf74e000457ec6dc43877fecbcd1fcb15b2df153b",
+        "Icon/Color/Large/Pornhub.png": "03b2c20a3d329b3f58ae3789a7a886a132954957e4cdbae21b0d4098e196690e"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Prime",
+      "paths": [
+        "Icon/Color/Prime.png",
+        "Icon/Color/Large/Prime.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Prime.png": "ae3982c2913e6de961d81c703cfa33ee3085e4f10f830b7789d645924fbd31da",
+        "Icon/Color/Large/Prime.png": "505b0af2f546adcea0907ee4b59a51905c98add63f3ae59ae0334f3e17a47cb1"
+      },
+      "final_sha256": {
+        "Icon/Color/Prime.png": "ae3982c2913e6de961d81c703cfa33ee3085e4f10f830b7789d645924fbd31da",
+        "Icon/Color/Large/Prime.png": "505b0af2f546adcea0907ee4b59a51905c98add63f3ae59ae0334f3e17a47cb1"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Qoura",
+      "paths": [
+        "Icon/Color/Qoura.png",
+        "Icon/Color/Large/Qoura.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Qoura.png": "e1a4fb1e5446584ef9c11c83b3da5a050726790360a2da687ccf3bef8cbf4bb6",
+        "Icon/Color/Large/Qoura.png": "06e57c63a0be1ba4fc1af024f8e133b422e893bd850366a6772e180db092492f"
+      },
+      "final_sha256": {
+        "Icon/Color/Qoura.png": "e1a4fb1e5446584ef9c11c83b3da5a050726790360a2da687ccf3bef8cbf4bb6",
+        "Icon/Color/Large/Qoura.png": "06e57c63a0be1ba4fc1af024f8e133b422e893bd850366a6772e180db092492f"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Reddit",
+      "paths": [
+        "Icon/Color/Reddit.png",
+        "Icon/Color/Large/Reddit.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Reddit.png": "a61b7f04545f827715f7a59dd9ccbec87f656c418029ea577f95e29c9683e392",
+        "Icon/Color/Large/Reddit.png": "bdf256a6e94e58ef75dbf4954a44f06ea7f522b537d1017a37140b524af9199f"
+      },
+      "final_sha256": {
+        "Icon/Color/Reddit.png": "a61b7f04545f827715f7a59dd9ccbec87f656c418029ea577f95e29c9683e392",
+        "Icon/Color/Large/Reddit.png": "bdf256a6e94e58ef75dbf4954a44f06ea7f522b537d1017a37140b524af9199f"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Remote",
+      "paths": [
+        "Icon/Color/Remote.png",
+        "Icon/Color/Large/Remote.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Remote.png",
+        "Icon/Color/Large/Remote.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Remote.png": "fc6c8e630e51755afa99b42af74ebdada99c5bdab17e5d1c22267be4163acefb",
+        "Icon/Color/Large/Remote.png": "483783b6acaf69af59964432c2db8d430595026eb95b9fc2f15cedce5d02f371"
+      },
+      "final_sha256": {
+        "Icon/Color/Remote.png": "5d2614971a1f83270f53a1fe49ef24410c7161da5d49d0a555de166c39b018f6",
+        "Icon/Color/Large/Remote.png": "a422fd6e5dfa44a05fc0465635124721d55ca04e627540a276ff638f4d558296"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Round_Robin",
+      "paths": [
+        "Icon/Color/Round_Robin.png",
+        "Icon/Color/Large/Round_Robin.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Round_Robin.png",
+        "Icon/Color/Large/Round_Robin.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Round_Robin.png": "8d3180adc9c7a9e4e8c8e80b7eef7e4d81174ddb2e936cb6c2c41e219937f73b",
+        "Icon/Color/Large/Round_Robin.png": "0e95e213128ff93dda8551b3de8f41414a8bf26f4a94971e6ba5160aaac4ed15"
+      },
+      "final_sha256": {
+        "Icon/Color/Round_Robin.png": "a346a5667a5fbc2daaabb35f14b4dbbda3ec3a58c201b15ae8968837b9234c30",
+        "Icon/Color/Large/Round_Robin.png": "427260b3f6a1a6e25feb0457725959b4279b518143cd31f9d1aef678fa263d60"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "SNS",
+      "paths": [
+        "Icon/Color/SNS.png",
+        "Icon/Color/Large/SNS.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/SNS.png",
+        "Icon/Color/Large/SNS.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/SNS.png": "32a1b5a153b421155d9a33f2f876eea7fdc0dda740f5cddb5203c543d43ed9f1",
+        "Icon/Color/Large/SNS.png": "1850caa0565191c4bf070f4870ceec50b1793f72003f9fdefa85dc6a3c6fecdd"
+      },
+      "final_sha256": {
+        "Icon/Color/SNS.png": "89b771a9a4470b3666d56d5917dcf04064a928aca586fdc2b9e500f24a9ce99f",
+        "Icon/Color/Large/SNS.png": "7f5092606da3986c402be0ae38688267d4e838433801a14dacc2fa731c27a012"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Scholar",
+      "paths": [
+        "Icon/Color/Scholar.png",
+        "Icon/Color/Large/Scholar.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Scholar.png": "5b6ddd6270ad5b7cde74ceca859d8cfb4a4915c7dfe01c1291fef6d3c441104e",
+        "Icon/Color/Large/Scholar.png": "c8363f92b9f15dcbf09d5fe3a41bc5867a6f98749561752ae9263dacc3f47a82"
+      },
+      "final_sha256": {
+        "Icon/Color/Scholar.png": "5b6ddd6270ad5b7cde74ceca859d8cfb4a4915c7dfe01c1291fef6d3c441104e",
+        "Icon/Color/Large/Scholar.png": "c8363f92b9f15dcbf09d5fe3a41bc5867a6f98749561752ae9263dacc3f47a82"
+      },
+      "reason": "Existing Scholar service identity; not generic graduation icon",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Seancody",
+      "paths": [
+        "Icon/Color/Seancody.png",
+        "Icon/Color/Large/Seancody.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Seancody.png": "2c1d1b6382011fd8e834240c6f53cbd95b72e4103290030e7a286bea90815416",
+        "Icon/Color/Large/Seancody.png": "0018f297cff08b4c0dc9f746cdd0d322977d8d52f170013aec2dbc81d973a430"
+      },
+      "final_sha256": {
+        "Icon/Color/Seancody.png": "2c1d1b6382011fd8e834240c6f53cbd95b72e4103290030e7a286bea90815416",
+        "Icon/Color/Large/Seancody.png": "0018f297cff08b4c0dc9f746cdd0d322977d8d52f170013aec2dbc81d973a430"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Server",
+      "paths": [
+        "Icon/Color/Server.png",
+        "Icon/Color/Large/Server.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Server.png",
+        "Icon/Color/Large/Server.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Server.png": "d17cf6b33e6cfea501f71c22ab825d389e4774b021df7d62c60f72121fc73ec8",
+        "Icon/Color/Large/Server.png": "3b453ba98662f7670d38a12885e8aaa422e041cc7617fddd64736c20b7cb5473"
+      },
+      "final_sha256": {
+        "Icon/Color/Server.png": "af834f824d38a0ddd9efb0eda482e06f495c3d21b1d31d006b1a1cfccaba03b2",
+        "Icon/Color/Large/Server.png": "0f7ec1404b426252d76f94ec1be2ff49a5429c77222d03b59a9a73bc2304c176"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Settings",
+      "paths": [
+        "Icon/Color/Settings.png",
+        "Icon/Color/Large/Settings.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Settings.png",
+        "Icon/Color/Large/Settings.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Settings.png": "cdb0abb1c662152dc18b7e710a18bf1dcf72ebf8dcb0df2f2a437fac12807e8d",
+        "Icon/Color/Large/Settings.png": "2ae977d6641b21989277e00b273ee7813e9cfc3d994d0dc96a6ddbc15111c3ab"
+      },
+      "final_sha256": {
+        "Icon/Color/Settings.png": "335f424af5892ec3731fef0809a40bc4f593e7dcfb07425816d54ef77000bb78",
+        "Icon/Color/Large/Settings.png": "6cbde321df29e38b706027f2871ed898784c1f2bf739797111a46ba03e4b4c45"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Signal_Light",
+      "paths": [
+        "Icon/Color/Signal_Light.png",
+        "Icon/Color/Large/Signal_Light.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Signal_Light.png",
+        "Icon/Color/Large/Signal_Light.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Signal_Light.png": "4f35ad02f0ba1c8697356fc5603c0160ef8c0dc86358a2b36bf2a3e60aea9dee",
+        "Icon/Color/Large/Signal_Light.png": "8834a5dcf69e5ad09eb77e796c86246d2f3372ba4a766ce0461d4dd7cdcfb602"
+      },
+      "final_sha256": {
+        "Icon/Color/Signal_Light.png": "ec3e1d763ed56e7e78f3bd30f1f10d666777c486695b2087d4bdb85ed41d494b",
+        "Icon/Color/Large/Signal_Light.png": "d1a551ab3f8774799955afdfbaaa57a159fa3b882a29a5f7d9694159c4f6b35d"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Singapore",
+      "paths": [
+        "Icon/Color/Singapore.png",
+        "Icon/Color/Large/Singapore.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Singapore.png": "40946198bc5fe2ec011c01a355988fcdef9f5f582a2f43f1aa99b6f592c09406",
+        "Icon/Color/Large/Singapore.png": "bbedf89bf0e248618ebbb3bfd5a793d530a7c32c689a49ce7303170b9e5c3abc"
+      },
+      "final_sha256": {
+        "Icon/Color/Singapore.png": "40946198bc5fe2ec011c01a355988fcdef9f5f582a2f43f1aa99b6f592c09406",
+        "Icon/Color/Large/Singapore.png": "bbedf89bf0e248618ebbb3bfd5a793d530a7c32c689a49ce7303170b9e5c3abc"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Sony_Live",
+      "paths": [
+        "Icon/Color/Sony_Live.png",
+        "Icon/Color/Large/Sony_Live.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Sony_Live.png": "0d81a6d71292c2b358edcb804a903b95128b768a1a9a7a4a85ed20cf404aee38",
+        "Icon/Color/Large/Sony_Live.png": "ef3cd6986d6671c9d66a685177b09289c239a20204953b5ae1aa077192b8f9de"
+      },
+      "final_sha256": {
+        "Icon/Color/Sony_Live.png": "0d81a6d71292c2b358edcb804a903b95128b768a1a9a7a4a85ed20cf404aee38",
+        "Icon/Color/Large/Sony_Live.png": "ef3cd6986d6671c9d66a685177b09289c239a20204953b5ae1aa077192b8f9de"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "South_Korea",
+      "paths": [
+        "Icon/Color/South_Korea.png",
+        "Icon/Color/Large/South_Korea.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/South_Korea.png": "4b371bf1bc2075fca08fffedc1a333718c42930e4e3f0aaa99e4f2477f1766d7",
+        "Icon/Color/Large/South_Korea.png": "eb4737cd94f5c467b5197168ba32c5849fe10ced797b50070284eee795f2cae2"
+      },
+      "final_sha256": {
+        "Icon/Color/South_Korea.png": "4b371bf1bc2075fca08fffedc1a333718c42930e4e3f0aaa99e4f2477f1766d7",
+        "Icon/Color/Large/South_Korea.png": "eb4737cd94f5c467b5197168ba32c5849fe10ced797b50070284eee795f2cae2"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "SpeedTest",
+      "paths": [
+        "Icon/Color/SpeedTest.png",
+        "Icon/Color/Large/SpeedTest.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/SpeedTest.png": "3e26f76cbbccaa20b19cb4ed77d678b6db7917b6b99a414a0f1a23239479f28a",
+        "Icon/Color/Large/SpeedTest.png": "f44627da15503031dd8235e89098e66a81b8005a47711ae7569851e5fbfad0ef"
+      },
+      "final_sha256": {
+        "Icon/Color/SpeedTest.png": "3e26f76cbbccaa20b19cb4ed77d678b6db7917b6b99a414a0f1a23239479f28a",
+        "Icon/Color/Large/SpeedTest.png": "f44627da15503031dd8235e89098e66a81b8005a47711ae7569851e5fbfad0ef"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Spotify",
+      "paths": [
+        "Icon/Color/Spotify.png",
+        "Icon/Color/Large/Spotify.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Spotify.png": "001ae3e774226f1d9baf05a39c8429d8cbd204a818fb74902794bde716cf2ca7",
+        "Icon/Color/Large/Spotify.png": "c7717de2275e383f8691cb7a006abde0bcfda761a7a73709151cc9ca140de81e"
+      },
+      "final_sha256": {
+        "Icon/Color/Spotify.png": "001ae3e774226f1d9baf05a39c8429d8cbd204a818fb74902794bde716cf2ca7",
+        "Icon/Color/Large/Spotify.png": "c7717de2275e383f8691cb7a006abde0bcfda761a7a73709151cc9ca140de81e"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Steam",
+      "paths": [
+        "Icon/Color/Steam.png",
+        "Icon/Color/Large/Steam.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Steam.png": "1e048265c1c24cfc4fcb057e6f2194d9123ea049938b3bcf19d631f17ec8c062",
+        "Icon/Color/Large/Steam.png": "b7fe5703d27f4445c174af7d944959446738b21e4b3c4833baf97db2884dd6ae"
+      },
+      "final_sha256": {
+        "Icon/Color/Steam.png": "1e048265c1c24cfc4fcb057e6f2194d9123ea049938b3bcf19d631f17ec8c062",
+        "Icon/Color/Large/Steam.png": "b7fe5703d27f4445c174af7d944959446738b21e4b3c4833baf97db2884dd6ae"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Stream",
+      "paths": [
+        "Icon/Color/Stream.png",
+        "Icon/Color/Large/Stream.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Stream.png",
+        "Icon/Color/Large/Stream.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Stream.png": "bb29e741d25a3ca8d1b1134879e0bd2bac5ee90f16c1f003cda90fee92442454",
+        "Icon/Color/Large/Stream.png": "5878fd3ac5ab8f4fee67bf1808980782d5fbd44db884e7ec489a57f50978d209"
+      },
+      "final_sha256": {
+        "Icon/Color/Stream.png": "bc466541d4f22609635ab375681905c3be6b4902115c624cfb05aa2373f1883d",
+        "Icon/Color/Large/Stream.png": "36a4a9b84ba057301cef475f221822091754a5dae34f9d33e3619dc98b19a201"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Taiwan_Province",
+      "paths": [
+        "Icon/Color/Taiwan_Province.png",
+        "Icon/Color/Large/Taiwan_Province.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Taiwan_Province.png": "e134085583a9764ac204b173fe43eba573140d71a037c8059eca1cef2d307e10",
+        "Icon/Color/Large/Taiwan_Province.png": "6cebf615b11dcd3913580130892050154c0d2de9ec890f109a3133c3defa817a"
+      },
+      "final_sha256": {
+        "Icon/Color/Taiwan_Province.png": "e134085583a9764ac204b173fe43eba573140d71a037c8059eca1cef2d307e10",
+        "Icon/Color/Large/Taiwan_Province.png": "6cebf615b11dcd3913580130892050154c0d2de9ec890f109a3133c3defa817a"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Telegram",
+      "paths": [
+        "Icon/Color/Telegram.png",
+        "Icon/Color/Large/Telegram.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Telegram.png": "1b4b1c8aa45e7bc4273d2cb583749e4f7b8c8211bca31488e97abd9f8514c08b",
+        "Icon/Color/Large/Telegram.png": "c4228086c3efabd9d5e313e54b9ba21ceec4c03bf39f677ed67e84b97168c8f4"
+      },
+      "final_sha256": {
+        "Icon/Color/Telegram.png": "1b4b1c8aa45e7bc4273d2cb583749e4f7b8c8211bca31488e97abd9f8514c08b",
+        "Icon/Color/Large/Telegram.png": "c4228086c3efabd9d5e313e54b9ba21ceec4c03bf39f677ed67e84b97168c8f4"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Threads",
+      "paths": [
+        "Icon/Color/Threads.png",
+        "Icon/Color/Large/Threads.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Threads.png": "41ae90ec053e88b52268057bc434627b81bc836eecfff8616969a3fe4cb0b977",
+        "Icon/Color/Large/Threads.png": "78038e1318ca144772b8e5b54fce2397638ce51891fbe7756f4554ce296d434f"
+      },
+      "final_sha256": {
+        "Icon/Color/Threads.png": "41ae90ec053e88b52268057bc434627b81bc836eecfff8616969a3fe4cb0b977",
+        "Icon/Color/Large/Threads.png": "78038e1318ca144772b8e5b54fce2397638ce51891fbe7756f4554ce296d434f"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Tick",
+      "paths": [
+        "Icon/Color/Tick.png",
+        "Icon/Color/Large/Tick.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Tick.png",
+        "Icon/Color/Large/Tick.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Tick.png": "2f8d14345ab4bf2d2bdb1bda4f4ffdbb6f5a18c3264ea72124d6a3eff5439833",
+        "Icon/Color/Large/Tick.png": "560a68bfd3ce20df0331e2cd1f71a979a2790fb7d37f777788d3cbcaaf840313"
+      },
+      "final_sha256": {
+        "Icon/Color/Tick.png": "1a0f610195103a25cfaa56ff8bf650fe11c94660f0ed51d01da5e758bc3a758a",
+        "Icon/Color/Large/Tick.png": "45cd5b21a8599fbdd882f8530ec853acee4705b1d885ffe79da8f8a51b60f67d"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Tick_2",
+      "paths": [
+        "Icon/Color/Tick_2.png",
+        "Icon/Color/Large/Tick_2.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Tick_2.png",
+        "Icon/Color/Large/Tick_2.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Tick_2.png": "f9f8310cb33470b852d92a5c943a294d095a579d5ad029facf77b58c50c3764e",
+        "Icon/Color/Large/Tick_2.png": "694bc073772ac15efdefe71a11504643e8e6dc424c2c1aa5a51c45f6fb4aa078"
+      },
+      "final_sha256": {
+        "Icon/Color/Tick_2.png": "16c8a2c5db07d1ac0c0732a196169dfc666a463663a78d0450e4c49d4bb173dd",
+        "Icon/Color/Large/Tick_2.png": "6bafb402aef2e16061e10cbd59041541f8cfbf354655f1e3a0415c4fc24cac1f"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "TikTok",
+      "paths": [
+        "Icon/Color/TikTok.png",
+        "Icon/Color/Large/TikTok.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/TikTok.png": "1ec43b6e6511acdc2bfd37d1c28e516ce159233421a654745ef4a08751bdaef4",
+        "Icon/Color/Large/TikTok.png": "e81e273eaa63764ebdbc45ed38e17c1832ab50faecbf11c573a0cb7f3797d849"
+      },
+      "final_sha256": {
+        "Icon/Color/TikTok.png": "1ec43b6e6511acdc2bfd37d1c28e516ce159233421a654745ef4a08751bdaef4",
+        "Icon/Color/Large/TikTok.png": "e81e273eaa63764ebdbc45ed38e17c1832ab50faecbf11c573a0cb7f3797d849"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Transfer",
+      "paths": [
+        "Icon/Color/Transfer.png",
+        "Icon/Color/Large/Transfer.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Transfer.png",
+        "Icon/Color/Large/Transfer.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Transfer.png": "c7b1117044c76cbe6bc78732f601f67a85f300f370911fa172925deb04bc1fa9",
+        "Icon/Color/Large/Transfer.png": "cd5286d6f16aec397bce9c5653c255a4b1f6af352e9d950bce1f8d452ab89ee3"
+      },
+      "final_sha256": {
+        "Icon/Color/Transfer.png": "f579a03701b56bbbf3225fa62f0ee9bf919a2bc8d5a9eb22df9277caf64a17ec",
+        "Icon/Color/Large/Transfer.png": "f1313b4996cb088289fe36277ac67fdc122af1c02ee4cd786a24c98e002f6978"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "Twitch",
+      "paths": [
+        "Icon/Color/Twitch.png",
+        "Icon/Color/Large/Twitch.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Twitch.png": "064bc97a6c1ff14c87ecc577a0a0c584d4c9f0889a660db47d4ea459915e1202",
+        "Icon/Color/Large/Twitch.png": "7fbc5ff064c78d01fd521cfc973de4ca7992096a73654c652834484cf919d7e1"
+      },
+      "final_sha256": {
+        "Icon/Color/Twitch.png": "064bc97a6c1ff14c87ecc577a0a0c584d4c9f0889a660db47d4ea459915e1202",
+        "Icon/Color/Large/Twitch.png": "7fbc5ff064c78d01fd521cfc973de4ca7992096a73654c652834484cf919d7e1"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Twitter",
+      "paths": [
+        "Icon/Color/Twitter.png",
+        "Icon/Color/Large/Twitter.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Twitter.png": "c7a5725a0315fd65fb3d5684b186bae8c6653365c2dd8878cf4dcd18753f05f1",
+        "Icon/Color/Large/Twitter.png": "72768cdb17976bef282fed7c2f355f004baaeb97f27bd397689f91601adb8f70"
+      },
+      "final_sha256": {
+        "Icon/Color/Twitter.png": "c7a5725a0315fd65fb3d5684b186bae8c6653365c2dd8878cf4dcd18753f05f1",
+        "Icon/Color/Large/Twitter.png": "72768cdb17976bef282fed7c2f355f004baaeb97f27bd397689f91601adb8f70"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "UBISOFT",
+      "paths": [
+        "Icon/Color/UBISOFT.png",
+        "Icon/Color/Large/UBISOFT.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/UBISOFT.png": "85f9920c37780edd166b1e3a0d4a169952b6b0d1c02bc071fbe2473ffddb3d37",
+        "Icon/Color/Large/UBISOFT.png": "46805d11299df9a74caf02ca4931027e3cf6bd624be8f6fc75fab3db677b5c2c"
+      },
+      "final_sha256": {
+        "Icon/Color/UBISOFT.png": "85f9920c37780edd166b1e3a0d4a169952b6b0d1c02bc071fbe2473ffddb3d37",
+        "Icon/Color/Large/UBISOFT.png": "46805d11299df9a74caf02ca4931027e3cf6bd624be8f6fc75fab3db677b5c2c"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "UK",
+      "paths": [
+        "Icon/Color/UK.png",
+        "Icon/Color/Large/UK.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/UK.png": "a771227681e81ae02722d57fe51c72061ca4c161c056c21ba077e362291c2d96",
+        "Icon/Color/Large/UK.png": "b6ac20f3fb10db889342aea6ee80f79ccb9953fd6e9dd6fe34bfe0074e539f27"
+      },
+      "final_sha256": {
+        "Icon/Color/UK.png": "a771227681e81ae02722d57fe51c72061ca4c161c056c21ba077e362291c2d96",
+        "Icon/Color/Large/UK.png": "b6ac20f3fb10db889342aea6ee80f79ccb9953fd6e9dd6fe34bfe0074e539f27"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "USA",
+      "paths": [
+        "Icon/Color/USA.png",
+        "Icon/Color/Large/USA.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/USA.png": "e05d491bb4e9a4905e7afd309554ed1d86a7aa03f278d66177897fa5532b2ed3",
+        "Icon/Color/Large/USA.png": "bdb74cd79d4e16b8476c2440e887d628f6bfc1c26c7cb2a0254b70eb7501e705"
+      },
+      "final_sha256": {
+        "Icon/Color/USA.png": "e05d491bb4e9a4905e7afd309554ed1d86a7aa03f278d66177897fa5532b2ed3",
+        "Icon/Color/Large/USA.png": "bdb74cd79d4e16b8476c2440e887d628f6bfc1c26c7cb2a0254b70eb7501e705"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Video_Vimeo",
+      "paths": [
+        "Icon/Color/Video_Vimeo.png",
+        "Icon/Color/Large/Video_Vimeo.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Video_Vimeo.png": "9fc7c29dc9bd408bbeb5173efad9f8036f16611666d620e949ac42e58ca820ea",
+        "Icon/Color/Large/Video_Vimeo.png": "5cb9e89aecd3b78df8d1d5127ea976b77cd26ae4b214a1823f72280fc20f0da4"
+      },
+      "final_sha256": {
+        "Icon/Color/Video_Vimeo.png": "9fc7c29dc9bd408bbeb5173efad9f8036f16611666d620e949ac42e58ca820ea",
+        "Icon/Color/Large/Video_Vimeo.png": "5cb9e89aecd3b78df8d1d5127ea976b77cd26ae4b214a1823f72280fc20f0da4"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Vimeo",
+      "paths": [
+        "Icon/Color/Vimeo.png",
+        "Icon/Color/Large/Vimeo.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Vimeo.png": "cf99a9625abe239be507153037dcbe04e75102804ea36f28134ae7215c4d7bbe",
+        "Icon/Color/Large/Vimeo.png": "cd38cebdd57156dbd91ada22fd318ce7c25b2d3b8a90efaeedd6a93ee97bf26f"
+      },
+      "final_sha256": {
+        "Icon/Color/Vimeo.png": "cf99a9625abe239be507153037dcbe04e75102804ea36f28134ae7215c4d7bbe",
+        "Icon/Color/Large/Vimeo.png": "cd38cebdd57156dbd91ada22fd318ce7c25b2d3b8a90efaeedd6a93ee97bf26f"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Weibo",
+      "paths": [
+        "Icon/Color/Weibo.png",
+        "Icon/Color/Large/Weibo.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Weibo.png": "e8aa075bf0c3833cdb3655c463e70a72019880f19c85766f885752d906916ac1",
+        "Icon/Color/Large/Weibo.png": "0f41364a21ff523567b2a9fcbd6188f19a3ce006d7fce8b64f13fd2b0a5987f0"
+      },
+      "final_sha256": {
+        "Icon/Color/Weibo.png": "e8aa075bf0c3833cdb3655c463e70a72019880f19c85766f885752d906916ac1",
+        "Icon/Color/Large/Weibo.png": "0f41364a21ff523567b2a9fcbd6188f19a3ce006d7fce8b64f13fd2b0a5987f0"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "WhatsApp",
+      "paths": [
+        "Icon/Color/WhatsApp.png",
+        "Icon/Color/Large/WhatsApp.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/WhatsApp.png": "dcc8b094519facc184ab39fb570b8067894a592508781c5ff8a73fd345c15a42",
+        "Icon/Color/Large/WhatsApp.png": "cb116c724ec67c23edea73d2b39b35763f4057b74815c019438ace5d2ab46a19"
+      },
+      "final_sha256": {
+        "Icon/Color/WhatsApp.png": "dcc8b094519facc184ab39fb570b8067894a592508781c5ff8a73fd345c15a42",
+        "Icon/Color/Large/WhatsApp.png": "cb116c724ec67c23edea73d2b39b35763f4057b74815c019438ace5d2ab46a19"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "X",
+      "paths": [
+        "Icon/Color/X.png",
+        "Icon/Color/Large/X.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/X.png": "c7a5725a0315fd65fb3d5684b186bae8c6653365c2dd8878cf4dcd18753f05f1",
+        "Icon/Color/Large/X.png": "72768cdb17976bef282fed7c2f355f004baaeb97f27bd397689f91601adb8f70"
+      },
+      "final_sha256": {
+        "Icon/Color/X.png": "c7a5725a0315fd65fb3d5684b186bae8c6653365c2dd8878cf4dcd18753f05f1",
+        "Icon/Color/Large/X.png": "72768cdb17976bef282fed7c2f355f004baaeb97f27bd397689f91601adb8f70"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Xbox",
+      "paths": [
+        "Icon/Color/Xbox.png",
+        "Icon/Color/Large/Xbox.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Xbox.png": "22d34a430c3b2fae875fc678c63c1060ba3740bab2d9b29bcbee770bfb305dc2",
+        "Icon/Color/Large/Xbox.png": "3b1eaa10f3efad78883fbd0aca436957b2a98d5935ba52efad4b3bdbb79586f9"
+      },
+      "final_sha256": {
+        "Icon/Color/Xbox.png": "22d34a430c3b2fae875fc678c63c1060ba3740bab2d9b29bcbee770bfb305dc2",
+        "Icon/Color/Large/Xbox.png": "3b1eaa10f3efad78883fbd0aca436957b2a98d5935ba52efad4b3bdbb79586f9"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Xianyu",
+      "paths": [
+        "Icon/Color/Xianyu.png",
+        "Icon/Color/Large/Xianyu.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Xianyu.png": "e3fc52d79928825e274b03bbad9fe65675128456b97518c3e05c439870c5d472",
+        "Icon/Color/Large/Xianyu.png": "cb8255677199f8e5220fcccf870e8c08ab61ed47f434fe6f5a9f6ad70578b53f"
+      },
+      "final_sha256": {
+        "Icon/Color/Xianyu.png": "e3fc52d79928825e274b03bbad9fe65675128456b97518c3e05c439870c5d472",
+        "Icon/Color/Large/Xianyu.png": "cb8255677199f8e5220fcccf870e8c08ab61ed47f434fe6f5a9f6ad70578b53f"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Yin_Yang",
+      "paths": [
+        "Icon/Color/Yin_Yang.png",
+        "Icon/Color/Large/Yin_Yang.png"
+      ],
+      "final_disposition": "updated",
+      "changed_paths": [
+        "Icon/Color/Yin_Yang.png",
+        "Icon/Color/Large/Yin_Yang.png"
+      ],
+      "baseline_sha256": {
+        "Icon/Color/Yin_Yang.png": "0b246483117835a273b2a8b6f137d9cf2809585f04784a17a4cc4000115ebbb5",
+        "Icon/Color/Large/Yin_Yang.png": "0a5d5f419f08d219ebb1e5ac906331ff43035ac73b23b7a47e53398ec491d34f"
+      },
+      "final_sha256": {
+        "Icon/Color/Yin_Yang.png": "77a55fec302da72c58beeeac28a77da77b86d551fa486fe6eed8151389996aab",
+        "Icon/Color/Large/Yin_Yang.png": "839d362cfa4caabdb2970b22c8c460b3fd2c403b1f821d1cac5f1e85b8fbf733"
+      },
+      "reason": "Generic/original subject; white disk, functional-series gradient or graphite; refined cohesive form and inner-edge finish.",
+      "category": "inverse_generic"
+    },
+    {
+      "name": "YouTube",
+      "paths": [
+        "Icon/Color/YouTube.png",
+        "Icon/Color/Large/YouTube.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/YouTube.png": "c88febe51d841f62103c26e1ad58968ead0d6dfbb8058bfd805bc977697c741d",
+        "Icon/Color/Large/YouTube.png": "51890d426f2427b9d40f452a6d353c9788098697563bcd4be5ff3a468bcaf19b"
+      },
+      "final_sha256": {
+        "Icon/Color/YouTube.png": "c88febe51d841f62103c26e1ad58968ead0d6dfbb8058bfd805bc977697c741d",
+        "Icon/Color/Large/YouTube.png": "51890d426f2427b9d40f452a6d353c9788098697563bcd4be5ff3a468bcaf19b"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Zoho_new",
+      "paths": [
+        "Icon/Color/Zoho_new.png",
+        "Icon/Color/Large/Zoho_new.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Zoho_new.png": "5623030b3281b7fd7c9629ae542162026836f10766249a8734e697885dd92524",
+        "Icon/Color/Large/Zoho_new.png": "f7f6c7db08992387cdafb25e0659a8fd2017aa22acb35eaadc6e15af732e8eb7"
+      },
+      "final_sha256": {
+        "Icon/Color/Zoho_new.png": "5623030b3281b7fd7c9629ae542162026836f10766249a8734e697885dd92524",
+        "Icon/Color/Large/Zoho_new.png": "f7f6c7db08992387cdafb25e0659a8fd2017aa22acb35eaadc6e15af732e8eb7"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Zoho_old",
+      "paths": [
+        "Icon/Color/Zoho_old.png",
+        "Icon/Color/Large/Zoho_old.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Zoho_old.png": "2b63aec987c14490703c448efdf73f90c0fc27d906e35867a3f0b240b46d1c9d",
+        "Icon/Color/Large/Zoho_old.png": "4adc7914c7c0bdf5701d28a64b1b2912de3decf109ca96bd0d65c24043654620"
+      },
+      "final_sha256": {
+        "Icon/Color/Zoho_old.png": "2b63aec987c14490703c448efdf73f90c0fc27d906e35867a3f0b240b46d1c9d",
+        "Icon/Color/Large/Zoho_old.png": "4adc7914c7c0bdf5701d28a64b1b2912de3decf109ca96bd0d65c24043654620"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "Zune",
+      "paths": [
+        "Icon/Color/Zune.png",
+        "Icon/Color/Large/Zune.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/Zune.png": "806be3125eab1bed94f1a84ac1636859b4a376e301a5d5b13f9966534edba61e",
+        "Icon/Color/Large/Zune.png": "5dee752eed9123c10c710bbf7b76229c5e85aef02d8fa6a355b2014f29e08d72"
+      },
+      "final_sha256": {
+        "Icon/Color/Zune.png": "806be3125eab1bed94f1a84ac1636859b4a376e301a5d5b13f9966534edba61e",
+        "Icon/Color/Large/Zune.png": "5dee752eed9123c10c710bbf7b76229c5e85aef02d8fa6a355b2014f29e08d72"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "bilibili",
+      "paths": [
+        "Icon/Color/bilibili.png",
+        "Icon/Color/Large/Bilibili.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/bilibili.png": "b436e527b0c433bf072b7f4e0b480fcc9070878d3004ee9bc98362f09c63ce49",
+        "Icon/Color/Large/Bilibili.png": "b7191141a3f158ab82854da1e41d63306516c19b8ac4bd055e050560fc811d7d"
+      },
+      "final_sha256": {
+        "Icon/Color/bilibili.png": "b436e527b0c433bf072b7f4e0b480fcc9070878d3004ee9bc98362f09c63ce49",
+        "Icon/Color/Large/Bilibili.png": "b7191141a3f158ab82854da1e41d63306516c19b8ac4bd055e050560fc811d7d"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    },
+    {
+      "name": "xHamster",
+      "paths": [
+        "Icon/Color/xHamster.png",
+        "Icon/Color/Large/xHamster.png"
+      ],
+      "final_disposition": "retained",
+      "changed_paths": [],
+      "baseline_sha256": {
+        "Icon/Color/xHamster.png": "124cca2e53fdcace561ad58a35d37d2974ff44b976d1143324f3d40a8c079590",
+        "Icon/Color/Large/xHamster.png": "60550455452f779e8a744ec0612b97c4b79a732715cdc9ccf18c14da0530fe03"
+      },
+      "final_sha256": {
+        "Icon/Color/xHamster.png": "124cca2e53fdcace561ad58a35d37d2974ff44b976d1143324f3d40a8c079590",
+        "Icon/Color/Large/xHamster.png": "60550455452f779e8a744ec0612b97c4b79a732715cdc9ccf18c14da0530fe03"
+      },
+      "reason": "Keep original published identity, character, flag or named project theme; no unsolicited redesign",
+      "category": "baseline_brand_character_flag_or_named_theme"
+    }
+  ],
+  "additional_protected_files": "Every baseline PNG outside the exact106 paths, including all FDS and both Claud aliases, is retained byte-for-byte."
+}

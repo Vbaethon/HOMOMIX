@@ -1,0 +1,34 @@
+[
+  {
+    "path": "Icon/Color/Bahamut.png",
+    "sha256": "828a6aac6867c494c1d7e678b55231249d89871ea5535685b76adf41b8e82f17"
+  },
+  {
+    "path": "Icon/Color/Bahamut_b.png",
+    "sha256": "0483e06e6429055aa86239a78fe5604b01500e686006b553257a90fce28272cf"
+  },
+  {
+    "path": "Icon/Color/Bahamut_i.png",
+    "sha256": "e32a5ab976ce7b52a6c7f963e6b6afa0a806527ab18ebf9f65859b290fbc297e"
+  },
+  {
+    "path": "Icon/Color/Disney_Castle.png",
+    "sha256": "1645fe3db5e95db9fac4699f0fb6efb5a275cbf6f1be05b8c4a5e2bf216a6eea"
+  },
+  {
+    "path": "Icon/Color/Large/Bahamut.png",
+    "sha256": "887ae95775c167aec3dc3e10136f2a35d7612b7d19484deef366d2f4d645eedf"
+  },
+  {
+    "path": "Icon/Color/Large/Bahamut_b.png",
+    "sha256": "190c3939ea121077564fd7e9527ac87e2c9f48dcd323f3446a1388fa4c04e239"
+  },
+  {
+    "path": "Icon/Color/Large/Bahamut_i.png",
+    "sha256": "3831326e1d5215bc1c7bfeba3a61d868bd65c1056ef059c40bde06b982501653"
+  },
+  {
+    "path": "Icon/Color/Large/Disney_Castle.png",
+    "sha256": "c827aa9a5a26db0415c00eb289404653f66295a403ac8995855dfc31a1797c49"
+  }
+]

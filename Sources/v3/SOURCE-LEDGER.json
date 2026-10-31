@@ -1,0 +1,433 @@
+{
+  "revision": "final-inverse-series",
+  "counts": {
+    "inverse_generic": 49,
+    "preserved_theme_exception": 4
+  },
+  "items": [
+    {
+      "name": "AI",
+      "category": "inverse_generic",
+      "series": "intelligence_rose_violet",
+      "native_source": "Sources/v3/svg/AI.svg",
+      "source_sha256": "b665952d97a4bb7a6ae719169db74b7389427b40fb15ac2b4c2bd0dd79544f36",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "AI_Tree",
+      "category": "inverse_generic",
+      "series": "intelligence_rose_violet",
+      "native_source": "Sources/v3/svg/AI_Tree.svg",
+      "source_sha256": "751123935aa86a34f2c823dfbee905b1026131c3c5264e9e209a1e992b819b87",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "AI_bot",
+      "category": "inverse_generic",
+      "series": "intelligence_rose_violet",
+      "native_source": "Sources/v3/svg/AI_bot.svg",
+      "source_sha256": "afe8b818a6885f2ce6c70b67d58585cabd8b5911f8267728979e0753d9d4e462",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "AI_voice",
+      "category": "inverse_generic",
+      "series": "intelligence_rose_violet",
+      "native_source": "Sources/v3/svg/AI_voice.svg",
+      "source_sha256": "b2cb52e813c0158474f210b7ecea11d2e1d5645dc67baa3de06d70cf2f21d139",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "ASIA",
+      "category": "inverse_generic",
+      "series": "network_blue_cyan",
+      "native_source": "Sources/v3/svg/ASIA.svg",
+      "source_sha256": "b6ad0c192c350d2c93f8aa0ef0d5a522c3f4447de104461776cfa8d78585f8b6",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Adblock",
+      "category": "inverse_generic",
+      "series": "system_graphite",
+      "native_source": "Sources/v3/svg/Adblock.svg",
+      "source_sha256": "953266b69d1b69f5d3f55072f91f8841bb83e3d69dca26fd1622d73765ea24e3",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Auto_Link",
+      "category": "inverse_generic",
+      "series": "network_blue_cyan",
+      "native_source": "Sources/v3/svg/Auto_Link.svg",
+      "source_sha256": "8ed828aea5132e682715f23caa22127842c8f00495e0c79f98290d57b640c55b",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Bahamut",
+      "category": "preserved_approved_theme_exception",
+      "series": "approved_original_theme",
+      "native_source": "Sources/v3/svg/Bahamut.svg",
+      "source_sha256": "81487f68d0b2b13b309e81efb59bff03377a33942ffbe6497dcdf917c9d5a73e",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Bahamut_b",
+      "category": "preserved_approved_theme_exception",
+      "series": "approved_original_theme",
+      "native_source": "Sources/v3/svg/Bahamut_b.svg",
+      "source_sha256": "9eba694bd076561000e493881152c168ad6763acd61938379f1dd36a19972c40",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Bahamut_i",
+      "category": "preserved_approved_theme_exception",
+      "series": "approved_original_theme",
+      "native_source": "Sources/v3/svg/Bahamut_i.svg",
+      "source_sha256": "0e98944acfc3f18bbcc1a7f200475622bc10cf9042df324ae9327708cf901365",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Chained",
+      "category": "inverse_generic",
+      "series": "network_blue_cyan",
+      "native_source": "Sources/v3/svg/Chained.svg",
+      "source_sha256": "3a329822b07ce0c419d158ebd7e6f82c44af6842cf530ee688d0b9028e1e0086",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Chained_2",
+      "category": "inverse_generic",
+      "series": "network_blue_cyan",
+      "native_source": "Sources/v3/svg/Chained_2.svg",
+      "source_sha256": "eb855bf85dd23abb8e5c8a39eb641099ed4a8b270190e513bdc203f7446bbbb7",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Consistent_Hashing",
+      "category": "inverse_generic",
+      "series": "network_blue_cyan",
+      "native_source": "Sources/v3/svg/Consistent_Hashing.svg",
+      "source_sha256": "4ec8caddf5890c610e3bcbc3ad8f26cbe7dbe984c073b6abaa5e74dfaf2096b8",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "DIRECT",
+      "category": "inverse_generic",
+      "series": "network_blue_cyan",
+      "native_source": "Sources/v3/svg/DIRECT.svg",
+      "source_sha256": "537e1848d45bc43064c7268667b60654d9a57a12b223222451b349a9e88a94ef",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Disney_Castle",
+      "category": "preserved_approved_theme_exception",
+      "series": "approved_original_theme",
+      "native_source": "Sources/v3/svg/Disney_Castle.svg",
+      "source_sha256": "b038a5e270200d99f5e6ec2905457b1e3d5808d757ac3b64c185df6174b78280",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Dolphin",
+      "category": "inverse_generic",
+      "series": "animal_green_yellow",
+      "native_source": "Sources/v3/svg/Dolphin.svg",
+      "source_sha256": "0f4d67f1efb95d8134e550cffa1e707916c85e84fa85ea6a6cde6b9ebf95686c",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Download",
+      "category": "inverse_generic",
+      "series": "transfer_orange_red",
+      "native_source": "Sources/v3/svg/Download.svg",
+      "source_sha256": "816c8d8afff45dacdbcf7404ff5d453e82d970e7eb8de31237b627e5637f9882",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Download_2",
+      "category": "inverse_generic",
+      "series": "transfer_orange_red",
+      "native_source": "Sources/v3/svg/Download_2.svg",
+      "source_sha256": "816c8d8afff45dacdbcf7404ff5d453e82d970e7eb8de31237b627e5637f9882",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Failover",
+      "category": "inverse_generic",
+      "series": "network_blue_cyan",
+      "native_source": "Sources/v3/svg/Failover.svg",
+      "source_sha256": "f48de1a4fa593e5b033f3a0937f0967a737c9c7d2fd78ef13ebbea65d6cacd40",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Fish",
+      "category": "inverse_generic",
+      "series": "animal_green_yellow",
+      "native_source": "Sources/v3/svg/Fish.svg",
+      "source_sha256": "f9d6d12d8c5f5bf7d46ba4adccd0d01dd760600c2a88ef991a14c4225e9cae84",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Fish_b",
+      "category": "inverse_generic",
+      "series": "animal_green_yellow",
+      "native_source": "Sources/v3/svg/Fish_b.svg",
+      "source_sha256": "f93b2bfca64ef277f36c0b928ed287bb0ca712bea6ae93681de117b208c5b00b",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Flight",
+      "category": "inverse_generic",
+      "series": "location_emerald_teal",
+      "native_source": "Sources/v3/svg/Flight.svg",
+      "source_sha256": "2975ad42e4a794c0fb3aa768175afd6b24a3ec568a8f37a95281c24b0bac295b",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Forbidden",
+      "category": "inverse_generic",
+      "series": "system_graphite",
+      "native_source": "Sources/v3/svg/Forbidden.svg",
+      "source_sha256": "8ba0c9dbf9a69f6ea73d3e3d4438d0b59a0df752183721d0ab6ecd41f7f6e003",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "GFW",
+      "category": "inverse_generic",
+      "series": "system_graphite",
+      "native_source": "Sources/v3/svg/GFW.svg",
+      "source_sha256": "27d6bc25356f9dadc3d0849d714ffde11bc5033e0b59fc84d48ab17677968202",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Game",
+      "category": "inverse_generic",
+      "series": "entertainment_purple_pink",
+      "native_source": "Sources/v3/svg/Game.svg",
+      "source_sha256": "ea0d41a2d5e4d94f09d8e9107cf5f87d84148633a9819b1f09b08d14de4e0244",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Global",
+      "category": "inverse_generic",
+      "series": "network_blue_cyan",
+      "native_source": "Sources/v3/svg/Global.svg",
+      "source_sha256": "ab107d3cef7aaa044fb94e99c68c38c03aab2bfcb651fd0218d22b62f75d7189",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Globefish",
+      "category": "inverse_generic",
+      "series": "animal_green_yellow",
+      "native_source": "Sources/v3/svg/Globefish.svg",
+      "source_sha256": "339633418a44cf92bdfb4c3bdc2180ac50c226e1e46ae2491aeae1944b215066",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Home",
+      "category": "inverse_generic",
+      "series": "system_graphite",
+      "native_source": "Sources/v3/svg/Home.svg",
+      "source_sha256": "a809234877ac80a019bbadb3b66a7f5b8750eb7babdb08e64029ce4a8a40272a",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Link",
+      "category": "inverse_generic",
+      "series": "network_blue_cyan",
+      "native_source": "Sources/v3/svg/Link.svg",
+      "source_sha256": "44a91356b4e6420069b5c6a31faf7f733396e36d7ae9add522e98568dc622f3d",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Load_balancing",
+      "category": "inverse_generic",
+      "series": "network_blue_cyan",
+      "native_source": "Sources/v3/svg/Load_balancing.svg",
+      "source_sha256": "b94c6e0429eeab4daf9577056f32cce06778bc3e5434bad4dda5bd88f9c12e95",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Load_balancing_2",
+      "category": "inverse_generic",
+      "series": "network_blue_cyan",
+      "native_source": "Sources/v3/svg/Load_balancing_2.svg",
+      "source_sha256": "b94c6e0429eeab4daf9577056f32cce06778bc3e5434bad4dda5bd88f9c12e95",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Load_balancing_3",
+      "category": "inverse_generic",
+      "series": "network_blue_cyan",
+      "native_source": "Sources/v3/svg/Load_balancing_3.svg",
+      "source_sha256": "b94c6e0429eeab4daf9577056f32cce06778bc3e5434bad4dda5bd88f9c12e95",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Location",
+      "category": "inverse_generic",
+      "series": "location_emerald_teal",
+      "native_source": "Sources/v3/svg/Location.svg",
+      "source_sha256": "7bc80782a71baba1c3267b679765651c9459c6f35a9362e079090148008fb2c6",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Magic_Timer",
+      "category": "inverse_generic",
+      "series": "system_graphite",
+      "native_source": "Sources/v3/svg/Magic_Timer.svg",
+      "source_sha256": "50d80014395e196327235b6c3afe67c7f1f3551ff9b34a42334cf5a0dfc568e2",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Mail",
+      "category": "inverse_generic",
+      "series": "intelligence_rose_violet",
+      "native_source": "Sources/v3/svg/Mail.svg",
+      "source_sha256": "fb4091a60851f6269da692a94c7002744deef53d2bdf539dc7f323c0df91ea70",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Network",
+      "category": "inverse_generic",
+      "series": "network_blue_cyan",
+      "native_source": "Sources/v3/svg/Network.svg",
+      "source_sha256": "32646fc2d5b7c83e41d4813855ca01e91b661a3d380217ce39241b93e184b77b",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Network_2",
+      "category": "inverse_generic",
+      "series": "network_blue_cyan",
+      "native_source": "Sources/v3/svg/Network_2.svg",
+      "source_sha256": "5220c9a3404d597c0140d0499056de612d5ecf075ce3b98ceeae326415931c15",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Niche_Link",
+      "category": "inverse_generic",
+      "series": "network_blue_cyan",
+      "native_source": "Sources/v3/svg/Niche_Link.svg",
+      "source_sha256": "eb855bf85dd23abb8e5c8a39eb641099ed4a8b270190e513bdc203f7446bbbb7",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Other",
+      "category": "inverse_generic",
+      "series": "system_graphite",
+      "native_source": "Sources/v3/svg/Other.svg",
+      "source_sha256": "aea89aec6a956ac086487f3b72fb16b32efcf615b375f2266c1dbc92a650bf3c",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Panda",
+      "category": "inverse_generic",
+      "series": "animal_green_yellow",
+      "native_source": "Sources/v3/svg/Panda.svg",
+      "source_sha256": "fb4d35a78f243003287b56775b32e9f795a3009d636496c0fa5f528cb8083380",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Panda_ai",
+      "category": "inverse_generic",
+      "series": "animal_green_yellow",
+      "native_source": "Sources/v3/svg/Panda_ai.svg",
+      "source_sha256": "76b3e6567192e9e86e8f6304ba26a0cc2882961e36a551c390cf604f1278ab8c",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Pig",
+      "category": "inverse_generic",
+      "series": "animal_green_yellow",
+      "native_source": "Sources/v3/svg/Pig.svg",
+      "source_sha256": "63689507bcf4151c294e44d9750bf8249e3286969d7c1a742d6a04d6a8e4840b",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Remote",
+      "category": "inverse_generic",
+      "series": "system_graphite",
+      "native_source": "Sources/v3/svg/Remote.svg",
+      "source_sha256": "75e85a3dca1ea12adef50022a81ed7a91e97376feca893a4ad5d9b0c5b612d30",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Round_Robin",
+      "category": "inverse_generic",
+      "series": "network_blue_cyan",
+      "native_source": "Sources/v3/svg/Round_Robin.svg",
+      "source_sha256": "bad44ded4ac2fe929af7b3cfa7ad63b4fd823978a2849072c28f43024dcb7488",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "SNS",
+      "category": "inverse_generic",
+      "series": "intelligence_rose_violet",
+      "native_source": "Sources/v3/svg/SNS.svg",
+      "source_sha256": "ae9b3e0d43ebe008b1daa03cf1ae4685a1604ec64aca5801cf6f7621a9c544a5",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Server",
+      "category": "inverse_generic",
+      "series": "system_graphite",
+      "native_source": "Sources/v3/svg/Server.svg",
+      "source_sha256": "c22bd46efa071aae544d53351a09ad85ac70d61d26b0f386d9a6d06ca608f382",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Settings",
+      "category": "inverse_generic",
+      "series": "system_graphite",
+      "native_source": "Sources/v3/svg/Settings.svg",
+      "source_sha256": "cc13ee273ebaf2424506eaba752e64ffd4f25fbfebff74b707e7ad00a2eaed84",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Signal_Light",
+      "category": "inverse_generic",
+      "series": "system_graphite",
+      "native_source": "Sources/v3/svg/Signal_Light.svg",
+      "source_sha256": "79aad7a9155251999d7f448e6342bf5dfb322cfc944184a21b3a83e76194d4fe",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Stream",
+      "category": "inverse_generic",
+      "series": "entertainment_purple_pink",
+      "native_source": "Sources/v3/svg/Stream.svg",
+      "source_sha256": "145f23439285880e688d7e49f768ac32cc1004f4d2dc439d27298f942b79b1e5",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Tick",
+      "category": "inverse_generic",
+      "series": "system_graphite",
+      "native_source": "Sources/v3/svg/Tick.svg",
+      "source_sha256": "6ac6aa05b46182583e3eaca9065fdedf4a132bcbea97e8c1bd5421facc609b6c",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Tick_2",
+      "category": "inverse_generic",
+      "series": "system_graphite",
+      "native_source": "Sources/v3/svg/Tick_2.svg",
+      "source_sha256": "939aaeb6e9341ed3cf5b67d1f836960f305777335bff61a822c1ca6e197fe7a0",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Transfer",
+      "category": "inverse_generic",
+      "series": "transfer_orange_red",
+      "native_source": "Sources/v3/svg/Transfer.svg",
+      "source_sha256": "6ee65eaba7a09c4baa847fcf1acbe00630770a611b5b0d4ad5d63dc04b37bcb8",
+      "third_party_new_paths": false
+    },
+    {
+      "name": "Yin_Yang",
+      "category": "inverse_generic",
+      "series": "system_graphite",
+      "native_source": "Sources/v3/svg/Yin_Yang.svg",
+      "source_sha256": "47e319c00e86a2e7c1b91ec6d36dfab98290ce70b5c573f0b28430bd3d69c9ef",
+      "third_party_new_paths": false
+    }
+  ]
+}

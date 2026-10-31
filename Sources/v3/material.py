@@ -1,0 +1,8 @@
+"""Coordinated top-left illumination: restrained highlight, lower inner depth, cast shadows."""
+def filters(graphite=False,inner=True):
+ innerparts=''
+ merge='<feMergeNode in="cast"/><feMergeNode in="SourceGraphic"/>'
+ if inner:
+  innerparts=f'''<feOffset in="SourceAlpha" dx="-2" dy="-4" result="depthOffset"/><feGaussianBlur in="depthOffset" stdDeviation="1.7" result="depthBlur"/><feComposite in="SourceAlpha" in2="depthBlur" operator="out" result="depthEdge"/><feFlood flood-color="#071623" flood-opacity="{'.52' if graphite else '.30'}"/><feComposite in2="depthEdge" operator="in" result="depth"/><feOffset in="SourceAlpha" dx="1" dy="1.7" result="lightOffset"/><feGaussianBlur in="lightOffset" stdDeviation=".65" result="lightBlur"/><feComposite in="SourceAlpha" in2="lightBlur" operator="out" result="lightEdge"/><feFlood flood-color="#FFFFFF" flood-opacity="{'.30' if graphite else '.26'}"/><feComposite in2="lightEdge" operator="in" result="light"/>'''
+  merge+='<feMergeNode in="depth"/><feMergeNode in="light"/>'
+ return f'''<filter id="diskShadow" x="-.1" y="-.1" width="1.2" height="1.2" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="1.5" stdDeviation="1" flood-color="#172338" flood-opacity=".11"/></filter><filter id="inkFinish" x="-.25" y="-.25" width="1.5" height="1.5" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceAlpha" stdDeviation="2.8" result="castBlur"/><feOffset in="castBlur" dx="1" dy="4" result="castOffset"/><feFlood flood-color="#102333" flood-opacity=".16"/><feComposite in2="castOffset" operator="in" result="cast"/>{innerparts}<feMerge>{merge}</feMerge></filter>'''

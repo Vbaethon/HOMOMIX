@@ -3,3 +3,6 @@
 *.yaml
 *.sketch
 .insteadof
+__pycache__/
+node_modules/
+reproduction-report.json

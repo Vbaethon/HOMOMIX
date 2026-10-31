@@ -1,0 +1,838 @@
+{
+  "note": "Connected-component diagnostic is not a replacement for optical/small-size review. Curved shape tips may taper naturally; intentional feature dimensions are specified separately.",
+  "icons": [
+    {
+      "name": "AI",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 1064,
+          "bbox": [
+            124,
+            155,
+            152,
+            199
+          ]
+        },
+        {
+          "area_native_px": 1064,
+          "bbox": [
+            208,
+            155,
+            236,
+            199
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI_Tree",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 448,
+          "bbox": [
+            168,
+            168,
+            192,
+            192
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI_bot",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 1120,
+          "bbox": [
+            126,
+            144,
+            154,
+            190
+          ]
+        },
+        {
+          "area_native_px": 1120,
+          "bbox": [
+            206,
+            144,
+            234,
+            190
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI_voice",
+      "enclosed_negative_components": []
+    },
+    {
+      "name": "ASIA",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 16611,
+          "bbox": [
+            84,
+            100,
+            283,
+            283
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adblock",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 2632,
+          "bbox": [
+            130,
+            163,
+            230,
+            191
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Auto_Link",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 2536,
+          "bbox": [
+            176,
+            107,
+            243,
+            174
+          ]
+        },
+        {
+          "area_native_px": 2536,
+          "bbox": [
+            109,
+            174,
+            176,
+            241
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chained",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 2021,
+          "bbox": [
+            207,
+            95,
+            265,
+            153
+          ]
+        },
+        {
+          "area_native_px": 1562,
+          "bbox": [
+            151,
+            151,
+            209,
+            209
+          ]
+        },
+        {
+          "area_native_px": 2021,
+          "bbox": [
+            95,
+            207,
+            153,
+            265
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chained_2",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 3024,
+          "bbox": [
+            184,
+            102,
+            258,
+            176
+          ]
+        },
+        {
+          "area_native_px": 3024,
+          "bbox": [
+            102,
+            184,
+            176,
+            258
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Consistent_Hashing",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 12476,
+          "bbox": [
+            113,
+            119,
+            247,
+            253
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DIRECT",
+      "enclosed_negative_components": []
+    },
+    {
+      "name": "Dolphin",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 467,
+          "bbox": [
+            228,
+            145,
+            252,
+            170
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Download",
+      "enclosed_negative_components": []
+    },
+    {
+      "name": "Download_2",
+      "enclosed_negative_components": []
+    },
+    {
+      "name": "Failover",
+      "enclosed_negative_components": []
+    },
+    {
+      "name": "Fish",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 540,
+          "bbox": [
+            100,
+            166,
+            126,
+            192
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fish_b",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 540,
+          "bbox": [
+            98,
+            160,
+            124,
+            186
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flight",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 1396,
+          "bbox": [
+            198,
+            123,
+            240,
+            165
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Forbidden",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 9137,
+          "bbox": [
+            131,
+            93,
+            267,
+            229
+          ]
+        },
+        {
+          "area_native_px": 9137,
+          "bbox": [
+            93,
+            131,
+            229,
+            267
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GFW",
+      "enclosed_negative_components": []
+    },
+    {
+      "name": "Game",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 540,
+          "bbox": [
+            208,
+            131,
+            234,
+            157
+          ]
+        },
+        {
+          "area_native_px": 2208,
+          "bbox": [
+            96,
+            134,
+            156,
+            194
+          ]
+        },
+        {
+          "area_native_px": 540,
+          "bbox": [
+            239,
+            177,
+            265,
+            203
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Global",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 16326,
+          "bbox": [
+            85,
+            77,
+            235,
+            283
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Globefish",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 540,
+          "bbox": [
+            133,
+            155,
+            159,
+            181
+          ]
+        },
+        {
+          "area_native_px": 540,
+          "bbox": [
+            201,
+            155,
+            227,
+            181
+          ]
+        },
+        {
+          "area_native_px": 568,
+          "bbox": [
+            168,
+            203,
+            192,
+            233
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Home",
+      "enclosed_negative_components": []
+    },
+    {
+      "name": "Link",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 3024,
+          "bbox": [
+            184,
+            102,
+            258,
+            176
+          ]
+        },
+        {
+          "area_native_px": 3024,
+          "bbox": [
+            102,
+            184,
+            176,
+            258
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Load_balancing",
+      "enclosed_negative_components": []
+    },
+    {
+      "name": "Load_balancing_2",
+      "enclosed_negative_components": []
+    },
+    {
+      "name": "Load_balancing_3",
+      "enclosed_negative_components": []
+    },
+    {
+      "name": "Location",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 3640,
+          "bbox": [
+            146,
+            117,
+            214,
+            185
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Magic_Timer",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 14476,
+          "bbox": [
+            105,
+            109,
+            255,
+            259
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mail",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 4744,
+          "bbox": [
+            96,
+            128,
+            264,
+            204
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Network",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 3527,
+          "bbox": [
+            151,
+            82,
+            209,
+            164
+          ]
+        },
+        {
+          "area_native_px": 1778,
+          "bbox": [
+            83,
+            94,
+            134,
+            164
+          ]
+        },
+        {
+          "area_native_px": 1779,
+          "bbox": [
+            226,
+            94,
+            277,
+            164
+          ]
+        },
+        {
+          "area_native_px": 1778,
+          "bbox": [
+            83,
+            196,
+            134,
+            266
+          ]
+        },
+        {
+          "area_native_px": 3527,
+          "bbox": [
+            151,
+            196,
+            209,
+            278
+          ]
+        },
+        {
+          "area_native_px": 1779,
+          "bbox": [
+            226,
+            196,
+            277,
+            266
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Network_2",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 5653,
+          "bbox": [
+            193,
+            79,
+            283,
+            199
+          ]
+        },
+        {
+          "area_native_px": 14871,
+          "bbox": [
+            77,
+            96,
+            215,
+            283
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Niche_Link",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 3024,
+          "bbox": [
+            184,
+            102,
+            258,
+            176
+          ]
+        },
+        {
+          "area_native_px": 3024,
+          "bbox": [
+            102,
+            184,
+            176,
+            258
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "enclosed_negative_components": []
+    },
+    {
+      "name": "Panda",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 3374,
+          "bbox": [
+            101,
+            132,
+            167,
+            206
+          ]
+        },
+        {
+          "area_native_px": 3374,
+          "bbox": [
+            193,
+            132,
+            259,
+            206
+          ]
+        },
+        {
+          "area_native_px": 626,
+          "bbox": [
+            164,
+            215,
+            196,
+            245
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Panda_ai",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 3174,
+          "bbox": [
+            103,
+            137,
+            167,
+            209
+          ]
+        },
+        {
+          "area_native_px": 3174,
+          "bbox": [
+            193,
+            137,
+            257,
+            209
+          ]
+        },
+        {
+          "area_native_px": 558,
+          "bbox": [
+            165,
+            220,
+            195,
+            248
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pig",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 448,
+          "bbox": [
+            122,
+            141,
+            146,
+            165
+          ]
+        },
+        {
+          "area_native_px": 448,
+          "bbox": [
+            214,
+            141,
+            238,
+            165
+          ]
+        },
+        {
+          "area_native_px": 5944,
+          "bbox": [
+            119,
+            175,
+            241,
+            247
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Remote",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 3600,
+          "bbox": [
+            150,
+            150,
+            210,
+            210
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Round_Robin",
+      "enclosed_negative_components": []
+    },
+    {
+      "name": "SNS",
+      "enclosed_negative_components": []
+    },
+    {
+      "name": "Server",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 448,
+          "bbox": [
+            98,
+            84,
+            122,
+            108
+          ]
+        },
+        {
+          "area_native_px": 1984,
+          "bbox": [
+            164,
+            84,
+            252,
+            108
+          ]
+        },
+        {
+          "area_native_px": 448,
+          "bbox": [
+            98,
+            168,
+            122,
+            192
+          ]
+        },
+        {
+          "area_native_px": 1984,
+          "bbox": [
+            164,
+            168,
+            252,
+            192
+          ]
+        },
+        {
+          "area_native_px": 448,
+          "bbox": [
+            98,
+            252,
+            122,
+            276
+          ]
+        },
+        {
+          "area_native_px": 1984,
+          "bbox": [
+            164,
+            252,
+            252,
+            276
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Settings",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 6376,
+          "bbox": [
+            135,
+            135,
+            225,
+            225
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Signal_Light",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 1528,
+          "bbox": [
+            89,
+            158,
+            133,
+            202
+          ]
+        },
+        {
+          "area_native_px": 1528,
+          "bbox": [
+            158,
+            158,
+            202,
+            202
+          ]
+        },
+        {
+          "area_native_px": 1528,
+          "bbox": [
+            227,
+            158,
+            271,
+            202
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stream",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 24301,
+          "bbox": [
+            82,
+            82,
+            278,
+            278
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tick",
+      "enclosed_negative_components": []
+    },
+    {
+      "name": "Tick_2",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 26399,
+          "bbox": [
+            80,
+            80,
+            280,
+            280
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Transfer",
+      "enclosed_negative_components": []
+    },
+    {
+      "name": "Yin_Yang",
+      "enclosed_negative_components": [
+        {
+          "area_native_px": 13471,
+          "bbox": [
+            85,
+            85,
+            234,
+            263
+          ]
+        },
+        {
+          "area_native_px": 715,
+          "bbox": [
+            165,
+            219,
+            195,
+            249
+          ]
+        }
+      ]
+    }
+  ]
+}
