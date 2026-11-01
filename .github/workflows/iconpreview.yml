@@ -1,4 +1,4 @@
-name: Update README with icons
+name: Update README icon galleries
 
 on:
   push:
@@ -20,6 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: ${{ github.event_name == 'pull_request' && github.ref || 'main' }}
           fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
@@ -27,7 +28,7 @@ jobs:
       - name: Use latest main before generation
         if: github.event_name != 'pull_request'
         run: git pull --ff-only origin main
-      - name: Generate current public file
+      - name: Generate Color, Large and FDS galleries
         run: python generate_readme.py
       - name: Check pull request output
         if: github.event_name == 'pull_request'
@@ -41,5 +42,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update README.md"
+          git commit -m "Update README icon galleries"
           git push origin HEAD:main

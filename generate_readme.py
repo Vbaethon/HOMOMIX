@@ -11,6 +11,7 @@ RAW = 'https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/'
 # Existing URLs remain available, but identical compatibility names are not shown twice.
 ALIASES = {'Download_2.png':'Download.png',
            'Niche_Link.png':'Chained_2.png', 'Link.png':'Chained_2.png'}
+MAX_LABEL_LENGTH = 12
 
 
 def icon_files():
@@ -34,25 +35,41 @@ def catalog_rows():
     return rows
 
 
-def update_readme():
+def gallery_table(files, width, height):
     cells = ['<table>']
-    files = [p for p in icon_files() if p.parent == ROOT/'Icon/Color']
     for i, path in enumerate(files):
         if i % 5 == 0:
             cells.append('<tr>')
-        relative = path.relative_to(ROOT).as_posix()
+        relative = escape(path.relative_to(ROOT).as_posix(), quote=True)
+        full_name = escape(path.name, quote=True)
         label = path.stem
-        cells.append(f'<td align="center"><a href="{escape(relative, quote=True)}"><img src="{escape(relative, quote=True)}" alt="{escape(label, quote=True)}" width="60" height="60"></a><br><strong>{escape(label)}</strong></td>')
+        if len(label) > MAX_LABEL_LENGTH:
+            label = label[:MAX_LABEL_LENGTH-3] + '...'
+        cells.append(f'<td align="center" width="140"><a href="{relative}" title="{full_name}"><img src="{relative}" alt="{full_name}" width="{width}" height="{height}"></a><br><strong title="{full_name}">{escape(label)}</strong></td>')
         if i % 5 == 4 or i == len(files)-1:
             cells.append('</tr>')
     cells.append('</table>')
+    return '\n'.join(cells)
+
+
+def update_readme():
+    files = icon_files()
+    fds_files = sorted((p for p in (ROOT/'Icon/Color/FDS').rglob('*')
+                        if p.is_file() and p.suffix.lower() in {'.png','.jpg','.jpeg','.svg'}),
+                       key=lambda p: (p.as_posix().lower(), p.as_posix()))
+    galleries = []
+    for name, group, width, height in (
+            ('Color', [p for p in files if p.parent == ROOT/'Icon/Color'], 60, 60),
+            ('Large', [p for p in files if p.parent == ROOT/'Icon/Color/Large'], 72, 72),
+            ('FDS', fds_files, 100, 72)):
+        galleries.extend((f'### {name}', gallery_table(group, width, height)))
     path = ROOT/'README.md'
     text = path.read_text(encoding='utf-8')
     if text.count(START) != 1 or text.count(END) != 1:
         raise ValueError('README must contain one original icon gallery marker pair.')
     start = text.index(START) + len(START)
     end = text.index(END, start)
-    path.write_text(text[:start] + '\n\n' + '\n'.join(cells) + '\n\n' + text[end:], encoding='utf-8')
+    path.write_text(text[:start] + '\n\n' + '\n\n'.join(galleries) + '\n\n' + text[end:], encoding='utf-8')
 
 
 if __name__ == '__main__':
