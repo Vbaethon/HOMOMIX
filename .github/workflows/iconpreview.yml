@@ -28,6 +28,8 @@ jobs:
       - name: Use latest main before generation
         if: github.event_name != 'pull_request'
         run: git pull --ff-only origin main
+      - name: Install image measurement dependency
+        run: python -m pip install Pillow==11.3.0
       - name: Generate paired Large and FDS gallery
         run: python generate_readme.py
       - name: Check pull request output

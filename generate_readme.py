@@ -65,6 +65,43 @@ def display_name(name):
     return '<br>'.join(lines)
 
 
+def pair_preview_sizes(pair):
+    # Measure the complete visible icon, including its white disk or backing.
+    # Ignore faint cast-shadow pixels, never crop or alter the source image.
+    from PIL import Image, ImageChops
+    metrics = {}
+    for version, path in pair.items():
+        with Image.open(path) as image:
+            alpha = image.convert('RGBA').getchannel('A')
+            bbox = alpha.point(lambda value: 255 if value >= 128 else 0).getbbox()
+            if bbox is None:
+                raise ValueError(f'Empty gallery icon: {path.name}')
+            if version == 'Large' and path.stem not in {'Apple_Music', 'Amazon', 'Apple'}:
+                # On GitHub's light page a plain white disk is not a visible edge.
+                # Measure the recognizable colored/dark artwork, but retain the
+                # entire source canvas (including the disk) in the linked image.
+                rgb = image.convert('RGB')
+                red, green, blue = rgb.split()
+                low = ImageChops.darker(ImageChops.darker(red, green), blue)
+                high = ImageChops.lighter(ImageChops.lighter(red, green), blue)
+                chroma = ImageChops.subtract(high, low)
+                ink = ImageChops.lighter(low.point(lambda v: 255 if v < 190 else 0),
+                                        chroma.point(lambda v: 255 if v > 25 else 0))
+                ink = ImageChops.multiply(ink, alpha.point(lambda v: 255 if v >= 128 else 0))
+                bbox = ink.getbbox() or bbox
+            x0, y0, x1, y1 = bbox
+            metrics[version] = (image.width, image.height, x1-x0, y1-y0)
+    # Match optical footprint rather than forcing a wide wordmark and a disk
+    # to have the same height. Independent aspect caps keep both recognizable.
+    sizes = {}
+    for version, (w, h, bw, bh) in metrics.items():
+        scale = min(56.0 / (bw * bh) ** 0.5, 76.0 / bw, 64.0 / bh,
+                    144.0 / w, 108.0 / h)
+        sizes[version] = max(1, round(w * scale))
+    return sizes
+
+
+
 def gallery_table(pairs):
     # One flat table: each filename spans its two fixed side-by-side versions.
     # Table cells, rather than CSS or inline images, prevent version wrapping.
@@ -74,30 +111,19 @@ def gallery_table(pairs):
         rows.append('<tr>')
         for pair in group:
             path = pair.get('Large') or pair['FDS']
-            rows.append(f'<td colspan="2" width="200" align="center"><strong title="{escape(path.name, quote=True)}">{display_name(path.stem)}</strong></td>')
+            rows.append(f'<td colspan="2" width="320" align="center"><strong title="{escape(path.name, quote=True)}">{display_name(path.stem)}</strong></td>')
         rows.append('</tr>')
         rows.append('<tr>')
         for pair in group:
-            for version, width, height in (('Large', 52, 52), ('FDS', 100, 72)):
-                if version not in pair:
-                    rows.append('<td width="100"></td>')
-                    continue
-                target = pair[version]
-                relative = escape(target.relative_to(ROOT).as_posix(), quote=True)
-                title = escape(f'{target.name} ({version})', quote=True)
-                rows.append(f'<td width="100" align="center" valign="middle"><a href="{relative}" title="{title}"><img src="{relative}" alt="{title}" width="{width}" height="{height}"></a></td>')
-        rows.append('</tr>')
-        # A shared label row keeps both version links on the same baseline.
-        rows.append('<tr>')
-        for pair in group:
+            sizes = pair_preview_sizes(pair)
             for version in ('Large', 'FDS'):
                 if version not in pair:
-                    rows.append('<td width="100"></td>')
+                    rows.append('<td width="160"></td>')
                     continue
                 target = pair[version]
                 relative = escape(target.relative_to(ROOT).as_posix(), quote=True)
                 title = escape(f'{target.name} ({version})', quote=True)
-                rows.append(f'<td width="100" align="center"><a href="{relative}" title="{title}">{version}</a></td>')
+                rows.append(f'<td width="160" align="center" valign="middle"><a href="{relative}" title="{title}"><img src="{relative}" alt="{title}" width="{sizes[version]}"></a></td>')
         rows.append('</tr>')
     rows.append('</table>')
     return '\n'.join(rows)
