@@ -9,8 +9,8 @@ ROOT = Path(__file__).resolve().parent
 START, END = '<!--start-icons-->', '<!--end-icons-->'
 RAW = 'https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/'
 # Existing URLs remain available, but identical compatibility names are not shown twice.
-ALIASES = {'Zoho_old.png':'Zoho_new.png', 'Download_2.png':'Download.png',
-           'Niche_Link.png':'Chained_2.png', 'Twitter.png':'X.png', 'Link.png':'Chained_2.png'}
+ALIASES = {'Download_2.png':'Download.png',
+           'Niche_Link.png':'Chained_2.png', 'Link.png':'Chained_2.png'}
 
 
 def icon_files():
@@ -35,14 +35,13 @@ def catalog_rows():
 
 
 def update_readme():
-    names = {row['url']: row.get('display_name') for row in catalog_rows()}
     cells = ['<table>']
     files = [p for p in icon_files() if p.parent == ROOT/'Icon/Color']
     for i, path in enumerate(files):
         if i % 5 == 0:
             cells.append('<tr>')
         relative = path.relative_to(ROOT).as_posix()
-        label = names.get(RAW + quote(relative, safe='/')) or path.stem
+        label = path.stem
         cells.append(f'<td align="center"><a href="{escape(relative, quote=True)}"><img src="{escape(relative, quote=True)}" alt="{escape(label, quote=True)}" width="60" height="60"></a><br><strong>{escape(label)}</strong></td>')
         if i % 5 == 4 or i == len(files)-1:
             cells.append('</tr>')

@@ -251,6 +251,10 @@
       "display_name": "Bahamut i"
     },
     {
+      "name": "Battle_net.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Battle_net.png"
+    },
+    {
       "name": "bilibili.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/bilibili.png",
       "id": "color/default/bilibili",
@@ -480,6 +484,10 @@
       "display_name": "Consistent Hashing"
     },
     {
+      "name": "Crunchyroll.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Crunchyroll.png"
+    },
+    {
       "name": "Crypto.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Crypto.png",
       "id": "color/default/Crypto",
@@ -530,6 +538,10 @@
         "height": 300
       },
       "display_name": "Discord"
+    },
+    {
+      "name": "Discovery_plus.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Discovery_plus.png"
     },
     {
       "name": "Disney.png",
@@ -629,6 +641,10 @@
         "height": 300
       },
       "display_name": "Download"
+    },
+    {
+      "name": "EA_App.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/EA_App.png"
     },
     {
       "name": "Emby.png",
@@ -918,6 +934,10 @@
         "height": 300
       },
       "display_name": "Grok"
+    },
+    {
+      "name": "HBO.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/HBO.png"
     },
     {
       "name": "HBO_MAX.png",
@@ -1329,6 +1349,10 @@
       "display_name": "Bahamut i"
     },
     {
+      "name": "Battle_net.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Battle_net.png"
+    },
+    {
       "name": "Bilibili.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bilibili.png",
       "id": "color/large/bilibili",
@@ -1558,6 +1582,10 @@
       "display_name": "Consistent Hashing"
     },
     {
+      "name": "Crunchyroll.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Crunchyroll.png"
+    },
+    {
       "name": "Crypto.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Crypto.png",
       "id": "color/large/Crypto",
@@ -1608,6 +1636,10 @@
         "height": 360
       },
       "display_name": "Discord"
+    },
+    {
+      "name": "Discovery_plus.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Discovery_plus.png"
     },
     {
       "name": "Disney.png",
@@ -1707,6 +1739,10 @@
         "height": 360
       },
       "display_name": "Download"
+    },
+    {
+      "name": "EA_App.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/EA_App.png"
     },
     {
       "name": "Emby.png",
@@ -1996,6 +2032,10 @@
         "height": 360
       },
       "display_name": "Grok"
+    },
+    {
+      "name": "HBO.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/HBO.png"
     },
     {
       "name": "HBO_MAX.png",
@@ -2560,6 +2600,10 @@
       "display_name": "Panda WWF"
     },
     {
+      "name": "Paramount_plus.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Paramount_plus.png"
+    },
+    {
       "name": "PayPal.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/PayPal.png",
       "id": "color/large/PayPal",
@@ -3036,6 +3080,10 @@
       "display_name": "Twitch"
     },
     {
+      "name": "Twitter.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Twitter.png"
+    },
+    {
       "name": "UBISOFT.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/UBISOFT.png",
       "id": "color/large/UBISOFT",
@@ -3210,6 +3258,10 @@
         "height": 360
       },
       "display_name": "Zoho new"
+    },
+    {
+      "name": "Zoho_old.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Zoho_old.png"
     },
     {
       "name": "Zune.png",
@@ -3624,6 +3676,10 @@
         "height": 300
       },
       "display_name": "Panda WWF"
+    },
+    {
+      "name": "Paramount_plus.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Paramount_plus.png"
     },
     {
       "name": "PayPal.png",
@@ -4102,6 +4158,10 @@
       "display_name": "Twitch"
     },
     {
+      "name": "Twitter.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Twitter.png"
+    },
+    {
       "name": "UBISOFT.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/UBISOFT.png",
       "id": "color/default/UBISOFT",
@@ -4276,6 +4336,10 @@
         "height": 300
       },
       "display_name": "Zoho new"
+    },
+    {
+      "name": "Zoho_old.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Zoho_old.png"
     },
     {
       "name": "Zune.png",
