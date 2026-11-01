@@ -62,16 +62,15 @@ def gallery_table(pairs):
         label = path.stem
         if len(label) > MAX_LABEL_LENGTH:
             label = label[:MAX_LABEL_LENGTH-3] + '...'
-        previews, links = [], []
+        versions = []
         for version, width, height in (('Large', 64, 64), ('FDS', 100, 72)):
             if version not in pair:
                 continue
             target = pair[version]
             relative = escape(target.relative_to(ROOT).as_posix(), quote=True)
             title = escape(f'{target.name} ({version})', quote=True)
-            previews.append(f'<a href="{relative}" title="{title}"><img src="{relative}" alt="{title}" width="{width}" height="{height}"></a>')
-            links.append(f'<a href="{relative}" title="{title}">{version}</a>')
-        cells.append(f'<td align="center" width="190">{" ".join(previews)}<br>{" &nbsp; ".join(links)}<br><strong title="{full_name}">{escape(label)}</strong></td>')
+            versions.append(f'<td align="center"><a href="{relative}" title="{title}"><img src="{relative}" alt="{title}" width="{width}" height="{height}"></a><br><a href="{relative}" title="{title}">{version}</a></td>')
+        cells.append(f'<td align="center"><table><tr>{"".join(versions)}</tr></table><strong title="{full_name}">{escape(label)}</strong></td>')
         if i % 4 == 3 or i == len(pairs)-1:
             cells.append('</tr>')
     cells.append('</table>')
