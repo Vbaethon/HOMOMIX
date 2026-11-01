@@ -2824,6 +2824,14 @@
       "display_name": "Remote"
     },
     {
+      "name": "Riot_Client.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Riot_Client.png"
+    },
+    {
+      "name": "Rockstar_Games.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Rockstar_Games.png"
+    },
+    {
       "name": "Round_Robin.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Round_Robin.png",
       "id": "color/large/Round_Robin",
@@ -2996,6 +3004,10 @@
       "display_name": "Stream"
     },
     {
+      "name": "Swiftfin.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Swiftfin.png"
+    },
+    {
       "name": "Taiwan_Province.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Taiwan_Province.png",
       "id": "color/large/Taiwan_Province",
@@ -3106,6 +3118,10 @@
         "height": 360
       },
       "display_name": "UBISOFT"
+    },
+    {
+      "name": "Ubisoft_Connect.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Ubisoft_Connect.png"
     },
     {
       "name": "UK.png",
@@ -3910,6 +3926,14 @@
       "display_name": "Remote"
     },
     {
+      "name": "Riot_Client.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Riot_Client.png"
+    },
+    {
+      "name": "Rockstar_Games.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Rockstar_Games.png"
+    },
+    {
       "name": "Round_Robin.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Round_Robin.png",
       "id": "color/default/Round_Robin",
@@ -4082,6 +4106,10 @@
       "display_name": "Stream"
     },
     {
+      "name": "Swiftfin.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Swiftfin.png"
+    },
+    {
       "name": "Taiwan_Province.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Taiwan_Province.png",
       "id": "color/default/Taiwan_Province",
@@ -4192,6 +4220,10 @@
         "height": 300
       },
       "display_name": "UBISOFT"
+    },
+    {
+      "name": "Ubisoft_Connect.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Ubisoft_Connect.png"
     },
     {
       "name": "UK.png",
