@@ -39,9 +39,9 @@ class DedupTests(unittest.TestCase):
     def test_readme_hides_alias_images_explains_variants(self):
         s=(ROOT/'README.md').read_text(encoding='utf-8')
         for alias in ALIASES:
-            self.assertNotIn(f'alt="{alias}"',s)
-        self.assertNotIn('alt="Claud.png"',s)
-        self.assertIn('alt="Claude.png"',s)
+            self.assertNotIn(f'src="Icon/Color/{alias}"',s)
+        self.assertNotIn('src="Icon/Color/Claud.png"',s)
+        self.assertIn('src="Icon/Color/Claude.png" alt="Claude"',s)
         self.assertIn('配色变体说明',s)
         self.assertIn('不计作独立样式',s)
 

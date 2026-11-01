@@ -27,10 +27,13 @@ class CatalogTests(unittest.TestCase):
             self.assertTrue(item['url'].startswith(RAW_BASE + 'Icon/Color/'))
             self.assertTrue((ROOT / relative).is_file(), relative)
             self.assertEqual(item['name'], Path(relative).name)
-        for relative in ['Icon/Color/FDS/Netflix.png', 'Icon/Color/FDS/YouTube.png',
-                         'Icon/Color/Claude.png', 'Icon/Color/Large/Claude.png',
+        for relative in ['Icon/Color/Claude.png', 'Icon/Color/Large/Claude.png',
                          'Icon/Color/bilibili.png', 'Icon/Color/Large/Bilibili.png']:
             self.assertIn(relative, paths)
+        self.assertNotIn('Icon/Color/FDS/Netflix.png', paths)
+        self.assertNotIn('Icon/Color/FDS/YouTube.png', paths)
+        self.assertTrue((ROOT/'Icon/Color/FDS/Netflix.png').is_file())
+        self.assertTrue((ROOT/'Icon/Color/FDS/YouTube.png').is_file())
         self.assertNotIn('Icon/Color/Claud.png', paths)
         self.assertNotIn('Icon/Color/Large/Claud.png', paths)
 

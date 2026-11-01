@@ -1,0 +1,23 @@
+{
+  "Adobe": {"display_name": "Adobe Creative Cloud", "brand": "Adobe Creative Cloud"},
+  "Cloud": {"display_name": "SoundCloud", "brand": "SoundCloud"},
+  "F2C": {"display_name": "FC2", "brand": "FC2"},
+  "Omission": {"display_name": "Microsoft Edge（Omission 策略）", "brand": "Microsoft Edge", "usage_note": "文件名沿用旧策略名称 Omission；图形身份为 Microsoft Edge，不是独立品牌标志。"},
+  "Load_balancing": {"display_name": "负载均衡 · 分配器"},
+  "Load_balancing_2": {"display_name": "负载均衡 · 三仓"},
+  "Load_balancing_3": {"display_name": "负载均衡 · 平衡台", "usage_note": "平衡概念变体，不表示具体网络拓扑。"},
+  "Chained": {"display_name": "链式连接 · 三环"},
+  "Chained_2": {"display_name": "链式连接 · 双环"},
+  "Auto_Link": {"display_name": "自动链接"},
+  "Disney_Channel": {"display_name": "Disney Channel", "brand": "Disney Channel", "small_size_note": "官方横向字标：36px 圆盘中 CHANNEL 细字难读，建议配合标签或点击查看 Large；不拉伸或私自加粗。", "official_reference": "https://newsroom.disney.fr/photos/logo-disney-channel-png-7dd4-dc71f.html"},
+  "Olympics": {"display_name": "Olympic Rings", "brand": "Olympic Movement", "small_size_note": "官方五环为横向细环，36px 圆盘中视觉分量较轻；保持五环关系与比例，建议配合标签或查看 Large。", "official_reference": "https://www.olympics.com/ioc/olympic-rings"},
+  "Microsoft_365": {"display_name": "Microsoft 365"},
+  "Microsoft_Copilot": {"display_name": "Microsoft Copilot"},
+  "Playstation": {"display_name": "PlayStation"},
+  "Playstation_30th": {"display_name": "PlayStation · 30th Anniversary"},
+  "Playstation_remote": {"display_name": "PlayStation · Remote Play"},
+  "Hugging_face": {"display_name": "Hugging Face · 白底"},
+  "Hugging_face_g": {"display_name": "Hugging Face · 绿底"},
+  "AdblockPlus": {"display_name": "Adblock Plus · 描边版"},
+  "AdblockPlus_2": {"display_name": "Adblock Plus · 实心版"}
+}

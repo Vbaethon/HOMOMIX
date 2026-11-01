@@ -1,0 +1,6 @@
+{
+  "source_dir": "Sources/current",
+  "renderer_dir": "Sources/current",
+  "builder": "build_unified.py",
+  "manifest": "render-manifest.json"
+}

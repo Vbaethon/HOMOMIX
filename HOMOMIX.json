@@ -3,1387 +3,4155 @@
   "icons": [
     {
       "name": "Adblock.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Adblock.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Adblock.png",
+      "id": "color/default/Adblock",
+      "canonical_name": "Adblock",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Adblock"
     },
     {
       "name": "AdblockPlus.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/AdblockPlus.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/AdblockPlus.png",
+      "id": "color/default/AdblockPlus",
+      "canonical_name": "AdblockPlus",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Adblock Plus · 描边版"
     },
     {
       "name": "AdblockPlus_2.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/AdblockPlus_2.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/AdblockPlus_2.png",
+      "id": "color/default/AdblockPlus_2",
+      "canonical_name": "AdblockPlus_2",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Adblock Plus · 实心版"
     },
     {
       "name": "Adguard.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Adguard.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Adguard.png",
+      "id": "color/default/Adguard",
+      "canonical_name": "Adguard",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Adguard"
     },
     {
       "name": "Adobe.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Adobe.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Adobe.png",
+      "id": "color/default/Adobe",
+      "canonical_name": "Adobe",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Adobe Creative Cloud",
+      "brand": "Adobe Creative Cloud"
     },
     {
       "name": "AI.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/AI.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/AI.png",
+      "id": "color/default/AI",
+      "canonical_name": "AI",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "AI"
     },
     {
       "name": "AI_bot.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/AI_bot.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/AI_bot.png",
+      "id": "color/default/AI_bot",
+      "canonical_name": "AI_bot",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "AI bot"
     },
     {
       "name": "AI_Tree.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/AI_Tree.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/AI_Tree.png",
+      "id": "color/default/AI_Tree",
+      "canonical_name": "AI_Tree",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "AI Tree"
     },
     {
       "name": "AI_voice.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/AI_voice.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/AI_voice.png",
+      "id": "color/default/AI_voice",
+      "canonical_name": "AI_voice",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "AI voice"
     },
     {
       "name": "Amazon.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Amazon.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Amazon.png",
+      "id": "color/default/Amazon",
+      "canonical_name": "Amazon",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Amazon"
     },
     {
       "name": "Apple.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Apple.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Apple.png",
+      "id": "color/default/Apple",
+      "canonical_name": "Apple",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Apple"
     },
     {
       "name": "Apple_black.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Apple_black.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Apple_black.png",
+      "id": "color/default/Apple_black",
+      "canonical_name": "Apple_black",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Apple black"
     },
     {
       "name": "Apple_rainbow.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Apple_rainbow.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Apple_rainbow.png",
+      "id": "color/default/Apple_rainbow",
+      "canonical_name": "Apple_rainbow",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Apple rainbow"
     },
     {
       "name": "Apple_TV.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Apple_TV.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Apple_TV.png",
+      "id": "color/default/Apple_TV",
+      "canonical_name": "Apple_TV",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Apple TV"
     },
     {
       "name": "ASIA.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/ASIA.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/ASIA.png",
+      "id": "color/default/ASIA",
+      "canonical_name": "ASIA",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "ASIA"
     },
     {
       "name": "Auto_Link.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Auto_Link.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Auto_Link.png",
+      "id": "color/default/Auto_Link",
+      "canonical_name": "Auto_Link",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "自动链接"
     },
     {
       "name": "Bahamut.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Bahamut.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Bahamut.png",
+      "id": "color/default/Bahamut",
+      "canonical_name": "Bahamut",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Bahamut"
     },
     {
       "name": "Bahamut_b.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Bahamut_b.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Bahamut_b.png",
+      "id": "color/default/Bahamut_b",
+      "canonical_name": "Bahamut_b",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Bahamut b"
     },
     {
       "name": "Bahamut_i.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Bahamut_i.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Bahamut_i.png",
+      "id": "color/default/Bahamut_i",
+      "canonical_name": "Bahamut_i",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Bahamut i"
     },
     {
       "name": "bilibili.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/bilibili.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/bilibili.png",
+      "id": "color/default/bilibili",
+      "canonical_name": "bilibili",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "bilibili"
     },
     {
       "name": "Bilibili_blue.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Bilibili_blue.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Bilibili_blue.png",
+      "id": "color/default/Bilibili_blue",
+      "canonical_name": "Bilibili_blue",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Bilibili blue"
     },
     {
       "name": "Bilibili_Global.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Bilibili_Global.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Bilibili_Global.png",
+      "id": "color/default/Bilibili_Global",
+      "canonical_name": "Bilibili_Global",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Bilibili Global"
     },
     {
       "name": "Binance.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Binance.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Binance.png",
+      "id": "color/default/Binance",
+      "canonical_name": "Binance",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Binance"
     },
     {
       "name": "Bing.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Bing.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Bing.png",
+      "id": "color/default/Bing",
+      "canonical_name": "Bing",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Bing"
     },
     {
       "name": "Bitcoin.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Bitcoin.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Bitcoin.png",
+      "id": "color/default/Bitcoin",
+      "canonical_name": "Bitcoin",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Bitcoin"
     },
     {
       "name": "Bluesky.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Bluesky.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Bluesky.png",
+      "id": "color/default/Bluesky",
+      "canonical_name": "Bluesky",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Bluesky"
     },
     {
       "name": "BT_Bittorrent.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/BT_Bittorrent.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/BT_Bittorrent.png",
+      "id": "color/default/BT_Bittorrent",
+      "canonical_name": "BT_Bittorrent",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "BT Bittorrent"
     },
     {
       "name": "Bytedance.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Bytedance.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Bytedance.png",
+      "id": "color/default/Bytedance",
+      "canonical_name": "Bytedance",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Bytedance"
     },
     {
       "name": "Calcifer.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Calcifer.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Calcifer.png",
+      "id": "color/default/Calcifer",
+      "canonical_name": "Calcifer",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Calcifer"
     },
     {
       "name": "Chained.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Chained.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Chained.png",
+      "id": "color/default/Chained",
+      "canonical_name": "Chained",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "链式连接 · 三环"
     },
     {
       "name": "Chained_2.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Chained_2.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Chained_2.png",
+      "id": "color/default/Chained_2",
+      "canonical_name": "Chained_2",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "链式连接 · 双环"
     },
     {
       "name": "ChatGPT.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/ChatGPT.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/ChatGPT.png",
+      "id": "color/default/ChatGPT",
+      "canonical_name": "ChatGPT",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "ChatGPT"
     },
     {
       "name": "China.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/China.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/China.png",
+      "id": "color/default/China",
+      "canonical_name": "China",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "China"
     },
     {
       "name": "China_Taipei.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/China_Taipei.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/China_Taipei.png",
+      "id": "color/default/China_Taipei",
+      "canonical_name": "China_Taipei",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "China Taipei"
     },
     {
       "name": "Claude.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Claude.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Claude.png",
+      "id": "color/default/Claude",
+      "canonical_name": "Claude",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Claude"
     },
     {
       "name": "Cloud.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Cloud.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Cloud.png",
+      "id": "color/default/Cloud",
+      "canonical_name": "Cloud",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "SoundCloud",
+      "brand": "SoundCloud"
     },
     {
       "name": "CloudFlare.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/CloudFlare.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/CloudFlare.png",
+      "id": "color/default/CloudFlare",
+      "canonical_name": "CloudFlare",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "CloudFlare"
     },
     {
       "name": "Consistent_Hashing.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Consistent_Hashing.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Consistent_Hashing.png",
+      "id": "color/default/Consistent_Hashing",
+      "canonical_name": "Consistent_Hashing",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Consistent Hashing"
     },
     {
       "name": "Crypto.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Crypto.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Crypto.png",
+      "id": "color/default/Crypto",
+      "canonical_name": "Crypto",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Crypto"
     },
     {
       "name": "DeepSeek.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/DeepSeek.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/DeepSeek.png",
+      "id": "color/default/DeepSeek",
+      "canonical_name": "DeepSeek",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "DeepSeek"
     },
     {
       "name": "DIRECT.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/DIRECT.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/DIRECT.png",
+      "id": "color/default/DIRECT",
+      "canonical_name": "DIRECT",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "DIRECT"
     },
     {
       "name": "Discord.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Discord.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Discord.png",
+      "id": "color/default/Discord",
+      "canonical_name": "Discord",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Discord"
     },
     {
       "name": "Disney.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Disney.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Disney.png",
+      "id": "color/default/Disney",
+      "canonical_name": "Disney",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Disney"
     },
     {
       "name": "Disney_Castle.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Disney_Castle.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Disney_Castle.png",
+      "id": "color/default/Disney_Castle",
+      "canonical_name": "Disney_Castle",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Disney Castle"
     },
     {
       "name": "Disney_Channel.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Disney_Channel.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Disney_Channel.png",
+      "id": "color/default/Disney_Channel",
+      "canonical_name": "Disney_Channel",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Disney Channel",
+      "brand": "Disney Channel",
+      "small_size_note": "官方横向字标：36px 圆盘中 CHANNEL 细字难读，建议配合标签或点击查看 Large；不拉伸或私自加粗。",
+      "official_reference": "https://newsroom.disney.fr/photos/logo-disney-channel-png-7dd4-dc71f.html"
     },
     {
       "name": "Disney_Mickey.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Disney_Mickey.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Disney_Mickey.png",
+      "id": "color/default/Disney_Mickey",
+      "canonical_name": "Disney_Mickey",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Disney Mickey"
     },
     {
       "name": "Disney_plus.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Disney_plus.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Disney_plus.png",
+      "id": "color/default/Disney_plus",
+      "canonical_name": "Disney_plus",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Disney plus"
     },
     {
       "name": "Dolphin.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Dolphin.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Dolphin.png",
+      "id": "color/default/Dolphin",
+      "canonical_name": "Dolphin",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Dolphin"
     },
     {
       "name": "Douyin.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Douyin.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Douyin.png",
+      "id": "color/default/Douyin",
+      "canonical_name": "Douyin",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Douyin"
     },
     {
       "name": "Download.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Download.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Download.png",
+      "id": "color/default/Download",
+      "canonical_name": "Download",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Download"
     },
     {
       "name": "Emby.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Emby.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Emby.png",
+      "id": "color/default/Emby",
+      "canonical_name": "Emby",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Emby"
     },
     {
       "name": "EPIC.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/EPIC.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/EPIC.png",
+      "id": "color/default/EPIC",
+      "canonical_name": "EPIC",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "EPIC"
     },
     {
       "name": "European_Union.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/European_Union.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/European_Union.png",
+      "id": "color/default/European_Union",
+      "canonical_name": "European_Union",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "European Union"
     },
     {
       "name": "F2C.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/F2C.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/F2C.png",
+      "id": "color/default/F2C",
+      "canonical_name": "F2C",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "FC2",
+      "brand": "FC2"
     },
     {
       "name": "Facebook.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Facebook.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Facebook.png",
+      "id": "color/default/Facebook",
+      "canonical_name": "Facebook",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Facebook"
     },
     {
       "name": "Failover.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Failover.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Failover.png",
+      "id": "color/default/Failover",
+      "canonical_name": "Failover",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Failover"
     },
     {
       "name": "Fast.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Fast.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Fast.png",
+      "id": "color/default/Fast",
+      "canonical_name": "Fast",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Fast"
     },
     {
       "name": "FCM_Firebase_Cloud_Messaging.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/FCM_Firebase_Cloud_Messaging.png"
-    },
-    {
-      "name": "Netflix.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/FDS/Netflix.png"
-    },
-    {
-      "name": "YouTube.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/FDS/YouTube.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/FCM_Firebase_Cloud_Messaging.png",
+      "id": "color/default/FCM_Firebase_Cloud_Messaging",
+      "canonical_name": "FCM_Firebase_Cloud_Messaging",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "FCM Firebase Cloud Messaging"
     },
     {
       "name": "Fish.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Fish.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Fish.png",
+      "id": "color/default/Fish",
+      "canonical_name": "Fish",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Fish"
     },
     {
       "name": "Fish_b.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Fish_b.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Fish_b.png",
+      "id": "color/default/Fish_b",
+      "canonical_name": "Fish_b",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Fish b"
     },
     {
       "name": "Fish_x.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Fish_x.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Fish_x.png",
+      "id": "color/default/Fish_x",
+      "canonical_name": "Fish_x",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Fish x"
     },
     {
       "name": "Flight.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Flight.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Flight.png",
+      "id": "color/default/Flight",
+      "canonical_name": "Flight",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Flight"
     },
     {
       "name": "Forbidden.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Forbidden.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Forbidden.png",
+      "id": "color/default/Forbidden",
+      "canonical_name": "Forbidden",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Forbidden"
     },
     {
       "name": "Game.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Game.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Game.png",
+      "id": "color/default/Game",
+      "canonical_name": "Game",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Game"
     },
     {
       "name": "Gemini.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Gemini.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Gemini.png",
+      "id": "color/default/Gemini",
+      "canonical_name": "Gemini",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Gemini"
     },
     {
       "name": "GFW.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/GFW.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/GFW.png",
+      "id": "color/default/GFW",
+      "canonical_name": "GFW",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "GFW"
     },
     {
       "name": "GitHub.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/GitHub.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/GitHub.png",
+      "id": "color/default/GitHub",
+      "canonical_name": "GitHub",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "GitHub"
     },
     {
       "name": "Global.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Global.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Global.png",
+      "id": "color/default/Global",
+      "canonical_name": "Global",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Global"
     },
     {
       "name": "Globefish.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Globefish.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Globefish.png",
+      "id": "color/default/Globefish",
+      "canonical_name": "Globefish",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Globefish"
     },
     {
       "name": "Gmail.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Gmail.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Gmail.png",
+      "id": "color/default/Gmail",
+      "canonical_name": "Gmail",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Gmail"
     },
     {
       "name": "GOG.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/GOG.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/GOG.png",
+      "id": "color/default/GOG",
+      "canonical_name": "GOG",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "GOG"
     },
     {
       "name": "Google.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Google.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Google.png",
+      "id": "color/default/Google",
+      "canonical_name": "Google",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Google"
     },
     {
       "name": "Grok.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Grok.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Grok.png",
+      "id": "color/default/Grok",
+      "canonical_name": "Grok",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Grok"
     },
     {
       "name": "HBO_MAX.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/HBO_MAX.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/HBO_MAX.png",
+      "id": "color/default/HBO_MAX",
+      "canonical_name": "HBO_MAX",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "HBO MAX"
     },
     {
       "name": "Home.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Home.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Home.png",
+      "id": "color/default/Home",
+      "canonical_name": "Home",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Home"
     },
     {
       "name": "Hong_Kong.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Hong_Kong.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Hong_Kong.png",
+      "id": "color/default/Hong_Kong",
+      "canonical_name": "Hong_Kong",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Hong Kong"
     },
     {
       "name": "Huawei.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Huawei.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Huawei.png",
+      "id": "color/default/Huawei",
+      "canonical_name": "Huawei",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Huawei"
     },
     {
       "name": "Huawei_black.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Huawei_black.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Huawei_black.png",
+      "id": "color/default/Huawei_black",
+      "canonical_name": "Huawei_black",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Huawei black"
     },
     {
       "name": "Huawei_white.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Huawei_white.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Huawei_white.png",
+      "id": "color/default/Huawei_white",
+      "canonical_name": "Huawei_white",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Huawei white"
     },
     {
       "name": "Hugging_face.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Hugging_face.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Hugging_face.png",
+      "id": "color/default/Hugging_face",
+      "canonical_name": "Hugging_face",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Hugging Face · 白底"
     },
     {
       "name": "Hugging_face_g.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Hugging_face_g.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Hugging_face_g.png",
+      "id": "color/default/Hugging_face_g",
+      "canonical_name": "Hugging_face_g",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Hugging Face · 绿底"
     },
     {
       "name": "Hulu.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Hulu.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Hulu.png",
+      "id": "color/default/Hulu",
+      "canonical_name": "Hulu",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Hulu"
     },
     {
       "name": "Infuse.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Infuse.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Infuse.png",
+      "id": "color/default/Infuse",
+      "canonical_name": "Infuse",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Infuse"
     },
     {
       "name": "Instagram.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Instagram.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Instagram.png",
+      "id": "color/default/Instagram",
+      "canonical_name": "Instagram",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Instagram"
     },
     {
       "name": "Japan.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Japan.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Japan.png",
+      "id": "color/default/Japan",
+      "canonical_name": "Japan",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Japan"
     },
     {
       "name": "Jellyfin.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Jellyfin.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Jellyfin.png",
+      "id": "color/default/Jellyfin",
+      "canonical_name": "Jellyfin",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Jellyfin"
     },
     {
       "name": "Adblock.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Adblock.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Adblock.png",
+      "id": "color/large/Adblock",
+      "canonical_name": "Adblock",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Adblock"
     },
     {
       "name": "AdblockPlus.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/AdblockPlus.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/AdblockPlus.png",
+      "id": "color/large/AdblockPlus",
+      "canonical_name": "AdblockPlus",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Adblock Plus · 描边版"
     },
     {
       "name": "AdblockPlus_2.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/AdblockPlus_2.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/AdblockPlus_2.png",
+      "id": "color/large/AdblockPlus_2",
+      "canonical_name": "AdblockPlus_2",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Adblock Plus · 实心版"
     },
     {
       "name": "Adguard.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Adguard.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Adguard.png",
+      "id": "color/large/Adguard",
+      "canonical_name": "Adguard",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Adguard"
     },
     {
       "name": "Adobe.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Adobe.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Adobe.png",
+      "id": "color/large/Adobe",
+      "canonical_name": "Adobe",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Adobe Creative Cloud",
+      "brand": "Adobe Creative Cloud"
     },
     {
       "name": "AI.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/AI.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/AI.png",
+      "id": "color/large/AI",
+      "canonical_name": "AI",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "AI"
     },
     {
       "name": "AI_bot.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/AI_bot.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/AI_bot.png",
+      "id": "color/large/AI_bot",
+      "canonical_name": "AI_bot",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "AI bot"
     },
     {
       "name": "AI_Tree.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/AI_Tree.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/AI_Tree.png",
+      "id": "color/large/AI_Tree",
+      "canonical_name": "AI_Tree",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "AI Tree"
     },
     {
       "name": "AI_voice.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/AI_voice.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/AI_voice.png",
+      "id": "color/large/AI_voice",
+      "canonical_name": "AI_voice",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "AI voice"
     },
     {
       "name": "Amazon.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Amazon.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Amazon.png",
+      "id": "color/large/Amazon",
+      "canonical_name": "Amazon",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Amazon"
     },
     {
       "name": "Apple.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Apple.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Apple.png",
+      "id": "color/large/Apple",
+      "canonical_name": "Apple",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Apple"
     },
     {
       "name": "Apple_black.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Apple_black.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Apple_black.png",
+      "id": "color/large/Apple_black",
+      "canonical_name": "Apple_black",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Apple black"
     },
     {
       "name": "Apple_rainbow.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Apple_rainbow.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Apple_rainbow.png",
+      "id": "color/large/Apple_rainbow",
+      "canonical_name": "Apple_rainbow",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Apple rainbow"
     },
     {
       "name": "Apple_TV.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Apple_TV.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Apple_TV.png",
+      "id": "color/large/Apple_TV",
+      "canonical_name": "Apple_TV",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Apple TV"
     },
     {
       "name": "ASIA.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/ASIA.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/ASIA.png",
+      "id": "color/large/ASIA",
+      "canonical_name": "ASIA",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "ASIA"
     },
     {
       "name": "Auto_Link.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Auto_Link.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Auto_Link.png",
+      "id": "color/large/Auto_Link",
+      "canonical_name": "Auto_Link",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "自动链接"
     },
     {
       "name": "Bahamut.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bahamut.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bahamut.png",
+      "id": "color/large/Bahamut",
+      "canonical_name": "Bahamut",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Bahamut"
     },
     {
       "name": "Bahamut_b.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bahamut_b.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bahamut_b.png",
+      "id": "color/large/Bahamut_b",
+      "canonical_name": "Bahamut_b",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Bahamut b"
     },
     {
       "name": "Bahamut_i.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bahamut_i.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bahamut_i.png",
+      "id": "color/large/Bahamut_i",
+      "canonical_name": "Bahamut_i",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Bahamut i"
     },
     {
       "name": "Bilibili.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bilibili.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bilibili.png",
+      "id": "color/large/bilibili",
+      "canonical_name": "bilibili",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "bilibili"
     },
     {
       "name": "Bilibili_blue.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bilibili_blue.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bilibili_blue.png",
+      "id": "color/large/Bilibili_blue",
+      "canonical_name": "Bilibili_blue",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Bilibili blue"
     },
     {
       "name": "Bilibili_Global.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bilibili_Global.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bilibili_Global.png",
+      "id": "color/large/Bilibili_Global",
+      "canonical_name": "Bilibili_Global",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Bilibili Global"
     },
     {
       "name": "Binance.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Binance.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Binance.png",
+      "id": "color/large/Binance",
+      "canonical_name": "Binance",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Binance"
     },
     {
       "name": "Bing.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bing.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bing.png",
+      "id": "color/large/Bing",
+      "canonical_name": "Bing",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Bing"
     },
     {
       "name": "Bitcoin.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bitcoin.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bitcoin.png",
+      "id": "color/large/Bitcoin",
+      "canonical_name": "Bitcoin",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Bitcoin"
     },
     {
       "name": "Bluesky.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bluesky.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bluesky.png",
+      "id": "color/large/Bluesky",
+      "canonical_name": "Bluesky",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Bluesky"
     },
     {
       "name": "BT_Bittorrent.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/BT_Bittorrent.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/BT_Bittorrent.png",
+      "id": "color/large/BT_Bittorrent",
+      "canonical_name": "BT_Bittorrent",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "BT Bittorrent"
     },
     {
       "name": "Bytedance.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bytedance.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Bytedance.png",
+      "id": "color/large/Bytedance",
+      "canonical_name": "Bytedance",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Bytedance"
     },
     {
       "name": "Calcifer.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Calcifer.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Calcifer.png",
+      "id": "color/large/Calcifer",
+      "canonical_name": "Calcifer",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Calcifer"
     },
     {
       "name": "Chained.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Chained.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Chained.png",
+      "id": "color/large/Chained",
+      "canonical_name": "Chained",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "链式连接 · 三环"
     },
     {
       "name": "Chained_2.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Chained_2.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Chained_2.png",
+      "id": "color/large/Chained_2",
+      "canonical_name": "Chained_2",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "链式连接 · 双环"
     },
     {
       "name": "ChatGPT.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/ChatGPT.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/ChatGPT.png",
+      "id": "color/large/ChatGPT",
+      "canonical_name": "ChatGPT",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "ChatGPT"
     },
     {
       "name": "China.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/China.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/China.png",
+      "id": "color/large/China",
+      "canonical_name": "China",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "China"
     },
     {
       "name": "China_Taipei.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/China_Taipei.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/China_Taipei.png",
+      "id": "color/large/China_Taipei",
+      "canonical_name": "China_Taipei",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "China Taipei"
     },
     {
       "name": "Claude.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Claude.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Claude.png",
+      "id": "color/large/Claude",
+      "canonical_name": "Claude",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Claude"
     },
     {
       "name": "Cloud.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Cloud.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Cloud.png",
+      "id": "color/large/Cloud",
+      "canonical_name": "Cloud",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "SoundCloud",
+      "brand": "SoundCloud"
     },
     {
       "name": "CloudFlare.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/CloudFlare.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/CloudFlare.png",
+      "id": "color/large/CloudFlare",
+      "canonical_name": "CloudFlare",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "CloudFlare"
     },
     {
       "name": "Consistent_Hashing.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Consistent_Hashing.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Consistent_Hashing.png",
+      "id": "color/large/Consistent_Hashing",
+      "canonical_name": "Consistent_Hashing",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Consistent Hashing"
     },
     {
       "name": "Crypto.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Crypto.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Crypto.png",
+      "id": "color/large/Crypto",
+      "canonical_name": "Crypto",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Crypto"
     },
     {
       "name": "DeepSeek.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/DeepSeek.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/DeepSeek.png",
+      "id": "color/large/DeepSeek",
+      "canonical_name": "DeepSeek",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "DeepSeek"
     },
     {
       "name": "DIRECT.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/DIRECT.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/DIRECT.png",
+      "id": "color/large/DIRECT",
+      "canonical_name": "DIRECT",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "DIRECT"
     },
     {
       "name": "Discord.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Discord.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Discord.png",
+      "id": "color/large/Discord",
+      "canonical_name": "Discord",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Discord"
     },
     {
       "name": "Disney.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Disney.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Disney.png",
+      "id": "color/large/Disney",
+      "canonical_name": "Disney",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Disney"
     },
     {
       "name": "Disney_Castle.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Disney_Castle.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Disney_Castle.png",
+      "id": "color/large/Disney_Castle",
+      "canonical_name": "Disney_Castle",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Disney Castle"
     },
     {
       "name": "Disney_Channel.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Disney_Channel.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Disney_Channel.png",
+      "id": "color/large/Disney_Channel",
+      "canonical_name": "Disney_Channel",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Disney Channel",
+      "brand": "Disney Channel",
+      "small_size_note": "官方横向字标：36px 圆盘中 CHANNEL 细字难读，建议配合标签或点击查看 Large；不拉伸或私自加粗。",
+      "official_reference": "https://newsroom.disney.fr/photos/logo-disney-channel-png-7dd4-dc71f.html"
     },
     {
       "name": "Disney_Mickey.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Disney_Mickey.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Disney_Mickey.png",
+      "id": "color/large/Disney_Mickey",
+      "canonical_name": "Disney_Mickey",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Disney Mickey"
     },
     {
       "name": "Disney_plus.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Disney_plus.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Disney_plus.png",
+      "id": "color/large/Disney_plus",
+      "canonical_name": "Disney_plus",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Disney plus"
     },
     {
       "name": "Dolphin.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Dolphin.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Dolphin.png",
+      "id": "color/large/Dolphin",
+      "canonical_name": "Dolphin",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Dolphin"
     },
     {
       "name": "Douyin.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Douyin.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Douyin.png",
+      "id": "color/large/Douyin",
+      "canonical_name": "Douyin",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Douyin"
     },
     {
       "name": "Download.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Download.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Download.png",
+      "id": "color/large/Download",
+      "canonical_name": "Download",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Download"
     },
     {
       "name": "Emby.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Emby.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Emby.png",
+      "id": "color/large/Emby",
+      "canonical_name": "Emby",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Emby"
     },
     {
       "name": "EPIC.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/EPIC.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/EPIC.png",
+      "id": "color/large/EPIC",
+      "canonical_name": "EPIC",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "EPIC"
     },
     {
       "name": "European_Union.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/European_Union.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/European_Union.png",
+      "id": "color/large/European_Union",
+      "canonical_name": "European_Union",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "European Union"
     },
     {
       "name": "F2C.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/F2C.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/F2C.png",
+      "id": "color/large/F2C",
+      "canonical_name": "F2C",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "FC2",
+      "brand": "FC2"
     },
     {
       "name": "Facebook.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Facebook.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Facebook.png",
+      "id": "color/large/Facebook",
+      "canonical_name": "Facebook",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Facebook"
     },
     {
       "name": "Failover.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Failover.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Failover.png",
+      "id": "color/large/Failover",
+      "canonical_name": "Failover",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Failover"
     },
     {
       "name": "Fast.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Fast.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Fast.png",
+      "id": "color/large/Fast",
+      "canonical_name": "Fast",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Fast"
     },
     {
       "name": "FCM_Firebase_Cloud_Messaging.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/FCM_Firebase_Cloud_Messaging.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/FCM_Firebase_Cloud_Messaging.png",
+      "id": "color/large/FCM_Firebase_Cloud_Messaging",
+      "canonical_name": "FCM_Firebase_Cloud_Messaging",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "FCM Firebase Cloud Messaging"
     },
     {
       "name": "Fish.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Fish.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Fish.png",
+      "id": "color/large/Fish",
+      "canonical_name": "Fish",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Fish"
     },
     {
       "name": "Fish_b.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Fish_b.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Fish_b.png",
+      "id": "color/large/Fish_b",
+      "canonical_name": "Fish_b",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Fish b"
     },
     {
       "name": "Fish_x.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Fish_x.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Fish_x.png",
+      "id": "color/large/Fish_x",
+      "canonical_name": "Fish_x",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Fish x"
     },
     {
       "name": "Flight.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Flight.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Flight.png",
+      "id": "color/large/Flight",
+      "canonical_name": "Flight",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Flight"
     },
     {
       "name": "Forbidden.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Forbidden.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Forbidden.png",
+      "id": "color/large/Forbidden",
+      "canonical_name": "Forbidden",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Forbidden"
     },
     {
       "name": "Game.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Game.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Game.png",
+      "id": "color/large/Game",
+      "canonical_name": "Game",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Game"
     },
     {
       "name": "Gemini.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Gemini.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Gemini.png",
+      "id": "color/large/Gemini",
+      "canonical_name": "Gemini",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Gemini"
     },
     {
       "name": "GFW.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/GFW.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/GFW.png",
+      "id": "color/large/GFW",
+      "canonical_name": "GFW",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "GFW"
     },
     {
       "name": "GitHub.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/GitHub.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/GitHub.png",
+      "id": "color/large/GitHub",
+      "canonical_name": "GitHub",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "GitHub"
     },
     {
       "name": "Global.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Global.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Global.png",
+      "id": "color/large/Global",
+      "canonical_name": "Global",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Global"
     },
     {
       "name": "Globefish.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Globefish.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Globefish.png",
+      "id": "color/large/Globefish",
+      "canonical_name": "Globefish",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Globefish"
     },
     {
       "name": "Gmail.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Gmail.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Gmail.png",
+      "id": "color/large/Gmail",
+      "canonical_name": "Gmail",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Gmail"
     },
     {
       "name": "GOG.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/GOG.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/GOG.png",
+      "id": "color/large/GOG",
+      "canonical_name": "GOG",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "GOG"
     },
     {
       "name": "Google.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Google.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Google.png",
+      "id": "color/large/Google",
+      "canonical_name": "Google",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Google"
     },
     {
       "name": "Grok.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Grok.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Grok.png",
+      "id": "color/large/Grok",
+      "canonical_name": "Grok",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Grok"
     },
     {
       "name": "HBO_MAX.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/HBO_MAX.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/HBO_MAX.png",
+      "id": "color/large/HBO_MAX",
+      "canonical_name": "HBO_MAX",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "HBO MAX"
     },
     {
       "name": "Home.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Home.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Home.png",
+      "id": "color/large/Home",
+      "canonical_name": "Home",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Home"
     },
     {
       "name": "Hong_Kong.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Hong_Kong.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Hong_Kong.png",
+      "id": "color/large/Hong_Kong",
+      "canonical_name": "Hong_Kong",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Hong Kong"
     },
     {
       "name": "Huawei.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Huawei.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Huawei.png",
+      "id": "color/large/Huawei",
+      "canonical_name": "Huawei",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Huawei"
     },
     {
       "name": "Huawei_black.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Huawei_black.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Huawei_black.png",
+      "id": "color/large/Huawei_black",
+      "canonical_name": "Huawei_black",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Huawei black"
     },
     {
       "name": "Huawei_white.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Huawei_white.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Huawei_white.png",
+      "id": "color/large/Huawei_white",
+      "canonical_name": "Huawei_white",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Huawei white"
     },
     {
       "name": "Hugging_face.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Hugging_face.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Hugging_face.png",
+      "id": "color/large/Hugging_face",
+      "canonical_name": "Hugging_face",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Hugging Face · 白底"
     },
     {
       "name": "Hugging_face_g.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Hugging_face_g.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Hugging_face_g.png",
+      "id": "color/large/Hugging_face_g",
+      "canonical_name": "Hugging_face_g",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Hugging Face · 绿底"
     },
     {
       "name": "Hulu.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Hulu.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Hulu.png",
+      "id": "color/large/Hulu",
+      "canonical_name": "Hulu",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Hulu"
     },
     {
       "name": "Infuse.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Infuse.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Infuse.png",
+      "id": "color/large/Infuse",
+      "canonical_name": "Infuse",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Infuse"
     },
     {
       "name": "Instagram.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Instagram.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Instagram.png",
+      "id": "color/large/Instagram",
+      "canonical_name": "Instagram",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Instagram"
     },
     {
       "name": "Japan.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Japan.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Japan.png",
+      "id": "color/large/Japan",
+      "canonical_name": "Japan",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Japan"
     },
     {
       "name": "Jellyfin.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Jellyfin.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Jellyfin.png",
+      "id": "color/large/Jellyfin",
+      "canonical_name": "Jellyfin",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Jellyfin"
     },
     {
       "name": "Linkedin.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Linkedin.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Linkedin.png",
+      "id": "color/large/Linkedin",
+      "canonical_name": "Linkedin",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Linkedin"
     },
     {
       "name": "Linkedin_ray.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Linkedin_ray.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Linkedin_ray.png",
+      "id": "color/large/Linkedin_ray",
+      "canonical_name": "Linkedin_ray",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Linkedin ray"
     },
     {
       "name": "Load_balancing.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Load_balancing.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Load_balancing.png",
+      "id": "color/large/Load_balancing",
+      "canonical_name": "Load_balancing",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "负载均衡 · 分配器"
     },
     {
       "name": "Load_balancing_2.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Load_balancing_2.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Load_balancing_2.png",
+      "id": "color/large/Load_balancing_2",
+      "canonical_name": "Load_balancing_2",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "负载均衡 · 三仓"
     },
     {
       "name": "Load_balancing_3.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Load_balancing_3.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Load_balancing_3.png",
+      "id": "color/large/Load_balancing_3",
+      "canonical_name": "Load_balancing_3",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "负载均衡 · 平衡台",
+      "usage_note": "平衡概念变体，不表示具体网络拓扑。"
     },
     {
       "name": "Location.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Location.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Location.png",
+      "id": "color/large/Location",
+      "canonical_name": "Location",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Location"
     },
     {
       "name": "Magic_Timer.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Magic_Timer.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Magic_Timer.png",
+      "id": "color/large/Magic_Timer",
+      "canonical_name": "Magic_Timer",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Magic Timer"
     },
     {
       "name": "Mail.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Mail.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Mail.png",
+      "id": "color/large/Mail",
+      "canonical_name": "Mail",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Mail"
     },
     {
       "name": "Messenger.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Messenger.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Messenger.png",
+      "id": "color/large/Messenger",
+      "canonical_name": "Messenger",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Messenger"
     },
     {
       "name": "Meta_1.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Meta_1.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Meta_1.png",
+      "id": "color/large/Meta_1",
+      "canonical_name": "Meta_1",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Meta 1"
     },
     {
       "name": "Microsoft.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Microsoft.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Microsoft.png",
+      "id": "color/large/Microsoft",
+      "canonical_name": "Microsoft",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Microsoft"
     },
     {
       "name": "Microsoft_365.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Microsoft_365.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Microsoft_365.png",
+      "id": "color/large/Microsoft_365",
+      "canonical_name": "Microsoft_365",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Microsoft 365"
     },
     {
       "name": "Microsoft_Copilot.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Microsoft_Copilot.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Microsoft_Copilot.png",
+      "id": "color/large/Microsoft_Copilot",
+      "canonical_name": "Microsoft_Copilot",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Microsoft Copilot"
     },
     {
       "name": "MLB.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/MLB.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/MLB.png",
+      "id": "color/large/MLB",
+      "canonical_name": "MLB",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "MLB"
     },
     {
       "name": "NBA.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/NBA.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/NBA.png",
+      "id": "color/large/NBA",
+      "canonical_name": "NBA",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "NBA"
     },
     {
       "name": "Netflix.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Netflix.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Netflix.png",
+      "id": "color/large/Netflix",
+      "canonical_name": "Netflix",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Netflix"
     },
     {
       "name": "Netflix_b.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Netflix_b.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Netflix_b.png",
+      "id": "color/large/Netflix_b",
+      "canonical_name": "Netflix_b",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Netflix b"
     },
     {
       "name": "Network.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Network.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Network.png",
+      "id": "color/large/Network",
+      "canonical_name": "Network",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Network"
     },
     {
       "name": "Network_2.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Network_2.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Network_2.png",
+      "id": "color/large/Network_2",
+      "canonical_name": "Network_2",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Network 2"
     },
     {
       "name": "Niconico.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Niconico.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Niconico.png",
+      "id": "color/large/Niconico",
+      "canonical_name": "Niconico",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Niconico"
     },
     {
       "name": "Niconico_Live.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Niconico_Live.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Niconico_Live.png",
+      "id": "color/large/Niconico_Live",
+      "canonical_name": "Niconico_Live",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Niconico Live"
     },
     {
       "name": "Niconico_Manga.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Niconico_Manga.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Niconico_Manga.png",
+      "id": "color/large/Niconico_Manga",
+      "canonical_name": "Niconico_Manga",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Niconico Manga"
     },
     {
       "name": "Olympics.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Olympics.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Olympics.png",
+      "id": "color/large/Olympics",
+      "canonical_name": "Olympics",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Olympic Rings",
+      "brand": "Olympic Movement",
+      "small_size_note": "官方五环为横向细环，36px 圆盘中视觉分量较轻；保持五环关系与比例，建议配合标签或查看 Large。",
+      "official_reference": "https://www.olympics.com/ioc/olympic-rings"
     },
     {
       "name": "Omission.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Omission.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Omission.png",
+      "id": "color/large/Omission",
+      "canonical_name": "Omission",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Microsoft Edge（Omission 策略）",
+      "brand": "Microsoft Edge",
+      "usage_note": "文件名沿用旧策略名称 Omission；图形身份为 Microsoft Edge，不是独立品牌标志。"
     },
     {
       "name": "OneDrive.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/OneDrive.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/OneDrive.png",
+      "id": "color/large/OneDrive",
+      "canonical_name": "OneDrive",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "OneDrive"
     },
     {
       "name": "Onlyfans.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Onlyfans.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Onlyfans.png",
+      "id": "color/large/Onlyfans",
+      "canonical_name": "Onlyfans",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Onlyfans"
     },
     {
       "name": "Other.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Other.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Other.png",
+      "id": "color/large/Other",
+      "canonical_name": "Other",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Other"
     },
     {
       "name": "Outlook.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Outlook.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Outlook.png",
+      "id": "color/large/Outlook",
+      "canonical_name": "Outlook",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Outlook"
     },
     {
       "name": "Palestine.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Palestine.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Palestine.png",
+      "id": "color/large/Palestine",
+      "canonical_name": "Palestine",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Palestine"
     },
     {
       "name": "Panda.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Panda.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Panda.png",
+      "id": "color/large/Panda",
+      "canonical_name": "Panda",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Panda"
     },
     {
       "name": "Panda_ai.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Panda_ai.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Panda_ai.png",
+      "id": "color/large/Panda_ai",
+      "canonical_name": "Panda_ai",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Panda ai"
     },
     {
       "name": "Panda_WWF.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Panda_WWF.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Panda_WWF.png",
+      "id": "color/large/Panda_WWF",
+      "canonical_name": "Panda_WWF",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Panda WWF"
     },
     {
       "name": "PayPal.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/PayPal.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/PayPal.png",
+      "id": "color/large/PayPal",
+      "canonical_name": "PayPal",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "PayPal"
     },
     {
       "name": "PayPal_business.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/PayPal_business.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/PayPal_business.png",
+      "id": "color/large/PayPal_business",
+      "canonical_name": "PayPal_business",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "PayPal business"
     },
     {
       "name": "Peacook.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Peacook.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Peacook.png",
+      "id": "color/large/Peacook",
+      "canonical_name": "Peacook",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Peacook"
     },
     {
       "name": "Perplexity.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Perplexity.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Perplexity.png",
+      "id": "color/large/Perplexity",
+      "canonical_name": "Perplexity",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Perplexity"
     },
     {
       "name": "Pig.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Pig.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Pig.png",
+      "id": "color/large/Pig",
+      "canonical_name": "Pig",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Pig"
     },
     {
       "name": "Piggies.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Piggies.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Piggies.png",
+      "id": "color/large/Piggies",
+      "canonical_name": "Piggies",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Piggies"
     },
     {
       "name": "Piggies_b.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Piggies_b.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Piggies_b.png",
+      "id": "color/large/Piggies_b",
+      "canonical_name": "Piggies_b",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Piggies b"
     },
     {
       "name": "Pixiv.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Pixiv.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Pixiv.png",
+      "id": "color/large/Pixiv",
+      "canonical_name": "Pixiv",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Pixiv"
     },
     {
       "name": "Playstation.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Playstation.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Playstation.png",
+      "id": "color/large/Playstation",
+      "canonical_name": "Playstation",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "PlayStation"
     },
     {
       "name": "Playstation_30th.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Playstation_30th.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Playstation_30th.png",
+      "id": "color/large/Playstation_30th",
+      "canonical_name": "Playstation_30th",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "PlayStation · 30th Anniversary"
     },
     {
       "name": "Playstation_remote.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Playstation_remote.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Playstation_remote.png",
+      "id": "color/large/Playstation_remote",
+      "canonical_name": "Playstation_remote",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "PlayStation · Remote Play"
     },
     {
       "name": "Plex.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Plex.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Plex.png",
+      "id": "color/large/Plex",
+      "canonical_name": "Plex",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Plex"
     },
     {
       "name": "Pornhub.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Pornhub.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Pornhub.png",
+      "id": "color/large/Pornhub",
+      "canonical_name": "Pornhub",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Pornhub"
     },
     {
       "name": "Prime.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Prime.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Prime.png",
+      "id": "color/large/Prime",
+      "canonical_name": "Prime",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Prime"
     },
     {
       "name": "Qoura.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Qoura.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Qoura.png",
+      "id": "color/large/Qoura",
+      "canonical_name": "Qoura",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Qoura"
     },
     {
       "name": "Reddit.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Reddit.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Reddit.png",
+      "id": "color/large/Reddit",
+      "canonical_name": "Reddit",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Reddit"
     },
     {
       "name": "Remote.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Remote.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Remote.png",
+      "id": "color/large/Remote",
+      "canonical_name": "Remote",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Remote"
     },
     {
       "name": "Round_Robin.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Round_Robin.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Round_Robin.png",
+      "id": "color/large/Round_Robin",
+      "canonical_name": "Round_Robin",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Round Robin"
     },
     {
       "name": "Scholar.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Scholar.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Scholar.png",
+      "id": "color/large/Scholar",
+      "canonical_name": "Scholar",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Scholar"
     },
     {
       "name": "Seancody.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Seancody.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Seancody.png",
+      "id": "color/large/Seancody",
+      "canonical_name": "Seancody",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Seancody"
     },
     {
       "name": "Server.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Server.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Server.png",
+      "id": "color/large/Server",
+      "canonical_name": "Server",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Server"
     },
     {
       "name": "Settings.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Settings.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Settings.png",
+      "id": "color/large/Settings",
+      "canonical_name": "Settings",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Settings"
     },
     {
       "name": "Signal_Light.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Signal_Light.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Signal_Light.png",
+      "id": "color/large/Signal_Light",
+      "canonical_name": "Signal_Light",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Signal Light"
     },
     {
       "name": "Singapore.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Singapore.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Singapore.png",
+      "id": "color/large/Singapore",
+      "canonical_name": "Singapore",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Singapore"
     },
     {
       "name": "SNS.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/SNS.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/SNS.png",
+      "id": "color/large/SNS",
+      "canonical_name": "SNS",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "SNS"
     },
     {
       "name": "Sony_Live.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Sony_Live.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Sony_Live.png",
+      "id": "color/large/Sony_Live",
+      "canonical_name": "Sony_Live",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Sony Live"
     },
     {
       "name": "South_Korea.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/South_Korea.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/South_Korea.png",
+      "id": "color/large/South_Korea",
+      "canonical_name": "South_Korea",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "South Korea"
     },
     {
       "name": "SpeedTest.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/SpeedTest.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/SpeedTest.png",
+      "id": "color/large/SpeedTest",
+      "canonical_name": "SpeedTest",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "SpeedTest"
     },
     {
       "name": "Spotify.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Spotify.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Spotify.png",
+      "id": "color/large/Spotify",
+      "canonical_name": "Spotify",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Spotify"
     },
     {
       "name": "Steam.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Steam.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Steam.png",
+      "id": "color/large/Steam",
+      "canonical_name": "Steam",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Steam"
     },
     {
       "name": "Stream.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Stream.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Stream.png",
+      "id": "color/large/Stream",
+      "canonical_name": "Stream",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Stream"
     },
     {
       "name": "Taiwan_Province.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Taiwan_Province.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Taiwan_Province.png",
+      "id": "color/large/Taiwan_Province",
+      "canonical_name": "Taiwan_Province",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Taiwan Province"
     },
     {
       "name": "Telegram.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Telegram.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Telegram.png",
+      "id": "color/large/Telegram",
+      "canonical_name": "Telegram",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Telegram"
     },
     {
       "name": "Threads.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Threads.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Threads.png",
+      "id": "color/large/Threads",
+      "canonical_name": "Threads",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Threads"
     },
     {
       "name": "Tick.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Tick.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Tick.png",
+      "id": "color/large/Tick",
+      "canonical_name": "Tick",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Tick"
     },
     {
       "name": "Tick_2.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Tick_2.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Tick_2.png",
+      "id": "color/large/Tick_2",
+      "canonical_name": "Tick_2",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Tick 2"
     },
     {
       "name": "TikTok.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/TikTok.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/TikTok.png",
+      "id": "color/large/TikTok",
+      "canonical_name": "TikTok",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "TikTok"
     },
     {
       "name": "Transfer.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Transfer.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Transfer.png",
+      "id": "color/large/Transfer",
+      "canonical_name": "Transfer",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Transfer"
     },
     {
       "name": "Twitch.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Twitch.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Twitch.png",
+      "id": "color/large/Twitch",
+      "canonical_name": "Twitch",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Twitch"
     },
     {
       "name": "UBISOFT.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/UBISOFT.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/UBISOFT.png",
+      "id": "color/large/UBISOFT",
+      "canonical_name": "UBISOFT",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "UBISOFT"
     },
     {
       "name": "UK.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/UK.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/UK.png",
+      "id": "color/large/UK",
+      "canonical_name": "UK",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "UK"
     },
     {
       "name": "USA.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/USA.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/USA.png",
+      "id": "color/large/USA",
+      "canonical_name": "USA",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "USA"
     },
     {
       "name": "Video_Vimeo.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Video_Vimeo.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Video_Vimeo.png",
+      "id": "color/large/Video_Vimeo",
+      "canonical_name": "Video_Vimeo",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Video Vimeo"
     },
     {
       "name": "Vimeo.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Vimeo.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Vimeo.png",
+      "id": "color/large/Vimeo",
+      "canonical_name": "Vimeo",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Vimeo"
     },
     {
       "name": "Weibo.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Weibo.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Weibo.png",
+      "id": "color/large/Weibo",
+      "canonical_name": "Weibo",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Weibo"
     },
     {
       "name": "WhatsApp.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/WhatsApp.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/WhatsApp.png",
+      "id": "color/large/WhatsApp",
+      "canonical_name": "WhatsApp",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "WhatsApp"
     },
     {
       "name": "X.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/X.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/X.png",
+      "id": "color/large/X",
+      "canonical_name": "X",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "X"
     },
     {
       "name": "Xbox.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Xbox.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Xbox.png",
+      "id": "color/large/Xbox",
+      "canonical_name": "Xbox",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Xbox"
     },
     {
       "name": "xHamster.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/xHamster.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/xHamster.png",
+      "id": "color/large/xHamster",
+      "canonical_name": "xHamster",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "xHamster"
     },
     {
       "name": "Xianyu.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Xianyu.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Xianyu.png",
+      "id": "color/large/Xianyu",
+      "canonical_name": "Xianyu",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Xianyu"
     },
     {
       "name": "Yin_Yang.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Yin_Yang.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Yin_Yang.png",
+      "id": "color/large/Yin_Yang",
+      "canonical_name": "Yin_Yang",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Yin Yang"
     },
     {
       "name": "YouTube.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/YouTube.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/YouTube.png",
+      "id": "color/large/YouTube",
+      "canonical_name": "YouTube",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "YouTube"
     },
     {
       "name": "Zoho_new.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Zoho_new.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Zoho_new.png",
+      "id": "color/large/Zoho_new",
+      "canonical_name": "Zoho_new",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Zoho new"
     },
     {
       "name": "Zune.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Zune.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Zune.png",
+      "id": "color/large/Zune",
+      "canonical_name": "Zune",
+      "variant": "large",
+      "size": {
+        "width": 360,
+        "height": 360
+      },
+      "display_name": "Zune"
     },
     {
       "name": "Linkedin.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Linkedin.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Linkedin.png",
+      "id": "color/default/Linkedin",
+      "canonical_name": "Linkedin",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Linkedin"
     },
     {
       "name": "Linkedin_ray.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Linkedin_ray.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Linkedin_ray.png",
+      "id": "color/default/Linkedin_ray",
+      "canonical_name": "Linkedin_ray",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Linkedin ray"
     },
     {
       "name": "Load_balancing.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Load_balancing.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Load_balancing.png",
+      "id": "color/default/Load_balancing",
+      "canonical_name": "Load_balancing",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "负载均衡 · 分配器"
     },
     {
       "name": "Load_balancing_2.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Load_balancing_2.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Load_balancing_2.png",
+      "id": "color/default/Load_balancing_2",
+      "canonical_name": "Load_balancing_2",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "负载均衡 · 三仓"
     },
     {
       "name": "Load_balancing_3.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Load_balancing_3.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Load_balancing_3.png",
+      "id": "color/default/Load_balancing_3",
+      "canonical_name": "Load_balancing_3",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "负载均衡 · 平衡台",
+      "usage_note": "平衡概念变体，不表示具体网络拓扑。"
     },
     {
       "name": "Location.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Location.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Location.png",
+      "id": "color/default/Location",
+      "canonical_name": "Location",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Location"
     },
     {
       "name": "Magic_Timer.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Magic_Timer.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Magic_Timer.png",
+      "id": "color/default/Magic_Timer",
+      "canonical_name": "Magic_Timer",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Magic Timer"
     },
     {
       "name": "Mail.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Mail.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Mail.png",
+      "id": "color/default/Mail",
+      "canonical_name": "Mail",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Mail"
     },
     {
       "name": "Messenger.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Messenger.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Messenger.png",
+      "id": "color/default/Messenger",
+      "canonical_name": "Messenger",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Messenger"
     },
     {
       "name": "Meta_1.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Meta_1.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Meta_1.png",
+      "id": "color/default/Meta_1",
+      "canonical_name": "Meta_1",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Meta 1"
     },
     {
       "name": "Microsoft.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Microsoft.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Microsoft.png",
+      "id": "color/default/Microsoft",
+      "canonical_name": "Microsoft",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Microsoft"
     },
     {
       "name": "Microsoft_365.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Microsoft_365.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Microsoft_365.png",
+      "id": "color/default/Microsoft_365",
+      "canonical_name": "Microsoft_365",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Microsoft 365"
     },
     {
       "name": "Microsoft_Copilot.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Microsoft_Copilot.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Microsoft_Copilot.png",
+      "id": "color/default/Microsoft_Copilot",
+      "canonical_name": "Microsoft_Copilot",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Microsoft Copilot"
     },
     {
       "name": "MLB.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/MLB.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/MLB.png",
+      "id": "color/default/MLB",
+      "canonical_name": "MLB",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "MLB"
     },
     {
       "name": "NBA.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/NBA.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/NBA.png",
+      "id": "color/default/NBA",
+      "canonical_name": "NBA",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "NBA"
     },
     {
       "name": "Netflix.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Netflix.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Netflix.png",
+      "id": "color/default/Netflix",
+      "canonical_name": "Netflix",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Netflix"
     },
     {
       "name": "Netflix_b.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Netflix_b.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Netflix_b.png",
+      "id": "color/default/Netflix_b",
+      "canonical_name": "Netflix_b",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Netflix b"
     },
     {
       "name": "Network.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Network.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Network.png",
+      "id": "color/default/Network",
+      "canonical_name": "Network",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Network"
     },
     {
       "name": "Network_2.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Network_2.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Network_2.png",
+      "id": "color/default/Network_2",
+      "canonical_name": "Network_2",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Network 2"
     },
     {
       "name": "Niconico.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Niconico.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Niconico.png",
+      "id": "color/default/Niconico",
+      "canonical_name": "Niconico",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Niconico"
     },
     {
       "name": "Niconico_Live.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Niconico_Live.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Niconico_Live.png",
+      "id": "color/default/Niconico_Live",
+      "canonical_name": "Niconico_Live",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Niconico Live"
     },
     {
       "name": "Niconico_Manga.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Niconico_Manga.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Niconico_Manga.png",
+      "id": "color/default/Niconico_Manga",
+      "canonical_name": "Niconico_Manga",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Niconico Manga"
     },
     {
       "name": "Olympics.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Olympics.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Olympics.png",
+      "id": "color/default/Olympics",
+      "canonical_name": "Olympics",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Olympic Rings",
+      "brand": "Olympic Movement",
+      "small_size_note": "官方五环为横向细环，36px 圆盘中视觉分量较轻；保持五环关系与比例，建议配合标签或查看 Large。",
+      "official_reference": "https://www.olympics.com/ioc/olympic-rings"
     },
     {
       "name": "Omission.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Omission.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Omission.png",
+      "id": "color/default/Omission",
+      "canonical_name": "Omission",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Microsoft Edge（Omission 策略）",
+      "brand": "Microsoft Edge",
+      "usage_note": "文件名沿用旧策略名称 Omission；图形身份为 Microsoft Edge，不是独立品牌标志。"
     },
     {
       "name": "OneDrive.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/OneDrive.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/OneDrive.png",
+      "id": "color/default/OneDrive",
+      "canonical_name": "OneDrive",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "OneDrive"
     },
     {
       "name": "Onlyfans.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Onlyfans.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Onlyfans.png",
+      "id": "color/default/Onlyfans",
+      "canonical_name": "Onlyfans",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Onlyfans"
     },
     {
       "name": "Other.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Other.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Other.png",
+      "id": "color/default/Other",
+      "canonical_name": "Other",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Other"
     },
     {
       "name": "Outlook.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Outlook.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Outlook.png",
+      "id": "color/default/Outlook",
+      "canonical_name": "Outlook",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Outlook"
     },
     {
       "name": "Palestine.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Palestine.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Palestine.png",
+      "id": "color/default/Palestine",
+      "canonical_name": "Palestine",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Palestine"
     },
     {
       "name": "Panda.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Panda.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Panda.png",
+      "id": "color/default/Panda",
+      "canonical_name": "Panda",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Panda"
     },
     {
       "name": "Panda_ai.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Panda_ai.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Panda_ai.png",
+      "id": "color/default/Panda_ai",
+      "canonical_name": "Panda_ai",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Panda ai"
     },
     {
       "name": "Panda_WWF.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Panda_WWF.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Panda_WWF.png",
+      "id": "color/default/Panda_WWF",
+      "canonical_name": "Panda_WWF",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Panda WWF"
     },
     {
       "name": "PayPal.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/PayPal.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/PayPal.png",
+      "id": "color/default/PayPal",
+      "canonical_name": "PayPal",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "PayPal"
     },
     {
       "name": "PayPal_business.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/PayPal_business.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/PayPal_business.png",
+      "id": "color/default/PayPal_business",
+      "canonical_name": "PayPal_business",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "PayPal business"
     },
     {
       "name": "Peacook.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Peacook.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Peacook.png",
+      "id": "color/default/Peacook",
+      "canonical_name": "Peacook",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Peacook"
     },
     {
       "name": "Perplexity.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Perplexity.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Perplexity.png",
+      "id": "color/default/Perplexity",
+      "canonical_name": "Perplexity",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Perplexity"
     },
     {
       "name": "Pig.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Pig.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Pig.png",
+      "id": "color/default/Pig",
+      "canonical_name": "Pig",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Pig"
     },
     {
       "name": "Piggies.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Piggies.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Piggies.png",
+      "id": "color/default/Piggies",
+      "canonical_name": "Piggies",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Piggies"
     },
     {
       "name": "Piggies_b.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Piggies_b.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Piggies_b.png",
+      "id": "color/default/Piggies_b",
+      "canonical_name": "Piggies_b",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Piggies b"
     },
     {
       "name": "Pixiv.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Pixiv.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Pixiv.png",
+      "id": "color/default/Pixiv",
+      "canonical_name": "Pixiv",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Pixiv"
     },
     {
       "name": "Playstation.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Playstation.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Playstation.png",
+      "id": "color/default/Playstation",
+      "canonical_name": "Playstation",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "PlayStation"
     },
     {
       "name": "Playstation_30th.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Playstation_30th.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Playstation_30th.png",
+      "id": "color/default/Playstation_30th",
+      "canonical_name": "Playstation_30th",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "PlayStation · 30th Anniversary"
     },
     {
       "name": "Playstation_remote.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Playstation_remote.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Playstation_remote.png",
+      "id": "color/default/Playstation_remote",
+      "canonical_name": "Playstation_remote",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "PlayStation · Remote Play"
     },
     {
       "name": "Plex.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Plex.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Plex.png",
+      "id": "color/default/Plex",
+      "canonical_name": "Plex",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Plex"
     },
     {
       "name": "Pornhub.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Pornhub.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Pornhub.png",
+      "id": "color/default/Pornhub",
+      "canonical_name": "Pornhub",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Pornhub"
     },
     {
       "name": "Prime.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Prime.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Prime.png",
+      "id": "color/default/Prime",
+      "canonical_name": "Prime",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Prime"
     },
     {
       "name": "Qoura.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Qoura.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Qoura.png",
+      "id": "color/default/Qoura",
+      "canonical_name": "Qoura",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Qoura"
     },
     {
       "name": "Reddit.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Reddit.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Reddit.png",
+      "id": "color/default/Reddit",
+      "canonical_name": "Reddit",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Reddit"
     },
     {
       "name": "Remote.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Remote.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Remote.png",
+      "id": "color/default/Remote",
+      "canonical_name": "Remote",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Remote"
     },
     {
       "name": "Round_Robin.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Round_Robin.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Round_Robin.png",
+      "id": "color/default/Round_Robin",
+      "canonical_name": "Round_Robin",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Round Robin"
     },
     {
       "name": "Scholar.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Scholar.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Scholar.png",
+      "id": "color/default/Scholar",
+      "canonical_name": "Scholar",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Scholar"
     },
     {
       "name": "Seancody.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Seancody.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Seancody.png",
+      "id": "color/default/Seancody",
+      "canonical_name": "Seancody",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Seancody"
     },
     {
       "name": "Server.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Server.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Server.png",
+      "id": "color/default/Server",
+      "canonical_name": "Server",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Server"
     },
     {
       "name": "Settings.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Settings.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Settings.png",
+      "id": "color/default/Settings",
+      "canonical_name": "Settings",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Settings"
     },
     {
       "name": "Signal_Light.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Signal_Light.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Signal_Light.png",
+      "id": "color/default/Signal_Light",
+      "canonical_name": "Signal_Light",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Signal Light"
     },
     {
       "name": "Singapore.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Singapore.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Singapore.png",
+      "id": "color/default/Singapore",
+      "canonical_name": "Singapore",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Singapore"
     },
     {
       "name": "SNS.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/SNS.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/SNS.png",
+      "id": "color/default/SNS",
+      "canonical_name": "SNS",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "SNS"
     },
     {
       "name": "Sony_Live.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Sony_Live.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Sony_Live.png",
+      "id": "color/default/Sony_Live",
+      "canonical_name": "Sony_Live",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Sony Live"
     },
     {
       "name": "South_Korea.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/South_Korea.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/South_Korea.png",
+      "id": "color/default/South_Korea",
+      "canonical_name": "South_Korea",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "South Korea"
     },
     {
       "name": "SpeedTest.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/SpeedTest.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/SpeedTest.png",
+      "id": "color/default/SpeedTest",
+      "canonical_name": "SpeedTest",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "SpeedTest"
     },
     {
       "name": "Spotify.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Spotify.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Spotify.png",
+      "id": "color/default/Spotify",
+      "canonical_name": "Spotify",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Spotify"
     },
     {
       "name": "Steam.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Steam.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Steam.png",
+      "id": "color/default/Steam",
+      "canonical_name": "Steam",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Steam"
     },
     {
       "name": "Stream.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Stream.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Stream.png",
+      "id": "color/default/Stream",
+      "canonical_name": "Stream",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Stream"
     },
     {
       "name": "Taiwan_Province.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Taiwan_Province.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Taiwan_Province.png",
+      "id": "color/default/Taiwan_Province",
+      "canonical_name": "Taiwan_Province",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Taiwan Province"
     },
     {
       "name": "Telegram.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Telegram.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Telegram.png",
+      "id": "color/default/Telegram",
+      "canonical_name": "Telegram",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Telegram"
     },
     {
       "name": "Threads.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Threads.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Threads.png",
+      "id": "color/default/Threads",
+      "canonical_name": "Threads",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Threads"
     },
     {
       "name": "Tick.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Tick.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Tick.png",
+      "id": "color/default/Tick",
+      "canonical_name": "Tick",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Tick"
     },
     {
       "name": "Tick_2.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Tick_2.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Tick_2.png",
+      "id": "color/default/Tick_2",
+      "canonical_name": "Tick_2",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Tick 2"
     },
     {
       "name": "TikTok.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/TikTok.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/TikTok.png",
+      "id": "color/default/TikTok",
+      "canonical_name": "TikTok",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "TikTok"
     },
     {
       "name": "Transfer.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Transfer.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Transfer.png",
+      "id": "color/default/Transfer",
+      "canonical_name": "Transfer",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Transfer"
     },
     {
       "name": "Twitch.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Twitch.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Twitch.png",
+      "id": "color/default/Twitch",
+      "canonical_name": "Twitch",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Twitch"
     },
     {
       "name": "UBISOFT.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/UBISOFT.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/UBISOFT.png",
+      "id": "color/default/UBISOFT",
+      "canonical_name": "UBISOFT",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "UBISOFT"
     },
     {
       "name": "UK.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/UK.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/UK.png",
+      "id": "color/default/UK",
+      "canonical_name": "UK",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "UK"
     },
     {
       "name": "USA.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/USA.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/USA.png",
+      "id": "color/default/USA",
+      "canonical_name": "USA",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "USA"
     },
     {
       "name": "Video_Vimeo.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Video_Vimeo.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Video_Vimeo.png",
+      "id": "color/default/Video_Vimeo",
+      "canonical_name": "Video_Vimeo",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Video Vimeo"
     },
     {
       "name": "Vimeo.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Vimeo.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Vimeo.png",
+      "id": "color/default/Vimeo",
+      "canonical_name": "Vimeo",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Vimeo"
     },
     {
       "name": "Weibo.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Weibo.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Weibo.png",
+      "id": "color/default/Weibo",
+      "canonical_name": "Weibo",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Weibo"
     },
     {
       "name": "WhatsApp.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/WhatsApp.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/WhatsApp.png",
+      "id": "color/default/WhatsApp",
+      "canonical_name": "WhatsApp",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "WhatsApp"
     },
     {
       "name": "X.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/X.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/X.png",
+      "id": "color/default/X",
+      "canonical_name": "X",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "X"
     },
     {
       "name": "Xbox.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Xbox.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Xbox.png",
+      "id": "color/default/Xbox",
+      "canonical_name": "Xbox",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Xbox"
     },
     {
       "name": "xHamster.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/xHamster.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/xHamster.png",
+      "id": "color/default/xHamster",
+      "canonical_name": "xHamster",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "xHamster"
     },
     {
       "name": "Xianyu.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Xianyu.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Xianyu.png",
+      "id": "color/default/Xianyu",
+      "canonical_name": "Xianyu",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Xianyu"
     },
     {
       "name": "Yin_Yang.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Yin_Yang.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Yin_Yang.png",
+      "id": "color/default/Yin_Yang",
+      "canonical_name": "Yin_Yang",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Yin Yang"
     },
     {
       "name": "YouTube.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/YouTube.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/YouTube.png",
+      "id": "color/default/YouTube",
+      "canonical_name": "YouTube",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "YouTube"
     },
     {
       "name": "Zoho_new.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Zoho_new.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Zoho_new.png",
+      "id": "color/default/Zoho_new",
+      "canonical_name": "Zoho_new",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Zoho new"
     },
     {
       "name": "Zune.png",
-      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Zune.png"
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Zune.png",
+      "id": "color/default/Zune",
+      "canonical_name": "Zune",
+      "variant": "default",
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "display_name": "Zune"
     }
   ],
   "description": "适用于mihomo - MetacubeX面板的Icon"

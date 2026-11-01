@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Steam",
+    "official_source": "https://store.fastly.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016",
+    "strategy": "Official SVG symbol paths were inspected but the negative-space replacement was rejected for current production. Preserve existing positive white mechanical arm from original raster and fixed blue background.",
+    "data_file": "Sources/current/official/special/Steam.svg",
+    "sha256": "af70bc26f1c82a94c90bd242d7c6d28f1eb0365c10832268707a0b29cc427050",
+    "usage_status": "downloaded_official_asset_research_only_not_current_production",
+    "production_source": "Sources/current/assets/original-raster/Steam.png",
+    "production_renderer": "Sources/current/build_unified.py",
+    "production_mode": "steam_existing_positive"
+  },
+  {
+    "name": "Xbox",
+    "official_source": "https://cms-assets.xboxservices.com/assets/bf/a7/bfa78b03-47f1-4113-94a0-0094e615a81a.svg?n=Favicon.svg",
+    "strategy": "Original 2000px transparent bitmap decoded from official favicon SVG; preserve complete shaded sphere geometry and transparent X-shaped negative space. Parent explicitly accepted whole official sphere at scale 0.70 on fixed white disc. Earlier keep-full-circle recommendation is superseded.",
+    "data_file": "Sources/current/official/special/Xbox.png",
+    "sha256": "d44e35cdddc43e6b9977d0c60906d58e2b295841e66498994098860e85a16fab",
+    "usage_status": "current_production_approved_complete_official_bitmap",
+    "production_source": "Sources/current/official/special/Xbox.png",
+    "production_scale": 0.7
+  },
+  {
+    "name": "Sony_Live",
+    "official_source": "https://images.slivcdn.com/UI_icons/fallback_sonyliv_logo.png?h=246&w=246&q=high",
+    "strategy": "Downloaded rounded-square official lockup is research evidence only. Current production separates original white SONY and gold liv pixels from Sources/current/assets/original-raster/Sony_Live.png, keeps the full circular purple-flow background fixed, and approximately inpaints only the concealed background; no square-card substitution.",
+    "data_file": "Sources/current/official/special/Sony_Live.png",
+    "sha256": "6000cc68b596b5fd3db41459c7f5ab698d9d954188b08ec02b2cba5d2e05ef8e",
+    "usage_status": "downloaded_official_asset_research_only_not_current_production",
+    "production_source": "Sources/current/assets/original-raster/Sony_Live.png",
+    "production_renderer": "Sources/current/separate_special_rasters.py"
+  },
+  {
+    "name": "Apple",
+    "official_source": null,
+    "strategy": "Retain existing artwork. Original outer-ring colors fitted with 2D cubic background surface; matte separates dark Apple mark or complete Edge-like sphere. This is approximate raster-layer recovery, not newly verified official artwork. Integrated sphere detail is not split.",
+    "data_file": "Sources/current/assets/original-raster/Apple.png",
+    "sha256": "091792874d504b2294010666da3a4afdb736108360279750e141e1282df45266"
+  },
+  {
+    "name": "Omission",
+    "official_source": null,
+    "strategy": "Retain existing artwork. Original outer-ring colors fitted with 2D cubic background surface; matte separates dark Apple mark or complete Edge-like sphere. This is approximate raster-layer recovery, not newly verified official artwork. Integrated sphere detail is not split.",
+    "data_file": "Sources/current/assets/original-raster/Omission.png",
+    "sha256": "e79a66c339a73cf9659881a8b2fd030a13f81007504cba17b8a6adbb2d7391ee"
+  },
+  {
+    "name": "Bitcoin",
+    "official_source": "https://github.com/bitcoin/bitcoin/blob/master/src/qt/res/src/bitcoin.svg",
+    "local_source": "Sources/current/official/special/Bitcoin-core.svg",
+    "sha256": "86cdf6d03ddd38ca949e8d8e3f34bbc87abed12baf48bf090ce9e5b2339b3542",
+    "production_use": "Reference complete orange coin identity. Production uses existing faithful white-B raster, orange #f7931a full-circle layout explicitly adapted for this icon set; not an official new logo."
+  },
+  {
+    "name": "Crypto",
+    "official_source": "https://apps.apple.com/us/app/crypto-com-trade-every-market/id1262148500",
+    "local_source": "Sources/current/official/special/Crypto.webp",
+    "sha256": "5339ec774a9e6bf01d44a70e7d4215b9bf6422448ba999d6848206fcaea80737",
+    "production_use": "Official developer app icon. Original dark blue gradient background fills circle; complete white hexagon-and-lion separated and scaled independently. Foreground-covered backdrop interpolated, not a native layered official file."
+  },
+  {
+    "name": "GOG",
+    "official_source": "https://store-static-modular.gog-statics.com/en/assets/favicons/apple-touch-icon-152x152.png",
+    "local_source": "Sources/current/official/special/GOG.png",
+    "sha256": "ecf86ddf918126d8ad5da435aaff1609bb90d7421d7dab11f1be9035d0632aba",
+    "production_use": "Official purple gog.com wordmark on white. Retain purple geometry/colors, remove old unsupported black-purple square card; uniform-scale wordmark on white circle."
+  }
+]

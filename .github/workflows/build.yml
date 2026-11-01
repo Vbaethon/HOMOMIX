@@ -1,40 +1,43 @@
-name: Generate HOMOMIX.json
+name: Validate icon library
 
 on:
   push:
-    branches:
-      - main
-    paths:
-      - "Icon/Color/**"
-      - "generate_catalog.py"
-      - "tests/test_catalog.py"
-      - ".github/workflows/build.yml"
+    branches: [main]
+  pull_request:
+    branches: [main]
   workflow_dispatch:
 
+# All repository changes trigger validation: source plans, aliases, dependency
+# locks, tests, metadata and generators must not silently bypass the full gate.
+permissions:
+  contents: read
+concurrency:
+  group: icon-validation-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
-  build:
-    runs-on: ubuntu-latest
-
+  validate:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    env:
+      OPENBLAS_NUM_THREADS: '1'
+      OMP_NUM_THREADS: '1'
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
-          fetch-depth: 2
-
-      - name: Run script
-        run: python3 generate_catalog.py
-
-      - name: Validate catalog
-        run: python3 -m unittest discover -s tests -p 'test_catalog.py' -v
-
-      - name: Push to main branch
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install pinned build dependencies
+        shell: bash
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add HOMOMIX.json
-          if git diff --cached --quiet; then
-            echo "HOMOMIX.json is already up to date; nothing to commit."
-            exit 0
-          fi
-          git commit -m "Update icon catalog"
-          git push origin HEAD:main
+          SOURCE=$(python -c 'import json; print(json.load(open("build-config.json"))["source_dir"])')
+          RENDERER=$(python -c 'import json; print(json.load(open("build-config.json"))["renderer_dir"])')
+          python -m pip install -r "$SOURCE/requirements.txt"
+          npm ci --prefix "$RENDERER" --ignore-scripts
+      - name: Full tests and deterministic cold image build
+        run: python scripts/validate_icons.py --tests --cold --jobs 2

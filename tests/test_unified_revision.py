@@ -1,6 +1,6 @@
-"""Production v6 integrity and structural safety, not a visual-quality proof.
+"""Current production integrity and structural safety, not a visual-quality proof.
 
-Historical v8 pixel hashes are checked separately against input-v8. These tests
+Historical version snapshots have been removed. These tests
 cannot certify equal perceived size, artistic quality, or every raster matte.
 """
 import hashlib
@@ -13,7 +13,7 @@ import numpy as np
 from PIL import Image
 
 ROOT=Path(__file__).resolve().parents[1]
-S=ROOT/'Sources/v6'
+S=ROOT/'Sources/current'
 sys.path.insert(0,str(ROOT))
 from generate_catalog import build_catalog
 from icon_aliases import ALIASES
@@ -36,7 +36,6 @@ class UnifiedRevision(unittest.TestCase):
         m=read(S/'collection-manifest.json')
         actual={p.relative_to(ROOT).as_posix():sha(p) for p in (ROOT/'Icon/Color').rglob('*.png')}
         self.assertEqual(actual,m['files']);self.assertEqual(len(actual),356)
-        self.assertEqual(set(m['baseline_files'])-set(actual),{'Icon/Color/Claud.png','Icon/Color/Large/Claud.png'})
         self.assertEqual(len(list((ROOT/'Icon/Color').glob('*.png'))),177)
         self.assertEqual(len(list((ROOT/'Icon/Color/Large').glob('*.png'))),177)
         self.assertEqual({p.name for p in (ROOT/'Icon/Color/FDS').glob('*.png')},{'Netflix.png','YouTube.png'})
@@ -70,7 +69,7 @@ class UnifiedRevision(unittest.TestCase):
         self.assertEqual(len(hashes),len(set(hashes)))
 
     def test_native_brand_geometry_is_preserved(self):
-        lock=read(ROOT/'tests/fixtures/v6-native-brand-geometry.json')
+        lock=read(ROOT/'tests/fixtures/current-native-brand-geometry.json')
         self.assertEqual(len(lock['items']),14)
         for r in lock['items']:
             with self.subTest(name=r['name']):
@@ -121,7 +120,7 @@ class AdaptiveBackgroundPolicy(unittest.TestCase):
         for xy in [(180,15),(15,180),(345,180),(180,345)]:
             r,g,b,a=im.getpixel(xy);self.assertEqual(a,255);self.assertGreater(b,r+25);self.assertLess(g,150)
     def test_background_source_provenance_bytes(self):
-        rows=json.loads((S/'official-special/provenance.json').read_text())
+        rows=json.loads((S/'official/special/provenance.json').read_text())
         for n in ['Bitcoin','Crypto','GOG']:
             row=next(x for x in rows if x['name']==n)
             self.assertEqual(hashlib.sha256((ROOT/row['local_source']).read_bytes()).hexdigest(),row['sha256'])
