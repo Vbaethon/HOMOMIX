@@ -1076,6 +1076,10 @@
       "display_name": "Instagram"
     },
     {
+      "name": "iQIYI.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/iQIYI.png"
+    },
+    {
       "name": "Japan.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Japan.png",
       "id": "color/default/Japan",
@@ -2174,6 +2178,10 @@
       "display_name": "Instagram"
     },
     {
+      "name": "iQIYI.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/iQIYI.png"
+    },
+    {
       "name": "Japan.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Japan.png",
       "id": "color/large/Japan",
@@ -2297,6 +2305,10 @@
         "height": 360
       },
       "display_name": "Mail"
+    },
+    {
+      "name": "MangoTV.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/MangoTV.png"
     },
     {
       "name": "Messenger.png",
@@ -3164,6 +3176,10 @@
       "display_name": "Weibo"
     },
     {
+      "name": "WeTV.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/WeTV.png"
+    },
+    {
       "name": "WhatsApp.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/WhatsApp.png",
       "id": "color/large/WhatsApp",
@@ -3375,6 +3391,10 @@
         "height": 300
       },
       "display_name": "Mail"
+    },
+    {
+      "name": "MangoTV.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/MangoTV.png"
     },
     {
       "name": "Messenger.png",
@@ -4240,6 +4260,10 @@
         "height": 300
       },
       "display_name": "Weibo"
+    },
+    {
+      "name": "WeTV.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/WeTV.png"
     },
     {
       "name": "WhatsApp.png",
