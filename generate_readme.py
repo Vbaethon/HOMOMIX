@@ -78,14 +78,26 @@ def gallery_table(pairs):
         rows.append('</tr>')
         rows.append('<tr>')
         for pair in group:
-            for version, width, height in (('Large', 64, 64), ('FDS', 100, 72)):
+            for version, width, height in (('Large', 52, 52), ('FDS', 100, 72)):
                 if version not in pair:
                     rows.append('<td width="100"></td>')
                     continue
                 target = pair[version]
                 relative = escape(target.relative_to(ROOT).as_posix(), quote=True)
                 title = escape(f'{target.name} ({version})', quote=True)
-                rows.append(f'<td width="100" align="center" valign="middle"><a href="{relative}" title="{title}"><img src="{relative}" alt="{title}" width="{width}" height="{height}"></a><br><a href="{relative}" title="{title}">{version}</a></td>')
+                rows.append(f'<td width="100" align="center" valign="middle"><a href="{relative}" title="{title}"><img src="{relative}" alt="{title}" width="{width}" height="{height}"></a></td>')
+        rows.append('</tr>')
+        # A shared label row keeps both version links on the same baseline.
+        rows.append('<tr>')
+        for pair in group:
+            for version in ('Large', 'FDS'):
+                if version not in pair:
+                    rows.append('<td width="100"></td>')
+                    continue
+                target = pair[version]
+                relative = escape(target.relative_to(ROOT).as_posix(), quote=True)
+                title = escape(f'{target.name} ({version})', quote=True)
+                rows.append(f'<td width="100" align="center"><a href="{relative}" title="{title}">{version}</a></td>')
         rows.append('</tr>')
     rows.append('</table>')
     return '\n'.join(rows)
