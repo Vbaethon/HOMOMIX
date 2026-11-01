@@ -11,7 +11,7 @@ RAW = 'https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/'
 # Existing URLs remain available, but identical compatibility names are not shown twice.
 ALIASES = {'Download_2.png':'Download.png',
            'Niche_Link.png':'Chained_2.png', 'Link.png':'Chained_2.png'}
-MAX_LABEL_LENGTH = 12
+GROUPS_PER_ROW = 4
 
 
 def icon_files():
@@ -52,29 +52,43 @@ def gallery_pairs():
     return [pairs[key] for key in sorted(pairs)]
 
 
+def display_name(name):
+    # Keep every character, but bound unbroken text so long names cannot widen a group.
+    lines = []
+    while len(name) > 18:
+        split = name.rfind('_', 0, 18) + 1
+        if split < 9:
+            split = 18
+        lines.append(escape(name[:split]))
+        name = name[split:]
+    lines.append(escape(name))
+    return '<br>'.join(lines)
+
+
 def gallery_table(pairs):
-    cells = ['<table>']
-    for i, pair in enumerate(pairs):
-        if i % 4 == 0:
-            cells.append('<tr>')
-        path = pair.get('Large') or pair['FDS']
-        full_name = escape(path.name, quote=True)
-        label = path.stem
-        if len(label) > MAX_LABEL_LENGTH:
-            label = label[:MAX_LABEL_LENGTH-3] + '...'
-        versions = []
-        for version, width, height in (('Large', 64, 64), ('FDS', 100, 72)):
-            if version not in pair:
-                continue
-            target = pair[version]
-            relative = escape(target.relative_to(ROOT).as_posix(), quote=True)
-            title = escape(f'{target.name} ({version})', quote=True)
-            versions.append(f'<td align="center"><a href="{relative}" title="{title}"><img src="{relative}" alt="{title}" width="{width}" height="{height}"></a><br><a href="{relative}" title="{title}">{version}</a></td>')
-        cells.append(f'<td align="center"><table><tr>{"".join(versions)}</tr></table><strong title="{full_name}">{escape(label)}</strong></td>')
-        if i % 4 == 3 or i == len(pairs)-1:
-            cells.append('</tr>')
-    cells.append('</table>')
-    return '\n'.join(cells)
+    # One flat table: each filename spans its two fixed side-by-side versions.
+    # Table cells, rather than CSS or inline images, prevent version wrapping.
+    rows = ['<table>']
+    for start in range(0, len(pairs), GROUPS_PER_ROW):
+        group = pairs[start:start + GROUPS_PER_ROW]
+        rows.append('<tr>')
+        for pair in group:
+            path = pair.get('Large') or pair['FDS']
+            rows.append(f'<td colspan="2" width="200" align="center"><strong title="{escape(path.name, quote=True)}">{display_name(path.stem)}</strong></td>')
+        rows.append('</tr>')
+        rows.append('<tr>')
+        for pair in group:
+            for version, width, height in (('Large', 64, 64), ('FDS', 100, 72)):
+                if version not in pair:
+                    rows.append('<td width="100"></td>')
+                    continue
+                target = pair[version]
+                relative = escape(target.relative_to(ROOT).as_posix(), quote=True)
+                title = escape(f'{target.name} ({version})', quote=True)
+                rows.append(f'<td width="100" align="center" valign="middle"><a href="{relative}" title="{title}"><img src="{relative}" alt="{title}" width="{width}" height="{height}"></a><br><a href="{relative}" title="{title}">{version}</a></td>')
+        rows.append('</tr>')
+    rows.append('</table>')
+    return '\n'.join(rows)
 
 
 def update_readme():
