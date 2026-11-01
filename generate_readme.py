@@ -35,41 +35,58 @@ def catalog_rows():
     return rows
 
 
-def gallery_table(files, width, height):
+def gallery_pairs():
+    # Match case-only filename differences while preserving exact link paths.
+    pairs = {}
+    large_files = [p for p in icon_files() if p.parent == ROOT/'Icon/Color/Large']
+    fds_files = sorted((p for p in (ROOT/'Icon/Color/FDS').rglob('*')
+                        if p.is_file() and p.suffix.lower() in {'.png','.jpg','.jpeg','.svg'}),
+                       key=lambda p: (p.as_posix().lower(), p.as_posix()))
+    for version, files in (('Large', large_files), ('FDS', fds_files)):
+        for path in files:
+            key = path.name.casefold()
+            pair = pairs.setdefault(key, {})
+            if version in pair:
+                raise ValueError(f'Ambiguous {version} gallery filename: {path.name}')
+            pair[version] = path
+    return [pairs[key] for key in sorted(pairs)]
+
+
+def gallery_table(pairs):
     cells = ['<table>']
-    for i, path in enumerate(files):
-        if i % 5 == 0:
+    for i, pair in enumerate(pairs):
+        if i % 4 == 0:
             cells.append('<tr>')
-        relative = escape(path.relative_to(ROOT).as_posix(), quote=True)
+        path = pair.get('Large') or pair['FDS']
         full_name = escape(path.name, quote=True)
         label = path.stem
         if len(label) > MAX_LABEL_LENGTH:
             label = label[:MAX_LABEL_LENGTH-3] + '...'
-        cells.append(f'<td align="center" width="140"><a href="{relative}" title="{full_name}"><img src="{relative}" alt="{full_name}" width="{width}" height="{height}"></a><br><strong title="{full_name}">{escape(label)}</strong></td>')
-        if i % 5 == 4 or i == len(files)-1:
+        previews, links = [], []
+        for version, width, height in (('Large', 64, 64), ('FDS', 100, 72)):
+            if version not in pair:
+                continue
+            target = pair[version]
+            relative = escape(target.relative_to(ROOT).as_posix(), quote=True)
+            title = escape(f'{target.name} ({version})', quote=True)
+            previews.append(f'<a href="{relative}" title="{title}"><img src="{relative}" alt="{title}" width="{width}" height="{height}"></a>')
+            links.append(f'<a href="{relative}" title="{title}">{version}</a>')
+        cells.append(f'<td align="center" width="190">{" ".join(previews)}<br>{" &nbsp; ".join(links)}<br><strong title="{full_name}">{escape(label)}</strong></td>')
+        if i % 4 == 3 or i == len(pairs)-1:
             cells.append('</tr>')
     cells.append('</table>')
     return '\n'.join(cells)
 
 
 def update_readme():
-    files = icon_files()
-    fds_files = sorted((p for p in (ROOT/'Icon/Color/FDS').rglob('*')
-                        if p.is_file() and p.suffix.lower() in {'.png','.jpg','.jpeg','.svg'}),
-                       key=lambda p: (p.as_posix().lower(), p.as_posix()))
-    galleries = []
-    for name, group, width, height in (
-            ('Color', [p for p in files if p.parent == ROOT/'Icon/Color'], 60, 60),
-            ('Large', [p for p in files if p.parent == ROOT/'Icon/Color/Large'], 72, 72),
-            ('FDS', fds_files, 100, 72)):
-        galleries.extend((f'### {name}', gallery_table(group, width, height)))
+    gallery = gallery_table(gallery_pairs())
     path = ROOT/'README.md'
     text = path.read_text(encoding='utf-8')
     if text.count(START) != 1 or text.count(END) != 1:
         raise ValueError('README must contain one original icon gallery marker pair.')
     start = text.index(START) + len(START)
     end = text.index(END, start)
-    path.write_text(text[:start] + '\n\n' + '\n\n'.join(galleries) + '\n\n' + text[end:], encoding='utf-8')
+    path.write_text(text[:start] + '\n\n' + gallery + '\n\n' + text[end:], encoding='utf-8')
 
 
 if __name__ == '__main__':
