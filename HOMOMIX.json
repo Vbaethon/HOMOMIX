@@ -111,6 +111,18 @@
       "display_name": "AI voice"
     },
     {
+      "name": "Alipay.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Alipay.png"
+    },
+    {
+      "name": "Alipay_black.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Alipay_black.png"
+    },
+    {
+      "name": "Alipay_white.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Alipay_white.png"
+    },
+    {
       "name": "Amazon.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Amazon.png",
       "id": "color/default/Amazon",
@@ -121,6 +133,10 @@
         "height": 300
       },
       "display_name": "Amazon"
+    },
+    {
+      "name": "Apex_Legends.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Apex_Legends.png"
     },
     {
       "name": "Apple.png",
@@ -145,6 +161,10 @@
         "height": 300
       },
       "display_name": "Apple black"
+    },
+    {
+      "name": "Apple_Music.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Apple_Music.png"
     },
     {
       "name": "Apple_rainbow.png",
@@ -472,6 +492,10 @@
       "display_name": "Crypto"
     },
     {
+      "name": "CS2.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/CS2.png"
+    },
+    {
       "name": "DeepSeek.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/DeepSeek.png",
       "id": "color/default/DeepSeek",
@@ -788,6 +812,10 @@
       "display_name": "Gemini"
     },
     {
+      "name": "Genshin_Impact.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Genshin_Impact.png"
+    },
+    {
       "name": "GFW.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/GFW.png",
       "id": "color/default/GFW",
@@ -872,6 +900,14 @@
       "display_name": "Google"
     },
     {
+      "name": "Google_Drive.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Google_Drive.png"
+    },
+    {
+      "name": "Google_Play.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Google_Play.png"
+    },
+    {
       "name": "Grok.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Grok.png",
       "id": "color/default/Grok",
@@ -918,6 +954,10 @@
         "height": 300
       },
       "display_name": "Hong Kong"
+    },
+    {
+      "name": "Honkai_Star_Rail.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Honkai_Star_Rail.png"
     },
     {
       "name": "Huawei.png",
@@ -1149,6 +1189,18 @@
       "display_name": "AI voice"
     },
     {
+      "name": "Alipay.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Alipay.png"
+    },
+    {
+      "name": "Alipay_black.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Alipay_black.png"
+    },
+    {
+      "name": "Alipay_white.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Alipay_white.png"
+    },
+    {
       "name": "Amazon.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Amazon.png",
       "id": "color/large/Amazon",
@@ -1159,6 +1211,10 @@
         "height": 360
       },
       "display_name": "Amazon"
+    },
+    {
+      "name": "Apex_Legends.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Apex_Legends.png"
     },
     {
       "name": "Apple.png",
@@ -1183,6 +1239,10 @@
         "height": 360
       },
       "display_name": "Apple black"
+    },
+    {
+      "name": "Apple_Music.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Apple_Music.png"
     },
     {
       "name": "Apple_rainbow.png",
@@ -1510,6 +1570,10 @@
       "display_name": "Crypto"
     },
     {
+      "name": "CS2.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/CS2.png"
+    },
+    {
       "name": "DeepSeek.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/DeepSeek.png",
       "id": "color/large/DeepSeek",
@@ -1826,6 +1890,10 @@
       "display_name": "Gemini"
     },
     {
+      "name": "Genshin_Impact.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Genshin_Impact.png"
+    },
+    {
       "name": "GFW.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/GFW.png",
       "id": "color/large/GFW",
@@ -1910,6 +1978,14 @@
       "display_name": "Google"
     },
     {
+      "name": "Google_Drive.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Google_Drive.png"
+    },
+    {
+      "name": "Google_Play.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Google_Play.png"
+    },
+    {
       "name": "Grok.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Grok.png",
       "id": "color/large/Grok",
@@ -1956,6 +2032,10 @@
         "height": 360
       },
       "display_name": "Hong Kong"
+    },
+    {
+      "name": "Honkai_Star_Rail.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Honkai_Star_Rail.png"
     },
     {
       "name": "Huawei.png",
@@ -2076,6 +2156,10 @@
         "height": 360
       },
       "display_name": "Jellyfin"
+    },
+    {
+      "name": "League_of_Legends.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/League_of_Legends.png"
     },
     {
       "name": "Linkedin.png",
@@ -2343,6 +2427,10 @@
       "display_name": "Niconico Manga"
     },
     {
+      "name": "Nintendo_Switch.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Nintendo_Switch.png"
+    },
+    {
       "name": "Olympics.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Olympics.png",
       "id": "color/large/Olympics",
@@ -2418,6 +2506,10 @@
         "height": 360
       },
       "display_name": "Outlook"
+    },
+    {
+      "name": "Overwatch.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Overwatch.png"
     },
     {
       "name": "Palestine.png",
@@ -2636,6 +2728,10 @@
       "display_name": "Prime"
     },
     {
+      "name": "PUBG.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/PUBG.png"
+    },
+    {
       "name": "Qoura.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Qoura.png",
       "id": "color/large/Qoura",
@@ -2730,6 +2826,10 @@
         "height": 360
       },
       "display_name": "Settings"
+    },
+    {
+      "name": "Signal.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Signal.png"
     },
     {
       "name": "Signal_Light.png",
@@ -2972,6 +3072,10 @@
       "display_name": "USA"
     },
     {
+      "name": "Valorant.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Valorant.png"
+    },
+    {
       "name": "Video_Vimeo.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Video_Vimeo.png",
       "id": "color/large/Video_Vimeo",
@@ -2994,6 +3098,10 @@
         "height": 360
       },
       "display_name": "Vimeo"
+    },
+    {
+      "name": "WeChat.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/WeChat.png"
     },
     {
       "name": "Weibo.png",
@@ -3114,6 +3222,10 @@
         "height": 360
       },
       "display_name": "Zune"
+    },
+    {
+      "name": "League_of_Legends.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/League_of_Legends.png"
     },
     {
       "name": "Linkedin.png",
@@ -3381,6 +3493,10 @@
       "display_name": "Niconico Manga"
     },
     {
+      "name": "Nintendo_Switch.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Nintendo_Switch.png"
+    },
+    {
       "name": "Olympics.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Olympics.png",
       "id": "color/default/Olympics",
@@ -3456,6 +3572,10 @@
         "height": 300
       },
       "display_name": "Outlook"
+    },
+    {
+      "name": "Overwatch.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Overwatch.png"
     },
     {
       "name": "Palestine.png",
@@ -3674,6 +3794,10 @@
       "display_name": "Prime"
     },
     {
+      "name": "PUBG.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/PUBG.png"
+    },
+    {
       "name": "Qoura.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Qoura.png",
       "id": "color/default/Qoura",
@@ -3768,6 +3892,10 @@
         "height": 300
       },
       "display_name": "Settings"
+    },
+    {
+      "name": "Signal.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Signal.png"
     },
     {
       "name": "Signal_Light.png",
@@ -4010,6 +4138,10 @@
       "display_name": "USA"
     },
     {
+      "name": "Valorant.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Valorant.png"
+    },
+    {
       "name": "Video_Vimeo.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Video_Vimeo.png",
       "id": "color/default/Video_Vimeo",
@@ -4032,6 +4164,10 @@
         "height": 300
       },
       "display_name": "Vimeo"
+    },
+    {
+      "name": "WeChat.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/WeChat.png"
     },
     {
       "name": "Weibo.png",
