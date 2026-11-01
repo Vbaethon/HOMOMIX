@@ -23,8 +23,7 @@
 
         等高版本（默认设置, “Color/”）
         满高版本（“Color/Large”）
-
-FDS版本（单一版本，500×360 透明画布）：[Icon/Color/FDS](Icon/Color/FDS)
+        FDS版本（“Icon/Color/FDS”）
 
 <!--start-icons-->
 
