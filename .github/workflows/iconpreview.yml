@@ -1,28 +1,45 @@
-name: Validate generated catalog and gallery
+name: Update README with icons
 
 on:
   push:
     branches: [main]
+    paths: ['Icon/**', 'generate_readme.py', 'README.md', '.github/workflows/iconpreview.yml']
   pull_request:
     branches: [main]
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 concurrency:
-  group: gallery-validation-${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
+  group: homomix-generated-files
+  cancel-in-progress: false
 
 jobs:
-  validate-generated:
-    runs-on: ubuntu-24.04
-    timeout-minutes: 5
+  generate:
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          persist-credentials: false
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Check generated catalog and README without changing repository
-        run: python scripts/validate_icons.py --generated
+      - name: Use latest main before generation
+        if: github.event_name != 'pull_request'
+        run: git pull --ff-only origin main
+      - name: Generate current public file
+        run: python generate_readme.py
+      - name: Check pull request output
+        if: github.event_name == 'pull_request'
+        run: git diff --exit-code -- README.md
+      - name: Commit only if changed
+        if: github.event_name != 'pull_request'
+        run: |
+          if git diff --quiet -- README.md; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README.md"
+          git push origin HEAD:main

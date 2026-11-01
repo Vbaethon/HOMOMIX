@@ -1,63 +1,68 @@
-"""Generate complete, accessible, unambiguous icon labels without renaming URLs."""
+"""Update the original README gallery or catalog from the current icon files."""
+import argparse
 from html import escape
+import json
 from pathlib import Path
-from icon_aliases import is_hidden_alias
-from icon_metadata import metadata_for
+from urllib.parse import quote
 
-START_MARKER = '<!--start-icons-->'
-END_MARKER = '<!--end-icons-->'
+ROOT = Path(__file__).resolve().parent
+START, END = '<!--start-icons-->', '<!--end-icons-->'
+RAW = 'https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/'
+# Existing URLs remain available, but identical compatibility names are not shown twice.
+ALIASES = {'Zoho_old.png':'Zoho_new.png', 'Download_2.png':'Download.png',
+           'Niche_Link.png':'Chained_2.png', 'Twitter.png':'X.png', 'Link.png':'Chained_2.png'}
 
-variant_note = '''兼容下载别名：`Zoho_old → Zoho_new`、`Download_2 → Download`、`Niche_Link → Chained_2`、`Twitter → X`、`Link → Chained_2`。默认与 Large 的旧 URL 均保留，展示区和目录只列规范名称。`Claud` 是拼写错误，已删除；请使用 `Claude`。
 
-三个系列入口：[等高版 Color](Icon/Color) · [放大版 Large](Icon/Color/Large) · [FDS 版（未完成）](Icon/Color/FDS/README.md)。FDS 保留现有 [Netflix](Icon/Color/FDS/Netflix.png)、[YouTube](Icon/Color/FDS/YouTube.png)，不混入下方完整系列目录。
+def icon_files():
+    return sorted((p for p in (ROOT/'Icon/Color').rglob('*')
+                   if p.is_file() and p.suffix.lower() in {'.png','.jpg','.jpeg','.svg'}
+                   and 'FDS' not in p.relative_to(ROOT/'Icon/Color').parts
+                   and not (p.name in ALIASES and p.with_name(ALIASES[p.name]).exists())),
+                  key=lambda p: (p.as_posix().lower(), p.as_posix()))
 
-配色变体说明：bilibili 的粉/蓝/白底、Huawei 红/黑、LinkedIn 明/暗、Bahamut 两色及 Hugging Face 白/绿底保留为同主体的配色选择，不视为不同造型；Link 与 Chained_2 的微小色差也不计作独立样式。Disney 与 Disney_plus 是不同服务，使用各自官网采用的 D 短标与配色。
 
-'''
+def catalog_rows():
+    # Preserve metadata already attached to the public catalog and update links.
+    old = json.loads((ROOT/'HOMOMIX.json').read_text(encoding='utf-8'))
+    known = {row['url']: row for row in old['icons']}
+    rows = []
+    for path in icon_files():
+        url = RAW + quote(path.relative_to(ROOT).as_posix(), safe='/')
+        row = dict(known.get(url, {}))
+        row.update(name=path.name, url=url)
+        rows.append(row)
+    return rows
 
-def build_gallery(repo_root=Path('.')):
-    root = Path(repo_root)
-    icon_dir = root / 'Icon/Color'
-    files = sorted((p for p in icon_dir.iterdir()
-                    if p.suffix.lower() in {'.png', '.jpg', '.jpeg', '.svg'}
-                    and not is_hidden_alias(p)), key=lambda p: (p.stem.lower(), p.name))
-    content = [variant_note, '显示名称完整保留；点击图标打开原图，点击「Large」查看大尺寸。文件名与旧下载 URL 不变。官方长细标请配合标签使用，不人为拉伸。\n\n', '<table>']
-    columns = 5
-    for index, path in enumerate(files):
-        if index % columns == 0:
-            content.append('<tr>')
-        rel = path.relative_to(root).as_posix()
-        meta = metadata_for(path.stem)
-        label = meta['display_name']
-        title = label + ' · ' + path.name
-        if meta.get('small_size_note'):
-            title += ' · ' + meta['small_size_note']
-        large = path.parent / 'Large' / ('Bilibili.png' if path.name == 'bilibili.png' else path.name)
-        links = f'<a href="{escape(rel, quote=True)}"><img src="{escape(rel, quote=True)}" alt="{escape(label, quote=True)}" title="{escape(title, quote=True)}" width="60" height="60"></a>'
-        if large.exists():
-            large_link = f'<br><a href="{escape(large.relative_to(root).as_posix(), quote=True)}">Large</a>'
-        else:
-            large_link = ''
-        note = '<br><small>细标：建议配合标签</small>' if meta.get('small_size_note') else ''
-        content.append(f'<td align="center">{links}<br><strong>{escape(label)}</strong><br><code>{escape(path.name)}</code>{large_link}{note}</td>')
-        if index % columns == columns - 1 or index == len(files) - 1:
-            content.append('</tr>')
-    content.append('</table>')
-    return '\n'.join(content)
 
-def write_readme(repo_root=Path('.')):
-    root = Path(repo_root)
-    path = root / 'README.md'
+def update_readme():
+    names = {row['url']: row.get('display_name') for row in catalog_rows()}
+    cells = ['<table>']
+    files = [p for p in icon_files() if p.parent == ROOT/'Icon/Color']
+    for i, path in enumerate(files):
+        if i % 5 == 0:
+            cells.append('<tr>')
+        relative = path.relative_to(ROOT).as_posix()
+        label = names.get(RAW + quote(relative, safe='/')) or path.stem
+        cells.append(f'<td align="center"><a href="{escape(relative, quote=True)}"><img src="{escape(relative, quote=True)}" alt="{escape(label, quote=True)}" width="60" height="60"></a><br><strong>{escape(label)}</strong></td>')
+        if i % 5 == 4 or i == len(files)-1:
+            cells.append('</tr>')
+    cells.append('</table>')
+    path = ROOT/'README.md'
     text = path.read_text(encoding='utf-8')
-    gallery = '\n\n' + build_gallery(root) + '\n\n'
-    if START_MARKER in text and END_MARKER in text:
-        start = text.index(START_MARKER) + len(START_MARKER)
-        end = text.index(END_MARKER, start)
-        text = text[:start] + gallery + text[end:]
-    else:
-        text += '\n\n' + START_MARKER + gallery + END_MARKER + '\n'
-    path.write_text(text, encoding='utf-8')
+    if text.count(START) != 1 or text.count(END) != 1:
+        raise ValueError('README must contain one original icon gallery marker pair.')
+    start = text.index(START) + len(START)
+    end = text.index(END, start)
+    path.write_text(text[:start] + '\n\n' + '\n'.join(cells) + '\n\n' + text[end:], encoding='utf-8')
+
 
 if __name__ == '__main__':
-    write_readme()
-    print('README gallery updated with full display names.')
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--catalog', action='store_true')
+    args = parser.parse_args()
+    if args.catalog:
+        data = {'name':'HOMOMIX', 'icons':catalog_rows(),
+                'description':'适用于mihomo - MetacubeX面板的Icon'}
+        (ROOT/'HOMOMIX.json').write_text(json.dumps(data, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
+    else:
+        update_readme()

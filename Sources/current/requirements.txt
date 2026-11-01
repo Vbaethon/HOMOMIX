@@ -1,6 +1,0 @@
-# Validated system environment; install with Python 3.12.
-Pillow==13.0.0
-numpy==2.3.5
-scipy==1.17.0
-# Node SVG dependency (not a pip package): @resvg/resvg-js==2.6.2
-# See package.json and package-lock.json.

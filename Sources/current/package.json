@@ -1,7 +1,0 @@
-{
-  "name": "homomix-reconstruction-renderer",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Pinned offline renderer for the 2026-10-30 reconstructed HOMOMIX assets",
-  "dependencies": {"@resvg/resvg-js": "2.6.2"}
-}
