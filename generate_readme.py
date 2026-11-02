@@ -104,7 +104,13 @@ def pair_preview_sizes(pair):
 def gallery_table(pairs):
     # One flat table: each filename spans its two fixed side-by-side versions.
     # Table cells, rather than CSS or inline images, prevent version wrapping.
-    rows = ['<table>']
+    # Width attributes alone are only preferred widths in GitHub's table CSS.
+    # One blank, unbreakable anchor row gives every image slot a real minimum
+    # content width; the table can then scroll instead of shrinking FDS canvases.
+    anchor = '&nbsp;' * 40
+    rows = ['<table>', '<tr aria-hidden="true">' + ''.join(
+        f'<td width="160">{anchor}</td>' for _ in range(GROUPS_PER_ROW * 2)
+    ) + '</tr>']
     for start in range(0, len(pairs), GROUPS_PER_ROW):
         group = pairs[start:start + GROUPS_PER_ROW]
         rows.append('<tr>')
