@@ -66,38 +66,37 @@ def display_name(name):
 
 
 def pair_preview_sizes(pair):
-    # Measure the complete visible icon, including its white disk or backing.
-    # Ignore faint cast-shadow pixels, never crop or alter the source image.
-    from PIL import Image, ImageChops
-    metrics = {}
+    """Size complete source images to the reviewed homepage optical reference."""
+    from math import sqrt
+    from PIL import Image
+    name = (pair.get('Large') or pair['FDS']).stem
+    # Limited shape compensation for low-height wordmarks, reviewed in both themes.
+    compensation = 1.28 if name in {'HBO', 'Disney_Channel'} else (
+        1.22 if name in {'Cloud', 'Apple_TV'} else 1.0)
+    sizes = {}
     for version, path in pair.items():
-        with Image.open(path) as image:
-            alpha = image.convert('RGBA').getchannel('A')
-            bbox = alpha.point(lambda value: 255 if value >= 128 else 0).getbbox()
+        with Image.open(path) as source:
+            image = source.convert('RGBA')
+            bbox = image.getchannel('A').point(
+                lambda value: 255 if value >= 128 else 0).getbbox()
             if bbox is None:
                 raise ValueError(f'Empty gallery icon: {path.name}')
-            if version == 'Large' and path.stem not in {'Apple_Music', 'Amazon', 'Apple'}:
-                # On GitHub's light page a plain white disk is not a visible edge.
-                # Measure the recognizable colored/dark artwork, but retain the
-                # entire source canvas (including the disk) in the linked image.
-                rgb = image.convert('RGB')
-                red, green, blue = rgb.split()
-                low = ImageChops.darker(ImageChops.darker(red, green), blue)
-                high = ImageChops.lighter(ImageChops.lighter(red, green), blue)
-                chroma = ImageChops.subtract(high, low)
-                ink = ImageChops.lighter(low.point(lambda v: 255 if v < 190 else 0),
-                                        chroma.point(lambda v: 255 if v > 25 else 0))
-                ink = ImageChops.multiply(ink, alpha.point(lambda v: 255 if v >= 128 else 0))
-                bbox = ink.getbbox() or bbox
-            x0, y0, x1, y1 = bbox
-            metrics[version] = (image.width, image.height, x1-x0, y1-y0)
-    # Match optical footprint rather than forcing a wide wordmark and a disk
-    # to have the same height. Independent aspect caps keep both recognizable.
-    sizes = {}
-    for version, (w, h, bw, bh) in metrics.items():
-        scale = min(56.0 / (bw * bh) ** 0.5, 76.0 / bw, 64.0 / bh,
-                    144.0 / w, 108.0 / h)
-        sizes[version] = max(1, round(w * scale))
+            bw, bh = bbox[2]-bbox[0], bbox[3]-bbox[1]
+            mass = 0.0
+            # Discount faint shadows, not the backing. Plain white retains a
+            # baseline weight so its disk cannot grow without bound on dark pages.
+            for red, green, blue, alpha in image.getdata():
+                if alpha < 64:
+                    continue
+                chroma = (max(red, green, blue) - min(red, green, blue)) / 255.0
+                contrast = 1.0 - (red + green + blue) / 765.0
+                mass += (alpha / 255.0) * (0.30 + 0.70 * max(chroma, contrast))
+            # A common occupied-mass / extent balance for every image, rather
+            # than matching canvas dimensions or stretching its aspect ratio.
+            footprint = 0.85 * mass + 0.15 * bw * bh
+            scale = min(48.0 / sqrt(footprint), 72.0 / max(bw, bh),
+                        150.0 / image.width, 110.0 / image.height)
+            sizes[version] = max(1, round(image.width * scale * compensation))
     return sizes
 
 
