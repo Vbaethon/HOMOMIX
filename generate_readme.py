@@ -105,12 +105,11 @@ def gallery_table(pairs):
     # One flat table: each filename spans its two fixed side-by-side versions.
     # Table cells, rather than CSS or inline images, prevent version wrapping.
     # Width attributes alone are only preferred widths in GitHub's table CSS.
-    # One blank, unbreakable anchor row gives every image slot a real minimum
-    # content width; the table can then scroll instead of shrinking FDS canvases.
-    anchor = '&nbsp;' * 40
-    rows = ['<table>', '<tr aria-hidden="true">' + ''.join(
-        f'<td width="160">{anchor}</td>' for _ in range(GROUPS_PER_ROW * 2)
-    ) + '</tr>']
+    # Keep sizing text inside the last full image row, without a blank table row.
+    # GitHub's even rows then shade the icons while filename rows stay unshaded.
+    anchor = '<br>' + '&nbsp;' * 40
+    anchor_start = max(0, len(pairs) // GROUPS_PER_ROW - 1) * GROUPS_PER_ROW
+    rows = ['<table>']
     for start in range(0, len(pairs), GROUPS_PER_ROW):
         group = pairs[start:start + GROUPS_PER_ROW]
         rows.append('<tr>')
@@ -121,14 +120,15 @@ def gallery_table(pairs):
         rows.append('<tr>')
         for pair in group:
             sizes = pair_preview_sizes(pair)
+            sizing = anchor if start == anchor_start else ''
             for version in ('Large', 'FDS'):
                 if version not in pair:
-                    rows.append('<td width="160"></td>')
+                    rows.append(f'<td width="160">{sizing}</td>')
                     continue
                 target = pair[version]
                 relative = escape(target.relative_to(ROOT).as_posix(), quote=True)
                 title = escape(f'{target.name} ({version})', quote=True)
-                rows.append(f'<td width="160" align="center" valign="middle"><a href="{relative}" title="{title}"><img src="{relative}" alt="{title}" width="{sizes[version]}"></a></td>')
+                rows.append(f'<td width="160" align="center" valign="middle"><a href="{relative}" title="{title}"><img src="{relative}" alt="{title}" width="{sizes[version]}"></a>{sizing}</td>')
         rows.append('</tr>')
     rows.append('</table>')
     return '\n'.join(rows)
