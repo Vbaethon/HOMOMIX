@@ -924,6 +924,10 @@
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Google_Play.png"
     },
     {
+      "name": "Gou.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Gou.png"
+    },
+    {
       "name": "Grok.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Grok.png",
       "id": "color/default/Grok",
@@ -978,6 +982,14 @@
     {
       "name": "Honkai_Star_Rail.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Honkai_Star_Rail.png"
+    },
+    {
+      "name": "Hou.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Hou.png"
+    },
+    {
+      "name": "Hu.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Hu.png"
     },
     {
       "name": "Huawei.png",
@@ -1102,6 +1114,10 @@
         "height": 300
       },
       "display_name": "Jellyfin"
+    },
+    {
+      "name": "Ji.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Ji.png"
     },
     {
       "name": "Adblock.png",
@@ -2026,6 +2042,10 @@
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Google_Play.png"
     },
     {
+      "name": "Gou.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Gou.png"
+    },
+    {
       "name": "Grok.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Grok.png",
       "id": "color/large/Grok",
@@ -2080,6 +2100,14 @@
     {
       "name": "Honkai_Star_Rail.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Honkai_Star_Rail.png"
+    },
+    {
+      "name": "Hou.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Hou.png"
+    },
+    {
+      "name": "Hu.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Hu.png"
     },
     {
       "name": "Huawei.png",
@@ -2206,6 +2234,10 @@
       "display_name": "Jellyfin"
     },
     {
+      "name": "Ji.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Ji.png"
+    },
+    {
       "name": "League_of_Legends.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/League_of_Legends.png"
     },
@@ -2281,6 +2313,14 @@
         "height": 360
       },
       "display_name": "Location"
+    },
+    {
+      "name": "Long.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Long.png"
+    },
+    {
+      "name": "Ma.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Ma.png"
     },
     {
       "name": "Magic_Timer.png",
@@ -2481,6 +2521,10 @@
     {
       "name": "Nintendo_Switch.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Nintendo_Switch.png"
+    },
+    {
+      "name": "Niu.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Niu.png"
     },
     {
       "name": "Olympics.png",
@@ -2892,6 +2936,14 @@
       "display_name": "Settings"
     },
     {
+      "name": "She.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/She.png"
+    },
+    {
+      "name": "Shu.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Shu.png"
+    },
+    {
       "name": "Signal.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Signal.png"
     },
@@ -3092,6 +3144,10 @@
       "display_name": "Transfer"
     },
     {
+      "name": "Tu.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Tu.png"
+    },
+    {
       "name": "Twitch.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Twitch.png",
       "id": "color/large/Twitch",
@@ -3256,6 +3312,10 @@
       "display_name": "Xianyu"
     },
     {
+      "name": "Yang.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Yang.png"
+    },
+    {
       "name": "Yin_Yang.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Yin_Yang.png",
       "id": "color/large/Yin_Yang",
@@ -3278,6 +3338,10 @@
         "height": 360
       },
       "display_name": "YouTube"
+    },
+    {
+      "name": "Zhu.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Large/Zhu.png"
     },
     {
       "name": "Zoho_new.png",
@@ -3383,6 +3447,14 @@
         "height": 300
       },
       "display_name": "Location"
+    },
+    {
+      "name": "Long.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Long.png"
+    },
+    {
+      "name": "Ma.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Ma.png"
     },
     {
       "name": "Magic_Timer.png",
@@ -3583,6 +3655,10 @@
     {
       "name": "Nintendo_Switch.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Nintendo_Switch.png"
+    },
+    {
+      "name": "Niu.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Niu.png"
     },
     {
       "name": "Olympics.png",
@@ -3994,6 +4070,14 @@
       "display_name": "Settings"
     },
     {
+      "name": "She.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/She.png"
+    },
+    {
+      "name": "Shu.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Shu.png"
+    },
+    {
       "name": "Signal.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Signal.png"
     },
@@ -4194,6 +4278,10 @@
       "display_name": "Transfer"
     },
     {
+      "name": "Tu.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Tu.png"
+    },
+    {
       "name": "Twitch.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Twitch.png",
       "id": "color/default/Twitch",
@@ -4358,6 +4446,10 @@
       "display_name": "Xianyu"
     },
     {
+      "name": "Yang.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Yang.png"
+    },
+    {
       "name": "Yin_Yang.png",
       "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Yin_Yang.png",
       "id": "color/default/Yin_Yang",
@@ -4380,6 +4472,10 @@
         "height": 300
       },
       "display_name": "YouTube"
+    },
+    {
+      "name": "Zhu.png",
+      "url": "https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/Zhu.png"
     },
     {
       "name": "Zoho_new.png",
